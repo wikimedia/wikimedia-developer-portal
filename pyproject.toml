@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "wikimedia-developer-portal"
+version = "0.1.0"
+description = ""
+authors = [
+  "Bryan Davis <bd808@wikimedia.org>"
+]
+license = "GPL-3.0-or-later"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+mkdocs = "^1.2.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

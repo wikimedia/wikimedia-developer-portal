@@ -1,0 +1,20 @@
+---
+version: "3.2"
+services:
+  portal:
+    build:
+      context: .
+      dockerfile: .pipeline/dev-python.Dockerfile
+    image: "wmdevportal:dev-python"
+    user: somebody
+    working_dir: /srv/app
+    command: >
+      poetry run mkdocs serve --dev-addr 0.0.0.0:9000
+    volumes:
+      - type: bind
+        source: .
+        target: /srv/app
+        consistency: cached
+    ports:
+      - "${PORTAL_HTTP_PORT:-9000}:9000"
+    restart: always
