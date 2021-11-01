@@ -45,3 +45,11 @@ variants:
       - from: local
         source: .
         destination: .
+
+  local:
+    # Local development container
+    includes:
+      - dev-python
+    apt:
+      packages:
+        - nginx-light

@@ -4,12 +4,16 @@ services:
   portal:
     build:
       context: .
-      dockerfile: .pipeline/dev-python.Dockerfile
-    image: "wmdevportal:dev-python"
+      dockerfile: .pipeline/local.Dockerfile
+    image: "wmdevportal:local"
     user: somebody
     working_dir: /srv/app
-    command: >
-      poetry run mkdocs serve --dev-addr 0.0.0.0:9000
+    command:
+      - bash
+      - -c
+      - >-
+        poetry run mkdocs --verbose build &&
+        exec nginx -c /srv/app/contrib/nginx/nginx.conf
     volumes:
       - type: bind
         source: .

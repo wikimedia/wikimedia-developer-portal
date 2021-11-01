@@ -9,6 +9,9 @@
 !.git/refs/heads/*
 !.pipeline
 !COPYING
+!contrib
+contrib/*
+!contrib/nginx
 !docs
 !poetry.lock
 !pyproject.toml

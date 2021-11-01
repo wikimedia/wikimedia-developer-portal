@@ -20,7 +20,7 @@ this := $(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))
 PROJECT_DIR := $(dir $(this))
 PIPELINE_DIR := $(PROJECT_DIR)/.pipeline
 BLUBBEROID := https://blubberoid.wikimedia.org
-DOCKERFILES := $(PIPELINE_DIR)/dev-python.Dockerfile
+DOCKERFILES := $(PIPELINE_DIR)/local.Dockerfile
 
 help:
 	@echo "Make targets:"
@@ -50,6 +50,11 @@ shell:  ## Get an interactive shell inside the container
 
 tail:  ## Tail logs from the docker-compose stack
 	docker compose logs -f
+.PHONY: tail
+
+build:  ## Build static site
+	docker compose exec portal \
+		poetry run mkdocs --verbose build
 .PHONY: tail
 
 clean:  ## Clean up Docker images and containers
