@@ -4,7 +4,7 @@ site_description: Portal for discovering technical documentation about Wikimedia
 site_author: Wikimedia Foundation and contributors
 copyright: Copyright &copy; 2021 Wikimedia Foundation and contributors
 
-docs_dir: docs
+docs_dir: src/portal
 theme:
   name: material
   language: en
