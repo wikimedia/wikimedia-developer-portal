@@ -55,7 +55,9 @@ tail:  ## Tail logs from the docker-compose stack
 build:  ## Build static site
 	docker compose exec portal \
 		poetry run mkdocs --verbose build
-.PHONY: tail
+.PHONY: build
+docs: build
+.PHONY: docs
 
 clean:  ## Clean up Docker images and containers
 	yes | docker image prune
