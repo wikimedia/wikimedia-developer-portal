@@ -30,7 +30,7 @@ theme:
     - search.share
 
 extra_css:
-  - assets/css/theme.css
+  - assets/stylesheets/theme.css
 #extra_javascript:
 #  - assets/js/extra.js
 
