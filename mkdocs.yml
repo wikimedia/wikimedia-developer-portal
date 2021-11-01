@@ -1,1 +1,62 @@
 site_name: Wikimedia Developer Portal
+site_url: https://developer.wikimedia.org/
+site_description: Portal for discovering technical documentation about Wikimedia projects
+site_author: Wikimedia Foundation and contributors
+copyright: Copyright &copy; 2021 Wikimedia Foundation and contributors
+
+docs_dir: docs
+theme:
+  name: material
+  language: en
+  font: false
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.share
+
+extra_css:
+  - assets/css/theme.css
+#extra_javascript:
+#  - assets/js/extra.js
+
+extra:
+  alternate:
+    - name: English
+      lang: en
+    - name: Español
+      link: /es/
+      lang: es
+
+markdown_extensions:
+  - meta
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - fenced_code
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+
+plugins:
+  - search:
+      lang: en
+  - mdpo:
+      locale_dir: locale
+      lc_messages: true

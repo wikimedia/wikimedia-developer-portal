@@ -1,0 +1,6 @@
+:root {
+	--md-primary-fg-color:        #3366CC; /* accent50 */
+	--md-primary-fg-color--light: #EAF3FF; /* accent90 */
+	--md-primary-fg-color--dark:  #2A4B8D; /* accent30 */
+	--md-text-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Lato, Helvetica, Arial, sans-serif;
+}
