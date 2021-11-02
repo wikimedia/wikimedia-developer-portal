@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Fetch pages from Wikipedia, Wiktionary, Wikivoyage, and more."
+msgstr ""
+
+msgid "Wikipedia featured content API"
+msgstr ""
+
+msgid "Get daily featured articles, most read pages, and more."
+msgstr ""
+
+msgid ""
+"[See language "
+"availability](https://wikimedia.org/api/rest_v1/#/Feed%20content%20availability)"
+msgstr ""
+
+msgid ""
+"[Read the "
+"tutorial](https://public.paws.wmcloud.org/User:APaskulin_(WMF)/API-"
+"Portal/wikimedia-api-portal-featured-content.ipynb)"
+msgstr ""
+
+msgid "[Try out the interactive docs](https://en.wikipedia.org/api/rest_v1/)"
+msgstr ""
+
+msgid "Mobile API"
+msgstr ""
+
+msgid "Get pages in mobile format."
+msgstr ""
+
+msgid ""
+"[Try out the interactive "
+"docs](https://en.wikipedia.org/api/rest_v1/#/Mobile)"
+msgstr ""
+
+msgid "Page API"
+msgstr ""
+
+msgid "Get pages by title on any Wikimedia project."
+msgstr ""
+
+msgid ""
+"[Read the "
+"tutorial](https://www.mediawiki.org/wiki/API:Article_ideas_generator)"
+msgstr ""
+
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/API:Parsing_wikitext)"
+msgstr ""
+
+msgid "Search API"
+msgstr ""
+
+msgid "Find articles in Wikipedia, images in Commons, and more."
+msgstr ""
+
+msgid ""
+"[Read the tutorial](https://public.paws.wmcloud.org/User:APaskulin_(WMF)/en-"
+"wikipedia-search.ipynb)"
+msgstr ""
+
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/API:REST_API)"
+msgstr ""

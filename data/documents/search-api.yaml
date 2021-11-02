@@ -1,0 +1,10 @@
+---
+title: Search API
+description: Find articles in Wikipedia, images in Commons, and more.
+links:
+  - url: https://public.paws.wmcloud.org/User:APaskulin_(WMF)/en-wikipedia-search.ipynb
+    label: Read the tutorial
+  - url: https://www.mediawiki.org/wiki/API:REST_API
+    label: Read the docs on mediawiki.org
+categories:
+  - api-reading

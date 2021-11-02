@@ -4,7 +4,11 @@ site_description: Portal for discovering technical documentation about Wikimedia
 site_author: Wikimedia Foundation and contributors
 copyright: Copyright &copy; 2021 Wikimedia Foundation and contributors
 
-docs_dir: src/portal
+nav:
+  - Get started: 'index.md'
+  - Wikimedia APIs: 'api/index.md'
+
+docs_dir: src
 theme:
   name: material
   language: en
@@ -57,7 +61,10 @@ markdown_extensions:
 plugins:
   - search:
       lang: en
-  - macros
+  - macros:
+      module_name: macros
+      include_dir: data/includes
+      verbose: true
   - mdpo:
       locale_dir: locale
       lc_messages: true
