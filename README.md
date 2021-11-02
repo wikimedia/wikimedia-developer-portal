@@ -14,7 +14,7 @@ $ cd developer-portal
 $ make start
 $ open http://127.0.0.1:9000/
 
-$ vim src/portal/index.md
+$ vim src/index.md
 $ make build
 $ open http://127.0.0.1:9000/
 ```
