@@ -29,32 +29,37 @@ help:
 		awk 'BEGIN {FS = ":.*?## "}; {printf "%-20s %s\n", $$1, $$2}'
 .PHONY: help
 
-start: $(DOCKERFILES) ## Start the docker-compose stack
-	docker compose up --build --detach
+start: .env $(DOCKERFILES) ## Start the docker-compose stack
+	docker-compose up --build --detach
 .PHONY: start
 
 stop:  ## Stop the docker-compose stack
-	docker compose stop
+	docker-compose stop
 .PHONY: stop
 
 restart: stop start  ## Restart the docker-compose stack
 .PHONY: restart
 
 status:  ## Show status of the docker-compose stack
-	docker compose ps
+	docker-compose ps
 .PHONY: status
 
 shell:  ## Get an interactive shell inside the container
-	docker compose exec portal bash
+	docker-compose exec portal sh -c " \
+		export HOME=/tmp/runtime-home; \
+		exec /bin/bash \
+	"
 .PHONY: shell
 
 tail:  ## Tail logs from the docker-compose stack
-	docker compose logs -f
+	docker-compose logs -f
 .PHONY: tail
 
 build:  ## Build static site
-	docker compose exec portal \
-		poetry run mkdocs --verbose build
+	docker-compose exec portal sh -c " \
+		export HOME=/tmp/runtime-home; \
+		exec poetry run mkdocs --verbose build \
+	"
 .PHONY: build
 docs: build
 .PHONY: docs
@@ -63,6 +68,9 @@ clean:  ## Clean up Docker images and containers
 	yes | docker image prune
 	yes | docker container prune
 .PHONY: clean
+
+.env:  ## Generate a .env file for local development
+	./bin/make_env.sh ./.env
 
 %.Dockerfile: $(PIPELINE_DIR)/blubber.yaml
 	echo "# Dockerfile for *local development*." > $@
