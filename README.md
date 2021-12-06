@@ -9,7 +9,7 @@ Possibly informative placeholder for using this repo to generate and review
 the site.
 
 ```console
-$ git clone git@github.com:bd808/developer-portal.git
+$ git clone https://gerrit.wikimedia.org/r/wikimedia/developer-portal
 $ cd developer-portal
 $ make start
 $ open http://127.0.0.1:9000/
