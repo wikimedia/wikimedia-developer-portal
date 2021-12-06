@@ -10,7 +10,6 @@ license = "GPL-3.0-or-later"
 [tool.poetry.dependencies]
 python = "^3.7"
 mkdocs = "^1.2.3"
-mkdocs-mdpo-plugin = "^0.0.16"
 mkdocs-material = "^7.3.4"
 mkdocs-macros-plugin = "^0.6.0"
 

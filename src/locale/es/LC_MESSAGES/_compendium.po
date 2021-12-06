@@ -1,9 +1,0 @@
-#
-msgid ""
-msgstr ""
-
-msgid "Permanent link"
-msgstr "Enlace Permanente"
-
-msgid "Reading APIs"
-msgstr ""

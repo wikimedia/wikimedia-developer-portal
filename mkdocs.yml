@@ -38,14 +38,6 @@ extra_css:
 #extra_javascript:
 #  - assets/js/extra.js
 
-extra:
-  alternate:
-    - name: English
-      lang: en
-    - name: Español
-      link: /es/
-      lang: es
-
 markdown_extensions:
   - meta
   - toc:
@@ -65,6 +57,3 @@ plugins:
       module_name: macros
       include_dir: data/includes
       verbose: true
-  - mdpo:
-      locale_dir: locale
-      lc_messages: true
