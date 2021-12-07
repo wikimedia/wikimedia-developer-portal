@@ -55,6 +55,17 @@ tail:  ## Tail logs from the docker-compose stack
 	docker-compose logs -f
 .PHONY: tail
 
+test: lint
+.PHONY: test
+
+lint:
+	docker-compose exec portal sh -c " \
+		poetry check \
+		&& poetry run flakehell lint \
+		&& poetry run black --check --diff . \
+	"
+.PHONY: lint
+
 build:  ## Build static site
 	docker-compose exec portal sh -c " \
 		export HOME=/tmp/runtime-home; \

@@ -46,6 +46,17 @@ variants:
         source: .
         destination: .
 
+  lint:
+    includes:
+      - dev-python
+    entrypoint:
+      - sh
+      - -c
+      - >-
+        poetry check &&
+        poetry run flakehell lint &&
+        poetry run black --check --diff .
+
   build:
     includes:
       - dev-python

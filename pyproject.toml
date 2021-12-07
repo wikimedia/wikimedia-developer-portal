@@ -14,6 +14,68 @@ mkdocs-material = "^7.3.4"
 mkdocs-macros-plugin = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
+black = "^21.12b0"
+flakehell = "^0.9.0"
+
+[tool.flakehell]
+exclude = [
+    ".git",
+    "__pycache__",
+]
+format = "grouped"
+max_line_length = 79
+show_source = true
+extended_default_ignore=[]  # https://github.com/flakehell/flakehell/issues/10
+
+[tool.flakehell.plugins]
+"flake8-*" = ["+*"]
+flake8-docstrings = [
+    "+*",
+    "-D100",  # missing-docstring-in-public-module
+    "-D105",  # missing-docstring-in-magic-method
+    "-D400",  # first-line-should-end-with-period
+    "-D401",  # first-line-should-be-in-imperative-mood
+]
+pycodestyle = [
+    "+*",
+    "-E501",  # line-too-long
+    "-W503",  # line-break-before-binary-operator
+    "-W504",  # line-break-after-binary-operator
+]
+pyflakes = ["+*"]
+pylint = [
+    "+*",
+    "-C*",     # disable all "convention" rules
+    "-E1101",  # no-member
+    "-R0201",  # could-be-function
+    "-R0901",  # too-many-ancestors
+    "-R0903",  # too-few-public-methods
+    "-R0911",  # too-many-return-statements
+    "-R0913",  # too-many-arguments
+    "-W0235",  # useless-super-delegation
+    "-W0511",  # fixme
+]
+
+[tool.isort]
+known_first_party = ["macros", "plugin"]
+multi_line_output = 3
+lines_after_imports = 2
+force_grid_wrap = 0
+combine_as_imports = true
+include_trailing_comma = true
+
+[tool.black]
+line-length = 79
+target_version = ['py37']
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+  | _build
+  | build
+  | dist
+)/
+'''
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

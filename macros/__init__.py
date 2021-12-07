@@ -15,7 +15,6 @@
 #
 # You should have received a copy of the GNU General Public License along with
 # Wikimedia Developer Portal.  If not, see <http://www.gnu.org/licenses/>.
-import os
 from pathlib import Path
 
 import yaml
@@ -24,7 +23,7 @@ import yaml
 def define_env(env):
     """Setup local variables, macros, and filters for mkdocs-macros-plugin."""
 
-    chatter = env.start_chatting('category')
+    chatter = env.start_chatting("category")
     root_dir = Path(env.conf.config_file_path).parent
     data_dir = root_dir / "data"
     categories_dir = data_dir / "categories"
