@@ -12,7 +12,12 @@
 !contrib
 contrib/*
 !contrib/nginx
+!data
 !docs
+!macros
+!mkdocs.yml
+!plugin
 !poetry.lock
 !pyproject.toml
 !README.md
+!src

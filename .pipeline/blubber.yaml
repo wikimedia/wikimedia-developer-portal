@@ -46,6 +46,44 @@ variants:
         source: .
         destination: .
 
+  build:
+    includes:
+      - dev-python
+    builder:
+      requirements:
+        - from: local
+          source: .
+          destination: .
+      command:
+        - sh
+        - -c
+        - >-
+          ls -alh
+          && poetry run mkdocs --verbose build
+
+  production:
+    base: docker-registry.wikimedia.org/bullseye:latest
+    runs:
+      as: www-data
+      uid: 33
+      gid: 33
+    lives:
+      in: /var/www/html
+    apt:
+      packages:
+        - nginx-light
+    copies:
+      - from: build
+        source: /srv/app/site
+        destination: .
+      - from: build
+        source: /srv/app/contrib/nginx/production.conf
+        destination: /etc/nginx/developer-portal.conf
+    entrypoint:
+      - nginx
+      - -c
+      - /etc/nginx/developer-portal.conf
+
   local:
     # Local development container
     includes:
