@@ -1,0 +1,21 @@
+pipelines:
+  test:
+    blubberfile: blubber.yaml
+    stages:
+      - name: lint
+        build: lint
+        run:
+          env:
+            PIPELINE_RUNNING: '1'
+
+  publish:
+    blubberfile: blubber.yaml
+    stages:
+      - name: production
+        build: production
+        publish:
+          image:
+            id: '${.imageID}'
+            tags:
+              - latest
+              - '${setup.tag}'
