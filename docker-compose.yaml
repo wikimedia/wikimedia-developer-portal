@@ -16,7 +16,7 @@ services:
         mkdir -p /tmp/runtime-home &&
         export HOME=/tmp/runtime-home &&
         poetry run mkdocs --verbose build &&
-        exec nginx -c /srv/app/contrib/nginx/nginx.conf
+        exec nginx -c /srv/app/contrib/nginx/local.conf
     volumes:
       - type: bind
         source: .
