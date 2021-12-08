@@ -13,7 +13,6 @@
 contrib/*
 !contrib/nginx
 !data
-!docs
 !macros
 !mkdocs.yml
 !plugin
