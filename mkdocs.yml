@@ -38,6 +38,14 @@ extra_css:
 #extra_javascript:
 #  - assets/js/extra.js
 
+extra:
+  alternate:
+    # Supported content languages. Additional values will be added by our
+    # `wikimedia` plugin during build time based on locales found on disk.
+    - name: English
+      link: /
+      lang: en
+
 markdown_extensions:
   - meta
   - toc:
@@ -58,3 +66,4 @@ plugins:
       module_name: macros
       include_dir: data/includes
       verbose: true
+  - translate

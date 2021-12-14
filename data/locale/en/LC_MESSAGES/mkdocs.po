@@ -1,0 +1,407 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-12-11 00:31:24+00:00\n"
+"PO-Revision-Date: 2021-12-11 00:31:24+00:00\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: mkdocs.yml:site_name
+msgid "Wikimedia Developer Portal"
+msgstr ""
+
+#: mkdocs.yml:site_description
+msgid ""
+"Portal for discovering technical documentation about Wikimedia projects"
+msgstr ""
+
+#: mkdocs.yml:site_author
+msgid "Wikimedia Foundation and contributors"
+msgstr ""
+
+#: mkdocs.yml:copyright
+msgid "Copyright &copy; 2021 Wikimedia Foundation and contributors"
+msgstr ""
+
+#: mkdocs.yml:navigation index.md:block 3 (header)
+msgid "Get started"
+msgstr ""
+
+#: mkdocs.yml:navigation
+msgid "Access content or data"
+msgstr ""
+
+#: index.md:title
+msgid "Home"
+msgstr ""
+
+#: index.md:block 1 (header)
+msgid "Discover Wikimedia technical documentation and communities"
+msgstr ""
+
+#: index.md:block 2 (paragraph)
+msgid ""
+"Learn about, interact with, and contribute to the open source technology "
+"that powers [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia "
+"projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
+msgstr ""
+
+#: index.md:block 4 (unordered list)
+msgid ""
+"[Learn how Wikimedia software projects "
+"work](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr ""
+
+#: index.md:block 4 (unordered list)
+msgid "[Browse tutorials](get-started/tutorials.md)"
+msgstr ""
+
+#: index.md:block 4 (unordered list)
+msgid "[Learn about Wikimedia technology](get-started/wikimedia-tech.md)"
+msgstr ""
+
+#: index.md:block 4 (unordered list)
+msgid "[Choose your goal and start coding](get-started/start-coding.md)"
+msgstr ""
+
+#: index.md:block 5 (header) use-content/index.md:title
+#: use-content/index.md:block 1 (header)
+msgid "Use Wikimedia content or data in your project"
+msgstr ""
+
+#: get-started/index.md:title get-started/index.md:block 1 (header)
+msgid "Learn how Wikimedia software projects work"
+msgstr ""
+
+#: get-started/index.md:block 3 (paragraph)
+msgid ""
+"Understand open source development processes and tools used by the Wikimedia"
+" community."
+msgstr ""
+
+#: get-started/index.md:block 4 (unordered list)
+msgid ""
+"[Learn the "
+"basics](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr ""
+
+#: get-started/index.md:block 4 (unordered list)
+msgid ""
+"[Choose a software "
+"project](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers#Choose_a_software_project)"
+msgstr ""
+
+#: get-started/index.md:block 4 (unordered list)
+msgid ""
+"[Find good first "
+"tasks](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers#Outreach_programs_and_single_tasks)"
+msgstr ""
+
+#: get-started/index.md:block 4 (unordered list)
+msgid ""
+"[Communicate "
+"effectively](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers#Communication)"
+msgstr ""
+
+#: get-started/start-coding.md:title get-started/start-coding.md:block 1
+#: (header)
+msgid "Chose your goal and start coding"
+msgstr ""
+
+#: get-started/start-coding.md:block 2 (unordered list)
+msgid "[Re-use data from Wikimedia wikis for a project or app](todo)."
+msgstr ""
+
+#: get-started/start-coding.md:block 2 (unordered list)
+msgid "[Improve the look and feel of a wiki](todo)."
+msgstr ""
+
+#: get-started/start-coding.md:block 2 (unordered list)
+msgid "[Change how wiki pages work](todo)."
+msgstr ""
+
+#: get-started/start-coding.md:block 2 (unordered list)
+msgid "[Automate wiki maintenance tasks](todo)."
+msgstr ""
+
+#: get-started/start-coding.md:block 2 (unordered list)
+msgid "[Improve MediaWiki code and extensions](todo)."
+msgstr ""
+
+#: get-started/start-coding.md:block 2 (unordered list)
+msgid "[Contribute to Wikimedia open source](todo)."
+msgstr ""
+
+#: get-started/tutorials.md:title
+msgid "Browse tutorials"
+msgstr ""
+
+#: get-started/tutorials.md:block 1 (paragraph)
+msgid "This page is a directory for all the tutorials."
+msgstr ""
+
+#: get-started/tutorials.md:block 2 (header)
+msgid "API Tutorials"
+msgstr ""
+
+#: get-started/tutorials.md:block 3 (paragraph)
+msgid "Try Wikimedia APIs with guided coding exercises and interactive docs."
+msgstr ""
+
+#: get-started/tutorials.md:block 4 (header)
+#: use-content/reuse-content.md:block 11 (header)
+msgid "Page API tutorials"
+msgstr ""
+
+#: get-started/tutorials.md:block 5 (paragraph)
+#: use-content/reuse-content.md:block 12 (paragraph)
+msgid "Get pages by title on any Wikimedia project."
+msgstr ""
+
+#: get-started/tutorials.md:block 6 (unordered list)
+#: use-content/reuse-content.md:block 13 (unordered list)
+msgid ""
+"[Article ideas generator "
+"tutorial](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr ""
+
+#: get-started/tutorials.md:block 7 (header)
+#: use-content/reuse-content.md:block 17 (header)
+msgid "MediaWiki Search API tutorials"
+msgstr ""
+
+#: get-started/tutorials.md:block 8 (paragraph)
+#: use-content/reuse-content.md:block 18 (paragraph)
+msgid "Interactive tutorials using the MediaWiki REST API."
+msgstr ""
+
+#: get-started/tutorials.md:block 9 (unordered list)
+#: use-content/reuse-content.md:block 19 (unordered list)
+msgid ""
+"[Search for Wikipedia articles on a specific topic.](https://paws-"
+"public.wmflabs.org/paws-public/User:APaskulin_(WMF)/en-wikipedia-"
+"search.ipynb)"
+msgstr ""
+
+#: get-started/tutorials.md:block 9 (unordered list)
+#: use-content/reuse-content.md:block 19 (unordered list)
+msgid ""
+"[Explore the history of articles on English Wikipedia.](https://paws-"
+"public.wmflabs.org/paws-public/User:APaskulin_(WMF)/en-wikipedia-page-"
+"history.ipynb)"
+msgstr ""
+
+#: get-started/tutorials.md:block 10 (header)
+msgid "Data Tutorials"
+msgstr ""
+
+#: get-started/tutorials.md:block 11 (paragraph)
+msgid "Access Wikimedia data with example queries and interactive docs."
+msgstr ""
+
+#: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
+#: (header)
+msgid "Learn about Wikimedia technology"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 2 (paragraph)
+msgid "TODO"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 3 (header)
+msgid "MediaWiki"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 4 (paragraph)
+msgid "MediaWiki is the collaborative editing engine that runs Wikipedia."
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid "[Project homepage.](https://www.mediawiki.org/wiki/Special:MyLanguage)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid "[Source code.](https://phabricator.wikimedia.org/source/mediawiki/)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid ""
+"[MediaWiki "
+"documentation](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Contents)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid ""
+"[JavaScript code documentation.](https://doc.wikimedia.org/mediawiki-"
+"core/master/js/)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid ""
+"[PHP code documentation.](https://doc.wikimedia.org/mediawiki-"
+"core/master/php/)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid ""
+"[PHP metrics report.](https://doc.wikimedia.org/mediawiki-"
+"core/master/phpmetrics/)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 6 (header)
+msgid "Wikibase"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 7 (paragraph)
+msgid "The software suite that powers Wikidata."
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid ""
+"[Project "
+"homepage.](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 10 (paragraph)
+msgid "[Browse codebases](https://gerrit.wikimedia.org/g/)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 11 (paragraph)
+msgid ""
+"[Explore open source "
+"projects](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers#Choose_a_software_project)"
+msgstr ""
+
+#: use-content/index.md:block 2 (paragraph)
+msgid "Quick links:"
+msgstr ""
+
+#: use-content/index.md:block 3 (unordered list)
+msgid "[Browse web APIs](todo)"
+msgstr ""
+
+#: use-content/index.md:block 4 (header) use-content/reuse-content.md:title
+#: use-content/reuse-content.md:block 1 (header)
+msgid "Reuse wiki content"
+msgstr ""
+
+#: use-content/index.md:block 5 (paragraph)
+msgid "Get featured content by date"
+msgstr ""
+
+#: use-content/index.md:block 6 (unordered list)
+msgid "Search for and display wiki pages and media"
+msgstr ""
+
+#: use-content/index.md:block 6 (unordered list)
+msgid "Parse wikitext page content"
+msgstr ""
+
+#: use-content/index.md:block 7 (paragraph)
+msgid "Get pages in mobile format"
+msgstr ""
+
+#: use-content/index.md:block 8 (paragraph)
+msgid "Access structured knowledge on Wikidata"
+msgstr ""
+
+#: use-content/index.md:block 9 (unordered list)
+msgid "Implement Wikidata-powered infoboxes"
+msgstr ""
+
+#: use-content/index.md:block 10 (header) use-content/access-data.md:block 1
+#: (header)
+msgid "Access data, and analyze wikis"
+msgstr ""
+
+#: use-content/index.md:block 12 (paragraph)
+msgid ""
+"Use Wikimedia open data sources Get data about wikis Get data dumps Query "
+"content databases Use machine learning to detect vandalism Get a stream of "
+"recent changes Access structured knowledge on Wikidata Explore project data "
+"on WikiStats"
+msgstr ""
+
+#: use-content/access-data.md:title
+msgid "Access data"
+msgstr ""
+
+#: use-content/reuse-content.md:block 2 (paragraph)
+msgid ""
+"The content of all Wikimedia projects is released under free licenses. Write"
+" code to access, remix, and grow the projects."
+msgstr ""
+
+#: use-content/reuse-content.md:block 3 (header)
+msgid "Reading APIs"
+msgstr ""
+
+#: use-content/reuse-content.md:block 4 (paragraph)
+msgid "Fetch pages from Wikipedia, Wiktionary, Wikivoyage, and more."
+msgstr ""
+
+#: use-content/reuse-content.md:block 5 (header)
+msgid "Wikipedia featured content API"
+msgstr ""
+
+#: use-content/reuse-content.md:block 6 (paragraph)
+msgid "Get daily featured articles, most read pages, and more."
+msgstr ""
+
+#: use-content/reuse-content.md:block 7 (unordered list)
+msgid ""
+"[See language "
+"availability](https://wikimedia.org/api/rest_v1/#/Feed%20content%20availability)"
+msgstr ""
+
+#: use-content/reuse-content.md:block 7 (unordered list)
+msgid ""
+"[Read the "
+"tutorial](https://public.paws.wmcloud.org/User:APaskulin_(WMF)/API-"
+"Portal/wikimedia-api-portal-featured-content.ipynb)"
+msgstr ""
+
+#: use-content/reuse-content.md:block 7 (unordered list)
+msgid "[Try out the interactive docs](https://en.wikipedia.org/api/rest_v1/)"
+msgstr ""
+
+#: use-content/reuse-content.md:block 8 (header)
+msgid "Mobile API"
+msgstr ""
+
+#: use-content/reuse-content.md:block 9 (paragraph)
+msgid "Get pages in mobile format."
+msgstr ""
+
+#: use-content/reuse-content.md:block 10 (unordered list)
+msgid ""
+"[Try out the interactive "
+"docs](https://en.wikipedia.org/api/rest_v1/#/Mobile)"
+msgstr ""
+
+#: use-content/reuse-content.md:block 14 (header)
+msgid "Page API"
+msgstr ""
+
+#: use-content/reuse-content.md:block 16 (unordered list)
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Parsing_wikitext)"
+msgstr ""
+
+#: use-content/reuse-content.md:block 20 (header)
+msgid "Search API"
+msgstr ""
+
+#: use-content/reuse-content.md:block 21 (paragraph)
+msgid "Find articles in Wikipedia, images in Commons, and more."
+msgstr ""
+
+#: use-content/reuse-content.md:block 22 (unordered list)
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:REST_API)"
+msgstr ""

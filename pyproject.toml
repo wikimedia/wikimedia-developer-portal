@@ -6,6 +6,12 @@ authors = [
   "Bryan Davis <bd808@wikimedia.org>"
 ]
 license = "GPL-3.0-or-later"
+readme = "README.md"
+include = [
+  "README.md",
+  "pyproject.toml",
+  "COPYING"
+]
 packages = [
   { include = "plugin" },
 ]
@@ -13,12 +19,15 @@ packages = [
 [tool.poetry.plugins]
 [tool.poetry.plugins."mkdocs.plugins"]
 jinja_wrapper = "plugin.plugin:JinjaWrapperPlugin"
+translate = "plugin.plugin:TranslatePlugin"
 
 [tool.poetry.dependencies]
 python = "^3.7"
 mkdocs = "^1.2.3"
 mkdocs-material = "^7.3.4"
 mkdocs-macros-plugin = "^0.6.0"
+mdpo = "^0.3.81"
+langcodes = {extras = ["data"], version = "^3.3.0"}
 
 [tool.poetry.dev-dependencies]
 black = "^21.12b0"
@@ -54,6 +63,7 @@ flake8-docstrings = [
 ]
 pycodestyle = [
     "+*",
+    "-E203",  # whitespace-before-colon
     "-E501",  # line-too-long
     "-W503",  # line-break-before-binary-operator
     "-W504",  # line-break-after-binary-operator
