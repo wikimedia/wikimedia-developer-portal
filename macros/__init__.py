@@ -22,7 +22,6 @@ import yaml
 
 def define_env(env):
     """Setup local variables, macros, and filters for mkdocs-macros-plugin."""
-
     chatter = env.start_chatting("category")
     root_dir = Path(env.conf.config_file_path).parent
     data_dir = root_dir / "data"
