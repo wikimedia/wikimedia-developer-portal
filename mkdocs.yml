@@ -53,6 +53,7 @@ markdown_extensions:
 plugins:
   - search:
       lang: en
+  - jinja_wrapper
   - macros:
       module_name: macros
       include_dir: data/includes

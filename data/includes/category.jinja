@@ -1,0 +1,22 @@
+{##
+ # Render a category.
+ #
+ # Load data for the named category and then render it as markdown content.
+ #
+ # @param name - name of the category
+ # @param heading_lvl - heading level (1-5) for the category title
+ #}
+{% macro render(name, heading_lvl=1) -%}
+{% set cat = category_data(name) %}
+{{ "#" * heading_lvl }} {{ cat.title }}
+{% if cat.description %}
+{{ cat.description }}
+{% endif %}
+{% for doc in cat.documents %}
+{{ "#" * ( heading_lvl + 1 ) }} {{ doc.title }}
+{{ doc.description }}
+{% for link in doc.links %}
+* [{{ link.label }}]({{ link.url }})
+{% endfor %}
+{% endfor %}
+{%- endmacro %}

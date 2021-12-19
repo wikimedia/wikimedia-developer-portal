@@ -22,7 +22,7 @@ import yaml
 
 def define_env(env):
     """Setup local variables, macros, and filters for mkdocs-macros-plugin."""
-    chatter = env.start_chatting("category")
+    chatter = env.start_chatting("local")
     root_dir = Path(env.conf.config_file_path).parent
     data_dir = root_dir / "data"
     categories_dir = data_dir / "categories"
@@ -50,6 +50,6 @@ def define_env(env):
     env.variables.categories = cat_tree
 
     @env.macro
-    def category(name):
-        """Output a category."""
+    def category_data(name):
+        """Get the data for a category."""
         return env.variables.categories.get(name, {})

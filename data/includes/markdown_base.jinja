@@ -1,0 +1,9 @@
+{##
+ # Base template for all markdown files in our project.
+ #
+ # Our local JinjaWrapperPlugin will setup each markdown source document so
+ # that it extends this base. Imports and macros declared here directly will
+ # be available for use by all content markdown files.
+ #}
+{%- import "category.jinja" as category with context -%}
+{% block markdown %}{% endblock markdown %}

@@ -16,6 +16,7 @@ services:
       - bash
       - -c
       - >-
+        poetry install &&
         poetry run mkdocs --verbose build &&
         exec nginx -c /srv/app/contrib/nginx/local.conf
     volumes:
