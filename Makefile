@@ -75,6 +75,10 @@ build:  ## Build static site
 docs: build
 .PHONY: docs
 
+format-code:  ## Reformat Python files
+	docker-compose exec portal poetry run black .
+.PHONY: format-code
+
 clean:  ## Clean up Docker images and containers
 	yes | docker image prune
 	yes | docker container prune
