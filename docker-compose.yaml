@@ -5,6 +5,9 @@ services:
     build:
       context: .
       dockerfile: .pipeline/local.Dockerfile
+      args:
+        LIVES_UID: ${LOCAL_UID:?run `make .env`}
+        LIVES_GID: ${LOCAL_GID:?run `make .env`}
     image: "wmdevportal:local"
     # Run container as local user to allow Linux mount writes
     user: "${LOCAL_UID:?run `make .env`}:${LOCAL_GID:?run `make .env`}"
@@ -13,8 +16,6 @@ services:
       - bash
       - -c
       - >-
-        mkdir -p /tmp/runtime-home &&
-        export HOME=/tmp/runtime-home &&
         poetry run mkdocs --verbose build &&
         exec nginx -c /srv/app/contrib/nginx/local.conf
     volumes:

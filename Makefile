@@ -45,10 +45,7 @@ status:  ## Show status of the docker-compose stack
 .PHONY: status
 
 shell:  ## Get an interactive shell inside the container
-	docker-compose exec portal sh -c " \
-		export HOME=/tmp/runtime-home; \
-		exec /bin/bash \
-	"
+	docker-compose exec portal /bin/bash
 .PHONY: shell
 
 tail:  ## Tail logs from the docker-compose stack
@@ -67,10 +64,7 @@ lint:
 .PHONY: lint
 
 build:  ## Build static site
-	docker-compose exec portal sh -c " \
-		export HOME=/tmp/runtime-home; \
-		exec poetry run mkdocs --verbose build \
-	"
+	docker-compose exec portal poetry run mkdocs --verbose build
 .PHONY: build
 docs: build
 .PHONY: docs
