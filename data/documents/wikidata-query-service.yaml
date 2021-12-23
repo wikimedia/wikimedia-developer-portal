@@ -1,0 +1,12 @@
+---
+title: Wikidata query service
+description: Access data from Wikidata.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Wikidata_Query_Service/User_Manual#SPARQL_endpoint
+    label: Read the docs on mediawiki.org
+  - url: https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples
+    label: Browse SPARQL query examples.
+categories:
+  - api-catalog-stable
+  - wikidata
+  - access-data

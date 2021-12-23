@@ -1,0 +1,9 @@
+---
+title: Learn the basics for new developers
+description: Guidance for getting started as a developer and contributing to Wikimedia projects.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers
+    label: New developers guide on mediawiki.org
+categories:
+  - new-dev
+  - new-contributor

@@ -1,0 +1,8 @@
+---
+title: Wikimedia REST API
+description: Get mobile-friendly content, featured article feeds, pageview data, and more.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_REST_API
+    label: Read the docs on mediawiki.org
+categories:
+  - api-catalog-stable

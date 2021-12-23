@@ -1,0 +1,9 @@
+---
+title: Create and edit pages 
+description: Use the MediaWiki Edit API for Wikipedia, Wiktionary, and more.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Edit
+    label: Read the docs on mediawiki.org
+categories:
+  - automate-editing
+  - mediawiki-action

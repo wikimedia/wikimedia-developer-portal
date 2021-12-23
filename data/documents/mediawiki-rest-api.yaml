@@ -1,0 +1,9 @@
+---
+title: MediaWiki REST API
+description: Simplified read-write API for Wikimedia projects.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:REST_API
+    label: Read the docs on mediawiki.org
+categories:
+  - api-catalog-stable
+  ## don't add mediawiki-rest as a category for this

@@ -1,0 +1,12 @@
+---
+title: Query content databases
+description: Wiki replicas are sanitized versions of the databases that back Wikimedia's production sites.
+links:
+  - url: https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Wiki_Replicas
+    label: Wiki replicas overview
+  - url: https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry
+    label: Run SQL queries with Quarry
+  - url: https://wikitech.wikimedia.org/wiki/Special:MyLanguage/PAWS
+    label: Run queries and create visualizations in PAWS
+categories:
+  - access-data

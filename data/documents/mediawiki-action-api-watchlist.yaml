@@ -1,0 +1,9 @@
+---
+title: Manage watchlists
+description: Add or remove pages from a watchlist with the MediaWiki Watchlist API.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Watch
+    label: Read the docs on mediawiki.org
+categories:
+  - automate-editing
+  - mediawiki-action

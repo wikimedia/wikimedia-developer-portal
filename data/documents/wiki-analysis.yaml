@@ -1,0 +1,12 @@
+---
+title: Get data about wikis
+description: Get Wikidata, page views, edit scores, and more data from Wikimedia projects.
+links:
+  - url: https://wikimedia.org/api/rest_v1/#/Pageviews%20data
+    label: Wiki page view data
+  - url: https://wikimedia.org/api/rest_v1/#/Unique%20devices%20data
+    label: Unique devices data
+  - url: https://stats.wikimedia.org/#/all-projects
+    label: Explore project data on Wikistats
+categories:
+  - access-data

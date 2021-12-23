@@ -1,0 +1,4 @@
+---
+category: mediawiki-extension-advanced
+title: Extend and customize MediaWiki
+description: To add a new feature to MediaWiki, if you can't do it in client-side JavaScript, you may need to write an extension in PHP.

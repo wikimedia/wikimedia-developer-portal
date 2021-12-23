@@ -1,0 +1,8 @@
+---
+title: Software deployments
+description: Track software deployments to Wikimedia Foundation servers.
+links:
+  - url: https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Deployments
+    label: Read the docs on Wikitech
+categories:
+  - wikimedia-tech-operations

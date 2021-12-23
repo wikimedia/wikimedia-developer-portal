@@ -1,0 +1,10 @@
+---
+title: Resources for technical docs
+description: Quality documentation is especially important for open-source projects. It provides history, context, accurate information, and repeatable steps that people can follow.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation
+    label: Documentation overview on mediawiki.org
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers
+    label: Get started contributing documentation
+categories:
+  - documentation

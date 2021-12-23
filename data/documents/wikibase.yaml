@@ -1,0 +1,8 @@
+---
+title: Wikibase
+description: The software suite that powers Wikidata.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase
+    label: Project homepage
+categories:
+  - wikimedia-tech

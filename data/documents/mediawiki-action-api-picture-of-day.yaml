@@ -1,0 +1,9 @@
+---
+title: Picture of the day viewer
+description: Learn to use the MediaWiki Action API Images and Imageinfo modules by building a picture of the day viewer.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer
+    label: Read the tutorial on mediawiki.org
+categories:
+  - tutorials-api
+  - mediawiki-action

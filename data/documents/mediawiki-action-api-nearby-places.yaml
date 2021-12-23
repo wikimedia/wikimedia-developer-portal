@@ -1,0 +1,9 @@
+---
+title: Nearby places viewer
+description: Learn to use the MediaWiki Action API Geosearch module by searching for wiki pages near your location.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer
+    label: Read the tutorial on mediawiki.org
+categories:
+  - tutorials-api
+  - mediawiki-action

@@ -1,0 +1,9 @@
+---
+title: MediaWiki Action API
+description: Powerful content and wiki management API.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API
+    label: Read the docs on mediawiki.org
+categories:
+  - api-catalog-stable
+  ## don't add mediawiki-action as a category for this

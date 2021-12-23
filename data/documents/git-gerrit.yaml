@@ -1,0 +1,12 @@
+---
+title: Set up Git and Gerrit
+description: Wikimedia developers use Git and Gerrit for version control and collaborative code review.
+links:
+  - url: https://www.mediawiki.org/wiki/Gerrit/Tutorial#Set_up_Git
+    label: Set up Git
+  - url: https://www.mediawiki.org/wiki/Gerrit/Tutorial#Set_Up_SSH_Keys_in_Gerrit
+    label: Set up SSH keys in Gerrit
+  - url: https://www.mediawiki.org/wiki/Gerrit/Tutorial#Prepare_to_work_with_Gerrit
+    label: Install and configure git-review
+categories:
+  - setup

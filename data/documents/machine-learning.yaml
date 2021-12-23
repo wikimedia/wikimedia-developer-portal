@@ -1,0 +1,9 @@
+---
+title: Use machine learning to detect vandalism
+description: ORES provides machine learning as a service to automate tasks like detecting vandalism and removing bad-faith edits.
+links:
+  - url: https://ores.wikimedia.org/
+    label: Visit the ORES site
+categories:
+  - access-data
+  - automate-editing

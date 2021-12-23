@@ -1,0 +1,9 @@
+---
+title: Event streams API
+description: Get the most recent changes to Wikimedia projects.
+links:
+  - url: https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Event_Platform/EventStreams
+    label: Read the docs on Wikitech
+categories:
+  - api-catalog-stable
+  - access-data

@@ -1,8 +1,8 @@
 ---
-title: Mobile API
-description: Get pages in mobile format.
+title: Get pages in mobile format
+description: Use the Mobile API.
 links:
   - url: https://en.wikipedia.org/api/rest_v1/#/Mobile
     label: Try out the interactive docs
 categories:
-  - api-reading
+  - reuse-content

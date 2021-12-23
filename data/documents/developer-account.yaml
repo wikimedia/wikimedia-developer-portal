@@ -1,0 +1,8 @@
+---
+title: Create developer account 
+description: Most of Wikimedia's technical spaces use a developer account to identify and authorize users. This account provides access to a number of resources for making technical contributions.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account
+    label: Create your account
+categories:
+  - setup

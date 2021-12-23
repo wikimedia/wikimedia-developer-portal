@@ -1,0 +1,4 @@
+---
+category: mediawiki-customize
+title: Customize MediaWiki behavior
+description: MediaWiki supports customization through client-side JavaScript, CSS, and Scribunto modules with Lua scripts.

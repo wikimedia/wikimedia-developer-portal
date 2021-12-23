@@ -1,0 +1,8 @@
+---
+title: Learn about MediaWiki's localization system
+description: Write code that can be localized and get your code translated.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation
+    label: Read more on mediawiki.org
+categories:
+  - localization

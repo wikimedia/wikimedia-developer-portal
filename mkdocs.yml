@@ -5,8 +5,50 @@ site_author: Wikimedia Foundation and contributors
 copyright: Copyright &copy; 2021 Wikimedia Foundation and contributors
 
 nav:
-  - Get started: 'index.md'
-  - Wikimedia APIs: 'api/index.md'
+- Get started:
+    - get-started/index.md
+    - get-started/new-dev.md
+    - get-started/tutorials.md
+    - get-started/wikimedia-tech.md
+- Use content or data:
+    - use-content/index.md
+    - use-content/apis.md
+    - use-content/tutorials.md
+    - use-content/content.md
+    - use-content/data.md
+- Build tools:
+    - build-tools/index.md
+    - build-tools/discover.md
+    - build-tools/extend-mw-basic.md
+    - build-tools/setup.md
+    - build-tools/customize-mediawiki.md
+    - build-tools/automate-editing.md
+    - build-tools/host-tools.md
+- Contribute:
+    - contribute/index.md
+    - contribute/overview.md
+    - contribute/mediawiki.md
+    - contribute/localization.md
+    - contribute/documentation.md
+    - contribute/accessibility.md
+- Connect:
+    - connect/index.md
+    - connect/events.md
+    - connect/communicate.md
+    - connect/code-maintainers.md
+    - connect/grants.md
+    - connect/wmf-technical-operations.md
+    - connect/updates.md
+- Grow your skills:
+    - grow/index.md
+    - grow/tech-capacity.md
+    - grow/events.md
+    - grow/outreach.md
+- Get help: get-help/index.md
+- Quick links:
+    - quick-links/index.md
+    - quick-links/api-catalog.md
+    - quick-links/browse-by-api.md
 
 docs_dir: src
 theme:
@@ -25,13 +67,15 @@ theme:
         icon: material/lightbulb
         name: Switch to light mode
   features:
+    - navigation.indexes # don't use this if using toc.integrate
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
-    - toc.integrate
     - navigation.top
     - search.share
+    # toc.integrate # don't use this if using navigation.indexes
 
 extra_css:
   - assets/stylesheets/theme.css

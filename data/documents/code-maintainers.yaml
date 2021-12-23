@@ -1,0 +1,8 @@
+---
+title: Code maintainers and stewards
+description: Maintainers know the most about, and maintain, MediaWiki core, key extensions, and Wikimedia servers. Code stewards are ultimately responsible for the development policies, support, and overall health of the code.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers
+    label: Read more on mediawiki.org
+categories:
+  - code-maintainers

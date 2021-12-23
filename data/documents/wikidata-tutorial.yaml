@@ -1,0 +1,12 @@
+---
+title: Display info from Wikidata
+description: Retrieve and present relevant information from Wikidata by associating it with entities in your application.
+links:
+  - url: https://www.mediawiki.org/wiki/API:Presenting_Wikidata_knowledge
+    label: Read the tutorial on mediawiki.org
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers
+    label: Python 3, Wikidata and Pywikibot
+categories:
+  - tutorials-data
+  - access-data
+  - wikidata

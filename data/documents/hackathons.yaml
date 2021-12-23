@@ -1,0 +1,10 @@
+---
+title: Hackathons
+description: A hackathon brings together people with different skills to work together on a common technical goal.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons
+    label: Read more on mediawiki.org
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons/Previous_hackathons
+    label: List of past hackathons on mediawiki.org
+categories:
+  - events
