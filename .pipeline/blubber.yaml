@@ -69,7 +69,8 @@ variants:
         - sh
         - -c
         - >-
-          ls -alh
+          poetry install
+          && ls -alh
           && poetry run mkdocs --verbose build
 
   production:
