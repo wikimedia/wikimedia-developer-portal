@@ -1,3 +1,4 @@
+---
 title: API catalog
 ...
 {{ category.render( "api-catalog-stable", 2 ) }}

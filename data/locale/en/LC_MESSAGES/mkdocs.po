@@ -242,17 +242,17 @@ msgid ""
 msgstr ""
 
 #: build-tools/automate-editing.md:block 6 (header)
-#: quick-links/api-catalog.md:block 24 (header)
+#: quick-links/api-catalog.md:block 23 (header)
 msgid "Guide editors by suggesting links"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 7 (paragraph)
-#: quick-links/api-catalog.md:block 25 (paragraph)
+#: quick-links/api-catalog.md:block 24 (paragraph)
 msgid "Use the Link Recommendations service to suggest links for articles."
 msgstr ""
 
 #: build-tools/automate-editing.md:block 8 (unordered list)
-#: quick-links/api-catalog.md:block 26 (unordered list)
+#: quick-links/api-catalog.md:block 25 (unordered list)
 msgid ""
 "[Try out the interactive "
 "docs](https://api.wikimedia.org/service/linkrecommendation/apidocs/#/default/get_v1_linkrecommendations__project___domain___page_title_)"
@@ -276,52 +276,52 @@ msgid "[Visit the ORES site](https://ores.wikimedia.org/)"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 12 (header)
-#: quick-links/browse-by-api.md:block 16 (header)
+#: quick-links/browse-by-api.md:block 15 (header)
 msgid "Create and edit pages"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 13 (paragraph)
-#: quick-links/browse-by-api.md:block 17 (paragraph)
+#: quick-links/browse-by-api.md:block 16 (paragraph)
 msgid "Use the MediaWiki Edit API for Wikipedia, Wiktionary, and more."
 msgstr ""
 
 #: build-tools/automate-editing.md:block 14 (unordered list)
-#: quick-links/browse-by-api.md:block 18 (unordered list)
+#: quick-links/browse-by-api.md:block 17 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Edit)"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 15 (header)
-#: quick-links/browse-by-api.md:block 25 (header)
+#: quick-links/browse-by-api.md:block 24 (header)
 msgid "Review and monitor changes"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 16 (paragraph)
-#: quick-links/browse-by-api.md:block 26 (paragraph)
+#: quick-links/browse-by-api.md:block 25 (paragraph)
 msgid ""
 "Use the MediaWiki Patrol API to monitor content and review recent changes."
 msgstr ""
 
 #: build-tools/automate-editing.md:block 17 (unordered list)
-#: quick-links/browse-by-api.md:block 27 (unordered list)
+#: quick-links/browse-by-api.md:block 26 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Patrol)"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 18 (header)
-#: quick-links/browse-by-api.md:block 31 (header)
+#: quick-links/browse-by-api.md:block 30 (header)
 msgid "Manage watchlists"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 19 (paragraph)
-#: quick-links/browse-by-api.md:block 32 (paragraph)
+#: quick-links/browse-by-api.md:block 31 (paragraph)
 msgid "Add or remove pages from a watchlist with the MediaWiki Watchlist API."
 msgstr ""
 
 #: build-tools/automate-editing.md:block 20 (unordered list)
-#: quick-links/browse-by-api.md:block 33 (unordered list)
+#: quick-links/browse-by-api.md:block 32 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Watch)"
@@ -419,13 +419,13 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 3 (header)
 #: contribute/mediawiki.md:block 9 (header) quick-links/browse-by-api.md:block
-#: 34 (header)
+#: 33 (header)
 msgid "MediaWiki extension points"
 msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 4 (paragraph)
 #: contribute/mediawiki.md:block 10 (paragraph)
-#: quick-links/browse-by-api.md:block 35 (paragraph)
+#: quick-links/browse-by-api.md:block 34 (paragraph)
 msgid ""
 "Six main extension points enable you to change or extend MediaWiki "
 "functionality."
@@ -433,7 +433,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 36 (unordered list)
+#: quick-links/browse-by-api.md:block 35 (unordered list)
 msgid ""
 "[Access MediaWiki data and metadata via web "
 "API](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
@@ -441,7 +441,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 36 (unordered list)
+#: quick-links/browse-by-api.md:block 35 (unordered list)
 msgid ""
 "[Event "
 "hooks](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Hooks)"
@@ -449,7 +449,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 36 (unordered list)
+#: quick-links/browse-by-api.md:block 35 (unordered list)
 msgid ""
 "[Parser "
 "functions](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Parser_functions)"
@@ -457,7 +457,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 36 (unordered list)
+#: quick-links/browse-by-api.md:block 35 (unordered list)
 msgid ""
 "[Skins to change look and "
 "feel](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Skins)"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 36 (unordered list)
+#: quick-links/browse-by-api.md:block 35 (unordered list)
 msgid ""
 "[Add a new special "
 "page](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Special_pages)"
@@ -473,7 +473,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 36 (unordered list)
+#: quick-links/browse-by-api.md:block 35 (unordered list)
 msgid ""
 "[Add a new tag with tag "
 "extensions](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Tag_extensions)"
@@ -481,7 +481,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 36 (unordered list)
+#: quick-links/browse-by-api.md:block 35 (unordered list)
 msgid ""
 "[Use page content other than "
 "wikitext](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Page_content_models)"
@@ -489,7 +489,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 36 (unordered list)
+#: quick-links/browse-by-api.md:block 35 (unordered list)
 msgid ""
 "[Modify wikitext content by extending "
 "markup](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Extending_wiki_markup)"
@@ -1414,13 +1414,13 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 6 (header)
-#: quick-links/browse-by-api.md:block 13 (header)
+#: quick-links/browse-by-api.md:block 12 (header)
 #: use-content/tutorials.md:block 6 (header)
 msgid "Article ideas generator"
 msgstr ""
 
 #: get-started/tutorials.md:block 7 (paragraph)
-#: quick-links/browse-by-api.md:block 14 (paragraph)
+#: quick-links/browse-by-api.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid ""
 "Learn to use the MediaWiki Action API Parse and Links modules by building an"
@@ -1428,7 +1428,7 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 8 (unordered list)
-#: quick-links/browse-by-api.md:block 15 (unordered list)
+#: quick-links/browse-by-api.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid ""
 "[Read the tutorial on "
@@ -1436,13 +1436,13 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 9 (header)
-#: quick-links/browse-by-api.md:block 19 (header)
+#: quick-links/browse-by-api.md:block 18 (header)
 #: use-content/tutorials.md:block 9 (header)
 msgid "Nearby places viewer"
 msgstr ""
 
 #: get-started/tutorials.md:block 10 (paragraph)
-#: quick-links/browse-by-api.md:block 20 (paragraph)
+#: quick-links/browse-by-api.md:block 19 (paragraph)
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid ""
 "Learn to use the MediaWiki Action API Geosearch module by searching for wiki"
@@ -1450,7 +1450,7 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 21 (unordered list)
+#: quick-links/browse-by-api.md:block 20 (unordered list)
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid ""
 "[Read the tutorial on "
@@ -1458,13 +1458,13 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 12 (header)
-#: quick-links/browse-by-api.md:block 28 (header)
+#: quick-links/browse-by-api.md:block 27 (header)
 #: use-content/tutorials.md:block 12 (header)
 msgid "Picture of the day viewer"
 msgstr ""
 
 #: get-started/tutorials.md:block 13 (paragraph)
-#: quick-links/browse-by-api.md:block 29 (paragraph)
+#: quick-links/browse-by-api.md:block 28 (paragraph)
 #: use-content/tutorials.md:block 13 (paragraph)
 msgid ""
 "Learn to use the MediaWiki Action API Images and Imageinfo modules by "
@@ -1472,7 +1472,7 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 14 (unordered list)
-#: quick-links/browse-by-api.md:block 30 (unordered list)
+#: quick-links/browse-by-api.md:block 29 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
 msgid ""
 "[Read the tutorial on "
@@ -1776,34 +1776,29 @@ msgstr ""
 msgid "[Browse docs by API](browse-by-api.md)"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 1 (paragraph)
-#: quick-links/browse-by-api.md:block 1 (paragraph)
-msgid "..."
-msgstr ""
-
-#: quick-links/api-catalog.md:block 2 (header) use-content/apis.md:block 1
+#: quick-links/api-catalog.md:block 1 (header) use-content/apis.md:block 1
 #: (header)
 msgid "Stable APIs"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 3 (paragraph) use-content/apis.md:block 2
+#: quick-links/api-catalog.md:block 2 (paragraph) use-content/apis.md:block 2
 #: (paragraph)
 msgid ""
 "Stable APIs have versioning policies, so you can use them in your apps with "
 "confidence."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 4 (header) use-content/apis.md:block 3
+#: quick-links/api-catalog.md:block 3 (header) use-content/apis.md:block 3
 #: (header) use-content/data.md:block 12 (header)
 msgid "Event streams API"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 5 (paragraph) use-content/apis.md:block 4
+#: quick-links/api-catalog.md:block 4 (paragraph) use-content/apis.md:block 4
 #: (paragraph) use-content/data.md:block 13 (paragraph)
 msgid "Get the most recent changes to Wikimedia projects."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 6 (unordered list)
+#: quick-links/api-catalog.md:block 5 (unordered list)
 #: use-content/apis.md:block 5 (unordered list) use-content/data.md:block 14
 #: (unordered list)
 msgid ""
@@ -1811,37 +1806,37 @@ msgid ""
 "Wikitech](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Event_Platform/EventStreams)"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 7 (header)
-#: quick-links/browse-by-api.md:block 11 (header) use-content/apis.md:block 6
+#: quick-links/api-catalog.md:block 6 (header)
+#: quick-links/browse-by-api.md:block 10 (header) use-content/apis.md:block 6
 #: (header)
 msgid "MediaWiki Action API"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 8 (paragraph) use-content/apis.md:block 7
+#: quick-links/api-catalog.md:block 7 (paragraph) use-content/apis.md:block 7
 #: (paragraph)
 msgid "Powerful content and wiki management API."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 9 (unordered list)
+#: quick-links/api-catalog.md:block 8 (unordered list)
 #: use-content/apis.md:block 8 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 10 (header)
-#: quick-links/browse-by-api.md:block 3 (header) use-content/apis.md:block 9
+#: quick-links/api-catalog.md:block 9 (header)
+#: quick-links/browse-by-api.md:block 2 (header) use-content/apis.md:block 9
 #: (header)
 msgid "MediaWiki REST API"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 11 (paragraph) use-content/apis.md:block
+#: quick-links/api-catalog.md:block 10 (paragraph) use-content/apis.md:block
 #: 10 (paragraph)
 msgid "Simplified read-write API for Wikimedia projects."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 12 (unordered list)
-#: quick-links/browse-by-api.md:block 10 (unordered list)
+#: quick-links/api-catalog.md:block 11 (unordered list)
+#: quick-links/browse-by-api.md:block 9 (unordered list)
 #: use-content/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 11 (unordered list)
 msgid ""
@@ -1849,17 +1844,17 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:REST_API)"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 13 (header) use-content/apis.md:block 12
+#: quick-links/api-catalog.md:block 12 (header) use-content/apis.md:block 12
 #: (header) use-content/data.md:block 24 (header)
 msgid "Wikidata query service"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 14 (paragraph) use-content/apis.md:block
+#: quick-links/api-catalog.md:block 13 (paragraph) use-content/apis.md:block
 #: 13 (paragraph) use-content/data.md:block 25 (paragraph)
 msgid "Access data from Wikidata."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 15 (unordered list)
+#: quick-links/api-catalog.md:block 14 (unordered list)
 #: use-content/apis.md:block 14 (unordered list) use-content/data.md:block 26
 #: (unordered list)
 msgid ""
@@ -1867,7 +1862,7 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikidata_Query_Service/User_Manual#SPARQL_endpoint)"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 15 (unordered list)
+#: quick-links/api-catalog.md:block 14 (unordered list)
 #: use-content/apis.md:block 14 (unordered list) use-content/data.md:block 26
 #: (unordered list)
 msgid ""
@@ -1875,42 +1870,42 @@ msgid ""
 "examples.](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples)"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 16 (header) use-content/apis.md:block 15
+#: quick-links/api-catalog.md:block 15 (header) use-content/apis.md:block 15
 #: (header)
 msgid "Wikimedia REST API"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 17 (paragraph) use-content/apis.md:block
+#: quick-links/api-catalog.md:block 16 (paragraph) use-content/apis.md:block
 #: 16 (paragraph)
 msgid ""
 "Get mobile-friendly content, featured article feeds, pageview data, and "
 "more."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 18 (unordered list)
+#: quick-links/api-catalog.md:block 17 (unordered list)
 #: use-content/apis.md:block 17 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_REST_API)"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 19 (header)
+#: quick-links/api-catalog.md:block 18 (header)
 msgid "Experimental APIs"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 20 (paragraph)
+#: quick-links/api-catalog.md:block 19 (paragraph)
 msgid "Experimental APIs may change without notice."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 21 (header)
+#: quick-links/api-catalog.md:block 20 (header)
 msgid "Image suggestion API"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 22 (paragraph)
+#: quick-links/api-catalog.md:block 21 (paragraph)
 msgid "Suggests images to improve articles."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 23 (unordered list)
+#: quick-links/api-catalog.md:block 22 (unordered list)
 msgid ""
 "[Try the interactive docs](https://image-suggestion-"
 "api.wmcloud.org/?doc#/Image%20Suggestions)"
@@ -1920,30 +1915,30 @@ msgstr ""
 msgid "Browse links by API"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 4 (paragraph)
+#: quick-links/browse-by-api.md:block 3 (paragraph)
 msgid "List of MediaWiki REST API resources."
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 5 (header) use-content/content.md:block
+#: quick-links/browse-by-api.md:block 4 (header) use-content/content.md:block
 #: 6 (header)
 msgid "Get featured content by date"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 6 (paragraph)
+#: quick-links/browse-by-api.md:block 5 (paragraph)
 #: use-content/content.md:block 7 (paragraph)
 msgid ""
 "The Wikipedia featured content API provides daily featured articles, most "
 "read pages, and more."
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 7 (unordered list)
+#: quick-links/browse-by-api.md:block 6 (unordered list)
 #: use-content/content.md:block 8 (unordered list)
 msgid ""
 "[See language "
 "availability](https://wikimedia.org/api/rest_v1/#/Feed%20content%20availability)"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 7 (unordered list)
+#: quick-links/browse-by-api.md:block 6 (unordered list)
 #: use-content/content.md:block 8 (unordered list)
 msgid ""
 "[Read the "
@@ -1951,52 +1946,52 @@ msgid ""
 "Portal/wikimedia-api-portal-featured-content.ipynb)"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 7 (unordered list)
+#: quick-links/browse-by-api.md:block 6 (unordered list)
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Try out the interactive docs](https://en.wikipedia.org/api/rest_v1/)"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 8 (header) use-content/content.md:block
+#: quick-links/browse-by-api.md:block 7 (header) use-content/content.md:block
 #: 9 (header)
 msgid "Search for and display wiki pages and media"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 9 (paragraph)
+#: quick-links/browse-by-api.md:block 8 (paragraph)
 #: use-content/content.md:block 10 (paragraph)
 msgid ""
 "Use the Search API to find articles in Wikipedia, images in Commons, and "
 "more."
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 10 (unordered list)
+#: quick-links/browse-by-api.md:block 9 (unordered list)
 #: use-content/content.md:block 11 (unordered list)
 msgid ""
 "[Read the tutorial](https://public.paws.wmcloud.org/User:APaskulin_(WMF)/en-"
 "wikipedia-search.ipynb)"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 12 (paragraph)
+#: quick-links/browse-by-api.md:block 11 (paragraph)
 msgid "List of MediaWiki Action API resources."
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 22 (header) use-content/content.md:block
+#: quick-links/browse-by-api.md:block 21 (header) use-content/content.md:block
 #: 3 (header)
 msgid "Get pages by title on any Wikimedia project"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 23 (paragraph)
+#: quick-links/browse-by-api.md:block 22 (paragraph)
 #: use-content/content.md:block 4 (paragraph)
 msgid "Use the Page API."
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 24 (unordered list)
+#: quick-links/browse-by-api.md:block 23 (unordered list)
 #: use-content/content.md:block 5 (unordered list)
 msgid ""
 "[Read the "
 "tutorial](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 24 (unordered list)
+#: quick-links/browse-by-api.md:block 23 (unordered list)
 #: use-content/content.md:block 5 (unordered list)
 msgid ""
 "[Read the docs on "
