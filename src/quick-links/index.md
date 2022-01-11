@@ -4,7 +4,7 @@ hide:
 ---
 <!--Don't want to add additional superfluous md files for this section, so combining some templating and direct links -->
 
-{{ category.render( "quick-links" ) }}
+{{ category.render( "quick-links", 2 ) }}
 
 ## API catalog
 

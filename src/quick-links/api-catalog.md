@@ -1,5 +1,5 @@
 title: API catalog
 ...
-{{ category.render( "api-catalog-stable" ) }}
+{{ category.render( "api-catalog-stable", 2 ) }}
 
-{{ category.render( "api-catalog-experimental" ) }}
+{{ category.render( "api-catalog-experimental", 2 ) }}
