@@ -68,7 +68,6 @@ theme:
         name: Switch to light mode
   features:
     - navigation.indexes # don't use this if using toc.integrate
-    - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
@@ -76,6 +75,7 @@ theme:
     - navigation.top
     - search.share
     # toc.integrate # don't use this if using navigation.indexes
+    # navigation.instant # breaks cross-language navigation
 
 extra_css:
   - assets/stylesheets/theme.css
