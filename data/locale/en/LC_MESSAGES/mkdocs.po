@@ -135,6 +135,41 @@ msgstr ""
 msgid "[Learn more](grow/)"
 msgstr ""
 
+#: about/index.md:title about/index.md:block 1 (header)
+msgid "About"
+msgstr ""
+
+#: about/index.md:block 2 (paragraph)
+msgid ""
+"The Wikimedia Developer Portal is a central entry point for Wikimedia "
+"technical documentation, created by the Wikimedia Foundation Developer "
+"Advocacy Team."
+msgstr ""
+
+#: about/index.md:block 3 (paragraph)
+msgid ""
+"This site currently in development. For more information about the project "
+"and to share your feedback, visit "
+"[mediawiki.org](https://www.mediawiki.org/wiki/Developer_Advocacy/Developer_Portal)."
+msgstr ""
+
+#: about/index.md:block 4 (header)
+msgid "Image credits"
+msgstr ""
+
+#: about/index.md:block 5 (unordered list)
+msgid ""
+"Wikimedia logo: Neolux, Public domain, via [Wikimedia "
+"Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)"
+msgstr ""
+
+#: about/index.md:block 5 (unordered list)
+msgid ""
+"Wikimedia favicon: Wikimedia Foundation, [CC BY-SA "
+"3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia "
+"Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)"
+msgstr ""
+
 #: build-tools/index.md:title build-tools/index.md:block 1 (header)
 msgid "Build and discover tools"
 msgstr ""
