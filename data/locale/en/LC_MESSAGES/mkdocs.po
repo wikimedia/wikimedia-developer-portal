@@ -262,104 +262,104 @@ msgid "Build tools to automate editing tasks."
 msgstr ""
 
 #: build-tools/automate-editing.md:block 3 (header)
-msgid "Create scripts or bots"
-msgstr ""
-
-#: build-tools/automate-editing.md:block 4 (paragraph)
-msgid "Automate interactions with MediaWiki pages."
-msgstr ""
-
-#: build-tools/automate-editing.md:block 5 (unordered list)
-#: connect/grants.md:block 5 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Bots)"
-msgstr ""
-
-#: build-tools/automate-editing.md:block 6 (header)
-#: quick-links/api-catalog.md:block 23 (header)
-msgid "Guide editors by suggesting links"
-msgstr ""
-
-#: build-tools/automate-editing.md:block 7 (paragraph)
-#: quick-links/api-catalog.md:block 24 (paragraph)
-msgid "Use the Link Recommendations service to suggest links for articles."
-msgstr ""
-
-#: build-tools/automate-editing.md:block 8 (unordered list)
-#: quick-links/api-catalog.md:block 25 (unordered list)
-msgid ""
-"[Try out the interactive "
-"docs](https://api.wikimedia.org/service/linkrecommendation/apidocs/#/default/get_v1_linkrecommendations__project___domain___page_title_)"
-msgstr ""
-
-#: build-tools/automate-editing.md:block 9 (header) use-content/data.md:block
-#: 15 (header)
-msgid "Use machine learning to detect vandalism"
-msgstr ""
-
-#: build-tools/automate-editing.md:block 10 (paragraph)
-#: use-content/data.md:block 16 (paragraph)
-msgid ""
-"ORES provides machine learning as a service to automate tasks like detecting"
-" vandalism and removing bad-faith edits."
-msgstr ""
-
-#: build-tools/automate-editing.md:block 11 (unordered list)
-#: use-content/data.md:block 17 (unordered list)
-msgid "[Visit the ORES site](https://ores.wikimedia.org/)"
-msgstr ""
-
-#: build-tools/automate-editing.md:block 12 (header)
 #: quick-links/browse-by-api.md:block 15 (header)
 msgid "Create and edit pages"
 msgstr ""
 
-#: build-tools/automate-editing.md:block 13 (paragraph)
+#: build-tools/automate-editing.md:block 4 (paragraph)
 #: quick-links/browse-by-api.md:block 16 (paragraph)
 msgid "Use the MediaWiki Edit API for Wikipedia, Wiktionary, and more."
 msgstr ""
 
-#: build-tools/automate-editing.md:block 14 (unordered list)
+#: build-tools/automate-editing.md:block 5 (unordered list)
 #: quick-links/browse-by-api.md:block 17 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Edit)"
 msgstr ""
 
+#: build-tools/automate-editing.md:block 6 (header)
+msgid "Create scripts or bots"
+msgstr ""
+
+#: build-tools/automate-editing.md:block 7 (paragraph)
+msgid "Automate interactions with MediaWiki pages."
+msgstr ""
+
+#: build-tools/automate-editing.md:block 8 (unordered list)
+#: connect/grants.md:block 5 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Bots)"
+msgstr ""
+
+#: build-tools/automate-editing.md:block 9 (header)
+#: quick-links/api-catalog.md:block 20 (header)
+msgid "Guide editors by suggesting links"
+msgstr ""
+
+#: build-tools/automate-editing.md:block 10 (paragraph)
+#: quick-links/api-catalog.md:block 21 (paragraph)
+msgid "Use the Link Recommendations service to suggest links for articles."
+msgstr ""
+
+#: build-tools/automate-editing.md:block 11 (unordered list)
+#: quick-links/api-catalog.md:block 22 (unordered list)
+msgid ""
+"[Try out the interactive "
+"docs](https://api.wikimedia.org/service/linkrecommendation/apidocs/#/default/get_v1_linkrecommendations__project___domain___page_title_)"
+msgstr ""
+
+#: build-tools/automate-editing.md:block 12 (header)
+#: quick-links/browse-by-api.md:block 21 (header)
+msgid "Manage watchlists"
+msgstr ""
+
+#: build-tools/automate-editing.md:block 13 (paragraph)
+#: quick-links/browse-by-api.md:block 22 (paragraph)
+msgid "Add or remove pages from a watchlist with the MediaWiki Watchlist API."
+msgstr ""
+
+#: build-tools/automate-editing.md:block 14 (unordered list)
+#: quick-links/browse-by-api.md:block 23 (unordered list)
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Watch)"
+msgstr ""
+
 #: build-tools/automate-editing.md:block 15 (header)
-#: quick-links/browse-by-api.md:block 24 (header)
+#: quick-links/browse-by-api.md:block 33 (header)
 msgid "Review and monitor changes"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 16 (paragraph)
-#: quick-links/browse-by-api.md:block 25 (paragraph)
+#: quick-links/browse-by-api.md:block 34 (paragraph)
 msgid ""
 "Use the MediaWiki Patrol API to monitor content and review recent changes."
 msgstr ""
 
 #: build-tools/automate-editing.md:block 17 (unordered list)
-#: quick-links/browse-by-api.md:block 26 (unordered list)
+#: quick-links/browse-by-api.md:block 35 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Patrol)"
 msgstr ""
 
-#: build-tools/automate-editing.md:block 18 (header)
-#: quick-links/browse-by-api.md:block 30 (header)
-msgid "Manage watchlists"
+#: build-tools/automate-editing.md:block 18 (header) use-content/data.md:block
+#: 21 (header)
+msgid "Use machine learning to detect vandalism"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 19 (paragraph)
-#: quick-links/browse-by-api.md:block 31 (paragraph)
-msgid "Add or remove pages from a watchlist with the MediaWiki Watchlist API."
+#: use-content/data.md:block 22 (paragraph)
+msgid ""
+"ORES provides machine learning as a service to automate tasks like detecting"
+" vandalism and removing bad-faith edits."
 msgstr ""
 
 #: build-tools/automate-editing.md:block 20 (unordered list)
-#: quick-links/browse-by-api.md:block 32 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Watch)"
+#: use-content/data.md:block 23 (unordered list)
+msgid "[Visit the ORES site](https://ores.wikimedia.org/)"
 msgstr ""
 
 #: build-tools/customize-mediawiki.md:block 2 (paragraph)
@@ -454,13 +454,13 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 3 (header)
 #: contribute/mediawiki.md:block 9 (header) quick-links/browse-by-api.md:block
-#: 33 (header)
+#: 24 (header)
 msgid "MediaWiki extension points"
 msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 4 (paragraph)
 #: contribute/mediawiki.md:block 10 (paragraph)
-#: quick-links/browse-by-api.md:block 34 (paragraph)
+#: quick-links/browse-by-api.md:block 25 (paragraph)
 msgid ""
 "Six main extension points enable you to change or extend MediaWiki "
 "functionality."
@@ -468,7 +468,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 35 (unordered list)
+#: quick-links/browse-by-api.md:block 26 (unordered list)
 msgid ""
 "[Access MediaWiki data and metadata via web "
 "API](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
@@ -476,7 +476,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 35 (unordered list)
+#: quick-links/browse-by-api.md:block 26 (unordered list)
 msgid ""
 "[Event "
 "hooks](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Hooks)"
@@ -484,7 +484,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 35 (unordered list)
+#: quick-links/browse-by-api.md:block 26 (unordered list)
 msgid ""
 "[Parser "
 "functions](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Parser_functions)"
@@ -492,7 +492,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 35 (unordered list)
+#: quick-links/browse-by-api.md:block 26 (unordered list)
 msgid ""
 "[Skins to change look and "
 "feel](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Skins)"
@@ -500,7 +500,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 35 (unordered list)
+#: quick-links/browse-by-api.md:block 26 (unordered list)
 msgid ""
 "[Add a new special "
 "page](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Special_pages)"
@@ -508,7 +508,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 35 (unordered list)
+#: quick-links/browse-by-api.md:block 26 (unordered list)
 msgid ""
 "[Add a new tag with tag "
 "extensions](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Tag_extensions)"
@@ -516,7 +516,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 35 (unordered list)
+#: quick-links/browse-by-api.md:block 26 (unordered list)
 msgid ""
 "[Use page content other than "
 "wikitext](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Page_content_models)"
@@ -524,7 +524,7 @@ msgstr ""
 
 #: build-tools/extend-mw-basic.md:block 5 (unordered list)
 #: contribute/mediawiki.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 35 (unordered list)
+#: quick-links/browse-by-api.md:block 26 (unordered list)
 msgid ""
 "[Modify wikitext content by extending "
 "markup](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Extending_wiki_markup)"
@@ -557,67 +557,67 @@ msgid ""
 msgstr ""
 
 #: build-tools/setup.md:block 3 (header)
-msgid "Create developer account"
+msgid "Create a Phabricator account"
 msgstr ""
 
 #: build-tools/setup.md:block 4 (paragraph)
+msgid ""
+"Use Phabricator for software bug reports, feature requests, and planning "
+"work."
+msgstr ""
+
+#: build-tools/setup.md:block 5 (unordered list)
+msgid "[Phabricator overview](https://www.mediawiki.org/wiki/Phabricator)"
+msgstr ""
+
+#: build-tools/setup.md:block 5 (unordered list)
+msgid ""
+"[Set up your "
+"account](https://www.mediawiki.org/wiki/Phabricator/Help#Creating_your_account)"
+msgstr ""
+
+#: build-tools/setup.md:block 6 (header)
+msgid "Create developer account"
+msgstr ""
+
+#: build-tools/setup.md:block 7 (paragraph)
 msgid ""
 "Most of Wikimedia's technical spaces use a developer account to identify and"
 " authorize users. This account provides access to a number of resources for "
 "making technical contributions."
 msgstr ""
 
-#: build-tools/setup.md:block 5 (unordered list)
+#: build-tools/setup.md:block 8 (unordered list)
 msgid ""
 "[Create your "
 "account](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
 msgstr ""
 
-#: build-tools/setup.md:block 6 (header)
+#: build-tools/setup.md:block 9 (header)
 msgid "Set up Git and Gerrit"
 msgstr ""
 
-#: build-tools/setup.md:block 7 (paragraph)
+#: build-tools/setup.md:block 10 (paragraph)
 msgid ""
 "Wikimedia developers use Git and Gerrit for version control and "
 "collaborative code review."
 msgstr ""
 
-#: build-tools/setup.md:block 8 (unordered list)
+#: build-tools/setup.md:block 11 (unordered list)
 msgid ""
 "[Set up Git](https://www.mediawiki.org/wiki/Gerrit/Tutorial#Set_up_Git)"
 msgstr ""
 
-#: build-tools/setup.md:block 8 (unordered list)
+#: build-tools/setup.md:block 11 (unordered list)
 msgid ""
 "[Set up SSH keys in "
 "Gerrit](https://www.mediawiki.org/wiki/Gerrit/Tutorial#Set_Up_SSH_Keys_in_Gerrit)"
 msgstr ""
 
-#: build-tools/setup.md:block 8 (unordered list)
+#: build-tools/setup.md:block 11 (unordered list)
 msgid ""
 "[Install and configure git-"
 "review](https://www.mediawiki.org/wiki/Gerrit/Tutorial#Prepare_to_work_with_Gerrit)"
-msgstr ""
-
-#: build-tools/setup.md:block 9 (header)
-msgid "Create a Phabricator account"
-msgstr ""
-
-#: build-tools/setup.md:block 10 (paragraph)
-msgid ""
-"Use Phabricator for software bug reports, feature requests, and planning "
-"work."
-msgstr ""
-
-#: build-tools/setup.md:block 11 (unordered list)
-msgid "[Phabricator overview](https://www.mediawiki.org/wiki/Phabricator)"
-msgstr ""
-
-#: build-tools/setup.md:block 11 (unordered list)
-msgid ""
-"[Set up your "
-"account](https://www.mediawiki.org/wiki/Phabricator/Help#Creating_your_account)"
 msgstr ""
 
 #: connect/index.md:title connect/index.md:block 1 (header)
@@ -728,39 +728,39 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 msgstr ""
 
-#: connect/communicate.md:block 3 (header) contribute/overview.md:block 3
+#: connect/communicate.md:block 3 (header)
+msgid "Communication channels"
+msgstr ""
+
+#: connect/communicate.md:block 4 (paragraph)
+msgid ""
+"Get in contact with other MediaWiki users and developers, for support or to "
+"share knowledge."
+msgstr ""
+
+#: connect/communicate.md:block 5 (unordered list)
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr ""
+
+#: connect/communicate.md:block 6 (header) contribute/overview.md:block 12
 #: (header)
 msgid "Read the code of conduct"
 msgstr ""
 
-#: connect/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
+#: connect/communicate.md:block 7 (paragraph) contribute/overview.md:block 13
 #: (paragraph)
 msgid ""
 "The code of conduct for Wikimedia technical spaces applies to both physical "
 "and virtual environments."
 msgstr ""
 
-#: connect/communicate.md:block 5 (unordered list)
-#: contribute/overview.md:block 5 (unordered list)
+#: connect/communicate.md:block 8 (unordered list)
+#: contribute/overview.md:block 14 (unordered list)
 msgid ""
 "[Read the code of conduct on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
-msgstr ""
-
-#: connect/communicate.md:block 6 (header)
-msgid "Communication channels"
-msgstr ""
-
-#: connect/communicate.md:block 7 (paragraph)
-msgid ""
-"Get in contact with other MediaWiki users and developers, for support or to "
-"share knowledge."
-msgstr ""
-
-#: connect/communicate.md:block 8 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
 msgstr ""
 
 #: connect/events.md:block 2 (paragraph) grow/events.md:block 2 (paragraph)
@@ -875,18 +875,18 @@ msgid ""
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 3 (header)
-#: get-started/wikimedia-tech.md:block 6 (header)
+#: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Cloud tools and services"
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 4 (paragraph)
-#: get-started/wikimedia-tech.md:block 7 (paragraph)
+#: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid ""
 "Infrastructure and support for contributors to Wikimedia software projects."
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 5 (unordered list)
-#: get-started/wikimedia-tech.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid ""
 "[Cloud services overview on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Help:Cloud_Services_Introduction)"
@@ -935,19 +935,19 @@ msgid ""
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 15 (header)
-#: get-started/wikimedia-tech.md:block 21 (header)
+#: get-started/wikimedia-tech.md:block 18 (header)
 msgid "System architecture"
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 16 (paragraph)
-#: get-started/wikimedia-tech.md:block 22 (paragraph)
+#: get-started/wikimedia-tech.md:block 19 (paragraph)
 msgid ""
 "Explore system architecture diagrams and overview documentation for "
 "Wikimedia technical systems."
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 17 (unordered list)
-#: get-started/wikimedia-tech.md:block 23 (unordered list)
+#: get-started/wikimedia-tech.md:block 20 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Architecture_Repository)"
@@ -1100,47 +1100,47 @@ msgid ""
 msgstr ""
 
 #: contribute/localization.md:block 3 (header)
-msgid "Contribute translations"
-msgstr ""
-
-#: contribute/localization.md:block 4 (paragraph)
-msgid "Use your language skills to help localize Wikimedia software."
-msgstr ""
-
-#: contribute/localization.md:block 5 (unordered list)
-msgid "[Visit translatewiki.net](http://translatewiki.net/)"
-msgstr ""
-
-#: contribute/localization.md:block 6 (header)
-msgid "Customize messages in your local wiki"
-msgstr ""
-
-#: contribute/localization.md:block 7 (paragraph)
-msgid ""
-"Understand and manage how MediaWiki uses messages for internationalization "
-"and localization of user-facing parts of the interface."
-msgstr ""
-
-#: contribute/localization.md:block 8 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:System_message)"
-msgstr ""
-
-#: contribute/localization.md:block 9 (header)
 msgid "Add a wiki in a new language"
 msgstr ""
 
-#: contribute/localization.md:block 10 (paragraph)
+#: contribute/localization.md:block 4 (paragraph)
 msgid ""
 "Learn about the process and request new language wikis for existing "
 "projects."
 msgstr ""
 
-#: contribute/localization.md:block 11 (unordered list)
+#: contribute/localization.md:block 5 (unordered list)
 msgid ""
 "[Read more on Meta-"
 "wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Requests_for_new_languages)"
+msgstr ""
+
+#: contribute/localization.md:block 6 (header)
+msgid "Contribute translations"
+msgstr ""
+
+#: contribute/localization.md:block 7 (paragraph)
+msgid "Use your language skills to help localize Wikimedia software."
+msgstr ""
+
+#: contribute/localization.md:block 8 (unordered list)
+msgid "[Visit translatewiki.net](http://translatewiki.net/)"
+msgstr ""
+
+#: contribute/localization.md:block 9 (header)
+msgid "Customize messages in your local wiki"
+msgstr ""
+
+#: contribute/localization.md:block 10 (paragraph)
+msgid ""
+"Understand and manage how MediaWiki uses messages for internationalization "
+"and localization of user-facing parts of the interface."
+msgstr ""
+
+#: contribute/localization.md:block 11 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:System_message)"
 msgstr ""
 
 #: contribute/localization.md:block 12 (header)
@@ -1164,157 +1164,157 @@ msgid ""
 msgstr ""
 
 #: contribute/mediawiki.md:block 3 (header)
-msgid "Write new extensions"
-msgstr ""
-
-#: contribute/mediawiki.md:block 4 (paragraph)
-msgid "How to set up, execute, and localize an extension."
-msgstr ""
-
-#: contribute/mediawiki.md:block 5 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Manual:Developing_extensions)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 5 (unordered list)
-msgid ""
-"[Extensions FAQ on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Extensions_FAQ)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 6 (header)
 msgid "Browse extensions"
 msgstr ""
 
-#: contribute/mediawiki.md:block 7 (paragraph)
+#: contribute/mediawiki.md:block 4 (paragraph)
 msgid "Find existing extensions for MediaWiki."
 msgstr ""
 
-#: contribute/mediawiki.md:block 8 (unordered list)
+#: contribute/mediawiki.md:block 5 (unordered list)
 msgid ""
 "[Extensions by category on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Category:Extensions_by_category)"
 msgstr ""
 
-#: contribute/mediawiki.md:block 8 (unordered list)
+#: contribute/mediawiki.md:block 5 (unordered list)
 msgid ""
 "[Extensions in need of "
 "maintainers](https://www.mediawiki.org/wiki/Category:Unmaintained_extensions)"
 msgstr ""
 
-#: contribute/mediawiki.md:block 12 (header)
+#: contribute/mediawiki.md:block 6 (header)
 msgid "Change the look and feel of MediaWiki"
 msgstr ""
 
-#: contribute/mediawiki.md:block 13 (paragraph)
+#: contribute/mediawiki.md:block 7 (paragraph)
 msgid ""
 "If you make extensive changes to a wiki's appearance by modifying your local"
 " user CSS, package your design into a \"skin\" and share it with others."
 msgstr ""
 
-#: contribute/mediawiki.md:block 14 (unordered list)
+#: contribute/mediawiki.md:block 8 (unordered list)
 msgid ""
 "[Learn about skins on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Skins)"
 msgstr ""
 
-#: contribute/mediawiki.md:block 14 (unordered list)
+#: contribute/mediawiki.md:block 8 (unordered list)
 msgid ""
 "[Create a skin for "
 "MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:How_to_make_a_MediaWiki_skin)"
 msgstr ""
 
-#: contribute/mediawiki.md:block 14 (unordered list)
+#: contribute/mediawiki.md:block 8 (unordered list)
 msgid ""
 "[Configure skins for a "
 "wiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Skin_configuration)"
+msgstr ""
+
+#: contribute/mediawiki.md:block 12 (header)
+msgid "Write new extensions"
+msgstr ""
+
+#: contribute/mediawiki.md:block 13 (paragraph)
+msgid "How to set up, execute, and localize an extension."
+msgstr ""
+
+#: contribute/mediawiki.md:block 14 (unordered list)
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Manual:Developing_extensions)"
+msgstr ""
+
+#: contribute/mediawiki.md:block 14 (unordered list)
+msgid ""
+"[Extensions FAQ on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Extensions_FAQ)"
 msgstr ""
 
 #: contribute/overview.md:block 2 (paragraph)
 msgid "Get started as a new code contributor."
 msgstr ""
 
-#: contribute/overview.md:block 6 (header) get-started/wikimedia-tech.md:block
-#: 9 (header) quick-links/index.md:block 4 (header)
+#: contribute/overview.md:block 3 (header) get-started/wikimedia-tech.md:block
+#: 6 (header) quick-links/index.md:block 4 (header)
 msgid "Code search"
 msgstr ""
 
-#: contribute/overview.md:block 7 (paragraph)
-#: get-started/wikimedia-tech.md:block 10 (paragraph)
+#: contribute/overview.md:block 4 (paragraph)
+#: get-started/wikimedia-tech.md:block 7 (paragraph)
 #: quick-links/index.md:block 5 (paragraph)
 msgid "Search the Wikimedia codebases."
 msgstr ""
 
-#: contribute/overview.md:block 8 (unordered list)
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
+#: contribute/overview.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
 #: quick-links/index.md:block 6 (unordered list)
 msgid "[Code search](https://codesearch.wmcloud.org/search)"
 msgstr ""
 
-#: contribute/overview.md:block 8 (unordered list)
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
+#: contribute/overview.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
 #: quick-links/index.md:block 6 (unordered list)
 msgid "[Browse Gerrit repositories](https://gerrit.wikimedia.org/g/ a)"
 msgstr ""
 
-#: contribute/overview.md:block 8 (unordered list)
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
+#: contribute/overview.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
 #: quick-links/index.md:block 6 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
 msgstr ""
 
-#: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
-#: (header) get-started/wikimedia-tech.md:block 12 (header)
-msgid "Recommended projects for new contributors"
-msgstr ""
-
-#: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
-#: (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
-msgid "Find open source projects and tasks for new developers."
-msgstr ""
-
-#: contribute/overview.md:block 11 (unordered list)
-#: get-started/new-dev.md:block 5 (unordered list)
-#: get-started/wikimedia-tech.md:block 14 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers#Choose_a_software_project)"
-msgstr ""
-
-#: contribute/overview.md:block 12 (header)
-msgid "Learn the basics of MediaWiki development"
-msgstr ""
-
-#: contribute/overview.md:block 13 (paragraph)
-msgid ""
-"Introduction to development of MediaWiki core and extensions that are part "
-"of MediaWiki core."
-msgstr ""
-
-#: contribute/overview.md:block 14 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker)"
-msgstr ""
-
-#: contribute/overview.md:block 15 (header) get-started/new-dev.md:block 6
+#: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 3
 #: (header)
 msgid "Learn the basics for new developers"
 msgstr ""
 
-#: contribute/overview.md:block 16 (paragraph) get-started/new-dev.md:block 7
+#: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 4
 #: (paragraph)
 msgid ""
 "Guidance for getting started as a developer and contributing to Wikimedia "
 "projects."
 msgstr ""
 
-#: contribute/overview.md:block 17 (unordered list)
-#: get-started/new-dev.md:block 8 (unordered list)
+#: contribute/overview.md:block 8 (unordered list)
+#: get-started/new-dev.md:block 5 (unordered list)
 msgid ""
 "[New developers guide on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr ""
+
+#: contribute/overview.md:block 9 (header)
+msgid "Learn the basics of MediaWiki development"
+msgstr ""
+
+#: contribute/overview.md:block 10 (paragraph)
+msgid ""
+"Introduction to development of MediaWiki core and extensions that are part "
+"of MediaWiki core."
+msgstr ""
+
+#: contribute/overview.md:block 11 (unordered list)
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker)"
+msgstr ""
+
+#: contribute/overview.md:block 15 (header) get-started/new-dev.md:block 6
+#: (header) get-started/wikimedia-tech.md:block 15 (header)
+msgid "Recommended projects for new contributors"
+msgstr ""
+
+#: contribute/overview.md:block 16 (paragraph) get-started/new-dev.md:block 7
+#: (paragraph) get-started/wikimedia-tech.md:block 16 (paragraph)
+msgid "Find open source projects and tasks for new developers."
+msgstr ""
+
+#: contribute/overview.md:block 17 (unordered list)
+#: get-started/new-dev.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 17 (unordered list)
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers#Choose_a_software_project)"
 msgstr ""
 
 #: get-help/index.md:title get-help/index.md:block 1 (header)
@@ -1429,55 +1429,55 @@ msgstr ""
 msgid "Get started with Wikimedia APIs."
 msgstr ""
 
-#: get-started/tutorials.md:block 3 (header) use-content/tutorials.md:block 3
-#: (header)
-msgid "Holidays viewer"
-msgstr ""
-
-#: get-started/tutorials.md:block 4 (paragraph) use-content/tutorials.md:block
-#: 4 (paragraph)
-msgid ""
-"Build an app that fetches holidays and observances for a given date from "
-"Wikipedia, with an option to log in to add new holidays."
-msgstr ""
-
-#: get-started/tutorials.md:block 5 (unordered list)
-#: use-content/tutorials.md:block 5 (unordered list)
-msgid ""
-"[Read the tutorial on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
-msgstr ""
-
-#: get-started/tutorials.md:block 6 (header)
+#: get-started/tutorials.md:block 3 (header)
 #: quick-links/browse-by-api.md:block 12 (header)
-#: use-content/tutorials.md:block 6 (header)
+#: use-content/tutorials.md:block 3 (header)
 msgid "Article ideas generator"
 msgstr ""
 
-#: get-started/tutorials.md:block 7 (paragraph)
+#: get-started/tutorials.md:block 4 (paragraph)
 #: quick-links/browse-by-api.md:block 13 (paragraph)
-#: use-content/tutorials.md:block 7 (paragraph)
+#: use-content/tutorials.md:block 4 (paragraph)
 msgid ""
 "Learn to use the MediaWiki Action API Parse and Links modules by building an"
 " app that generates article ideas."
 msgstr ""
 
-#: get-started/tutorials.md:block 8 (unordered list)
+#: get-started/tutorials.md:block 5 (unordered list)
 #: quick-links/browse-by-api.md:block 14 (unordered list)
-#: use-content/tutorials.md:block 8 (unordered list)
+#: use-content/tutorials.md:block 5 (unordered list)
 msgid ""
 "[Read the tutorial on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 msgstr ""
 
+#: get-started/tutorials.md:block 6 (header) use-content/tutorials.md:block 6
+#: (header)
+msgid "Holidays viewer"
+msgstr ""
+
+#: get-started/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
+#: 7 (paragraph)
+msgid ""
+"Build an app that fetches holidays and observances for a given date from "
+"Wikipedia, with an option to log in to add new holidays."
+msgstr ""
+
+#: get-started/tutorials.md:block 8 (unordered list)
+#: use-content/tutorials.md:block 8 (unordered list)
+msgid ""
+"[Read the tutorial on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+msgstr ""
+
 #: get-started/tutorials.md:block 9 (header)
-#: quick-links/browse-by-api.md:block 18 (header)
+#: quick-links/browse-by-api.md:block 27 (header)
 #: use-content/tutorials.md:block 9 (header)
 msgid "Nearby places viewer"
 msgstr ""
 
 #: get-started/tutorials.md:block 10 (paragraph)
-#: quick-links/browse-by-api.md:block 19 (paragraph)
+#: quick-links/browse-by-api.md:block 28 (paragraph)
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid ""
 "Learn to use the MediaWiki Action API Geosearch module by searching for wiki"
@@ -1485,7 +1485,7 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 11 (unordered list)
-#: quick-links/browse-by-api.md:block 20 (unordered list)
+#: quick-links/browse-by-api.md:block 29 (unordered list)
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid ""
 "[Read the tutorial on "
@@ -1493,13 +1493,13 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 12 (header)
-#: quick-links/browse-by-api.md:block 27 (header)
+#: quick-links/browse-by-api.md:block 30 (header)
 #: use-content/tutorials.md:block 12 (header)
 msgid "Picture of the day viewer"
 msgstr ""
 
 #: get-started/tutorials.md:block 13 (paragraph)
-#: quick-links/browse-by-api.md:block 28 (paragraph)
+#: quick-links/browse-by-api.md:block 31 (paragraph)
 #: use-content/tutorials.md:block 13 (paragraph)
 msgid ""
 "Learn to use the MediaWiki Action API Images and Imageinfo modules by "
@@ -1507,7 +1507,7 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 14 (unordered list)
-#: quick-links/browse-by-api.md:block 29 (unordered list)
+#: quick-links/browse-by-api.md:block 32 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
 msgid ""
 "[Read the tutorial on "
@@ -1522,176 +1522,176 @@ msgstr ""
 msgid "Get started with Wikidata and querying Wikimedia data dumps."
 msgstr ""
 
-#: get-started/tutorials.md:block 18 (header) use-content/data.md:block 21
-#: (header)
-msgid "Write a bot that uses Wikidata"
-msgstr ""
-
-#: get-started/tutorials.md:block 19 (paragraph) use-content/data.md:block 22
-#: (paragraph)
-msgid ""
-"Use Python 3, Wikidata and Pywikibot to handle large datasets and transfer "
-"data between tools in your workflow."
-msgstr ""
-
-#: get-started/tutorials.md:block 20 (unordered list)
-#: use-content/data.md:block 23 (unordered list)
-msgid ""
-"[Read the tutorial on "
-"Wikidata](https://www.wikidata.org/wiki/Wikidata:Pywikibot_-"
-"_Python_3_Tutorial)"
-msgstr ""
-
-#: get-started/tutorials.md:block 21 (header) use-content/data.md:block 27
+#: get-started/tutorials.md:block 18 (header) use-content/data.md:block 6
 #: (header)
 msgid "Display info from Wikidata"
 msgstr ""
 
-#: get-started/tutorials.md:block 22 (paragraph) use-content/data.md:block 28
+#: get-started/tutorials.md:block 19 (paragraph) use-content/data.md:block 7
 #: (paragraph)
 msgid ""
 "Retrieve and present relevant information from Wikidata by associating it "
 "with entities in your application."
 msgstr ""
 
-#: get-started/tutorials.md:block 23 (unordered list)
-#: use-content/data.md:block 29 (unordered list)
+#: get-started/tutorials.md:block 20 (unordered list)
+#: use-content/data.md:block 8 (unordered list)
 msgid ""
 "[Read the tutorial on "
 "mediawiki.org](https://www.mediawiki.org/wiki/API:Presenting_Wikidata_knowledge)"
 msgstr ""
 
-#: get-started/tutorials.md:block 23 (unordered list)
-#: use-content/data.md:block 29 (unordered list)
+#: get-started/tutorials.md:block 20 (unordered list)
+#: use-content/data.md:block 8 (unordered list)
 msgid ""
 "[Python 3, Wikidata and "
 "Pywikibot](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr ""
+
+#: get-started/tutorials.md:block 21 (header) use-content/data.md:block 27
+#: (header)
+msgid "Write a bot that uses Wikidata"
+msgstr ""
+
+#: get-started/tutorials.md:block 22 (paragraph) use-content/data.md:block 28
+#: (paragraph)
+msgid ""
+"Use Python 3, Wikidata and Pywikibot to handle large datasets and transfer "
+"data between tools in your workflow."
+msgstr ""
+
+#: get-started/tutorials.md:block 23 (unordered list)
+#: use-content/data.md:block 29 (unordered list)
+msgid ""
+"[Read the tutorial on "
+"Wikidata](https://www.wikidata.org/wiki/Wikidata:Pywikibot_-"
+"_Python_3_Tutorial)"
 msgstr ""
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 3 (header)
-msgid "Wikipedia for Android"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 4 (paragraph)
-msgid "Wikipedia app for Android devices."
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid ""
-"[How to become a Wikimedia Android app "
-"developer](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Apps/Team/Android/App_hacking)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid ""
-"[Download from Google "
-"Play](https://play.google.com/store/apps/details?id=org.wikipedia)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid ""
-"[Download from "
-"F-Droid](https://f-droid.org/repository/browse/?fdid=org.wikipedia)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid ""
-"[Download .apk "
-"files](https://releases.wikimedia.org/mobile/android/wikipedia/stable/)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid ""
-"[Read the FAQ on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Apps/Android_FAQ)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid ""
-"[(Beta) Download from Google "
-"Play](https://play.google.com/store/apps/details?id=org.wikipedia.beta)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid ""
-"[(Beta) Download .apk "
-"files](https://releases.wikimedia.org/mobile/android/wikipedia/betas/)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 15 (header)
+#: get-started/wikimedia-tech.md:block 9 (header)
 msgid "MediaWiki"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 16 (paragraph)
+#: get-started/wikimedia-tech.md:block 10 (paragraph)
 msgid "The collaborative editing engine that runs Wikipedia."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 17 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid "[Project homepage](https://www.mediawiki.org/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 17 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid "[Source code](https://phabricator.wikimedia.org/source/mediawiki/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 17 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid ""
 "[MediaWiki "
 "documentation](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Contents)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 17 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid ""
 "[PHP code documentation](https://doc.wikimedia.org/mediawiki-"
 "core/master/php/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 17 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid ""
 "[JavaScript code documentation](https://doc.wikimedia.org/mediawiki-"
 "core/master/js/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 17 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid ""
 "[Coding conventions for "
 "MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Coding_conventions)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 18 (header)
+#: get-started/wikimedia-tech.md:block 12 (header)
 msgid "Offline reading projects"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 19 (paragraph)
+#: get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "Help people use Wikipedia without internet access."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 20 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid ""
 "[Join the offline projects user "
 "group](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 20 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute to Kiwix](https://www.kiwix.org/en/support-us/code/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 24 (header)
+#: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 25 (paragraph)
+#: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "The software suite that powers Wikidata."
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
+msgid ""
+"[Project "
+"homepage](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 24 (header)
+msgid "Wikipedia for Android"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 25 (paragraph)
+msgid "Wikipedia app for Android devices."
 msgstr ""
 
 #: get-started/wikimedia-tech.md:block 26 (unordered list)
 msgid ""
-"[Project "
-"homepage](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+"[How to become a Wikimedia Android app "
+"developer](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Apps/Team/Android/App_hacking)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 26 (unordered list)
+msgid ""
+"[Download from Google "
+"Play](https://play.google.com/store/apps/details?id=org.wikipedia)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 26 (unordered list)
+msgid ""
+"[Download from "
+"F-Droid](https://f-droid.org/repository/browse/?fdid=org.wikipedia)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 26 (unordered list)
+msgid ""
+"[Download .apk "
+"files](https://releases.wikimedia.org/mobile/android/wikipedia/stable/)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 26 (unordered list)
+msgid ""
+"[Read the FAQ on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Apps/Android_FAQ)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 26 (unordered list)
+msgid ""
+"[(Beta) Download from Google "
+"Play](https://play.google.com/store/apps/details?id=org.wikipedia.beta)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 26 (unordered list)
+msgid ""
+"[(Beta) Download .apk "
+"files](https://releases.wikimedia.org/mobile/android/wikipedia/betas/)"
 msgstr ""
 
 #: grow/index.md:block 3 (header) grow/tech-capacity.md:title
@@ -1759,36 +1759,36 @@ msgid ""
 msgstr ""
 
 #: grow/tech-capacity.md:block 3 (header)
-msgid "Small wiki toolkits"
-msgstr ""
-
-#: grow/tech-capacity.md:block 4 (paragraph)
-msgid ""
-"Recommended tools and educational resources to support small wiki "
-"communities in learning and sharing technical skills."
-msgstr ""
-
-#: grow/tech-capacity.md:block 5 (unordered list)
-msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr ""
-
-#: grow/tech-capacity.md:block 6 (header)
 msgid "Become a tech ambassador"
 msgstr ""
 
-#: grow/tech-capacity.md:block 7 (paragraph)
+#: grow/tech-capacity.md:block 4 (paragraph)
 msgid ""
 "Tech ambassadors are technically-minded volunteers who help other "
 "Wikimedians with technical issues, and act as a bridge between developers "
 "and local Wikimedia wikis."
 msgstr ""
 
-#: grow/tech-capacity.md:block 8 (unordered list)
+#: grow/tech-capacity.md:block 5 (unordered list)
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+msgstr ""
+
+#: grow/tech-capacity.md:block 6 (header)
+msgid "Small wiki toolkits"
+msgstr ""
+
+#: grow/tech-capacity.md:block 7 (paragraph)
+msgid ""
+"Recommended tools and educational resources to support small wiki "
+"communities in learning and sharing technical skills."
+msgstr ""
+
+#: grow/tech-capacity.md:block 8 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 msgstr ""
 
 #: quick-links/index.md:title
@@ -1824,17 +1824,17 @@ msgid ""
 msgstr ""
 
 #: quick-links/api-catalog.md:block 3 (header) use-content/apis.md:block 3
-#: (header) use-content/data.md:block 12 (header)
+#: (header) use-content/data.md:block 9 (header)
 msgid "Event streams API"
 msgstr ""
 
 #: quick-links/api-catalog.md:block 4 (paragraph) use-content/apis.md:block 4
-#: (paragraph) use-content/data.md:block 13 (paragraph)
+#: (paragraph) use-content/data.md:block 10 (paragraph)
 msgid "Get the most recent changes to Wikimedia projects."
 msgstr ""
 
 #: quick-links/api-catalog.md:block 5 (unordered list)
-#: use-content/apis.md:block 5 (unordered list) use-content/data.md:block 14
+#: use-content/apis.md:block 5 (unordered list) use-content/data.md:block 11
 #: (unordered list)
 msgid ""
 "[Read the docs on "
@@ -1873,7 +1873,7 @@ msgstr ""
 #: quick-links/api-catalog.md:block 11 (unordered list)
 #: quick-links/browse-by-api.md:block 9 (unordered list)
 #: use-content/apis.md:block 11 (unordered list) use-content/content.md:block
-#: 11 (unordered list)
+#: 14 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:REST_API)"
@@ -1932,15 +1932,15 @@ msgstr ""
 msgid "Experimental APIs may change without notice."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 20 (header)
+#: quick-links/api-catalog.md:block 23 (header)
 msgid "Image suggestion API"
 msgstr ""
 
-#: quick-links/api-catalog.md:block 21 (paragraph)
+#: quick-links/api-catalog.md:block 24 (paragraph)
 msgid "Suggests images to improve articles."
 msgstr ""
 
-#: quick-links/api-catalog.md:block 22 (unordered list)
+#: quick-links/api-catalog.md:block 25 (unordered list)
 msgid ""
 "[Try the interactive docs](https://image-suggestion-"
 "api.wmcloud.org/?doc#/Image%20Suggestions)"
@@ -1955,26 +1955,26 @@ msgid "List of MediaWiki REST API resources."
 msgstr ""
 
 #: quick-links/browse-by-api.md:block 4 (header) use-content/content.md:block
-#: 6 (header)
+#: 3 (header)
 msgid "Get featured content by date"
 msgstr ""
 
 #: quick-links/browse-by-api.md:block 5 (paragraph)
-#: use-content/content.md:block 7 (paragraph)
+#: use-content/content.md:block 4 (paragraph)
 msgid ""
 "The Wikipedia featured content API provides daily featured articles, most "
 "read pages, and more."
 msgstr ""
 
 #: quick-links/browse-by-api.md:block 6 (unordered list)
-#: use-content/content.md:block 8 (unordered list)
+#: use-content/content.md:block 5 (unordered list)
 msgid ""
 "[See language "
 "availability](https://wikimedia.org/api/rest_v1/#/Feed%20content%20availability)"
 msgstr ""
 
 #: quick-links/browse-by-api.md:block 6 (unordered list)
-#: use-content/content.md:block 8 (unordered list)
+#: use-content/content.md:block 5 (unordered list)
 msgid ""
 "[Read the "
 "tutorial](https://public.paws.wmcloud.org/User:APaskulin_(WMF)/API-"
@@ -1982,24 +1982,24 @@ msgid ""
 msgstr ""
 
 #: quick-links/browse-by-api.md:block 6 (unordered list)
-#: use-content/content.md:block 8 (unordered list)
+#: use-content/content.md:block 5 (unordered list)
 msgid "[Try out the interactive docs](https://en.wikipedia.org/api/rest_v1/)"
 msgstr ""
 
 #: quick-links/browse-by-api.md:block 7 (header) use-content/content.md:block
-#: 9 (header)
+#: 12 (header)
 msgid "Search for and display wiki pages and media"
 msgstr ""
 
 #: quick-links/browse-by-api.md:block 8 (paragraph)
-#: use-content/content.md:block 10 (paragraph)
+#: use-content/content.md:block 13 (paragraph)
 msgid ""
 "Use the Search API to find articles in Wikipedia, images in Commons, and "
 "more."
 msgstr ""
 
 #: quick-links/browse-by-api.md:block 9 (unordered list)
-#: use-content/content.md:block 11 (unordered list)
+#: use-content/content.md:block 14 (unordered list)
 msgid ""
 "[Read the tutorial](https://public.paws.wmcloud.org/User:APaskulin_(WMF)/en-"
 "wikipedia-search.ipynb)"
@@ -2009,25 +2009,25 @@ msgstr ""
 msgid "List of MediaWiki Action API resources."
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 21 (header) use-content/content.md:block
-#: 3 (header)
+#: quick-links/browse-by-api.md:block 18 (header) use-content/content.md:block
+#: 6 (header)
 msgid "Get pages by title on any Wikimedia project"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 22 (paragraph)
-#: use-content/content.md:block 4 (paragraph)
+#: quick-links/browse-by-api.md:block 19 (paragraph)
+#: use-content/content.md:block 7 (paragraph)
 msgid "Use the Page API."
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 23 (unordered list)
-#: use-content/content.md:block 5 (unordered list)
+#: quick-links/browse-by-api.md:block 20 (unordered list)
+#: use-content/content.md:block 8 (unordered list)
 msgid ""
 "[Read the "
 "tutorial](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 msgstr ""
 
-#: quick-links/browse-by-api.md:block 23 (unordered list)
-#: use-content/content.md:block 5 (unordered list)
+#: quick-links/browse-by-api.md:block 20 (unordered list)
+#: use-content/content.md:block 8 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Parsing_wikitext)"
@@ -2080,15 +2080,15 @@ msgstr ""
 msgid "[Learn more](data.md)"
 msgstr ""
 
-#: use-content/content.md:block 12 (header)
+#: use-content/content.md:block 9 (header)
 msgid "Get pages in mobile format"
 msgstr ""
 
-#: use-content/content.md:block 13 (paragraph)
+#: use-content/content.md:block 10 (paragraph)
 msgid "Use the Mobile API."
 msgstr ""
 
-#: use-content/content.md:block 14 (unordered list)
+#: use-content/content.md:block 11 (unordered list)
 msgid ""
 "[Try out the interactive "
 "docs](https://en.wikipedia.org/api/rest_v1/#/Mobile)"
@@ -2115,71 +2115,71 @@ msgid ""
 "index.html)"
 msgstr ""
 
-#: use-content/data.md:block 6 (header)
-msgid "Query content databases"
-msgstr ""
-
-#: use-content/data.md:block 7 (paragraph)
-msgid ""
-"Wiki replicas are sanitized versions of the databases that back Wikimedia's "
-"production sites."
-msgstr ""
-
-#: use-content/data.md:block 8 (unordered list)
-msgid ""
-"[Wiki replicas "
-"overview](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Wiki_Replicas)"
-msgstr ""
-
-#: use-content/data.md:block 8 (unordered list)
-msgid ""
-"[Run SQL queries with "
-"Quarry](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
-msgstr ""
-
-#: use-content/data.md:block 8 (unordered list)
-msgid ""
-"[Run queries and create visualizations in "
-"PAWS](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/PAWS)"
-msgstr ""
-
-#: use-content/data.md:block 9 (header)
-msgid "Use Wikimedia open data"
-msgstr ""
-
-#: use-content/data.md:block 10 (paragraph)
-msgid "Publicly-available, open-licensed data about Wikimedia projects."
-msgstr ""
-
-#: use-content/data.md:block 11 (unordered list)
-msgid ""
-"[Read more on Meta-"
-"wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
-msgstr ""
-
-#: use-content/data.md:block 18 (header)
+#: use-content/data.md:block 12 (header)
 msgid "Get data about wikis"
 msgstr ""
 
-#: use-content/data.md:block 19 (paragraph)
+#: use-content/data.md:block 13 (paragraph)
 msgid ""
 "Get Wikidata, page views, edit scores, and more data from Wikimedia "
 "projects."
 msgstr ""
 
-#: use-content/data.md:block 20 (unordered list)
+#: use-content/data.md:block 14 (unordered list)
 msgid ""
 "[Wiki page view data](https://wikimedia.org/api/rest_v1/#/Pageviews%20data)"
 msgstr ""
 
-#: use-content/data.md:block 20 (unordered list)
+#: use-content/data.md:block 14 (unordered list)
 msgid ""
 "[Unique devices "
 "data](https://wikimedia.org/api/rest_v1/#/Unique%20devices%20data)"
 msgstr ""
 
-#: use-content/data.md:block 20 (unordered list)
+#: use-content/data.md:block 14 (unordered list)
 msgid ""
 "[Explore project data on Wikistats](https://stats.wikimedia.org/#/all-"
 "projects)"
+msgstr ""
+
+#: use-content/data.md:block 15 (header)
+msgid "Query content databases"
+msgstr ""
+
+#: use-content/data.md:block 16 (paragraph)
+msgid ""
+"Wiki replicas are sanitized versions of the databases that back Wikimedia's "
+"production sites."
+msgstr ""
+
+#: use-content/data.md:block 17 (unordered list)
+msgid ""
+"[Wiki replicas "
+"overview](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Wiki_Replicas)"
+msgstr ""
+
+#: use-content/data.md:block 17 (unordered list)
+msgid ""
+"[Run SQL queries with "
+"Quarry](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+msgstr ""
+
+#: use-content/data.md:block 17 (unordered list)
+msgid ""
+"[Run queries and create visualizations in "
+"PAWS](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/PAWS)"
+msgstr ""
+
+#: use-content/data.md:block 18 (header)
+msgid "Use Wikimedia open data"
+msgstr ""
+
+#: use-content/data.md:block 19 (paragraph)
+msgid "Publicly-available, open-licensed data about Wikimedia projects."
+msgstr ""
+
+#: use-content/data.md:block 20 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
 msgstr ""

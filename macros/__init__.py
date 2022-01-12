@@ -29,24 +29,45 @@ def define_env(env):
     documents_dir = data_dir / "documents"
 
     cat_tree = {}
-    for cat in categories_dir.glob("**/*.yaml"):
-        with cat.open() as f:
-            for doc in yaml.safe_load_all(f):
-                if "category" in doc:
-                    doc["documents"] = []
-                    cat_tree[doc["category"]] = doc
+    # Collect all category descriptions from filesystem
+    for category_file in categories_dir.glob("**/*.yaml"):
+        with category_file.open() as f:
+            for category in yaml.safe_load_all(f):
+                if "category" in category:
+                    category["documents"] = []
+                    cat_tree[category["category"]] = category
                 else:
-                    chatter("{} missing category".format(cat))
-    for document in documents_dir.glob("**/*.yaml"):
-        with document.open() as f:
-            for doc in yaml.safe_load_all(f):
-                for category in doc.get("categories"):
+                    chatter("{} missing category".format(category_file))
+    # Collect all document descriptions from filesystem and associate with
+    # categories
+    for document_file in documents_dir.glob("**/*.yaml"):
+        with document_file.open() as f:
+            for document in yaml.safe_load_all(f):
+                cats = document.get("categories")
+                if isinstance(cats, list):
+                    # Convert legacy list of category names into dict of
+                    # name:sortidx pairs. The default sortidx is 0.
+                    cats = {category: 0 for category in cats}
+                for category, sortidx in cats.items():
                     if category in cat_tree:
-                        cat_tree[category]["documents"].append(doc)
+                        cat_tree[category]["documents"].append(
+                            (sortidx, document["title"], document)
+                        )
                     else:
                         chatter(
-                            "{}: unknown category '{}'".format(doc, category)
+                            "{}: unknown category '{}'".format(
+                                document,
+                                category,
+                            )
                         )
+    # Sort document collections for each category
+    for category in cat_tree.keys():
+        cat_tree[category]["documents"] = [
+            document
+            for sortidx, title, document in sorted(
+                cat_tree[category]["documents"]
+            )
+        ]
     env.variables.categories = cat_tree
 
     @env.macro
