@@ -2,7 +2,7 @@
 title: Write new extensions
 description: How to set up, execute, and localize an extension.
 links:
-  - url: https://www.mediawiki.org/wiki/Manual:Developing_extensions
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Developing_extensions
     label: Read the docs on mediawiki.org
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Extensions_FAQ
     label: Extensions FAQ on mediawiki.org

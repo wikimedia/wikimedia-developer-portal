@@ -2,7 +2,7 @@
 title: Cloud tools and services
 description: Infrastructure and support for contributors to Wikimedia software projects.
 links:
-  - url: https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Help:Cloud_Services_Introduction
+  - url: https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction
     label: Cloud services overview on Wikitech
 categories:
   - wikimedia-tech

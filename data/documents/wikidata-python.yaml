@@ -1,8 +1,8 @@
 ---
-title: Write a bot that uses Wikidata 
-description: Use Python 3, Wikidata and Pywikibot to handle large datasets and transfer data between tools in your workflow.
+title: Write a bot that uses Wikidata
+description: Use Python 3, Wikidata, and Pywikibot to handle large datasets and transfer data between tools in your workflow.
 links:
-  - url: https://www.wikidata.org/wiki/Wikidata:Pywikibot_-_Python_3_Tutorial
+  - url: https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial
     label: Read the tutorial on Wikidata
 categories:
   - tutorials-data

@@ -1,10 +1,11 @@
 ---
+title: Quick links
 hide:
   - toc
 ---
 <!--Don't want to add additional superfluous md files for this section, so combining some templating and direct links -->
 
-{{ category.render( "quick-links", 2 ) }}
+{{ category.render( "quick-links" ) }}
 
 ## API catalog
 

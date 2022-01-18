@@ -2,9 +2,9 @@
 title: Create a Phabricator account
 description: Use Phabricator for software bug reports, feature requests, and planning work.
 links:
-  - url: https://www.mediawiki.org/wiki/Phabricator
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator
     label: Phabricator overview
-  - url: https://www.mediawiki.org/wiki/Phabricator/Help#Creating_your_account
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help#Creating_your_account
     label: Set up your account
 categories:
   - setup

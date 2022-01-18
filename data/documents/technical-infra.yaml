@@ -2,7 +2,7 @@
 title: Technical infrastructure
 description: Learn about the infrastructure behind Wikimedia projects.
 links:
-  - url: https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_infrastructure
+  - url: https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure
     label: Read the docs on Wikitech
 categories:
   - wikimedia-tech-operations

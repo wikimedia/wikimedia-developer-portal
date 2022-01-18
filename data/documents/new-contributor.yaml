@@ -2,7 +2,7 @@
 title: Learn the basics of MediaWiki development
 description: Introduction to development of MediaWiki core and extensions that are part of MediaWiki core.
 links:
-  - url: https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker
     label: Read the docs on mediawiki.org
 categories:
   - new-contributor

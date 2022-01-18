@@ -51,7 +51,8 @@ msgstr ""
 msgid "Grow your skills"
 msgstr ""
 
-#: mkdocs.yml:navigation quick-links/index.md:block 2 (header)
+#: mkdocs.yml:navigation quick-links/index.md:title quick-links/index.md:block
+#: 2 (header)
 msgid "Quick links"
 msgstr ""
 
@@ -150,7 +151,7 @@ msgstr ""
 msgid ""
 "This site currently in development. For more information about the project "
 "and to share your feedback, visit "
-"[mediawiki.org](https://www.mediawiki.org/wiki/Developer_Advocacy/Developer_Portal)."
+"[mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
 msgstr ""
 
 #: about/index.md:block 4 (header)
@@ -547,7 +548,7 @@ msgstr ""
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid ""
 "[Read the Toolforge docs on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Portal:Toolforge)"
+"Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
 msgstr ""
 
 #: build-tools/setup.md:block 2 (paragraph)
@@ -567,13 +568,15 @@ msgid ""
 msgstr ""
 
 #: build-tools/setup.md:block 5 (unordered list)
-msgid "[Phabricator overview](https://www.mediawiki.org/wiki/Phabricator)"
+msgid ""
+"[Phabricator "
+"overview](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator)"
 msgstr ""
 
 #: build-tools/setup.md:block 5 (unordered list)
 msgid ""
 "[Set up your "
-"account](https://www.mediawiki.org/wiki/Phabricator/Help#Creating_your_account)"
+"account](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help#Creating_your_account)"
 msgstr ""
 
 #: build-tools/setup.md:block 6 (header)
@@ -605,19 +608,20 @@ msgstr ""
 
 #: build-tools/setup.md:block 11 (unordered list)
 msgid ""
-"[Set up Git](https://www.mediawiki.org/wiki/Gerrit/Tutorial#Set_up_Git)"
+"[Set up "
+"Git](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial#Set_up_Git)"
 msgstr ""
 
 #: build-tools/setup.md:block 11 (unordered list)
 msgid ""
 "[Set up SSH keys in "
-"Gerrit](https://www.mediawiki.org/wiki/Gerrit/Tutorial#Set_Up_SSH_Keys_in_Gerrit)"
+"Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial#Set_Up_SSH_Keys_in_Gerrit)"
 msgstr ""
 
 #: build-tools/setup.md:block 11 (unordered list)
 msgid ""
 "[Install and configure git-"
-"review](https://www.mediawiki.org/wiki/Gerrit/Tutorial#Prepare_to_work_with_Gerrit)"
+"review](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial#Prepare_to_work_with_Gerrit)"
 msgstr ""
 
 #: connect/index.md:title connect/index.md:block 1 (header)
@@ -820,7 +824,7 @@ msgstr ""
 #: (unordered list)
 msgid ""
 "[Browse talks on "
-"medawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks)"
 msgstr ""
 
 #: connect/grants.md:block 3 (header)
@@ -856,8 +860,8 @@ msgstr ""
 
 #: connect/updates.md:block 8 (unordered list)
 msgid ""
-"[Read the latest tech news on "
-"medawiki.org](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+"[Read the latest tech news on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 msgstr ""
 
 #: connect/updates.md:block 9 (header)
@@ -871,7 +875,7 @@ msgstr ""
 #: connect/updates.md:block 11 (unordered list)
 msgid ""
 "[Read the latest newsletter on "
-"medawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 3 (header)
@@ -889,7 +893,7 @@ msgstr ""
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid ""
 "[Cloud services overview on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Help:Cloud_Services_Introduction)"
+"Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction)"
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 6 (header)
@@ -930,8 +934,7 @@ msgstr ""
 
 #: connect/wmf-technical-operations.md:block 14 (unordered list)
 msgid ""
-"[Read the docs on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Deployments)"
+"[Read the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 15 (header)
@@ -980,7 +983,7 @@ msgstr ""
 #: connect/wmf-technical-operations.md:block 23 (unordered list)
 msgid ""
 "[Read the docs on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_infrastructure)"
+"Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
 msgstr ""
 
 #: contribute/index.md:block 3 (header) contribute/overview.md:title
@@ -1063,13 +1066,13 @@ msgstr ""
 #: contribute/accessibility.md:block 5 (unordered list)
 msgid ""
 "[Brief guide to how accessibility "
-"works](https://www.mediawiki.org/wiki/Accessibility_guide_for_developers#How_accessibility_works)"
+"works](https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers#How_accessibility_works)"
 msgstr ""
 
 #: contribute/accessibility.md:block 5 (unordered list)
 msgid ""
 "[Developer guidelines for "
-"accessibility](https://www.mediawiki.org/wiki/Accessibility_guide_for_developers#Development_guidelines)"
+"accessibility](https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers#Development_guidelines)"
 msgstr ""
 
 #: contribute/documentation.md:block 2 (paragraph)
@@ -1112,7 +1115,7 @@ msgstr ""
 #: contribute/localization.md:block 5 (unordered list)
 msgid ""
 "[Read more on Meta-"
-"wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Requests_for_new_languages)"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Requests_for_new_languages)"
 msgstr ""
 
 #: contribute/localization.md:block 6 (header)
@@ -1180,7 +1183,7 @@ msgstr ""
 #: contribute/mediawiki.md:block 5 (unordered list)
 msgid ""
 "[Extensions in need of "
-"maintainers](https://www.mediawiki.org/wiki/Category:Unmaintained_extensions)"
+"maintainers](https://www.mediawiki.org/wiki/Special:MyLanguage/Category:Unmaintained_extensions)"
 msgstr ""
 
 #: contribute/mediawiki.md:block 6 (header)
@@ -1222,7 +1225,7 @@ msgstr ""
 #: contribute/mediawiki.md:block 14 (unordered list)
 msgid ""
 "[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Manual:Developing_extensions)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Developing_extensions)"
 msgstr ""
 
 #: contribute/mediawiki.md:block 14 (unordered list)
@@ -1255,7 +1258,7 @@ msgstr ""
 #: contribute/overview.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 #: quick-links/index.md:block 6 (unordered list)
-msgid "[Browse Gerrit repositories](https://gerrit.wikimedia.org/g/ a)"
+msgid "[Browse Gerrit repositories](https://gerrit.wikimedia.org/g/)"
 msgstr ""
 
 #: contribute/overview.md:block 5 (unordered list)
@@ -1296,7 +1299,7 @@ msgstr ""
 #: contribute/overview.md:block 11 (unordered list)
 msgid ""
 "[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 msgstr ""
 
 #: contribute/overview.md:block 15 (header) get-started/new-dev.md:block 6
@@ -1538,14 +1541,15 @@ msgstr ""
 #: use-content/data.md:block 8 (unordered list)
 msgid ""
 "[Read the tutorial on "
-"mediawiki.org](https://www.mediawiki.org/wiki/API:Presenting_Wikidata_knowledge)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
 msgstr ""
 
 #: get-started/tutorials.md:block 20 (unordered list)
 #: use-content/data.md:block 8 (unordered list)
 msgid ""
 "[Python 3, Wikidata and "
-"Pywikibot](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+"Pywikibot](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-"
+"_Python_3_Tutorial)"
 msgstr ""
 
 #: get-started/tutorials.md:block 21 (header) use-content/data.md:block 27
@@ -1556,7 +1560,7 @@ msgstr ""
 #: get-started/tutorials.md:block 22 (paragraph) use-content/data.md:block 28
 #: (paragraph)
 msgid ""
-"Use Python 3, Wikidata and Pywikibot to handle large datasets and transfer "
+"Use Python 3, Wikidata, and Pywikibot to handle large datasets and transfer "
 "data between tools in your workflow."
 msgstr ""
 
@@ -1564,7 +1568,7 @@ msgstr ""
 #: use-content/data.md:block 29 (unordered list)
 msgid ""
 "[Read the tutorial on "
-"Wikidata](https://www.wikidata.org/wiki/Wikidata:Pywikibot_-"
+"Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-"
 "_Python_3_Tutorial)"
 msgstr ""
 
@@ -1791,10 +1795,6 @@ msgid ""
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 msgstr ""
 
-#: quick-links/index.md:title
-msgid "Index"
-msgstr ""
-
 #: quick-links/index.md:block 3 (paragraph)
 msgid "Navigate to frequently-used resources."
 msgstr ""
@@ -1838,7 +1838,7 @@ msgstr ""
 #: (unordered list)
 msgid ""
 "[Read the docs on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Event_Platform/EventStreams)"
+"Wikitech](https://wikitech.wikimedia.org/wiki/Event_Platform/EventStreams)"
 msgstr ""
 
 #: quick-links/api-catalog.md:block 6 (header)
@@ -1902,7 +1902,7 @@ msgstr ""
 #: (unordered list)
 msgid ""
 "[Browse SPARQL query "
-"examples.](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples)"
+"examples.](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:SPARQL_query_service/queries/examples)"
 msgstr ""
 
 #: quick-links/api-catalog.md:block 15 (header) use-content/apis.md:block 15
@@ -2154,8 +2154,7 @@ msgstr ""
 
 #: use-content/data.md:block 17 (unordered list)
 msgid ""
-"[Wiki replicas "
-"overview](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/Wiki_Replicas)"
+"[Wiki replicas overview](https://wikitech.wikimedia.org/wiki/Wiki_Replicas)"
 msgstr ""
 
 #: use-content/data.md:block 17 (unordered list)
@@ -2167,7 +2166,7 @@ msgstr ""
 #: use-content/data.md:block 17 (unordered list)
 msgid ""
 "[Run queries and create visualizations in "
-"PAWS](https://wikitech.wikimedia.org/wiki/Special:MyLanguage/PAWS)"
+"PAWS](https://wikitech.wikimedia.org/wiki/PAWS)"
 msgstr ""
 
 #: use-content/data.md:block 18 (header)
@@ -2181,5 +2180,5 @@ msgstr ""
 #: use-content/data.md:block 20 (unordered list)
 msgid ""
 "[Read more on Meta-"
-"wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
 msgstr ""
