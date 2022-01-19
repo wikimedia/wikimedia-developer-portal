@@ -2,7 +2,7 @@
 title: Recommended projects for new contributors
 description: Find open source projects and tasks for new developers.
 links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers#Choose_a_software_project
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Good_first_bugs
     label: Read the docs on mediawiki.org
 categories:
   - wikimedia-tech

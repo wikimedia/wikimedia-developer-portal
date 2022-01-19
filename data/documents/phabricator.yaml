@@ -4,7 +4,7 @@ description: Use Phabricator for software bug reports, feature requests, and pla
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator
     label: Phabricator overview
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help#Creating_your_account
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help
     label: Set up your account
 categories:
   - setup

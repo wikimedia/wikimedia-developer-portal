@@ -2,9 +2,7 @@
 title: Resources for building accessible software
 description: Learn about basic accessibility concepts and developer guidelines to make open source software more accessible.
 links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers#How_accessibility_works
-    label: Brief guide to how accessibility works
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers#Development_guidelines
-    label: Developer guidelines for accessibility
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers
+    label: Read the guide on mediawiki.org
 categories:
   - accessibility

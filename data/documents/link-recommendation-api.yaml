@@ -2,7 +2,7 @@
 title: Guide editors by suggesting links
 description: Use the Link Recommendations service to suggest links for articles.
 links:
-  - url: https://api.wikimedia.org/service/linkrecommendation/apidocs/#/default/get_v1_linkrecommendations__project___domain___page_title_
+  - url: https://api.wikimedia.org/service/linkrecommendation/apidocs/#/
     label: Try out the interactive docs
 categories:
   - automate-editing

@@ -308,7 +308,7 @@ msgstr ""
 #: quick-links/api-catalog.md:block 22 (unordered list)
 msgid ""
 "[Try out the interactive "
-"docs](https://api.wikimedia.org/service/linkrecommendation/apidocs/#/default/get_v1_linkrecommendations__project___domain___page_title_)"
+"docs](https://api.wikimedia.org/service/linkrecommendation/apidocs/#/)"
 msgstr ""
 
 #: build-tools/automate-editing.md:block 12 (header)
@@ -576,7 +576,7 @@ msgstr ""
 #: build-tools/setup.md:block 5 (unordered list)
 msgid ""
 "[Set up your "
-"account](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help#Creating_your_account)"
+"account](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
 msgstr ""
 
 #: build-tools/setup.md:block 6 (header)
@@ -608,20 +608,8 @@ msgstr ""
 
 #: build-tools/setup.md:block 11 (unordered list)
 msgid ""
-"[Set up "
-"Git](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial#Set_up_Git)"
-msgstr ""
-
-#: build-tools/setup.md:block 11 (unordered list)
-msgid ""
-"[Set up SSH keys in "
-"Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial#Set_Up_SSH_Keys_in_Gerrit)"
-msgstr ""
-
-#: build-tools/setup.md:block 11 (unordered list)
-msgid ""
-"[Install and configure git-"
-"review](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial#Prepare_to_work_with_Gerrit)"
+"[Read the tutorial on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 msgstr ""
 
 #: connect/index.md:title connect/index.md:block 1 (header)
@@ -1065,14 +1053,8 @@ msgstr ""
 
 #: contribute/accessibility.md:block 5 (unordered list)
 msgid ""
-"[Brief guide to how accessibility "
-"works](https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers#How_accessibility_works)"
-msgstr ""
-
-#: contribute/accessibility.md:block 5 (unordered list)
-msgid ""
-"[Developer guidelines for "
-"accessibility](https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers#Development_guidelines)"
+"[Read the guide on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers)"
 msgstr ""
 
 #: contribute/documentation.md:block 2 (paragraph)
@@ -1317,7 +1299,7 @@ msgstr ""
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid ""
 "[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers#Choose_a_software_project)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
 msgstr ""
 
 #: get-help/index.md:title get-help/index.md:block 1 (header)
@@ -1333,7 +1315,7 @@ msgstr ""
 #: get-help/index.md:block 3 (paragraph)
 msgid ""
 "[Explore ways to get "
-"help](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication#Get_help_or_support)"
+"help](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
 msgstr ""
 
 #: get-started/index.md:block 2 (header) get-started/new-dev.md:title
@@ -1547,7 +1529,7 @@ msgstr ""
 #: get-started/tutorials.md:block 20 (unordered list)
 #: use-content/data.md:block 8 (unordered list)
 msgid ""
-"[Python 3, Wikidata and "
+"[Python 3, Wikidata, and "
 "Pywikibot](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-"
 "_Python_3_Tutorial)"
 msgstr ""
@@ -1902,7 +1884,7 @@ msgstr ""
 #: (unordered list)
 msgid ""
 "[Browse SPARQL query "
-"examples.](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:SPARQL_query_service/queries/examples)"
+"examples](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:SPARQL_query_service/queries/examples)"
 msgstr ""
 
 #: quick-links/api-catalog.md:block 15 (header) use-content/apis.md:block 15
