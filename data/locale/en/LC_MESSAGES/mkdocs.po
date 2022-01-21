@@ -1299,7 +1299,7 @@ msgstr ""
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid ""
 "[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Good_first_bugs)"
 msgstr ""
 
 #: get-help/index.md:title get-help/index.md:block 1 (header)
