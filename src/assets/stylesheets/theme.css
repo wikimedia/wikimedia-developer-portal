@@ -6,21 +6,28 @@
 }
 
 [data-md-color-scheme="slate"] {
-	--md-typeset-a-color: #f77326;
-	--md-accent-fg-color: #EAF3FF;
+	--md-typeset-a-color: #f0bc00;
 }
 
 .md-typeset h1 {
-	font-weight: 400;
+	font-weight: 600;
 	color: var(--md-typeset-color);
+	font-size: 1.8rem;
 }
 
 .md-typeset h2 {
-	font-size: 1.2rem;
+	font-size: 1.3rem;
+	padding-bottom: 0.3rem;
+	border-bottom: 1px solid #eaecef;
 	font-weight: 600;
 }
 
 .md-typeset h3 {
-	font-size: 1rem;
+	font-size: 1.05rem;
 	font-weight: 600;
+}
+
+.md-typeset a:hover {
+	text-decoration: underline;
+	color: var(--md-typeset-a-color);
 }
