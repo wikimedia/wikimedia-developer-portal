@@ -288,7 +288,6 @@ msgid "Automate interactions with MediaWiki pages."
 msgstr ""
 
 #: build-tools/automate-editing.md:block 8 (unordered list)
-#: connect/grants.md:block 5 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Bots)"
@@ -660,46 +659,33 @@ msgstr ""
 msgid "[Learn more](code-maintainers.md)"
 msgstr ""
 
-#: connect/index.md:block 11 (header) connect/grants.md:title
-#: connect/grants.md:block 1 (header)
-msgid "Apply for grants"
-msgstr ""
-
-#: connect/index.md:block 12 (paragraph) connect/grants.md:block 2 (paragraph)
-msgid "Apply for a grant to improve software or conduct research."
-msgstr ""
-
-#: connect/index.md:block 13 (paragraph)
-msgid "[Learn more](grants.md)"
-msgstr ""
-
-#: connect/index.md:block 14 (header)
+#: connect/index.md:block 11 (header)
 #: connect/wmf-technical-operations.md:title
 #: connect/wmf-technical-operations.md:block 1 (header)
 msgid "Wikimedia Foundation technical operations"
 msgstr ""
 
-#: connect/index.md:block 15 (paragraph)
+#: connect/index.md:block 12 (paragraph)
 #: connect/wmf-technical-operations.md:block 2 (paragraph)
 msgid "Learn about the infrastructure and teams behind Wikimedia projects."
 msgstr ""
 
-#: connect/index.md:block 16 (paragraph)
+#: connect/index.md:block 13 (paragraph)
 msgid "[Learn more](wmf-technical-operations.md)"
 msgstr ""
 
-#: connect/index.md:block 17 (header) connect/updates.md:title
+#: connect/index.md:block 14 (header) connect/updates.md:title
 #: connect/updates.md:block 1 (header)
 msgid "Get tech project updates"
 msgstr ""
 
-#: connect/index.md:block 18 (paragraph) connect/updates.md:block 2
+#: connect/index.md:block 15 (paragraph) connect/updates.md:block 2
 #: (paragraph)
 msgid ""
 "Stay up to date with the latest from the Wikimedia technical community."
 msgstr ""
 
-#: connect/index.md:block 19 (paragraph)
+#: connect/index.md:block 16 (paragraph)
 msgid "[Learn more](updates.md)"
 msgstr ""
 
@@ -813,17 +799,6 @@ msgstr ""
 msgid ""
 "[Browse talks on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks)"
-msgstr ""
-
-#: connect/grants.md:block 3 (header)
-msgid "Wikimedia Foundation grants"
-msgstr ""
-
-#: connect/grants.md:block 4 (paragraph)
-msgid ""
-"The Wikimedia Foundation provides funding for individuals and organizations "
-"around the world to increase the diversity, reach, quality, and quantity of "
-"free knowledge."
 msgstr ""
 
 #: connect/updates.md:block 3 (header)
