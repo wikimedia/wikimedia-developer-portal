@@ -43,23 +43,24 @@ def define_env(env):
     for document_file in documents_dir.glob("**/*.yaml"):
         with document_file.open() as f:
             for document in yaml.safe_load_all(f):
-                cats = document.get("categories")
-                if isinstance(cats, list):
-                    # Convert legacy list of category names into dict of
-                    # name:sortidx pairs. The default sortidx is 0.
-                    cats = {category: 0 for category in cats}
-                for category, sortidx in cats.items():
-                    if category in cat_tree:
-                        cat_tree[category]["documents"].append(
-                            (sortidx, document["title"], document)
-                        )
-                    else:
-                        chatter(
-                            "{}: unknown category '{}'".format(
-                                document,
-                                category,
+                if "categories" in document:
+                    cats = document.get("categories")
+                    if isinstance(cats, list):
+                        # Convert legacy list of category names into dict of
+                        # name:sortidx pairs. The default sortidx is 0.
+                        cats = {category: 0 for category in cats}
+                    for category, sortidx in cats.items():
+                        if category in cat_tree:
+                            cat_tree[category]["documents"].append(
+                                (sortidx, document["title"], document)
                             )
-                        )
+                        else:
+                            chatter(
+                                "{}: unknown category '{}'".format(
+                                    document,
+                                    category,
+                                )
+                            )
     # Sort document collections for each category
     for category in cat_tree.keys():
         cat_tree[category]["documents"] = [
@@ -69,8 +70,20 @@ def define_env(env):
             )
         ]
     env.variables.categories = cat_tree
+    # Collect all document descriptions from filesystem
+    doc_tree = {}
+    for document_file in documents_dir.glob("**/*.yaml"):
+        with document_file.open() as f:
+            for document in yaml.safe_load_all(f):
+                doc_tree[document_file.stem] = document
+    env.variables.documents = doc_tree
 
     @env.macro
     def category_data(name):
         """Get the data for a category."""
         return env.variables.categories.get(name, {})
+
+    @env.macro
+    def document_data(name):
+        """Get the data for a document."""
+        return env.variables.documents.get(name, {})

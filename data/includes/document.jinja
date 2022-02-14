@@ -1,0 +1,19 @@
+{##
+ # Render a document.
+ #
+ # Load data for the named document and then render it as markdown content.
+ #
+ # @param name - name of the document
+ # @param heading_lvl - heading level (1-5) for the document title
+ #}
+{% macro render(name, heading_lvl=2) -%}
+{% set doc = document_data(name) %}
+
+{{ "#" * heading_lvl }} {{ doc.title }}
+
+{{ doc.description }}
+
+{% for link in doc.links %}
+* [{{ link.label }}]({{ link.url }})
+{% endfor %}
+{%- endmacro %}
