@@ -1,9 +1,8 @@
 ---
-title: Toolhub
-description: Search and browse tools.
+title: Discover and share tools
+description: Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata.
 links:
   - url: https://toolhub.wikimedia.org/
     label: Visit Toolhub
 categories:
-  - toolhub
   - quick-links

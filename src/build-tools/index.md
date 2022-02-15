@@ -2,40 +2,34 @@
 hide:
   - toc
 ---
-# Build and discover tools
+# Build, discover, and share tools
 
-## Discover tools
+Tools and bots make it easier to edit and maintain Wikimedia projects.
 
-Find and share tools on Toolhub.
+{{ document.render("toolhub") }}
 
-[Learn more](discover.md)
+{{ document.render("pywikibot-paws") }}
 
-## Learn about MediaWiki extension points
+## Learn with tutorials
 
-MediaWiki supports modification without changing the core code.
+Follow step-by-step guides to learn the basics of interacting with Wikimedia projects.
 
-[Learn more](extend-mw-basic.md)
+[Learn more](tutorials.md)
 
-## Set up developer accounts
+## Explore frameworks and APIs
 
-Get access to systems and software for making technical contributions.
+Wikimedia offers several APIs and programming frameworks that you can use to build tools.
 
-[Learn more](setup.md)
+[Learn more](apis.md)
 
-## Customize MediaWiki behavior
-
-Add JavaScript or CSS gadgets to a wiki, or add scripting to wiki pages.
-
-[Learn more](customize-mediawiki.md)
-
-## Automate editing and maintenance
-
-Create scripts or bots that interact with MediaWiki pages, and use ML and APIs to support editing.
-
-[Learn more](automate-editing.md)
-
-## Host tools on Toolforge
+## Host tools on Wikimedia servers
 
 Cloud hosting for performing analytics, administering bots, running webservices, and tools that help Wikimedia projects.
 
 [Learn more](host-tools.md)
+
+## Apply best practices
+
+Learn about best practices for automation, documentation, and being a tool maintainer.
+
+[Learn more](best-practices.md)

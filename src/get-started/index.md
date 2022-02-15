@@ -27,9 +27,7 @@ Explore the foundational technologies and open source software behind Wikimedia 
 Ready to start coding? Choose one of the following goals to get more guidance:
 
 * [Re-use wiki data or content in your project or app.](../use-content/)
-* [Change how wiki pages work.](../build-tools/extend-mw-basic.md)
-* [Automate wiki maintenance tasks.](../build-tools/automate-editing.md)
-* [Build custom wiki scripts or gadgets.](../build-tools/customize-mediawiki.md)
+* [Build tools to edit and maintain Wikimedia projects.](../build-tools/get-started.md)
 * [Improve MediaWiki code or extensions.](../contribute/mediawiki.md)
 * [Contribute to Wikimedia open source.](../contribute/index.md)
 * [Improve the look and feel of MediaWiki.](../contribute/mediawiki.md)

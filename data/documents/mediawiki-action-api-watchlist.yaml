@@ -5,5 +5,4 @@ links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Watch
     label: Read the docs on mediawiki.org
 categories:
-  - automate-editing
   - mediawiki-action

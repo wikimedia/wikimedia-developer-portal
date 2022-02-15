@@ -1,8 +1,8 @@
 ---
-title: Create scripts or bots
-description: Automate interactions with MediaWiki pages.
+title: Create and run bots
+description: Run a tool as a recurring process that edits wiki pages automatically.
 links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Bots
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot
     label: Read more on mediawiki.org
 categories:
-  - automate-editing
+  - best-practices-tools

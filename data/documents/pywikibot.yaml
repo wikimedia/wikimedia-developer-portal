@@ -1,0 +1,8 @@
+---
+title: Pywikibot (Python)
+description: Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot
+    label: Read the docs on mediawiki.org
+categories:
+  apis-tools: 1

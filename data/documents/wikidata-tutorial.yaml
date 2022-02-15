@@ -4,8 +4,6 @@ description: Retrieve and present relevant information from Wikidata by associat
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge
     label: Read the tutorial on mediawiki.org
-  - url: https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial
-    label: Python 3, Wikidata, and Pywikibot
 categories:
   - tutorials-data
   - access-data

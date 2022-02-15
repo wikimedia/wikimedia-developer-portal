@@ -1,0 +1,8 @@
+---
+title: Host successful tools on Toolforge
+description: This page provides tips to help you develop successful tools on Toolforge.
+links:
+  - url: https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools
+    label: Read more on Wikitech
+categories:
+  - best-practices-tools

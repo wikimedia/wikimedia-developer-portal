@@ -17,7 +17,7 @@ Access content and data from Wikipedia and other free knowledge projects.
 
 ## Build, discover, and share tools
 
-Tools, gadgets, and bots make it easier to edit and maintain Wikimedia projects.
+Tools and bots make it easier to edit and maintain Wikimedia projects.
 
 [Learn more](build-tools/)
 

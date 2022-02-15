@@ -1,4 +1,4 @@
 ---
-title: Host tools on Toolforge
+title: Host tools
 ...
 {{ category.render( "toolforge" ) }}

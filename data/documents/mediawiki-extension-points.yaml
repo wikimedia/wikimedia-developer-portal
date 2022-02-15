@@ -19,6 +19,5 @@ links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Extending_wiki_markup
     label: Modify wikitext content by extending markup
 categories:
-  - mediawiki-extension-basic
   - mediawiki-extension-advanced
   - mediawiki-action

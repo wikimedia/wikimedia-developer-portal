@@ -5,5 +5,4 @@ links:
   - url: https://api.wikimedia.org/service/linkrecommendation/apidocs/#/
     label: Try out the interactive docs
 categories:
-  - automate-editing
   - api-catalog-experimental ## maybe?

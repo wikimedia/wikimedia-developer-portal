@@ -18,12 +18,10 @@ nav:
     - use-content/data.md
   - Build tools:
     - build-tools/index.md
-    - build-tools/discover.md
-    - build-tools/extend-mw-basic.md
-    - build-tools/setup.md
-    - build-tools/customize-mediawiki.md
-    - build-tools/automate-editing.md
+    - build-tools/tutorials.md
+    - build-tools/apis.md
     - build-tools/host-tools.md
+    - build-tools/best-practices.md
   - Contribute:
     - contribute/index.md
     - contribute/overview.md

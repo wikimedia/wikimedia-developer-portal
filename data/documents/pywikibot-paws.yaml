@@ -1,0 +1,8 @@
+---
+title: Get started building tools
+description: Write a script to edit wiki pages with Python.
+links:
+  - url: https://public.paws.wmcloud.org/User:SRodlund_(WMF)/Using-Pywikibot-with-Paws.ipynb
+    label: Read the tutorial
+categories:
+  tutorials-tools: 1
