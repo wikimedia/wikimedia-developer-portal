@@ -1,9 +1,0 @@
----
-title: System architecture
-description: Explore system architecture diagrams and overview documentation for Wikimedia technical systems.
-links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Architecture_Repository
-    label: Read the docs on mediawiki.org
-categories:
-  - wikimedia-tech-operations
-  - wikimedia-tech

@@ -901,49 +901,30 @@ msgid ""
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 15 (header)
-#: get-started/wikimedia-tech.md:block 18 (header)
-msgid "System architecture"
-msgstr ""
-
-#: connect/wmf-technical-operations.md:block 16 (paragraph)
-#: get-started/wikimedia-tech.md:block 19 (paragraph)
-msgid ""
-"Explore system architecture diagrams and overview documentation for "
-"Wikimedia technical systems."
-msgstr ""
-
-#: connect/wmf-technical-operations.md:block 17 (unordered list)
-#: get-started/wikimedia-tech.md:block 20 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Architecture_Repository)"
-msgstr ""
-
-#: connect/wmf-technical-operations.md:block 18 (header)
 msgid "Technical decision-making process"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 19 (paragraph)
+#: connect/wmf-technical-operations.md:block 16 (paragraph)
 msgid ""
 "Learn about why and how technical decisions are made, and browse decision "
 "records."
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 20 (unordered list)
+#: connect/wmf-technical-operations.md:block 17 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Decision_Forum/Technical_Decision_Making_Process)"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 21 (header)
+#: connect/wmf-technical-operations.md:block 18 (header)
 msgid "Technical infrastructure"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 22 (paragraph)
+#: connect/wmf-technical-operations.md:block 19 (paragraph)
 msgid "Learn about the infrastructure behind Wikimedia projects."
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 23 (unordered list)
+#: connect/wmf-technical-operations.md:block 20 (unordered list)
 msgid ""
 "[Read the docs on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
@@ -1591,65 +1572,65 @@ msgstr ""
 msgid "[Contribute to Kiwix](https://www.kiwix.org/en/support-us/code/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 21 (header)
+#: get-started/wikimedia-tech.md:block 18 (header)
 msgid "Wikibase"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 22 (paragraph)
+#: get-started/wikimedia-tech.md:block 19 (paragraph)
 msgid "The software suite that powers Wikidata."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 23 (unordered list)
+#: get-started/wikimedia-tech.md:block 20 (unordered list)
 msgid ""
 "[Project "
 "homepage](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 24 (header)
+#: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikipedia for Android"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 25 (paragraph)
+#: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikipedia app for Android devices."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 26 (unordered list)
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid ""
 "[How to become a Wikimedia Android app "
 "developer](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Apps/Team/Android/App_hacking)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 26 (unordered list)
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid ""
 "[Download from Google "
 "Play](https://play.google.com/store/apps/details?id=org.wikipedia)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 26 (unordered list)
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid ""
 "[Download from "
 "F-Droid](https://f-droid.org/repository/browse/?fdid=org.wikipedia)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 26 (unordered list)
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid ""
 "[Download .apk "
 "files](https://releases.wikimedia.org/mobile/android/wikipedia/stable/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 26 (unordered list)
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid ""
 "[Read the FAQ on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Apps/Android_FAQ)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 26 (unordered list)
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid ""
 "[(Beta) Download from Google "
 "Play](https://play.google.com/store/apps/details?id=org.wikipedia.beta)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 26 (unordered list)
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid ""
 "[(Beta) Download .apk "
 "files](https://releases.wikimedia.org/mobile/android/wikipedia/betas/)"
