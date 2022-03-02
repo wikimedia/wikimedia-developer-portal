@@ -1519,56 +1519,6 @@ msgid ""
 "homepage](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 21 (header)
-msgid "Wikipedia for Android"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 22 (paragraph)
-msgid "Wikipedia app for Android devices."
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 23 (unordered list)
-msgid ""
-"[How to become a Wikimedia Android app "
-"developer](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Apps/Team/Android/App_hacking)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 23 (unordered list)
-msgid ""
-"[Download from Google "
-"Play](https://play.google.com/store/apps/details?id=org.wikipedia)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 23 (unordered list)
-msgid ""
-"[Download from "
-"F-Droid](https://f-droid.org/repository/browse/?fdid=org.wikipedia)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 23 (unordered list)
-msgid ""
-"[Download .apk "
-"files](https://releases.wikimedia.org/mobile/android/wikipedia/stable/)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 23 (unordered list)
-msgid ""
-"[Read the FAQ on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Apps/Android_FAQ)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 23 (unordered list)
-msgid ""
-"[(Beta) Download from Google "
-"Play](https://play.google.com/store/apps/details?id=org.wikipedia.beta)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 23 (unordered list)
-msgid ""
-"[(Beta) Download .apk "
-"files](https://releases.wikimedia.org/mobile/android/wikipedia/betas/)"
-msgstr ""
-
 #: grow/index.md:block 3 (header) grow/tech-capacity.md:title
 #: grow/tech-capacity.md:block 1 (header)
 msgid "Build tech capacity in wiki communities"
