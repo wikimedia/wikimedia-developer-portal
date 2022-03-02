@@ -1653,51 +1653,20 @@ msgstr ""
 msgid "Explore content from past hackathons or attend an upcoming event."
 msgstr ""
 
-#: grow/index.md:block 9 (header) grow/outreach.md:title
-#: grow/outreach.md:block 1 (header)
+#: grow/index.md:block 9 (header)
 msgid "Learn about outreach and mentoring programs"
 msgstr ""
 
-#: grow/index.md:block 10 (paragraph) grow/outreach.md:block 2 (paragraph)
+#: grow/index.md:block 10 (paragraph)
 msgid ""
 "Grow your skills or help others learn through internships and mentoring "
 "opportunities with Wikimedia."
 msgstr ""
 
-#: grow/index.md:block 11 (paragraph)
-msgid "[Learn more](outreach.md)"
-msgstr ""
-
-#: grow/outreach.md:block 3 (header)
-msgid "Google Summer of Code"
-msgstr ""
-
-#: grow/outreach.md:block 4 (paragraph)
-msgid ""
-"A program sponsored and run by Google, in which college and graduate "
-"students around the world are paid to work on open source software projects."
-msgstr ""
-
-#: grow/outreach.md:block 5 (unordered list)
+#: grow/index.md:block 11 (unordered list)
 msgid ""
 "[Learn more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Google_Summer_of_Code/)"
-msgstr ""
-
-#: grow/outreach.md:block 6 (header)
-msgid "Outreachy internships"
-msgstr ""
-
-#: grow/outreach.md:block 7 (paragraph)
-msgid ""
-"This program connects people from groups that are underrepresented in free "
-"and open source software."
-msgstr ""
-
-#: grow/outreach.md:block 8 (unordered list)
-msgid ""
-"[Learn more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreachy/)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 msgstr ""
 
 #: grow/tech-capacity.md:block 3 (header)

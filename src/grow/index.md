@@ -18,8 +18,4 @@ Explore content from past hackathons or attend an upcoming event.
 
 [Learn more](events.md)
 
-## Learn about outreach and mentoring programs
-
-Grow your skills or help others learn through internships and mentoring opportunities with Wikimedia.
-
-[Learn more](outreach.md)
+{{ document.render( "outreach-programs" ) }}
