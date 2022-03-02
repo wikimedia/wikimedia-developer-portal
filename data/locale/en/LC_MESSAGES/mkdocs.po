@@ -861,7 +861,7 @@ msgstr ""
 #: connect/wmf-technical-operations.md:block 17 (unordered list)
 msgid ""
 "[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Decision_Forum/Technical_Decision_Making_Process)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 msgstr ""
 
 #: connect/wmf-technical-operations.md:block 18 (header)
