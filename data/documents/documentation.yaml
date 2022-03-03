@@ -4,8 +4,6 @@ description: Quality documentation is especially important for open-source proje
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation
     label: Documentation overview on mediawiki.org
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers
-    label: Get started contributing documentation
 categories:
   - documentation
   - best-practices-tools

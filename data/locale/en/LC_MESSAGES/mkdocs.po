@@ -406,13 +406,6 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation)"
 msgstr ""
 
-#: build-tools/best-practices.md:block 8 (unordered list)
-#: contribute/documentation.md:block 5 (unordered list)
-msgid ""
-"[Get started contributing "
-"documentation](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
-msgstr ""
-
 #: build-tools/best-practices.md:block 9 (header)
 msgid "Create and run bots"
 msgstr ""
@@ -954,6 +947,22 @@ msgstr ""
 
 #: contribute/documentation.md:block 2 (paragraph)
 msgid "Help developers by writing and maintaining technical documentation."
+msgstr ""
+
+#: contribute/documentation.md:block 6 (header)
+msgid "Get started contributing to documentation"
+msgstr ""
+
+#: contribute/documentation.md:block 7 (paragraph)
+msgid ""
+"Learn how to find good first tasks and get started writing documentation for"
+" Wikimedia technologies."
+msgstr ""
+
+#: contribute/documentation.md:block 8 (unordered list)
+msgid ""
+"[Learn more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
 msgstr ""
 
 #: contribute/localization.md:block 3 (header)
