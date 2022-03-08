@@ -1320,8 +1320,8 @@ msgstr ""
 
 #: get-started/index.md:block 13 (unordered list)
 msgid ""
-"[Build tools to edit and maintain Wikimedia projects.](../build-tools/get-"
-"started.md)"
+"[Build tools to edit and maintain Wikimedia projects.](../build-"
+"tools/index.md)"
 msgstr ""
 
 #: get-started/index.md:block 13 (unordered list)
