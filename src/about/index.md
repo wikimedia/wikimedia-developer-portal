@@ -4,6 +4,8 @@ The Wikimedia Developer Portal is a central entry point for Wikimedia technical 
 
 This site currently in development. For more information about the project and to share your feedback, visit [mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal).
 
+For technical documentation about the portal and its implementation, see [the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal).
+
 ## Image credits
 
 * Wikimedia logo: Neolux, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)

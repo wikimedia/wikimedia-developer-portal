@@ -23,6 +23,10 @@ default application for that media type. On a Linux host you can either
 manually open the URL or use a similar URL opening script like `xdg-open`,
 `sensible-browser`, `x-www-browser`, or `gnome-open`.
 
+## Documentation
+
+This project's documentation is at https://wikitech.wikimedia.org/wiki/Developer_Portal.
+
 ## License
 
 Wikimedia Developer Portal code and configuration is licensed under the [GNU GPLv3+][] license. Textual content is licensed under the [CC-BY-SA 3.0][] license.

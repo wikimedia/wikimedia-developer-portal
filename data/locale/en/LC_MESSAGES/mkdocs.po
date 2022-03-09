@@ -153,17 +153,24 @@ msgid ""
 "[mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
 msgstr ""
 
-#: about/index.md:block 4 (header)
+#: about/index.md:block 4 (paragraph)
+msgid ""
+"For technical documentation about the portal and its implementation, see "
+"[the docs on "
+"Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal)."
+msgstr ""
+
+#: about/index.md:block 5 (header)
 msgid "Image credits"
 msgstr ""
 
-#: about/index.md:block 5 (unordered list)
+#: about/index.md:block 6 (unordered list)
 msgid ""
 "Wikimedia logo: Neolux, Public domain, via [Wikimedia "
 "Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)"
 msgstr ""
 
-#: about/index.md:block 5 (unordered list)
+#: about/index.md:block 6 (unordered list)
 msgid ""
 "Wikimedia favicon: Wikimedia Foundation, [CC BY-SA "
 "3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia "
