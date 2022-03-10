@@ -29,6 +29,7 @@ def define_env(env):
     documents_dir = data_dir / "documents"
 
     cat_tree = {}
+    doc_tree = {}
     # Collect all category descriptions from filesystem
     for category_file in categories_dir.glob("**/*.yaml"):
         with category_file.open() as f:
@@ -43,6 +44,8 @@ def define_env(env):
     for document_file in documents_dir.glob("**/*.yaml"):
         with document_file.open() as f:
             for document in yaml.safe_load_all(f):
+                doc_tree[document_file.stem] = document
+
                 if "categories" in document:
                     cats = document.get("categories")
                     if isinstance(cats, list):
@@ -70,12 +73,6 @@ def define_env(env):
             )
         ]
     env.variables.categories = cat_tree
-    # Collect all document descriptions from filesystem
-    doc_tree = {}
-    for document_file in documents_dir.glob("**/*.yaml"):
-        with document_file.open() as f:
-            for document in yaml.safe_load_all(f):
-                doc_tree[document_file.stem] = document
     env.variables.documents = doc_tree
 
     @env.macro
