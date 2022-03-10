@@ -1,9 +1,8 @@
 ---
 hide:
-  - toc
+  - navigation
+title: Grow your technical skills
 ---
-# Grow your technical skills
-
 <!--TODO: this page title doesn't fully  make sense if this section also includes content for helping others (not you) grow their skills -->
 
 ## Build tech capacity in wiki communities

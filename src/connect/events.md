@@ -1,6 +1,8 @@
 ---
+hide:
+  - navigation
 title: Explore hackathons and events
-...
+---
 {{ category.render( "events" ) }}
 
 <!--TODO: there must be more technical events we can and should list here? -->

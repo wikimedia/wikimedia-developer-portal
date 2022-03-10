@@ -5,15 +5,19 @@
  #
  # @param name - name of the document
  # @param heading_lvl - heading level (1-5) for the document title
+ # @param custom_title - optional title to override doc.title
  #}
-{% macro render(name, heading_lvl=2) -%}
+{% macro render(name, custom_title, heading_lvl=2) -%}
 {% set doc = document_data(name) %}
-
+{% if custom_title %}
+{{ "#" * heading_lvl }} {{ custom_title }}
+{% else %}
 {{ "#" * heading_lvl }} {{ doc.title }}
-
+{% endif %}
 {{ doc.description }}
 
 {% for link in doc.links %}
 * [{{ link.label }}]({{ link.url }})
 {% endfor %}
+
 {%- endmacro %}

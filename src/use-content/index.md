@@ -1,8 +1,8 @@
 ---
 hide:
-  - toc
+  - navigation
+title: Use Wikimedia content or data in your project
 ---
-# Use Wikimedia content or data in your project
 
 ## Browse web APIs
 

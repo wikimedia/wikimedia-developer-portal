@@ -1,8 +1,8 @@
 ---
 hide:
-  - toc
+  - navigation
+title: Contribute to Wikimedia open source
 ---
-# Contribute to Wikimedia open source
 
 Help build the Wikimedia ecosystem with open source software projects.
 

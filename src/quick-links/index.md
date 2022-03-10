@@ -1,7 +1,7 @@
 ---
 title: Quick links
 hide:
-  - toc
+  - navigation
 ---
 <!--Don't want to add additional superfluous md files for this section, so combining some templating and direct links -->
 

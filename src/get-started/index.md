@@ -1,8 +1,8 @@
 ---
 hide:
-  - toc
+  - navigation
+title: Get started
 ---
-# Get started
 
 ## Learn how Wikimedia software projects work
 

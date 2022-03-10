@@ -1,9 +1,8 @@
 ---
 hide:
-  - toc
+  - navigation
+title: Connect with the tech community
 ---
-# Connect with the tech community
-
 ## Explore hackathons and events
 
 Explore content from past hackathons or join an upcoming event.

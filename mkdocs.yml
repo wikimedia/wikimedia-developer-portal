@@ -66,13 +66,13 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
   features:
-    - navigation.indexes # don't use this if using toc.integrate
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - search.share
+    # navigation.indexes # don't use this if using toc.integrate
     # toc.integrate # don't use this if using navigation.indexes
     # navigation.instant # breaks cross-language navigation
 

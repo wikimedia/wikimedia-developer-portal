@@ -1,12 +1,12 @@
 ---
 hide:
-  - toc
+  - navigation
 ---
 # Build, discover, and share tools
 
 Tools and bots make it easier to edit and maintain Wikimedia projects.
 
-{{ document.render("toolhub") }}
+{{ document.render("toolhub", custom_title="Discover and share tools") }}
 
 {{ document.render("pywikibot-paws") }}
 
