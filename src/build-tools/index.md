@@ -16,15 +16,15 @@ Follow step-by-step guides to learn the basics of interacting with Wikimedia pro
 
 [Learn more](tutorials.md)
 
-## Explore frameworks and APIs
+## Use frameworks and APIs
 
-Wikimedia offers several APIs and programming frameworks that you can use to build tools.
+Explore programming interfaces for building bots and tools.
 
 [Learn more](apis.md)
 
 ## Host tools on Wikimedia servers
 
-Cloud hosting for performing analytics, administering bots, running webservices, and tools that help Wikimedia projects.
+Cloud hosting for performing analytics, administering bots, running web services, and tools that help Wikimedia projects.
 
 [Learn more](host-tools.md)
 

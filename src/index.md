@@ -9,9 +9,9 @@ hide:
 Learn about, interact with, and contribute to the open source technology that
 powers [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/).
 
-## Use Wikimedia content or data in your project
+## Use Wikimedia content and data in your project
 
-Access content and data from Wikipedia and other free knowledge projects.
+Wikimedia offers public APIs, libraries, and downloads that let you access encyclopedia articles, media files, structured data, and more.
 
 [Learn more](use-content/)
 

@@ -1,6 +1,6 @@
 ---
 hide:
   - navigation
-title: Learn with API tutorials
+title: Learn with tutorials
 ---
-{{ category.render( "tutorials-api" ) }}
+{{ category.render( "tutorials-use" ) }}

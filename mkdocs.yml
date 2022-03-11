@@ -10,12 +10,13 @@ nav:
     - get-started/new-dev.md
     - get-started/tutorials.md
     - get-started/wikimedia-tech.md
-  - Use content or data:
+  - Use content and data:
     - use-content/index.md
-    - use-content/apis.md
-    - use-content/tutorials.md
+    - use-content/featured-apps.md
+    - use-content/overview.md
     - use-content/content.md
     - use-content/data.md
+    - use-content/tutorials.md
   - Build tools:
     - build-tools/index.md
     - build-tools/tutorials.md
@@ -36,10 +37,6 @@ nav:
     - connect-learn/grow.md
     - connect-learn/updates.md
   - Get help: get-help/index.md
-  - Quick links:
-    - quick-links/index.md
-    - quick-links/api-catalog.md
-    - quick-links/browse-by-api.md
   - About: about/index.md
 
 docs_dir: src

@@ -1,29 +1,39 @@
 ---
 hide:
   - navigation
-title: Use Wikimedia content or data in your project
+title: Use Wikimedia content and data in your project
 ---
 
-## Browse web APIs
+Wikimedia offers public APIs, libraries, and downloads that let you access encyclopedia articles, media files, structured data, and more.
 
-Fetch pages from Wikipedia, Wiktionary, Wikivoyage, and more.
+## Explore featured apps
 
-[Learn more](apis.md)
+See examples of open-source apps and data visualizations built with content and data from Wikimedia projects.
 
-## Learn with API tutorials
+[Learn more](featured-apps.md)
 
-Get started with Wikimedia APIs.
+## Discover available wikis
 
-[Learn more](tutorials.md)
+Learn about different types of Wikimedia content, and see what's available in your language.
 
-## Reuse wiki content
+[Learn more](overview.md)
 
-The content of all Wikimedia projects is released under free licenses. Write code to access, remix, and grow the projects.
+## Use wiki content
+
+Find open-source libraries, get started using the API, or download content in bulk.
 
 [Learn more](content.md)
 
-## Access data, and analyze wikis
+## Access open data
 
-Wikimedia offers public datasets to use in research and machine learning.
+Explore public data that you can use in research and machine learning.
 
 [Learn more](data.md)
+
+## Learn with tutorials
+
+Follow step-by-step guides to learn the basics of using Wikimedia content and data.
+
+[Learn more](tutorials.md)
+
+{{ document.render( "enterprise" ) }}

@@ -1,7 +1,8 @@
-title: Client libraries
+title: Browse libraries by programming language
 description: Browse API client libraries by programming language.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code
     label: Browse libraries on mediawiki.org
 categories:
-  apis-tools: 3
+  use-content: 1
+  apis-tools: 2

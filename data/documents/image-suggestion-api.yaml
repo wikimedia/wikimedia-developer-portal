@@ -1,8 +1,0 @@
----
-title: Image suggestion API
-description: Suggests images to improve articles.
-links:
-  - url: https://image-suggestion-api.wmcloud.org/?doc#/Image%20Suggestions
-    label: Try the interactive docs
-categories:
-  - api-catalog-experimental

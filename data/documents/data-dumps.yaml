@@ -1,10 +1,9 @@
 ---
-title: Access data dumps
-description: Download all Wikimedia projects for backup, offline use, research, and more.
+title: Download content in bulk
+description: Download Wikimedia content for backup, offline use, research, and more.
 links:
   - url: https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps
     label: Read about data dumps on Meta-Wiki
-  - url: https://dumps.wikimedia.org/backup-index.html
-    label: List of Wikimedia data dumps
 categories:
-  - access-data
+  use-content: 3
+  apis-tools: 5

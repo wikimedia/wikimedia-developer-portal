@@ -1,12 +1,14 @@
 ---
 title: Get data about wikis
-description: Get Wikidata, page views, edit scores, and more data from Wikimedia projects.
+description: Get page views, edit counts, and more data about Wikimedia projects.
 links:
-  - url: https://wikimedia.org/api/rest_v1/#/Pageviews%20data
-    label: Wiki page view data
-  - url: https://wikimedia.org/api/rest_v1/#/Unique%20devices%20data
-    label: Unique devices data
+  - url: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
+    label: Read the docs on Wikitech
+  - url: https://wikimedia.org/api/rest_v1/
+    label: Try the sandbox
   - url: https://stats.wikimedia.org/#/all-projects
     label: Explore project data on Wikistats
+  - url: https://dumps.wikimedia.org/other/analytics/
+    label: Download data in bulk
 categories:
-  - access-data
+  access-data: 2

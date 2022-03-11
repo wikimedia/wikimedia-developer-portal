@@ -3,7 +3,7 @@ hide:
   - navigation
 title: Browse tutorials
 ---
-{{ category.render( "tutorials-api", 2 ) }}
+{{ category.render( "tutorials-content", 2 ) }}
 
 <!--TODO: Add or find tutorials about querying replicas/working with data dumps -->
 

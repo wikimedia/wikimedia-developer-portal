@@ -1,9 +1,9 @@
 ---
-title: Holidays viewer
+title: Build a holidays viewer
 description: Build an app that fetches holidays and observances for a given date from Wikipedia, with an option to log in to add new holidays.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer
     label: Read the tutorial on mediawiki.org
 categories:
-  - tutorials-api
   - tutorials-tools
+  - tutorials-use

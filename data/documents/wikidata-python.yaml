@@ -5,7 +5,4 @@ links:
   - url: https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial
     label: Read the tutorial on Wikidata
 categories:
-  - tutorials-data
-  - access-data
-  - wikidata
   - tutorials-tools

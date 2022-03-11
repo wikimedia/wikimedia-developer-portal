@@ -1,8 +1,0 @@
----
-title: Guide editors by suggesting links
-description: Use the Link Recommendations service to suggest links for articles.
-links:
-  - url: https://api.wikimedia.org/service/linkrecommendation/apidocs/#/
-    label: Try out the interactive docs
-categories:
-  - api-catalog-experimental ## maybe?

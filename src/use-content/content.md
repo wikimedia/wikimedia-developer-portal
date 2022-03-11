@@ -1,6 +1,13 @@
 ---
 hide:
   - navigation
-title: Reuse wiki content
+title: Use wiki content
 ---
-{{ category.render( "reuse-content" ) }}
+
+{{ category.render( "use-content" ) }}
+
+{{ category.render( "tutorials-content", 2 ) }}
+
+### See all tutorials
+
+[Browse tutorials](./tutorials.md)

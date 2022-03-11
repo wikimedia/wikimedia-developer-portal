@@ -1,12 +1,11 @@
 ---
-title: MediaWiki Action API
-description: The Action API is a powerful editing and wiki management API available on all Wikimedia projects.
+title: Use the API
+description: The MediaWiki Action API gives you programmatic access to content and editing on all Wikimedia projects.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API
     label: Read the docs on mediawiki.org
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Special:ApiSandbox
-    label: Try out the sandbox
+    label: Try the sandbox
 categories:
-  api-catalog-stable: 0
-  apis-tools: 2
-  ## don't add mediawiki-action as a category for this
+  apis-tools: 3
+  use-content: 2

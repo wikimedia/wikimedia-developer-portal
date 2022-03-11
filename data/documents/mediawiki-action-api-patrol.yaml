@@ -1,8 +1,0 @@
----
-title: Review and monitor changes
-description: Use the MediaWiki Patrol API to monitor content and review recent changes.
-links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Patrol
-    label: Read the docs on mediawiki.org
-categories:
-  - mediawiki-action
