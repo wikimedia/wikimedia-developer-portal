@@ -29,17 +29,12 @@ nav:
     - contribute/localization.md
     - contribute/documentation.md
     - contribute/accessibility.md
-  - Connect:
-    - connect/index.md
-    - connect/events.md
-    - connect/communicate.md
-    - connect/code-maintainers.md
-    - connect/wmf-technical-operations.md
-    - connect/updates.md
-  - Grow your skills:
-    - grow/index.md
-    - grow/tech-capacity.md
-    - grow/events.md
+  - Connect and learn:
+    - connect-learn/index.md
+    - connect-learn/events.md
+    - connect-learn/communicate.md
+    - connect-learn/grow.md
+    - connect-learn/updates.md
   - Get help: get-help/index.md
   - Quick links:
     - quick-links/index.md

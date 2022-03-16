@@ -3,29 +3,23 @@ hide:
   - navigation
 title: Connect with the tech community
 ---
-## Explore hackathons and events
+## Connect at hackathons and events
 
 Explore content from past hackathons or join an upcoming event.
 
 [Learn more](events.md)
 
-## Communicate effectively
+## Communicate with the tech community
 
 Understand communication channels and how to connect with Wikimedia developers.
 
 [Learn more](communicate.md)
 
-## Find code maintainers
+## Learn and share technical skills
 
-Find maintainers and code stewards for Wikimedia open source software.
+Grow your skills or help others learn through Wikimedia workshops, internships, and mentoring opportunities.
 
-[Learn more](code-maintainers.md)
-
-## Wikimedia Foundation technical operations
-
-Learn about the infrastructure and teams behind Wikimedia projects.
-
-[Learn more](wmf-technical-operations.md)
+[Learn more](grow.md)
 
 ## Get tech project updates
 

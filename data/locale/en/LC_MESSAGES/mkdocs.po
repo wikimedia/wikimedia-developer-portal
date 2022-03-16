@@ -43,11 +43,7 @@ msgid "Contribute"
 msgstr ""
 
 #: mkdocs.yml:navigation
-msgid "Connect"
-msgstr ""
-
-#: mkdocs.yml:navigation
-msgid "Grow your skills"
+msgid "Connect and learn"
 msgstr ""
 
 #: mkdocs.yml:navigation quick-links/index.md:title quick-links/index.md:block
@@ -106,29 +102,17 @@ msgid "[Learn more](contribute/)"
 msgstr ""
 
 #: index.md:block 12 (header)
-msgid "Connect to the community"
+msgid "Connect to community and grow your skills"
 msgstr ""
 
 #: index.md:block 13 (paragraph)
-msgid "Get involved with the Wikimedia technical community."
+msgid ""
+"Get involved with the Wikimedia technical community and find opportunities "
+"for support and learning."
 msgstr ""
 
 #: index.md:block 14 (paragraph)
-msgid "[Learn more](connect/)"
-msgstr ""
-
-#: index.md:block 15 (header) grow/index.md:title
-msgid "Grow your technical skills"
-msgstr ""
-
-#: index.md:block 16 (paragraph)
-msgid ""
-"Build technical capacity in your wiki community and find opportunities for "
-"support and learning."
-msgstr ""
-
-#: index.md:block 17 (paragraph)
-msgid "[Learn more](grow/)"
+msgid "[Learn more](connect-learn/)"
 msgstr ""
 
 #: about/index.md:title about/index.md:block 1 (header)
@@ -562,323 +546,371 @@ msgid ""
 "_Python_3_Tutorial)"
 msgstr ""
 
-#: connect/index.md:title
+#: connect-learn/index.md:title
 msgid "Connect with the tech community"
 msgstr ""
 
-#: connect/index.md:block 1 (header) connect/events.md:title
-#: connect/events.md:block 1 (header) grow/index.md:block 5 (header)
-#: grow/events.md:title grow/events.md:block 1 (header)
-msgid "Explore hackathons and events"
+#: connect-learn/index.md:block 1 (header) connect-learn/events.md:title
+msgid "Connect at hackathons and events"
 msgstr ""
 
-#: connect/index.md:block 2 (paragraph)
+#: connect-learn/index.md:block 2 (paragraph)
 msgid "Explore content from past hackathons or join an upcoming event."
 msgstr ""
 
-#: connect/index.md:block 3 (paragraph) grow/index.md:block 7 (paragraph)
+#: connect-learn/index.md:block 3 (paragraph)
 msgid "[Learn more](events.md)"
 msgstr ""
 
-#: connect/index.md:block 4 (header) connect/communicate.md:title
-#: connect/communicate.md:block 1 (header)
-msgid "Communicate effectively"
+#: connect-learn/index.md:block 4 (header) connect-learn/communicate.md:title
+#: connect-learn/communicate.md:block 1 (header)
+msgid "Communicate with the tech community"
 msgstr ""
 
-#: connect/index.md:block 5 (paragraph) connect/communicate.md:block 2
-#: (paragraph)
+#: connect-learn/index.md:block 5 (paragraph)
+#: connect-learn/communicate.md:block 2 (paragraph)
 msgid ""
 "Understand communication channels and how to connect with Wikimedia "
 "developers."
 msgstr ""
 
-#: connect/index.md:block 6 (paragraph)
+#: connect-learn/index.md:block 6 (paragraph)
 msgid "[Learn more](communicate.md)"
 msgstr ""
 
-#: connect/index.md:block 7 (header) connect/code-maintainers.md:title
-#: connect/code-maintainers.md:block 1 (header)
-msgid "Find code maintainers"
+#: connect-learn/index.md:block 7 (header) connect-learn/grow.md:title
+#: connect-learn/grow.md:block 1 (header)
+msgid "Learn and share technical skills"
 msgstr ""
 
-#: connect/index.md:block 8 (paragraph) connect/code-maintainers.md:block 2
+#: connect-learn/index.md:block 8 (paragraph) connect-learn/grow.md:block 2
 #: (paragraph)
-msgid "Find maintainers and code stewards for Wikimedia open source software."
+msgid ""
+"Grow your skills or help others learn through Wikimedia workshops, "
+"internships, and mentoring opportunities."
 msgstr ""
 
-#: connect/index.md:block 9 (paragraph)
-msgid "[Learn more](code-maintainers.md)"
+#: connect-learn/index.md:block 9 (paragraph)
+msgid "[Learn more](grow.md)"
 msgstr ""
 
-#: connect/index.md:block 10 (header)
-#: connect/wmf-technical-operations.md:title
-#: connect/wmf-technical-operations.md:block 1 (header)
-msgid "Wikimedia Foundation technical operations"
-msgstr ""
-
-#: connect/index.md:block 11 (paragraph)
-#: connect/wmf-technical-operations.md:block 2 (paragraph)
-msgid "Learn about the infrastructure and teams behind Wikimedia projects."
-msgstr ""
-
-#: connect/index.md:block 12 (paragraph)
-msgid "[Learn more](wmf-technical-operations.md)"
-msgstr ""
-
-#: connect/index.md:block 13 (header) connect/updates.md:title
-#: connect/updates.md:block 1 (header)
+#: connect-learn/index.md:block 10 (header) connect-learn/updates.md:title
+#: connect-learn/updates.md:block 1 (header)
 msgid "Get tech project updates"
 msgstr ""
 
-#: connect/index.md:block 14 (paragraph) connect/updates.md:block 2
-#: (paragraph)
+#: connect-learn/index.md:block 11 (paragraph) connect-learn/updates.md:block
+#: 2 (paragraph)
 msgid ""
 "Stay up to date with the latest from the Wikimedia technical community."
 msgstr ""
 
-#: connect/index.md:block 15 (paragraph)
+#: connect-learn/index.md:block 12 (paragraph)
 msgid "[Learn more](updates.md)"
 msgstr ""
 
-#: connect/code-maintainers.md:block 3 (header)
-msgid "Code maintainers and stewards"
+#: connect-learn/communicate.md:block 3 (header)
+msgid "Communication channels"
 msgstr ""
 
-#: connect/code-maintainers.md:block 4 (paragraph)
+#: connect-learn/communicate.md:block 4 (paragraph)
+msgid ""
+"Get in contact with other MediaWiki users and developers, for support or to "
+"share knowledge."
+msgstr ""
+
+#: connect-learn/communicate.md:block 5 (unordered list)
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr ""
+
+#: connect-learn/communicate.md:block 6 (header)
+msgid "Find code maintainers and stewards"
+msgstr ""
+
+#: connect-learn/communicate.md:block 7 (paragraph)
 msgid ""
 "Maintainers know the most about, and maintain, MediaWiki core, key "
 "extensions, and Wikimedia servers. Code stewards are ultimately responsible "
 "for the development policies, support, and overall health of the code."
 msgstr ""
 
-#: connect/code-maintainers.md:block 5 (unordered list)
+#: connect-learn/communicate.md:block 8 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 msgstr ""
 
-#: connect/communicate.md:block 3 (header)
-msgid "Communication channels"
-msgstr ""
-
-#: connect/communicate.md:block 4 (paragraph)
-msgid ""
-"Get in contact with other MediaWiki users and developers, for support or to "
-"share knowledge."
-msgstr ""
-
-#: connect/communicate.md:block 5 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
-msgstr ""
-
-#: connect/communicate.md:block 6 (header) contribute/overview.md:block 12
-#: (header)
+#: connect-learn/communicate.md:block 9 (header) contribute/overview.md:block
+#: 12 (header)
 msgid "Read the code of conduct"
 msgstr ""
 
-#: connect/communicate.md:block 7 (paragraph) contribute/overview.md:block 13
-#: (paragraph)
+#: connect-learn/communicate.md:block 10 (paragraph)
+#: contribute/overview.md:block 13 (paragraph)
 msgid ""
 "The code of conduct for Wikimedia technical spaces applies to both physical "
 "and virtual environments."
 msgstr ""
 
-#: connect/communicate.md:block 8 (unordered list)
+#: connect-learn/communicate.md:block 11 (unordered list)
 #: contribute/overview.md:block 14 (unordered list)
 msgid ""
 "[Read the code of conduct on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
 msgstr ""
 
-#: connect/events.md:block 2 (paragraph) grow/events.md:block 2 (paragraph)
-msgid "Explore content from past hackathons or join us for an upcoming event."
+#: connect-learn/communicate.md:block 12 (header)
+msgid "Wikimedia Foundation technical operations"
 msgstr ""
 
-#: connect/events.md:block 3 (header) grow/events.md:block 3 (header)
-msgid "Coolest Tool Award"
+#: connect-learn/communicate.md:block 13 (paragraph)
+msgid "Learn about the infrastructure and teams behind Wikimedia projects."
 msgstr ""
 
-#: connect/events.md:block 4 (paragraph) grow/events.md:block 4 (paragraph)
-msgid "This annual award event celebrates volunteer developer contributions."
-msgstr ""
-
-#: connect/events.md:block 5 (unordered list) grow/events.md:block 5
-#: (unordered list)
-msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
-msgstr ""
-
-#: connect/events.md:block 6 (header) grow/events.md:block 6 (header)
-msgid "Hackathons"
-msgstr ""
-
-#: connect/events.md:block 7 (paragraph) grow/events.md:block 7 (paragraph)
-msgid ""
-"A hackathon brings together people with different skills to work together on"
-" a common technical goal."
-msgstr ""
-
-#: connect/events.md:block 8 (unordered list) grow/events.md:block 8
-#: (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
-msgstr ""
-
-#: connect/events.md:block 8 (unordered list) grow/events.md:block 8
-#: (unordered list)
-msgid ""
-"[List of past hackathons on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons/Previous_hackathons)"
-msgstr ""
-
-#: connect/events.md:block 9 (header) grow/events.md:block 9 (header)
-msgid "Tech talks"
-msgstr ""
-
-#: connect/events.md:block 10 (paragraph) grow/events.md:block 10 (paragraph)
-msgid ""
-"Learn about technical topics through presentations created by and for the "
-"Wikimedia technical community."
-msgstr ""
-
-#: connect/events.md:block 11 (unordered list) grow/events.md:block 11
-#: (unordered list)
-msgid ""
-"[Browse talks on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks)"
-msgstr ""
-
-#: connect/updates.md:block 3 (header)
-msgid "Tech blog"
-msgstr ""
-
-#: connect/updates.md:block 4 (paragraph)
-msgid "Blog posts from the Wikimedia technical community."
-msgstr ""
-
-#: connect/updates.md:block 5 (unordered list)
-msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr ""
-
-#: connect/updates.md:block 6 (header)
-msgid "Tech news"
-msgstr ""
-
-#: connect/updates.md:block 7 (paragraph)
-msgid "Weekly summary of technical topics for Wikimedians."
-msgstr ""
-
-#: connect/updates.md:block 8 (unordered list)
-msgid ""
-"[Read the latest tech news on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
-msgstr ""
-
-#: connect/updates.md:block 9 (header)
-msgid "Technical community newsletter"
-msgstr ""
-
-#: connect/updates.md:block 10 (paragraph)
-msgid "Quarterly updates on activities in the Wikimedia technical community."
-msgstr ""
-
-#: connect/updates.md:block 11 (unordered list)
-msgid ""
-"[Read the latest newsletter on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
-msgstr ""
-
-#: connect/wmf-technical-operations.md:block 3 (header)
+#: connect-learn/communicate.md:block 14 (header)
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Cloud tools and services"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 4 (paragraph)
+#: connect-learn/communicate.md:block 15 (paragraph)
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid ""
 "Infrastructure and support for contributors to Wikimedia software projects."
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 5 (unordered list)
+#: connect-learn/communicate.md:block 16 (unordered list)
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid ""
 "[Cloud services overview on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction)"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 6 (header)
+#: connect-learn/communicate.md:block 17 (header)
 msgid "Performance monitoring"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 7 (paragraph)
+#: connect-learn/communicate.md:block 18 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 8 (unordered list)
+#: connect-learn/communicate.md:block 19 (unordered list)
 msgid "[Read the docs](https://performance.wikimedia.org/)"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 9 (header)
+#: connect-learn/communicate.md:block 20 (header)
 msgid "Security policies"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 10 (paragraph)
+#: connect-learn/communicate.md:block 21 (paragraph)
 msgid ""
 "Read security policies for the MediaWiki platform and the Wikimedia "
 "Foundation."
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 11 (unordered list)
+#: connect-learn/communicate.md:block 22 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 12 (header)
+#: connect-learn/communicate.md:block 23 (header)
 msgid "Software deployments"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 13 (paragraph)
+#: connect-learn/communicate.md:block 24 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 14 (unordered list)
+#: connect-learn/communicate.md:block 25 (unordered list)
 msgid ""
 "[Read the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 15 (header)
+#: connect-learn/communicate.md:block 26 (header)
 msgid "Technical decision-making process"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 16 (paragraph)
+#: connect-learn/communicate.md:block 27 (paragraph)
 msgid ""
 "Learn about why and how technical decisions are made, and browse decision "
 "records."
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 17 (unordered list)
+#: connect-learn/communicate.md:block 28 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 18 (header)
+#: connect-learn/communicate.md:block 29 (header)
 msgid "Technical infrastructure"
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 19 (paragraph)
+#: connect-learn/communicate.md:block 30 (paragraph)
 msgid "Learn about the infrastructure behind Wikimedia projects."
 msgstr ""
 
-#: connect/wmf-technical-operations.md:block 20 (unordered list)
+#: connect-learn/communicate.md:block 31 (unordered list)
 msgid ""
 "[Read the docs on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+msgstr ""
+
+#: connect-learn/events.md:block 1 (header)
+msgid "Explore hackathons and events"
+msgstr ""
+
+#: connect-learn/events.md:block 2 (paragraph)
+msgid "Explore content from past events or join us for an upcoming event."
+msgstr ""
+
+#: connect-learn/events.md:block 3 (header)
+msgid "Coolest Tool Award"
+msgstr ""
+
+#: connect-learn/events.md:block 4 (paragraph)
+msgid "This annual award event celebrates volunteer developer contributions."
+msgstr ""
+
+#: connect-learn/events.md:block 5 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+msgstr ""
+
+#: connect-learn/events.md:block 6 (header)
+msgid "Hackathons"
+msgstr ""
+
+#: connect-learn/events.md:block 7 (paragraph)
+msgid ""
+"A hackathon brings together people with different skills to work together on"
+" a common technical goal."
+msgstr ""
+
+#: connect-learn/events.md:block 8 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+msgstr ""
+
+#: connect-learn/events.md:block 8 (unordered list)
+msgid ""
+"[List of past hackathons on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons/Previous_hackathons)"
+msgstr ""
+
+#: connect-learn/events.md:block 9 (header)
+msgid "Tech talks"
+msgstr ""
+
+#: connect-learn/events.md:block 10 (paragraph)
+msgid ""
+"Learn about technical topics through presentations created by and for the "
+"Wikimedia technical community."
+msgstr ""
+
+#: connect-learn/events.md:block 11 (unordered list)
+msgid ""
+"[Browse talks on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks)"
+msgstr ""
+
+#: connect-learn/events.md:block 12 (header)
+msgid "Technical skills workshops"
+msgstr ""
+
+#: connect-learn/events.md:block 13 (paragraph) connect-learn/grow.md:block 10
+#: (paragraph)
+msgid ""
+"Recommended tools and educational resources to support small wiki "
+"communities in learning and sharing technical skills."
+msgstr ""
+
+#: connect-learn/events.md:block 14 (unordered list)
+#: connect-learn/grow.md:block 11 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+msgstr ""
+
+#: connect-learn/grow.md:block 3 (header)
+msgid "Become a tech ambassador"
+msgstr ""
+
+#: connect-learn/grow.md:block 4 (paragraph)
+msgid ""
+"Tech ambassadors are technically-minded volunteers who help other "
+"Wikimedians with technical issues, and act as a bridge between developers "
+"and local Wikimedia wikis."
+msgstr ""
+
+#: connect-learn/grow.md:block 5 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+msgstr ""
+
+#: connect-learn/grow.md:block 6 (header)
+msgid "Outreach and mentoring programs"
+msgstr ""
+
+#: connect-learn/grow.md:block 7 (paragraph)
+msgid ""
+"Grow your skills or help others learn through internships and mentoring "
+"opportunities with Wikimedia."
+msgstr ""
+
+#: connect-learn/grow.md:block 8 (unordered list)
+msgid ""
+"[Learn more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+msgstr ""
+
+#: connect-learn/grow.md:block 9 (header)
+msgid "Small wiki toolkits"
+msgstr ""
+
+#: connect-learn/updates.md:block 3 (header)
+msgid "Tech blog"
+msgstr ""
+
+#: connect-learn/updates.md:block 4 (paragraph)
+msgid "Blog posts from the Wikimedia technical community."
+msgstr ""
+
+#: connect-learn/updates.md:block 5 (unordered list)
+msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
+msgstr ""
+
+#: connect-learn/updates.md:block 6 (header)
+msgid "Tech news"
+msgstr ""
+
+#: connect-learn/updates.md:block 7 (paragraph)
+msgid "Weekly summary of technical topics for Wikimedians."
+msgstr ""
+
+#: connect-learn/updates.md:block 8 (unordered list)
+msgid ""
+"[Read the latest tech news on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+msgstr ""
+
+#: connect-learn/updates.md:block 9 (header)
+msgid "Technical community newsletter"
+msgstr ""
+
+#: connect-learn/updates.md:block 10 (paragraph)
+msgid "Quarterly updates on activities in the Wikimedia technical community."
+msgstr ""
+
+#: connect-learn/updates.md:block 11 (unordered list)
+msgid ""
+"[Read the latest newsletter on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 msgstr ""
 
 #: contribute/index.md:block 2 (header) contribute/overview.md:title
@@ -1520,72 +1552,6 @@ msgstr ""
 msgid ""
 "[Project "
 "homepage](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
-msgstr ""
-
-#: grow/index.md:block 2 (header) grow/tech-capacity.md:title
-#: grow/tech-capacity.md:block 1 (header)
-msgid "Build tech capacity in wiki communities"
-msgstr ""
-
-#: grow/index.md:block 3 (paragraph) grow/tech-capacity.md:block 2 (paragraph)
-msgid "Support wiki communities in learning and sharing technical skills."
-msgstr ""
-
-#: grow/index.md:block 4 (paragraph)
-msgid "[Learn more](tech-capacity.md)"
-msgstr ""
-
-#: grow/index.md:block 6 (paragraph)
-msgid "Explore content from past hackathons or attend an upcoming event."
-msgstr ""
-
-#: grow/index.md:block 8 (header)
-msgid "Learn about outreach and mentoring programs"
-msgstr ""
-
-#: grow/index.md:block 9 (paragraph)
-msgid ""
-"Grow your skills or help others learn through internships and mentoring "
-"opportunities with Wikimedia."
-msgstr ""
-
-#: grow/index.md:block 10 (unordered list)
-msgid ""
-"[Learn more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
-msgstr ""
-
-#: grow/tech-capacity.md:block 3 (header)
-msgid "Become a tech ambassador"
-msgstr ""
-
-#: grow/tech-capacity.md:block 4 (paragraph)
-msgid ""
-"Tech ambassadors are technically-minded volunteers who help other "
-"Wikimedians with technical issues, and act as a bridge between developers "
-"and local Wikimedia wikis."
-msgstr ""
-
-#: grow/tech-capacity.md:block 5 (unordered list)
-msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
-msgstr ""
-
-#: grow/tech-capacity.md:block 6 (header)
-msgid "Small wiki toolkits"
-msgstr ""
-
-#: grow/tech-capacity.md:block 7 (paragraph)
-msgid ""
-"Recommended tools and educational resources to support small wiki "
-"communities in learning and sharing technical skills."
-msgstr ""
-
-#: grow/tech-capacity.md:block 8 (unordered list)
-msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 msgstr ""
 
 #: quick-links/index.md:block 3 (paragraph)

@@ -27,16 +27,10 @@ Help build the Wikimedia ecosystem with open source software projects.
 
 [Learn more](contribute/)
 
-## Connect to the community
+## Connect to community and grow your skills
 
-Get involved with the Wikimedia technical community.
+Get involved with the Wikimedia technical community and find opportunities for support and learning.
 
-[Learn more](connect/)
-
-## Grow your technical skills
-
-Build technical capacity in your wiki community and find opportunities for support and learning.
-
-[Learn more](grow/)
+[Learn more](connect-learn/)
 
 <!-- TODO Add some nice button to go from the bottom of this page to the Get Started section -->
