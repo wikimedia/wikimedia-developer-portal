@@ -4,8 +4,8 @@ FROM docker-registry.wikimedia.org/python3-buster:latest AS local
 USER 0
 ENV HOME="/root"
 ENV DEBIAN_FRONTEND="noninteractive"
-RUN apt-get update && apt-get install -y "gettext" "git" "python3-dev" "python3-venv" "nginx-light" && rm -rf /var/lib/apt/lists/*
-RUN python3 "-m" "easy_install" "pip" && python3 "-m" "pip" "install" "-U" "setuptools" "wheel" "tox" "pip"
+RUN apt-get update && apt-get install -y "gettext" "git" "python3-dev" "python3-pip" "python3-venv" "nginx-light" && rm -rf /var/lib/apt/lists/*
+RUN python3 "-m" "pip" "install" "-U" "setuptools!=60.9.0" "wheel" "tox" "pip"
 ENV POETRY_VIRTUALENVS_PATH="/opt/lib/poetry"
 RUN python3 "-m" "pip" "install" "-U" "poetry==1.1.10"
 ARG LIVES_AS="somebody"
@@ -25,4 +25,4 @@ RUN mkdir -p "/opt/lib/poetry"
 RUN poetry "install" "--no-root"
 COPY --chown=$LIVES_UID:$LIVES_GID [".", "."]
 
-LABEL blubber.variant="local" blubber.version="0.8.0+85745aa"
+LABEL blubber.variant="local" blubber.version="0.9.0+73d3d2c"
