@@ -1,0 +1,12 @@
+---
+title: Browse repositories
+description: List all Wikimedia repositories.
+links:
+  - url: https://gerrit.wikimedia.org/g/
+    label: Browse repositories on Gerrit
+  - url: https://github.com/wikimedia
+    label: Browse repositories on GitHub
+  - url: https://gitlab.wikimedia.org/explore
+    label: Browse repositories on GitLab
+categories:
+  search-projects: 3

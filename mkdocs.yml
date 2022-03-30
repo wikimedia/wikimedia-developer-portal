@@ -26,10 +26,9 @@ nav:
   - Contribute:
     - contribute/index.md
     - contribute/overview.md
-    - contribute/mediawiki.md
-    - contribute/localization.md
-    - contribute/documentation.md
-    - contribute/accessibility.md
+    - contribute/by-topic.md
+    - contribute/by-language.md
+    - contribute/search.md
   - Connect and learn:
     - connect-learn/index.md
     - connect-learn/events.md

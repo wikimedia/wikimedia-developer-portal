@@ -1,0 +1,12 @@
+---
+title: Codex
+description: Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue.
+links:
+  - url: https://doc.wikimedia.org/codex/main
+    label: Read the docs
+  - url: https://doc.wikimedia.org/codex/main/contributing/guidelines.html
+    label: Contribute to Codex
+  - url: https://gerrit.wikimedia.org/g/design/codex/
+    label: Get the source code
+categories:
+  - contribute-javascript

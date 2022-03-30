@@ -5,5 +5,4 @@ links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct
     label: Read the code of conduct on mediawiki.org
 categories:
-  - new-contributor
-  - communicate
+  communicate: 0

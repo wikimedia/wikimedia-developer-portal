@@ -28,6 +28,4 @@ Ready to start coding? Choose one of the following goals to get more guidance:
 
 * [Re-use wiki data or content in your project or app.](../use-content/)
 * [Build tools to edit and maintain Wikimedia projects.](../build-tools/index.md)
-* [Improve MediaWiki code or extensions.](../contribute/mediawiki.md)
 * [Contribute to Wikimedia open source.](../contribute/index.md)
-* [Improve the look and feel of MediaWiki.](../contribute/mediawiki.md)

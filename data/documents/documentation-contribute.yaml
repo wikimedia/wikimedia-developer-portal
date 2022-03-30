@@ -1,8 +1,8 @@
 ---
-title: Get started contributing to documentation
-description: Learn how to find good first tasks and get started writing documentation for Wikimedia technologies.
+title: Documentation
+description: Get started writing documentation for Wikimedia technologies.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers
     label: Learn more on mediawiki.org
 categories:
-  - documentation
+  - contribute-by-topic

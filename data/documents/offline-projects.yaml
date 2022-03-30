@@ -1,5 +1,5 @@
 ---
-title: Offline reading projects
+title: Offline reading
 description: Help people use Wikipedia without internet access.
 links:
   - url: https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects
@@ -8,3 +8,4 @@ links:
     label: Contribute to Kiwix
 categories:
   - wikimedia-tech
+  - contribute-by-topic

@@ -1,9 +1,10 @@
 ---
-title: Learn the basics for new developers
-description: Guidance for getting started as a developer and contributing to Wikimedia projects.
+title: Recommended projects for new contributors
+description: Choose from open source projects that offer mentoring for new contributors.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers
     label: New developers guide on mediawiki.org
 categories:
-  - new-dev
-  - new-contributor
+  new-dev: 0
+  new-contributor: 2
+  wikimedia-tech: 0

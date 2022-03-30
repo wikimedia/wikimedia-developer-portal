@@ -85,7 +85,6 @@ msgid "[Learn more](build-tools/)"
 msgstr ""
 
 #: index.md:block 9 (header) contribute/index.md:title
-#: contribute/overview.md:block 1 (header)
 msgid "Contribute to Wikimedia open source"
 msgstr ""
 
@@ -157,15 +156,15 @@ msgstr ""
 msgid "Discover and share tools"
 msgstr ""
 
-#: build-tools/index.md:block 4 (paragraph) use-content/featured-apps.md:block
-#: 7 (paragraph)
+#: build-tools/index.md:block 4 (paragraph) contribute/search.md:block 12
+#: (paragraph) use-content/featured-apps.md:block 7 (paragraph)
 msgid ""
 "Browse the catalog of tools on Toolhub, share your tools, and help maintain "
 "tool metadata."
 msgstr ""
 
-#: build-tools/index.md:block 5 (unordered list)
-#: use-content/featured-apps.md:block 8 (unordered list)
+#: build-tools/index.md:block 5 (unordered list) contribute/search.md:block 13
+#: (unordered list) use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
 msgstr ""
 
@@ -255,20 +254,35 @@ msgstr ""
 msgid "APIs, frameworks, and data access for tools"
 msgstr ""
 
-#: build-tools/apis.md:block 3 (header)
+#: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 2
+#: (header)
 msgid "Pywikibot"
 msgstr ""
 
-#: build-tools/apis.md:block 4 (paragraph)
+#: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 3
+#: (paragraph)
 msgid ""
 "Pywikibot is a Python library and collection of scripts that automate work "
 "on Wikimedia projects."
 msgstr ""
 
 #: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 4 (unordered list)
 msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+"[Read the "
+"docs](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr ""
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 4 (unordered list)
+msgid ""
+"[Contribute to "
+"Pywikibot](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr ""
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 4 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
 msgstr ""
 
 #: build-tools/apis.md:block 6 (header) use-content/content.md:block 3
@@ -369,31 +383,26 @@ msgid "Best practices for building tools"
 msgstr ""
 
 #: build-tools/best-practices.md:block 3 (header)
-#: contribute/accessibility.md:block 3 (header)
 msgid "Build accessible software"
 msgstr ""
 
 #: build-tools/best-practices.md:block 4 (paragraph)
-#: contribute/accessibility.md:block 4 (paragraph)
 msgid ""
 "Learn about basic accessibility concepts and developer guidelines to make "
 "open source software more accessible."
 msgstr ""
 
 #: build-tools/best-practices.md:block 5 (unordered list)
-#: contribute/accessibility.md:block 5 (unordered list)
 msgid ""
 "[Read the guide on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers)"
 msgstr ""
 
 #: build-tools/best-practices.md:block 6 (header)
-#: contribute/documentation.md:block 3 (header)
 msgid "Create and maintain documentation"
 msgstr ""
 
 #: build-tools/best-practices.md:block 7 (paragraph)
-#: contribute/documentation.md:block 4 (paragraph)
 msgid ""
 "Quality documentation is especially important for open-source projects. It "
 "provides history, context, accurate information, and repeatable steps that "
@@ -401,7 +410,6 @@ msgid ""
 msgstr ""
 
 #: build-tools/best-practices.md:block 8 (unordered list)
-#: contribute/documentation.md:block 5 (unordered list)
 msgid ""
 "[Documentation overview on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation)"
@@ -503,11 +511,13 @@ msgstr ""
 msgid "Tutorials for building tools"
 msgstr ""
 
-#: build-tools/tutorials.md:block 3 (header)
+#: build-tools/tutorials.md:block 3 (header) contribute/by-language.md:block 6
+#: (header)
 msgid "Add JavaScript or CSS gadgets to a wiki"
 msgstr ""
 
 #: build-tools/tutorials.md:block 4 (paragraph)
+#: contribute/by-language.md:block 7 (paragraph)
 msgid ""
 "Customize MediaWiki with client-side JavaScript code and CSS. Use gadgets "
 "other people have created, write scripts to modify your wiki's global js, "
@@ -515,6 +525,7 @@ msgid ""
 msgstr ""
 
 #: build-tools/tutorials.md:block 5 (unordered list)
+#: contribute/by-language.md:block 8 (unordered list)
 msgid ""
 "[Read the tutorial on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -671,20 +682,20 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 9 (header) contribute/overview.md:block
-#: 12 (header)
+#: connect-learn/communicate.md:block 9 (header) contribute/index.md:block 2
+#: (header)
 msgid "Read the code of conduct"
 msgstr ""
 
-#: connect-learn/communicate.md:block 10 (paragraph)
-#: contribute/overview.md:block 13 (paragraph)
+#: connect-learn/communicate.md:block 10 (paragraph) contribute/index.md:block
+#: 3 (paragraph)
 msgid ""
 "The code of conduct for Wikimedia technical spaces applies to both physical "
 "and virtual environments."
 msgstr ""
 
 #: connect-learn/communicate.md:block 11 (unordered list)
-#: contribute/overview.md:block 14 (unordered list)
+#: contribute/index.md:block 4 (unordered list)
 msgid ""
 "[Read the code of conduct on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
@@ -936,364 +947,354 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 msgstr ""
 
-#: contribute/index.md:block 2 (header) contribute/overview.md:title
+#: contribute/index.md:block 5 (header) contribute/overview.md:title
 msgid "Learn how contributing works"
 msgstr ""
 
-#: contribute/index.md:block 3 (paragraph)
+#: contribute/index.md:block 6 (paragraph)
 msgid ""
-"How to contribute to MediaWiki and other Wikimedia open source projects."
+"Get the basics of how to contribute to MediaWiki and other Wikimedia open "
+"source projects."
 msgstr ""
 
-#: contribute/index.md:block 4 (paragraph) use-content/index.md:block 7
+#: contribute/index.md:block 7 (paragraph) use-content/index.md:block 7
 #: (paragraph)
 msgid "[Learn more](overview.md)"
 msgstr ""
 
-#: contribute/index.md:block 5 (header) contribute/mediawiki.md:title
-#: contribute/mediawiki.md:block 1 (header)
-msgid "Extend and customize MediaWiki"
+#: contribute/index.md:block 8 (header) contribute/by-topic.md:title
+#: contribute/by-topic.md:block 1 (header)
+msgid "Contribute by topic"
 msgstr ""
 
-#: contribute/index.md:block 6 (paragraph)
-msgid "Contribute to the collaborative editing software that runs Wikipedia."
-msgstr ""
-
-#: contribute/index.md:block 7 (paragraph)
-msgid "[Learn more](mediawiki.md)"
-msgstr ""
-
-#: contribute/index.md:block 8 (header) contribute/localization.md:title
-#: contribute/localization.md:block 1 (header)
-msgid "Localization"
-msgstr ""
-
-#: contribute/index.md:block 9 (paragraph) contribute/localization.md:block 2
+#: contribute/index.md:block 9 (paragraph) contribute/by-topic.md:block 2
 #: (paragraph)
-msgid "Adapt code to different languages and regions."
+msgid ""
+"Find ways to contribute, and connect with others with shared interests."
 msgstr ""
 
 #: contribute/index.md:block 10 (paragraph)
-msgid "[Learn more](localization.md)"
+msgid "[Learn more](by-topic.md)"
 msgstr ""
 
-#: contribute/index.md:block 11 (header) contribute/documentation.md:title
-#: contribute/documentation.md:block 1 (header)
-msgid "Documentation"
+#: contribute/index.md:block 11 (header) contribute/by-language.md:title
+msgid "Contribute by programming language"
 msgstr ""
 
 #: contribute/index.md:block 12 (paragraph)
-msgid "Find resources for writing and maintaining technical docs."
+msgid "Choose a project based on programming language."
 msgstr ""
 
 #: contribute/index.md:block 13 (paragraph)
-msgid "[Learn more](documentation.md)"
+msgid "[Learn more](by-language.md)"
 msgstr ""
 
-#: contribute/index.md:block 14 (header) contribute/accessibility.md:title
-#: contribute/accessibility.md:block 1 (header)
-msgid "Accessibility"
+#: contribute/index.md:block 14 (header)
+msgid "Search all projects"
 msgstr ""
 
-#: contribute/index.md:block 15 (paragraph) contribute/accessibility.md:block
-#: 2 (paragraph)
-msgid "Develop software that can be used by everyone."
+#: contribute/index.md:block 15 (paragraph)
+msgid "Search all Wikimedia open source software projects."
 msgstr ""
 
 #: contribute/index.md:block 16 (paragraph)
-msgid "[Learn more](accessibility.md)"
+msgid "[Learn more](search.md)"
 msgstr ""
 
-#: contribute/documentation.md:block 2 (paragraph)
-msgid "Help developers by writing and maintaining technical documentation."
+#: contribute/index.md:block 17 (header)
+msgid "Guidelines and code conventions"
 msgstr ""
 
-#: contribute/documentation.md:block 6 (header)
-msgid "Get started contributing to documentation"
+#: contribute/index.md:block 18 (paragraph)
+msgid "Follow best practices and coding conventions."
 msgstr ""
 
-#: contribute/documentation.md:block 7 (paragraph)
+#: contribute/index.md:block 19 (unordered list)
 msgid ""
-"Learn how to find good first tasks and get started writing documentation for"
-" Wikimedia technologies."
+"[Development guidelines on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
 msgstr ""
 
-#: contribute/documentation.md:block 8 (unordered list)
+#: contribute/index.md:block 19 (unordered list)
+msgid ""
+"[Coding conventions on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Coding_conventions)"
+msgstr ""
+
+#: contribute/by-language.md:block 1 (header)
+msgid "Python"
+msgstr ""
+
+#: contribute/by-language.md:block 5 (header)
+msgid "JavaScript"
+msgstr ""
+
+#: contribute/by-language.md:block 9 (header)
+msgid "Codex"
+msgstr ""
+
+#: contribute/by-language.md:block 10 (paragraph)
+msgid ""
+"Codex is a toolkit for building user interfaces within the Wikimedia Design "
+"System using Vue."
+msgstr ""
+
+#: contribute/by-language.md:block 11 (unordered list)
+msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
+msgstr ""
+
+#: contribute/by-language.md:block 11 (unordered list)
+msgid ""
+"[Contribute to "
+"Codex](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
+msgstr ""
+
+#: contribute/by-language.md:block 11 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
+msgstr ""
+
+#: contribute/by-language.md:block 12 (header)
+msgid "PHP"
+msgstr ""
+
+#: contribute/by-language.md:block 13 (header)
+#: get-started/wikimedia-tech.md:block 9 (header)
+msgid "MediaWiki and extensions"
+msgstr ""
+
+#: contribute/by-language.md:block 14 (paragraph)
+#: get-started/wikimedia-tech.md:block 10 (paragraph)
+msgid ""
+"MediaWiki is the software that powers Wikipedia, its sister projects, and "
+"thousands of wikis all over the world."
+msgstr ""
+
+#: contribute/by-language.md:block 15 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
+msgid "[Read the docs](https://www.mediawiki.org/)"
+msgstr ""
+
+#: contribute/by-language.md:block 15 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
+msgid ""
+"[Contribute to "
+"MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+msgstr ""
+
+#: contribute/by-language.md:block 15 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
+msgid ""
+"[Get the source "
+"code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+msgstr ""
+
+#: contribute/by-language.md:block 16 (header)
+msgid "Ruby"
+msgstr ""
+
+#: contribute/by-language.md:block 17 (header)
+msgid "Wiki Education Dashboard"
+msgstr ""
+
+#: contribute/by-language.md:block 18 (paragraph)
+msgid ""
+"The Wiki Education Dashboard is a web application that supports Wikipedia "
+"education assignments, edit-a-thons, and other editing projects, built with "
+"Ruby on Rails and React."
+msgstr ""
+
+#: contribute/by-language.md:block 19 (unordered list)
+msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
+msgstr ""
+
+#: contribute/by-language.md:block 19 (unordered list)
+msgid ""
+"[Contribute to the "
+"dashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+msgstr ""
+
+#: contribute/by-language.md:block 19 (unordered list)
+msgid ""
+"[Get the source "
+"code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+msgstr ""
+
+#: contribute/by-topic.md:block 3 (header)
+msgid "Documentation"
+msgstr ""
+
+#: contribute/by-topic.md:block 4 (paragraph)
+msgid "Get started writing documentation for Wikimedia technologies."
+msgstr ""
+
+#: contribute/by-topic.md:block 5 (unordered list)
 msgid ""
 "[Learn more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
 msgstr ""
 
-#: contribute/localization.md:block 3 (header)
-msgid "Add a wiki in a new language"
+#: contribute/by-topic.md:block 6 (header)
+msgid "Localization and internationalization"
 msgstr ""
 
-#: contribute/localization.md:block 4 (paragraph)
-msgid ""
-"Learn about the process and request new language wikis for existing "
-"projects."
+#: contribute/by-topic.md:block 7 (paragraph)
+msgid "Write code that can be localized, and get your code translated."
 msgstr ""
 
-#: contribute/localization.md:block 5 (unordered list)
-msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Requests_for_new_languages)"
-msgstr ""
-
-#: contribute/localization.md:block 6 (header)
-msgid "Contribute translations"
-msgstr ""
-
-#: contribute/localization.md:block 7 (paragraph)
-msgid "Use your language skills to help localize Wikimedia software."
-msgstr ""
-
-#: contribute/localization.md:block 8 (unordered list)
-msgid "[Visit translatewiki.net](http://translatewiki.net/)"
-msgstr ""
-
-#: contribute/localization.md:block 9 (header)
-msgid "Customize messages in your local wiki"
-msgstr ""
-
-#: contribute/localization.md:block 10 (paragraph)
-msgid ""
-"Understand and manage how MediaWiki uses messages for internationalization "
-"and localization of user-facing parts of the interface."
-msgstr ""
-
-#: contribute/localization.md:block 11 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:System_message)"
-msgstr ""
-
-#: contribute/localization.md:block 12 (header)
-msgid "Learn about MediaWiki's localization system"
-msgstr ""
-
-#: contribute/localization.md:block 13 (paragraph)
-msgid "Write code that can be localized and get your code translated."
-msgstr ""
-
-#: contribute/localization.md:block 14 (unordered list)
+#: contribute/by-topic.md:block 8 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
 msgstr ""
 
-#: contribute/mediawiki.md:block 2 (paragraph)
+#: contribute/by-topic.md:block 9 (header)
+msgid "Mobile apps"
+msgstr ""
+
+#: contribute/by-topic.md:block 10 (paragraph)
 msgid ""
-"To add a new feature to MediaWiki, if you can't do it in client-side "
-"JavaScript, you may need to write an extension in PHP."
+"Expand the reach of Wikimedia content by contributing to mobile apps for "
+"Wikipedia, Wikimedia Commons, and other projects."
 msgstr ""
 
-#: contribute/mediawiki.md:block 3 (header)
-msgid "Browse extensions"
-msgstr ""
-
-#: contribute/mediawiki.md:block 4 (paragraph)
-msgid "Find existing extensions for MediaWiki."
-msgstr ""
-
-#: contribute/mediawiki.md:block 5 (unordered list)
+#: contribute/by-topic.md:block 11 (unordered list)
 msgid ""
-"[Extensions by category on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Category:Extensions_by_category)"
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
 msgstr ""
 
-#: contribute/mediawiki.md:block 5 (unordered list)
+#: contribute/by-topic.md:block 12 (header)
+#: get-started/wikimedia-tech.md:block 12 (header)
+msgid "Offline reading"
+msgstr ""
+
+#: contribute/by-topic.md:block 13 (paragraph)
+#: get-started/wikimedia-tech.md:block 13 (paragraph)
+msgid "Help people use Wikipedia without internet access."
+msgstr ""
+
+#: contribute/by-topic.md:block 14 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid ""
-"[Extensions in need of "
-"maintainers](https://www.mediawiki.org/wiki/Special:MyLanguage/Category:Unmaintained_extensions)"
+"[Join the offline projects user "
+"group](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 msgstr ""
 
-#: contribute/mediawiki.md:block 6 (header)
-msgid "Change the look and feel of MediaWiki"
+#: contribute/by-topic.md:block 14 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Contribute to Kiwix](https://www.kiwix.org/en/support-us/code/)"
 msgstr ""
 
-#: contribute/mediawiki.md:block 7 (paragraph)
-msgid ""
-"If you make extensive changes to a wiki's appearance by modifying your local"
-" user CSS, package your design into a \"skin\" and share it with others."
-msgstr ""
-
-#: contribute/mediawiki.md:block 8 (unordered list)
-msgid ""
-"[Learn about skins on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Skins)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 8 (unordered list)
-msgid ""
-"[Create a skin for "
-"MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:How_to_make_a_MediaWiki_skin)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 8 (unordered list)
-msgid ""
-"[Configure skins for a "
-"wiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Skin_configuration)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 9 (header)
-msgid "MediaWiki extension points"
-msgstr ""
-
-#: contribute/mediawiki.md:block 10 (paragraph)
-msgid ""
-"Six main extension points enable you to change or extend MediaWiki "
-"functionality."
-msgstr ""
-
-#: contribute/mediawiki.md:block 11 (unordered list)
-msgid ""
-"[Access MediaWiki data and metadata via web "
-"API](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 11 (unordered list)
-msgid ""
-"[Event "
-"hooks](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Hooks)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 11 (unordered list)
-msgid ""
-"[Parser "
-"functions](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Parser_functions)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 11 (unordered list)
-msgid ""
-"[Skins to change look and "
-"feel](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Skins)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 11 (unordered list)
-msgid ""
-"[Add a new special "
-"page](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Special_pages)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 11 (unordered list)
-msgid ""
-"[Add a new tag with tag "
-"extensions](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Tag_extensions)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 11 (unordered list)
-msgid ""
-"[Use page content other than "
-"wikitext](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Page_content_models)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 11 (unordered list)
-msgid ""
-"[Modify wikitext content by extending "
-"markup](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Extending_wiki_markup)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 12 (header)
-msgid "Write new extensions"
-msgstr ""
-
-#: contribute/mediawiki.md:block 13 (paragraph)
-msgid "How to set up, execute, and localize an extension."
-msgstr ""
-
-#: contribute/mediawiki.md:block 14 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Developing_extensions)"
-msgstr ""
-
-#: contribute/mediawiki.md:block 14 (unordered list)
-msgid ""
-"[Extensions FAQ on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Extensions_FAQ)"
+#: contribute/overview.md:block 1 (header)
+msgid "Get started contributing to Wikimedia open source"
 msgstr ""
 
 #: contribute/overview.md:block 2 (paragraph)
-msgid "Get started as a new code contributor."
+msgid ""
+"Learn the basics of how to contribute to MediaWiki and other Wikimedia open "
+"source projects."
 msgstr ""
 
-#: contribute/overview.md:block 3 (header) get-started/wikimedia-tech.md:block
-#: 6 (header)
-msgid "Code search"
+#: contribute/overview.md:block 3 (header)
+msgid "Create a developer account"
 msgstr ""
 
 #: contribute/overview.md:block 4 (paragraph)
-#: get-started/wikimedia-tech.md:block 7 (paragraph)
-msgid "Search the Wikimedia codebases."
+msgid ""
+"Most of Wikimedia's technical spaces use a developer account to identify and"
+" authorize users. This account provides access to a number of resources for "
+"making technical contributions."
 msgstr ""
 
 #: contribute/overview.md:block 5 (unordered list)
-#: get-started/wikimedia-tech.md:block 8 (unordered list)
-msgid "[Code search](https://codesearch.wmcloud.org/search)"
-msgstr ""
-
-#: contribute/overview.md:block 5 (unordered list)
-#: get-started/wikimedia-tech.md:block 8 (unordered list)
-msgid "[Browse Gerrit repositories](https://gerrit.wikimedia.org/g/)"
-msgstr ""
-
-#: contribute/overview.md:block 5 (unordered list)
-#: get-started/wikimedia-tech.md:block 8 (unordered list)
-msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
+msgid ""
+"[Create your "
+"account](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
 msgstr ""
 
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 3
-#: (header)
-msgid "Learn the basics for new developers"
+#: (header) get-started/wikimedia-tech.md:block 15 (header)
+msgid "Recommended projects for new contributors"
 msgstr ""
 
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 4
-#: (paragraph)
+#: (paragraph) get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid ""
-"Guidance for getting started as a developer and contributing to Wikimedia "
-"projects."
+"Choose from open source projects that offer mentoring for new contributors."
 msgstr ""
 
 #: contribute/overview.md:block 8 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid ""
 "[New developers guide on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
 msgstr ""
 
 #: contribute/overview.md:block 9 (header)
-msgid "Learn the basics of MediaWiki development"
+msgid "See your contributions"
 msgstr ""
 
 #: contribute/overview.md:block 10 (paragraph)
-msgid ""
-"Introduction to development of MediaWiki core and extensions that are part "
-"of MediaWiki core."
+msgid "Visualize your technical contributions to Wikimedia open source."
 msgstr ""
 
 #: contribute/overview.md:block 11 (unordered list)
+msgid "[Visit WikiContrib](https://wikicontrib.toolforge.org/)"
+msgstr ""
+
+#: contribute/search.md:title contribute/search.md:block 1 (header)
+msgid "Search Wikimedia open source projects"
+msgstr ""
+
+#: contribute/search.md:block 2 (header)
+msgid "Search codebases"
+msgstr ""
+
+#: contribute/search.md:block 3 (paragraph)
+msgid "Search all Wikimedia codebases using the code search tool."
+msgstr ""
+
+#: contribute/search.md:block 4 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid "[Code search](https://codesearch.wmcloud.org/search)"
+msgstr ""
+
+#: contribute/search.md:block 5 (header)
+msgid "Browse Wikimedia open source docs"
+msgstr ""
+
+#: contribute/search.md:block 6 (paragraph)
 msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+"Browse auto-generated and related documentation hosted on doc.wikimedia.org."
 msgstr ""
 
-#: contribute/overview.md:block 15 (header) get-started/new-dev.md:block 6
-#: (header) get-started/wikimedia-tech.md:block 15 (header)
-msgid "Recommended projects for new contributors"
+#: contribute/search.md:block 7 (unordered list)
+msgid "[Browse docs](https://doc.wikimedia.org)"
 msgstr ""
 
-#: contribute/overview.md:block 16 (paragraph) get-started/new-dev.md:block 7
-#: (paragraph) get-started/wikimedia-tech.md:block 16 (paragraph)
-msgid "Find open source projects and tasks for new developers."
+#: contribute/search.md:block 8 (header)
+msgid "Browse repositories"
 msgstr ""
 
-#: contribute/overview.md:block 17 (unordered list)
-#: get-started/new-dev.md:block 8 (unordered list)
-#: get-started/wikimedia-tech.md:block 17 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Good_first_bugs)"
+#: contribute/search.md:block 9 (paragraph)
+msgid "List all Wikimedia repositories."
+msgstr ""
+
+#: contribute/search.md:block 10 (unordered list)
+msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
+msgstr ""
+
+#: contribute/search.md:block 10 (unordered list)
+msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
+msgstr ""
+
+#: contribute/search.md:block 10 (unordered list)
+msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
+msgstr ""
+
+#: contribute/search.md:block 11 (header)
+msgid "Search tools and bots"
 msgstr ""
 
 #: get-help/index.md:title get-help/index.md:block 1 (header)
@@ -1370,15 +1371,7 @@ msgid ""
 msgstr ""
 
 #: get-started/index.md:block 12 (unordered list)
-msgid "[Improve MediaWiki code or extensions.](../contribute/mediawiki.md)"
-msgstr ""
-
-#: get-started/index.md:block 12 (unordered list)
 msgid "[Contribute to Wikimedia open source.](../contribute/index.md)"
-msgstr ""
-
-#: get-started/index.md:block 12 (unordered list)
-msgid "[Improve the look and feel of MediaWiki.](../contribute/mediawiki.md)"
 msgstr ""
 
 #: get-started/new-dev.md:block 2 (paragraph)
@@ -1462,62 +1455,20 @@ msgstr ""
 msgid "Explore core Wikimedia technology and open source projects."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 9 (header)
-msgid "MediaWiki"
+#: get-started/wikimedia-tech.md:block 6 (header)
+msgid "Code search"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 10 (paragraph)
-msgid "The collaborative editing engine that runs Wikipedia."
+#: get-started/wikimedia-tech.md:block 7 (paragraph)
+msgid "Search the Wikimedia codebases."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
-msgid "[Project homepage](https://www.mediawiki.org/)"
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid "[Browse Gerrit repositories](https://gerrit.wikimedia.org/g/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
-msgid "[Source code](https://phabricator.wikimedia.org/source/mediawiki/)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
-msgid ""
-"[MediaWiki "
-"documentation](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Contents)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
-msgid ""
-"[PHP code documentation](https://doc.wikimedia.org/mediawiki-"
-"core/master/php/)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
-msgid ""
-"[JavaScript code documentation](https://doc.wikimedia.org/mediawiki-"
-"core/master/js/)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
-msgid ""
-"[Coding conventions for "
-"MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Coding_conventions)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 12 (header)
-msgid "Offline reading projects"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 13 (paragraph)
-msgid "Help people use Wikipedia without internet access."
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 14 (unordered list)
-msgid ""
-"[Join the offline projects user "
-"group](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 14 (unordered list)
-msgid "[Contribute to Kiwix](https://www.kiwix.org/en/support-us/code/)"
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
 msgstr ""
 
 #: use-content/index.md:block 2 (header) use-content/featured-apps.md:title

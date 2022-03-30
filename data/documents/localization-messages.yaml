@@ -1,8 +1,0 @@
----
-title: Customize messages in your local wiki
-description: Understand and manage how MediaWiki uses messages for internationalization and localization of user-facing parts of the interface.
-links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Help:System_message
-    label: Read more on mediawiki.org
-categories:
-  - localization

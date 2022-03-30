@@ -1,0 +1,8 @@
+---
+title: Browse Wikimedia open source docs
+description: Browse auto-generated and related documentation hosted on doc.wikimedia.org.
+links:
+  - url: https://doc.wikimedia.org
+    label: Browse docs
+categories:
+  search-projects: 2

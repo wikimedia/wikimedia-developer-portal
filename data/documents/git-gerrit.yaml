@@ -1,8 +1,0 @@
----
-title: Set up Git and Gerrit
-description: Wikimedia developers use Git and Gerrit for version control and collaborative code review.
-links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial
-    label: Read the tutorial on mediawiki.org
-categories:
-  - setup

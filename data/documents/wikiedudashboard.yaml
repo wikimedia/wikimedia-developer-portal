@@ -1,0 +1,12 @@
+---
+title: Wiki Education Dashboard
+description: The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React.
+links:
+  - url: https://dashboard.wikiedu.org
+    label: Visit the dashboard
+  - url: https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md
+    label: Contribute to the dashboard
+  - url: https://github.com/WikiEducationFoundation/WikiEduDashboard
+    label: Get the source code
+categories:
+  - contribute-ruby
