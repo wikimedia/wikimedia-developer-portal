@@ -1,8 +1,8 @@
 ---
-title: Toolforge quick start guide
-description: Set up your Toolforge account and get started with a simple webservice.
+title: Host a tool on Wikimedia cloud servers
+description: Set up your Toolforge account and get started with a simple web service.
 links:
   - url: https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart
     label: Read the tutorial on Wikitech
 categories:
-  toolforge: 3
+ - tutorials-tools

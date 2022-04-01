@@ -8,28 +8,26 @@ Tools and bots make it easier to edit and maintain Wikimedia projects.
 
 {{ document.render("toolhub", custom_title="Discover and share tools") }}
 
-{{ document.render("pywikibot-paws") }}
+## Get started building tools and bots
+
+Create your first tool, learn about running a bot, and get best practices.
+
+* [Learn more](get-started.md)
 
 ## Learn with tutorials
 
 Follow step-by-step guides to learn the basics of interacting with Wikimedia projects.
 
-[Learn more](tutorials.md)
+* [Learn more](tutorials.md)
 
-## Use frameworks and APIs
+## Use frameworks, APIs, and data sources
 
 Explore programming interfaces for building bots and tools.
 
-[Learn more](apis.md)
+* [Learn more](apis.md)
 
 ## Host tools on Wikimedia servers
 
 Cloud hosting for performing analytics, administering bots, running web services, and tools that help Wikimedia projects.
 
-[Learn more](host-tools.md)
-
-## Apply best practices
-
-Learn about best practices for automation, documentation, and being a tool maintainer.
-
-[Learn more](best-practices.md)
+* [Learn more](host-tools.md)

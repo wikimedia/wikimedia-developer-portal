@@ -26,7 +26,8 @@ msgstr ""
 msgid "Copyright &copy; 2021 Wikimedia Foundation and contributors"
 msgstr ""
 
-#: mkdocs.yml:navigation get-started/index.md:title
+#: mkdocs.yml:navigation build-tools/get-started.md:title
+#: get-started/index.md:title
 msgid "Get started"
 msgstr ""
 
@@ -35,7 +36,7 @@ msgid "Use content and data"
 msgstr ""
 
 #: mkdocs.yml:navigation
-msgid "Build tools"
+msgid "Build tools and bots"
 msgstr ""
 
 #: mkdocs.yml:navigation
@@ -168,22 +169,19 @@ msgstr ""
 msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
 msgstr ""
 
-#: build-tools/index.md:block 6 (header) build-tools/tutorials.md:block 15
+#: build-tools/index.md:block 6 (header) build-tools/get-started.md:block 1
 #: (header)
-msgid "Get started building tools"
+msgid "Get started building tools and bots"
 msgstr ""
 
-#: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 16
+#: build-tools/index.md:block 7 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
-msgid "Write a script to edit wiki pages with Python."
+msgid ""
+"Create your first tool, learn about running a bot, and get best practices."
 msgstr ""
 
 #: build-tools/index.md:block 8 (unordered list)
-#: build-tools/tutorials.md:block 17 (unordered list)
-msgid ""
-"[Read the "
-"tutorial](https://public.paws.wmcloud.org/User:SRodlund_(WMF)/Using-"
-"Pywikibot-with-Paws.ipynb)"
+msgid "[Learn more](get-started.md)"
 msgstr ""
 
 #: build-tools/index.md:block 9 (header) use-content/index.md:block 14
@@ -198,13 +196,13 @@ msgid ""
 " projects."
 msgstr ""
 
-#: build-tools/index.md:block 11 (paragraph) get-started/index.md:block 6
+#: build-tools/index.md:block 11 (unordered list) get-started/index.md:block 6
 #: (paragraph) use-content/index.md:block 16 (paragraph)
 msgid "[Learn more](tutorials.md)"
 msgstr ""
 
 #: build-tools/index.md:block 12 (header)
-msgid "Use frameworks and APIs"
+msgid "Use frameworks, APIs, and data sources"
 msgstr ""
 
 #: build-tools/index.md:block 13 (paragraph) build-tools/apis.md:block 2
@@ -212,7 +210,7 @@ msgstr ""
 msgid "Explore programming interfaces for building bots and tools."
 msgstr ""
 
-#: build-tools/index.md:block 14 (paragraph)
+#: build-tools/index.md:block 14 (unordered list)
 msgid "[Learn more](apis.md)"
 msgstr ""
 
@@ -227,23 +225,8 @@ msgid ""
 "services, and tools that help Wikimedia projects."
 msgstr ""
 
-#: build-tools/index.md:block 17 (paragraph)
+#: build-tools/index.md:block 17 (unordered list)
 msgid "[Learn more](host-tools.md)"
-msgstr ""
-
-#: build-tools/index.md:block 18 (header)
-msgid "Apply best practices"
-msgstr ""
-
-#: build-tools/index.md:block 19 (paragraph)
-#: build-tools/best-practices.md:block 2 (paragraph)
-msgid ""
-"Learn about best practices for automation, documentation, and being a tool "
-"maintainer."
-msgstr ""
-
-#: build-tools/index.md:block 20 (paragraph)
-msgid "[Learn more](best-practices.md)"
 msgstr ""
 
 #: build-tools/apis.md:title
@@ -326,119 +309,85 @@ msgstr ""
 msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
 msgstr ""
 
-#: build-tools/apis.md:block 12 (header)
-msgid "Use machine learning to detect vandalism"
-msgstr ""
-
-#: build-tools/apis.md:block 13 (paragraph)
-msgid ""
-"ORES provides machine learning as a service to automate tasks like detecting"
-" vandalism and removing bad-faith edits."
-msgstr ""
-
-#: build-tools/apis.md:block 14 (unordered list)
-msgid "[Visit the ORES site](https://ores.wikimedia.org/)"
-msgstr ""
-
-#: build-tools/apis.md:block 15 (header) use-content/content.md:block 9
+#: build-tools/apis.md:block 12 (header) use-content/content.md:block 9
 #: (header)
 msgid "Download content in bulk"
 msgstr ""
 
-#: build-tools/apis.md:block 16 (paragraph) use-content/content.md:block 10
+#: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 10
 #: (paragraph)
 msgid ""
 "Download Wikimedia content for backup, offline use, research, and more."
 msgstr ""
 
-#: build-tools/apis.md:block 17 (unordered list) use-content/content.md:block
+#: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
 #: 11 (unordered list)
 msgid ""
 "[Read about data dumps on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
 msgstr ""
 
-#: build-tools/apis.md:block 18 (header)
+#: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
 msgstr ""
 
-#: build-tools/apis.md:block 19 (paragraph)
+#: build-tools/apis.md:block 16 (paragraph)
 msgid ""
 "Wiki replicas are sanitized versions of the databases that back Wikimedia's "
-"production sites."
+"production sites. Use Quarry to run and share SQL queries."
 msgstr ""
 
-#: build-tools/apis.md:block 20 (unordered list)
+#: build-tools/apis.md:block 17 (unordered list)
+msgid "[Log in to Quarry](https://quarry.wmcloud.org/)"
+msgstr ""
+
+#: build-tools/apis.md:block 17 (unordered list)
 msgid ""
-"[Run SQL queries with "
+"[Learn more about "
 "Quarry](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
 msgstr ""
 
-#: build-tools/best-practices.md:title
-msgid "Best practices"
+#: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
+#: 9 (header)
+msgid "Build your first tool"
 msgstr ""
 
-#: build-tools/best-practices.md:block 1 (header)
-msgid "Best practices for building tools"
+#: build-tools/get-started.md:block 4 (paragraph)
+#: build-tools/tutorials.md:block 10 (paragraph)
+msgid "Write a script to edit wiki pages with Python."
 msgstr ""
 
-#: build-tools/best-practices.md:block 3 (header)
-msgid "Build accessible software"
-msgstr ""
-
-#: build-tools/best-practices.md:block 4 (paragraph)
+#: build-tools/get-started.md:block 5 (unordered list)
+#: build-tools/tutorials.md:block 11 (unordered list)
 msgid ""
-"Learn about basic accessibility concepts and developer guidelines to make "
-"open source software more accessible."
+"[Read the "
+"tutorial](https://public.paws.wmcloud.org/User:SRodlund_(WMF)/Using-"
+"Pywikibot-with-Paws.ipynb)"
 msgstr ""
 
-#: build-tools/best-practices.md:block 5 (unordered list)
-msgid ""
-"[Read the guide on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Accessibility_guide_for_developers)"
+#: build-tools/get-started.md:block 6 (header)
+msgid "Learn about creating and running bots"
 msgstr ""
 
-#: build-tools/best-practices.md:block 6 (header)
-msgid "Create and maintain documentation"
-msgstr ""
-
-#: build-tools/best-practices.md:block 7 (paragraph)
-msgid ""
-"Quality documentation is especially important for open-source projects. It "
-"provides history, context, accurate information, and repeatable steps that "
-"people can follow."
-msgstr ""
-
-#: build-tools/best-practices.md:block 8 (unordered list)
-msgid ""
-"[Documentation overview on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation)"
-msgstr ""
-
-#: build-tools/best-practices.md:block 9 (header)
-msgid "Create and run bots"
-msgstr ""
-
-#: build-tools/best-practices.md:block 10 (paragraph)
+#: build-tools/get-started.md:block 7 (paragraph)
 msgid "Run a tool as a recurring process that edits wiki pages automatically."
 msgstr ""
 
-#: build-tools/best-practices.md:block 11 (unordered list)
+#: build-tools/get-started.md:block 8 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
 msgstr ""
 
-#: build-tools/best-practices.md:block 12 (header)
-msgid "Host successful tools on Toolforge"
+#: build-tools/get-started.md:block 9 (header)
+msgid "Best practices for open source tools"
 msgstr ""
 
-#: build-tools/best-practices.md:block 13 (paragraph)
-msgid ""
-"This page provides tips to help you develop successful tools on Toolforge."
+#: build-tools/get-started.md:block 10 (paragraph)
+msgid "This page provides tips to help you develop successful tools and bots."
 msgstr ""
 
-#: build-tools/best-practices.md:block 14 (unordered list)
+#: build-tools/get-started.md:block 11 (unordered list)
 msgid ""
 "[Read more on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
@@ -473,7 +422,7 @@ msgid ""
 msgstr ""
 
 #: build-tools/host-tools.md:block 6 (header)
-msgid "Cloud hosting for tools"
+msgid "Learn about cloud hosting for tools"
 msgstr ""
 
 #: build-tools/host-tools.md:block 7 (paragraph)
@@ -484,21 +433,6 @@ msgstr ""
 msgid ""
 "[Read the Toolforge docs on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr ""
-
-#: build-tools/host-tools.md:block 9 (header)
-msgid "Toolforge quick start guide"
-msgstr ""
-
-#: build-tools/host-tools.md:block 10 (paragraph)
-msgid ""
-"Set up your Toolforge account and get started with a simple webservice."
-msgstr ""
-
-#: build-tools/host-tools.md:block 11 (unordered list)
-msgid ""
-"[Read the tutorial on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
 msgstr ""
 
 #: build-tools/tutorials.md:title get-started/tutorials.md:block 1 (header)
@@ -550,36 +484,51 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
 msgstr ""
 
-#: build-tools/tutorials.md:block 9 (header) use-content/tutorials.md:block 12
-#: (header)
+#: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block
+#: 12 (header)
 msgid "Generate ideas for articles"
 msgstr ""
 
-#: build-tools/tutorials.md:block 10 (paragraph)
+#: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 13 (paragraph)
 msgid ""
 "Learn to use the MediaWiki Action API Parse and Links modules by building an"
 " app that generates article ideas."
 msgstr ""
 
-#: build-tools/tutorials.md:block 11 (unordered list)
+#: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
 msgid ""
 "[Read the tutorial on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 msgstr ""
 
-#: build-tools/tutorials.md:block 12 (header)
+#: build-tools/tutorials.md:block 15 (header)
+msgid "Host a tool on Wikimedia cloud servers"
+msgstr ""
+
+#: build-tools/tutorials.md:block 16 (paragraph)
+msgid ""
+"Set up your Toolforge account and get started with a simple web service."
+msgstr ""
+
+#: build-tools/tutorials.md:block 17 (unordered list)
+msgid ""
+"[Read the tutorial on "
+"Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgstr ""
+
+#: build-tools/tutorials.md:block 18 (header)
 msgid "Write a bot that uses Wikidata"
 msgstr ""
 
-#: build-tools/tutorials.md:block 13 (paragraph)
+#: build-tools/tutorials.md:block 19 (paragraph)
 msgid ""
 "Use Python 3, Wikidata, and Pywikibot to handle large datasets and transfer "
 "data between tools in your workflow."
 msgstr ""
 
-#: build-tools/tutorials.md:block 14 (unordered list)
+#: build-tools/tutorials.md:block 20 (unordered list)
 msgid ""
 "[Read the tutorial on "
 "Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-"

@@ -1,8 +1,0 @@
----
-title: Create and maintain documentation
-description: Quality documentation is especially important for open-source projects. It provides history, context, accurate information, and repeatable steps that people can follow.
-links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation
-    label: Documentation overview on mediawiki.org
-categories:
-  - best-practices-tools

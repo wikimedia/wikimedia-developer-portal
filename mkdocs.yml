@@ -17,12 +17,12 @@ nav:
     - use-content/content.md
     - use-content/data.md
     - use-content/tutorials.md
-  - Build tools:
+  - Build tools and bots:
     - build-tools/index.md
+    - build-tools/get-started.md
     - build-tools/tutorials.md
     - build-tools/apis.md
     - build-tools/host-tools.md
-    - build-tools/best-practices.md
   - Contribute:
     - contribute/index.md
     - contribute/overview.md

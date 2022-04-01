@@ -1,8 +1,8 @@
 ---
-title: Create and run bots
+title: Learn about creating and running bots
 description: Run a tool as a recurring process that edits wiki pages automatically.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot
     label: Read more on mediawiki.org
 categories:
-  - best-practices-tools
+  get-started-tools: 2
