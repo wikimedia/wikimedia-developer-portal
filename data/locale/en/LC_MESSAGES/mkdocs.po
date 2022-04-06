@@ -1522,20 +1522,6 @@ msgstr ""
 msgid "[Contribute to Kiwix](https://www.kiwix.org/en/support-us/code/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 18 (header)
-msgid "Wikibase"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 19 (paragraph)
-msgid "The software suite that powers Wikidata."
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 20 (unordered list)
-msgid ""
-"[Project "
-"homepage](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
-msgstr ""
-
 #: use-content/index.md:block 2 (header) use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
 msgid "Explore featured apps"
