@@ -827,12 +827,6 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
 msgstr ""
 
-#: connect-learn/events.md:block 8 (unordered list)
-msgid ""
-"[List of past hackathons on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons/Previous_hackathons)"
-msgstr ""
-
 #: connect-learn/events.md:block 9 (header)
 msgid "Tech talks"
 msgstr ""
