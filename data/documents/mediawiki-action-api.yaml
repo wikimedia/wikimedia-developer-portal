@@ -4,7 +4,7 @@ description: The MediaWiki Action API gives you programmatic access to content a
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API
     label: Read the docs on mediawiki.org
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Special:ApiSandbox
+  - url: https://www.mediawiki.org/wiki/Special:ApiSandbox
     label: Try the sandbox
 categories:
   apis-tools: 3
