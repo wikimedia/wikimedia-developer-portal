@@ -494,7 +494,7 @@ msgid ""
 msgstr ""
 
 #: build-tools/tutorials.md:title get-started/tutorials.md:block 1 (header)
-#: use-content/content.md:block 12 (header) use-content/data.md:block 12
+#: use-content/content.md:block 12 (header) use-content/data.md:block 9
 #: (header)
 msgid "Tutorials"
 msgstr ""
@@ -1422,12 +1422,12 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 msgstr ""
 
-#: get-started/tutorials.md:block 10 (header) use-content/data.md:block 13
+#: get-started/tutorials.md:block 10 (header) use-content/data.md:block 10
 #: (header) use-content/tutorials.md:block 6 (header)
 msgid "Display info from Wikidata"
 msgstr ""
 
-#: get-started/tutorials.md:block 11 (paragraph) use-content/data.md:block 14
+#: get-started/tutorials.md:block 11 (paragraph) use-content/data.md:block 11
 #: (paragraph) use-content/tutorials.md:block 7 (paragraph)
 msgid ""
 "Use the MediaWiki Action API to present information from Wikidata in your "
@@ -1435,25 +1435,25 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 12 (unordered list)
-#: use-content/data.md:block 15 (unordered list)
+#: use-content/data.md:block 12 (unordered list)
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid ""
 "[Read the tutorial on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
 msgstr ""
 
-#: get-started/tutorials.md:block 13 (header) use-content/data.md:block 16
+#: get-started/tutorials.md:block 13 (header) use-content/data.md:block 13
 #: (header) use-content/tutorials.md:block 15 (header)
 msgid "Get started querying Wikidata"
 msgstr ""
 
-#: get-started/tutorials.md:block 14 (paragraph) use-content/data.md:block 17
+#: get-started/tutorials.md:block 14 (paragraph) use-content/data.md:block 14
 #: (paragraph) use-content/tutorials.md:block 16 (paragraph)
 msgid "A beginner's guide to querying Wikidata using SPARQL"
 msgstr ""
 
 #: get-started/tutorials.md:block 15 (unordered list)
-#: use-content/data.md:block 18 (unordered list)
+#: use-content/data.md:block 15 (unordered list)
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Start the tutorial](https://wdqs-tutorial.toolforge.org)"
 msgstr ""
@@ -1596,12 +1596,12 @@ msgstr ""
 msgid "[Learn more](https://enterprise.wikimedia.com)"
 msgstr ""
 
-#: use-content/content.md:block 19 (header) use-content/data.md:block 19
+#: use-content/content.md:block 19 (header) use-content/data.md:block 16
 #: (header)
 msgid "See all tutorials"
 msgstr ""
 
-#: use-content/content.md:block 20 (paragraph) use-content/data.md:block 20
+#: use-content/content.md:block 20 (paragraph) use-content/data.md:block 17
 #: (paragraph)
 msgid "[Browse tutorials](./tutorials.md)"
 msgstr ""
@@ -1611,63 +1611,33 @@ msgid "Wikimedia offers public data to use in research and machine learning."
 msgstr ""
 
 #: use-content/data.md:block 3 (header)
-msgid "Explore structured data with Wikidata"
+msgid "Use Wikimedia open data"
 msgstr ""
 
 #: use-content/data.md:block 4 (paragraph)
+msgid "Publicly-available, open-licensed data about Wikimedia projects."
+msgstr ""
+
+#: use-content/data.md:block 5 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+msgstr ""
+
+#: use-content/data.md:block 6 (header)
+msgid "Explore structured data with Wikidata"
+msgstr ""
+
+#: use-content/data.md:block 7 (paragraph)
 msgid ""
 "Wikidata is a free and open knowledge base that can be read and edited by "
 "both humans and machines."
 msgstr ""
 
-#: use-content/data.md:block 5 (unordered list)
+#: use-content/data.md:block 8 (unordered list)
 msgid ""
 "[Read the guide on "
 "wikidata.org](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr ""
-
-#: use-content/data.md:block 6 (header)
-msgid "Get data about wikis"
-msgstr ""
-
-#: use-content/data.md:block 7 (paragraph)
-msgid "Get page views, edit counts, and more data about Wikimedia projects."
-msgstr ""
-
-#: use-content/data.md:block 8 (unordered list)
-msgid ""
-"[Read the docs on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)"
-msgstr ""
-
-#: use-content/data.md:block 8 (unordered list)
-msgid "[Try the sandbox](https://wikimedia.org/api/rest_v1/)"
-msgstr ""
-
-#: use-content/data.md:block 8 (unordered list)
-msgid ""
-"[Explore project data on Wikistats](https://stats.wikimedia.org/#/all-"
-"projects)"
-msgstr ""
-
-#: use-content/data.md:block 8 (unordered list)
-msgid "[Download data in bulk](https://dumps.wikimedia.org/other/analytics/)"
-msgstr ""
-
-#: use-content/data.md:block 9 (header)
-msgid "Stream recent changes"
-msgstr ""
-
-#: use-content/data.md:block 10 (paragraph)
-msgid ""
-"Get the most recent changes to Wikimedia projects with the Event Streams "
-"API."
-msgstr ""
-
-#: use-content/data.md:block 11 (unordered list)
-msgid ""
-"[Read the docs on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Event_Platform/EventStreams)"
 msgstr ""
 
 #: use-content/featured-apps.md:block 2 (paragraph)

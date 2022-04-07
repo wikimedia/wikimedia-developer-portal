@@ -1,8 +1,0 @@
----
-title: Stream recent changes
-description: Get the most recent changes to Wikimedia projects with the Event Streams API.
-links:
-  - url: https://wikitech.wikimedia.org/wiki/Event_Platform/EventStreams
-    label: Read the docs on Wikitech
-categories:
-  access-data: 3
