@@ -1681,7 +1681,7 @@ msgstr ""
 #: use-content/overview.md:block 11 (unordered list)
 msgid ""
 "[Read the "
-"guide](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+"guide](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
 msgstr ""
 
 #: use-content/tutorials.md:block 1 (header)
