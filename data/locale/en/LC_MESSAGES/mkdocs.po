@@ -807,63 +807,92 @@ msgid "Explore content from past events or join us for an upcoming event."
 msgstr ""
 
 #: connect-learn/events.md:block 3 (header)
-msgid "Coolest Tool Award"
-msgstr ""
-
-#: connect-learn/events.md:block 4 (paragraph)
-msgid "This annual award event celebrates volunteer developer contributions."
-msgstr ""
-
-#: connect-learn/events.md:block 5 (unordered list)
-msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
-msgstr ""
-
-#: connect-learn/events.md:block 6 (header)
 msgid "Hackathons"
 msgstr ""
 
-#: connect-learn/events.md:block 7 (paragraph)
+#: connect-learn/events.md:block 4 (paragraph)
 msgid ""
 "A hackathon brings together people with different skills to work together on"
 " a common technical goal."
 msgstr ""
 
-#: connect-learn/events.md:block 8 (unordered list)
+#: connect-learn/events.md:block 5 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
 msgstr ""
 
+#: connect-learn/events.md:block 6 (header)
+msgid "Wikidata events"
+msgstr ""
+
+#: connect-learn/events.md:block 7 (paragraph)
+msgid "Browse meetups for Wikidata editors, data reusers, and developers."
+msgstr ""
+
+#: connect-learn/events.md:block 8 (unordered list)
+msgid ""
+"[Read more on "
+"wikidata.org](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+msgstr ""
+
 #: connect-learn/events.md:block 9 (header)
-msgid "Tech talks"
+msgid "Research events"
 msgstr ""
 
 #: connect-learn/events.md:block 10 (paragraph)
+msgid ""
+"Forums and meetups for scientists, engineers, and scholars who are exploring"
+" all aspects of Wikimedia projects."
+msgstr ""
+
+#: connect-learn/events.md:block 11 (unordered list)
+msgid ""
+"[Read more on wikimedia.org](https://research.wikimedia.org/events.html)"
+msgstr ""
+
+#: connect-learn/events.md:block 12 (header)
+msgid "Tech talks"
+msgstr ""
+
+#: connect-learn/events.md:block 13 (paragraph)
 msgid ""
 "Learn about technical topics through presentations created by and for the "
 "Wikimedia technical community."
 msgstr ""
 
-#: connect-learn/events.md:block 11 (unordered list)
+#: connect-learn/events.md:block 14 (unordered list)
 msgid ""
 "[Browse talks on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks)"
 msgstr ""
 
-#: connect-learn/events.md:block 12 (header)
+#: connect-learn/events.md:block 15 (header)
+msgid "Coolest Tool Award"
+msgstr ""
+
+#: connect-learn/events.md:block 16 (paragraph)
+msgid "This annual award event celebrates volunteer developer contributions."
+msgstr ""
+
+#: connect-learn/events.md:block 17 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+msgstr ""
+
+#: connect-learn/events.md:block 18 (header)
 msgid "Technical skills workshops"
 msgstr ""
 
-#: connect-learn/events.md:block 13 (paragraph) connect-learn/grow.md:block 10
+#: connect-learn/events.md:block 19 (paragraph) connect-learn/grow.md:block 10
 #: (paragraph)
 msgid ""
 "Recommended tools and educational resources to support small wiki "
 "communities in learning and sharing technical skills."
 msgstr ""
 
-#: connect-learn/events.md:block 14 (unordered list)
+#: connect-learn/events.md:block 20 (unordered list)
 #: connect-learn/grow.md:block 11 (unordered list)
 msgid ""
 "[Read more on Meta-"
