@@ -1,0 +1,10 @@
+---
+title: Search the docs
+description: Find technical information for Wikimedia projects.
+links:
+  - url: https://global-search.toolforge.org/
+    label: Search across wikis
+  - url: https://doc.wikimedia.org/
+    label: Browse Wikimedia open source docs
+categories:
+  help: 1

@@ -1,12 +1,7 @@
 ---
 hide:
-  - toc
   - navigation
+title: Get help
 ---
-# Get help
 
-Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats.
-
-[Explore ways to get help](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)
-
-<!--TODO: it would be cool if this could be a giant button -->
+{{ category.render( "help" ) }}

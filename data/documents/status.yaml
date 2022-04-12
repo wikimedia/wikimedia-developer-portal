@@ -1,0 +1,8 @@
+---
+title: Check system status
+description: Verify the overall health and performance of the wiki environment, and find out about major outages.
+links:
+  - url: https://www.wikimediastatus.net/
+    label: Visit wikimediastatus.net
+categories:
+   help: 3

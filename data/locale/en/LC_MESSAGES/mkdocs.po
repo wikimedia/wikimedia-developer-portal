@@ -649,56 +649,59 @@ msgstr ""
 msgid "[Learn more](updates.md)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 3 (header)
-msgid "Communication channels"
-msgstr ""
-
-#: connect-learn/communicate.md:block 4 (paragraph)
-msgid ""
-"Get in contact with other MediaWiki users and developers, for support or to "
-"share knowledge."
-msgstr ""
-
-#: connect-learn/communicate.md:block 5 (unordered list)
-msgid ""
-"[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
-msgstr ""
-
-#: connect-learn/communicate.md:block 6 (header)
-msgid "Find code maintainers and stewards"
-msgstr ""
-
-#: connect-learn/communicate.md:block 7 (paragraph)
-msgid ""
-"Maintainers know the most about, and maintain, MediaWiki core, key "
-"extensions, and Wikimedia servers. Code stewards are ultimately responsible "
-"for the development policies, support, and overall health of the code."
-msgstr ""
-
-#: connect-learn/communicate.md:block 8 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
-msgstr ""
-
-#: connect-learn/communicate.md:block 9 (header) contribute/index.md:block 2
+#: connect-learn/communicate.md:block 3 (header) contribute/index.md:block 2
 #: (header)
 msgid "Read the code of conduct"
 msgstr ""
 
-#: connect-learn/communicate.md:block 10 (paragraph) contribute/index.md:block
+#: connect-learn/communicate.md:block 4 (paragraph) contribute/index.md:block
 #: 3 (paragraph)
 msgid ""
 "The code of conduct for Wikimedia technical spaces applies to both physical "
 "and virtual environments."
 msgstr ""
 
-#: connect-learn/communicate.md:block 11 (unordered list)
+#: connect-learn/communicate.md:block 5 (unordered list)
 #: contribute/index.md:block 4 (unordered list)
 msgid ""
 "[Read the code of conduct on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+msgstr ""
+
+#: connect-learn/communicate.md:block 6 (header) get-help/index.md:block 6
+#: (header)
+msgid "Communication channels"
+msgstr ""
+
+#: connect-learn/communicate.md:block 7 (paragraph) get-help/index.md:block 7
+#: (paragraph)
+msgid ""
+"Get in contact with other MediaWiki users and developers, for support or to "
+"share knowledge."
+msgstr ""
+
+#: connect-learn/communicate.md:block 8 (unordered list)
+#: get-help/index.md:block 8 (unordered list)
+msgid ""
+"[Read the docs on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr ""
+
+#: connect-learn/communicate.md:block 9 (header)
+msgid "Find code maintainers and stewards"
+msgstr ""
+
+#: connect-learn/communicate.md:block 10 (paragraph)
+msgid ""
+"Maintainers know the most about, and maintain, MediaWiki core, key "
+"extensions, and Wikimedia servers. Code stewards are ultimately responsible "
+"for the development policies, support, and overall health of the code."
+msgstr ""
+
+#: connect-learn/communicate.md:block 11 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 msgstr ""
 
 #: connect-learn/communicate.md:block 12 (header)
@@ -1336,10 +1339,35 @@ msgid ""
 "can find help and support in many different locations and formats."
 msgstr ""
 
-#: get-help/index.md:block 3 (paragraph)
+#: get-help/index.md:block 3 (header)
+msgid "Search the docs"
+msgstr ""
+
+#: get-help/index.md:block 4 (paragraph)
+msgid "Find technical information for Wikimedia projects."
+msgstr ""
+
+#: get-help/index.md:block 5 (unordered list)
+msgid "[Search across wikis](https://global-search.toolforge.org/)"
+msgstr ""
+
+#: get-help/index.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
+msgstr ""
+
+#: get-help/index.md:block 9 (header)
+msgid "Check system status"
+msgstr ""
+
+#: get-help/index.md:block 10 (paragraph)
 msgid ""
-"[Explore ways to get "
-"help](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+"Verify the overall health and performance of the wiki environment, and find "
+"out about major outages."
+msgstr ""
+
+#: get-help/index.md:block 11 (unordered list)
+msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
 msgstr ""
 
 #: get-started/index.md:block 1 (header) get-started/new-dev.md:title
@@ -1494,10 +1522,6 @@ msgstr ""
 
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Browse Gerrit repositories](https://gerrit.wikimedia.org/g/)"
-msgstr ""
-
-#: get-started/wikimedia-tech.md:block 8 (unordered list)
-msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
 msgstr ""
 
 #: use-content/index.md:block 2 (header) use-content/featured-apps.md:title
