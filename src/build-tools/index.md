@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 # Build, discover, and share tools
 

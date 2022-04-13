@@ -1,6 +1,4 @@
 ---
-hide:
-  - navigation
 title: Use wiki content
 ---
 

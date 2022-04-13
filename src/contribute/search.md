@@ -1,6 +1,4 @@
 ---
-hide:
-  - navigation
 title: Search Wikimedia open source projects
 ---
 

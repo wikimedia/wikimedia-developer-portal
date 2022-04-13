@@ -1,7 +1,7 @@
 ---
 hide:
-  - navigation
   - toc
+  - navigation
 ---
 
 # Discover Wikimedia technical documentation and communities

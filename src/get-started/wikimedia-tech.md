@@ -1,6 +1,4 @@
 ---
-hide:
-  - navigation
 title: Learn about Wikimedia technology
 ---
 {{ category.render( "wikimedia-tech" ) }}

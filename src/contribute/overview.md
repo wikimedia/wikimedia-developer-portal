@@ -1,6 +1,4 @@
 ---
-hide:
-  - navigation
 title: Learn how contributing works
 ---
 

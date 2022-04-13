@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 title: Connect with the tech community
 ---
 ## Connect at hackathons and events

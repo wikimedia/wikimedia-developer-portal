@@ -1,6 +1,4 @@
 ---
-hide:
-  - navigation
 title: Connect at hackathons and events
 ---
 {{ category.render( "events" ) }}

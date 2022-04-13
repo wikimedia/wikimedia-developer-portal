@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 title: Use Wikimedia content and data in your project
 ---
 

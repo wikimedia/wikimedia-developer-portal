@@ -63,8 +63,8 @@ theme:
     - navigation.sections
     - navigation.top
     - search.share
-    # navigation.indexes # don't use this if using toc.integrate
-    # toc.integrate # don't use this if using navigation.indexes
+    - navigation.indexes
+    - toc.integrate
     # navigation.instant # breaks cross-language navigation
 
 extra_css:

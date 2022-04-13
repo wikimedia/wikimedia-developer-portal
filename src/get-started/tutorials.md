@@ -1,6 +1,4 @@
 ---
-hide:
-  - navigation
 title: Browse tutorials
 ---
 {{ category.render( "tutorials-content", 2 ) }}
