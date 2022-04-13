@@ -58,55 +58,83 @@ msgid ""
 "projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 msgstr ""
 
-#: index.md:block 2 (header) use-content/index.md:title
+#: index.md:block 2 (paragraph)
+msgid "[Get started](get-started/){ .md-button .md-button--primary }"
+msgstr ""
+
+#: index.md:block 4 (paragraph)
+msgid ""
+"![An open book](/assets/book.svg#only-light) ![An open book](/assets/book-"
+"dark.svg#only-dark)"
+msgstr ""
+
+#: index.md:block 5 (header) use-content/index.md:title
 msgid "Use Wikimedia content and data in your project"
 msgstr ""
 
-#: index.md:block 3 (paragraph) use-content/index.md:block 1 (paragraph)
+#: index.md:block 6 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid ""
 "Wikimedia offers public APIs, libraries, and downloads that let you access "
 "encyclopedia articles, media files, structured data, and more."
 msgstr ""
 
-#: index.md:block 4 (paragraph)
+#: index.md:block 7 (paragraph)
 msgid "[Learn more](use-content/)"
 msgstr ""
 
-#: index.md:block 5 (header) build-tools/index.md:title
+#: index.md:block 9 (paragraph)
+msgid ""
+"![A chemistry set](/assets/chemistry.svg#only-light) ![A chemistry "
+"set](/assets/chemistry-dark.svg#only-dark)"
+msgstr ""
+
+#: index.md:block 10 (header) build-tools/index.md:title
 msgid "Build, discover, and share tools"
 msgstr ""
 
-#: index.md:block 6 (paragraph) build-tools/index.md:block 1 (paragraph)
+#: index.md:block 11 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
 msgstr ""
 
-#: index.md:block 7 (paragraph)
+#: index.md:block 12 (paragraph)
 msgid "[Learn more](build-tools/)"
 msgstr ""
 
-#: index.md:block 8 (header) contribute/index.md:title
+#: index.md:block 14 (paragraph)
+msgid ""
+"![A computer browsing Wikipedia](/assets/computer.svg#only-light) ![A "
+"computer browsing Wikipedia](/assets/computer-dark.svg#only-dark)"
+msgstr ""
+
+#: index.md:block 15 (header) contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
 msgstr ""
 
-#: index.md:block 9 (paragraph) contribute/index.md:block 1 (paragraph)
+#: index.md:block 16 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software projects."
 msgstr ""
 
-#: index.md:block 10 (paragraph)
+#: index.md:block 17 (paragraph)
 msgid "[Learn more](contribute/)"
 msgstr ""
 
-#: index.md:block 11 (header)
+#: index.md:block 19 (paragraph)
+msgid ""
+"![Earth](/assets/world.svg#only-light) ![Earth](/assets/world-dark.svg#only-"
+"dark)"
+msgstr ""
+
+#: index.md:block 20 (header)
 msgid "Connect to community and grow your skills"
 msgstr ""
 
-#: index.md:block 12 (paragraph)
+#: index.md:block 21 (paragraph)
 msgid ""
 "Get involved with the Wikimedia technical community and find opportunities "
 "for support and learning."
 msgstr ""
 
-#: index.md:block 13 (paragraph)
+#: index.md:block 22 (paragraph)
 msgid "[Learn more](connect-learn/)"
 msgstr ""
 
@@ -150,6 +178,14 @@ msgid ""
 "Wikimedia favicon: Wikimedia Foundation, [CC BY-SA "
 "3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia "
 "Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)"
+msgstr ""
+
+#: about/index.md:block 5 (unordered list)
+msgid ""
+"Adapted Wikipedia 20 illustrations: Jasmina El Bouamraoui and Karabo Poppy "
+"Moletsane, via [Wikimedia "
+"Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20) "
+"Black background removed from dark-mode images."
 msgstr ""
 
 #: build-tools/index.md:block 2 (header)

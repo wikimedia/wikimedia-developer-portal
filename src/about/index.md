@@ -12,3 +12,4 @@ For technical documentation about the portal and its implementation, see [the do
 
 * Wikimedia logo: Neolux, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)
 * Wikimedia favicon: Wikimedia Foundation, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)
+* Adapted Wikipedia 20 illustrations: Jasmina El Bouamraoui and Karabo Poppy Moletsane, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20) Black background removed from dark-mode images.
