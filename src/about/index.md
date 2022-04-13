@@ -1,4 +1,6 @@
-# About
+---
+title: About
+---
 
 The Wikimedia Developer Portal is a central entry point for Wikimedia technical documentation, created by the Wikimedia Foundation Developer Advocacy Team.
 

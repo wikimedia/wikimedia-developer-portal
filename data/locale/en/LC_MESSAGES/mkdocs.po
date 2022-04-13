@@ -47,185 +47,184 @@ msgstr ""
 msgid "Connect and learn"
 msgstr ""
 
-#: index.md:title index.md:block 1 (header)
+#: index.md:title
 msgid "Discover Wikimedia technical documentation and communities"
 msgstr ""
 
-#: index.md:block 2 (paragraph)
+#: index.md:block 1 (paragraph)
 msgid ""
 "Learn about, interact with, and contribute to the open source technology "
 "that powers [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia "
 "projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 msgstr ""
 
-#: index.md:block 3 (header) use-content/index.md:title
+#: index.md:block 2 (header) use-content/index.md:title
 msgid "Use Wikimedia content and data in your project"
 msgstr ""
 
-#: index.md:block 4 (paragraph) use-content/index.md:block 1 (paragraph)
+#: index.md:block 3 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid ""
 "Wikimedia offers public APIs, libraries, and downloads that let you access "
 "encyclopedia articles, media files, structured data, and more."
 msgstr ""
 
-#: index.md:block 5 (paragraph)
+#: index.md:block 4 (paragraph)
 msgid "[Learn more](use-content/)"
 msgstr ""
 
-#: index.md:block 6 (header) build-tools/index.md:title
-#: build-tools/index.md:block 1 (header)
+#: index.md:block 5 (header) build-tools/index.md:title
 msgid "Build, discover, and share tools"
 msgstr ""
 
-#: index.md:block 7 (paragraph) build-tools/index.md:block 2 (paragraph)
+#: index.md:block 6 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
 msgstr ""
 
-#: index.md:block 8 (paragraph)
+#: index.md:block 7 (paragraph)
 msgid "[Learn more](build-tools/)"
 msgstr ""
 
-#: index.md:block 9 (header) contribute/index.md:title
+#: index.md:block 8 (header) contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
 msgstr ""
 
-#: index.md:block 10 (paragraph) contribute/index.md:block 1 (paragraph)
+#: index.md:block 9 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software projects."
 msgstr ""
 
-#: index.md:block 11 (paragraph)
+#: index.md:block 10 (paragraph)
 msgid "[Learn more](contribute/)"
 msgstr ""
 
-#: index.md:block 12 (header)
+#: index.md:block 11 (header)
 msgid "Connect to community and grow your skills"
 msgstr ""
 
-#: index.md:block 13 (paragraph)
+#: index.md:block 12 (paragraph)
 msgid ""
 "Get involved with the Wikimedia technical community and find opportunities "
 "for support and learning."
 msgstr ""
 
-#: index.md:block 14 (paragraph)
+#: index.md:block 13 (paragraph)
 msgid "[Learn more](connect-learn/)"
 msgstr ""
 
-#: about/index.md:title about/index.md:block 1 (header)
+#: about/index.md:title
 msgid "About"
 msgstr ""
 
-#: about/index.md:block 2 (paragraph)
+#: about/index.md:block 1 (paragraph)
 msgid ""
 "The Wikimedia Developer Portal is a central entry point for Wikimedia "
 "technical documentation, created by the Wikimedia Foundation Developer "
 "Advocacy Team."
 msgstr ""
 
-#: about/index.md:block 3 (paragraph)
+#: about/index.md:block 2 (paragraph)
 msgid ""
 "This site currently in development. For more information about the project "
 "and to share your feedback, visit "
 "[mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
 msgstr ""
 
-#: about/index.md:block 4 (paragraph)
+#: about/index.md:block 3 (paragraph)
 msgid ""
 "For technical documentation about the portal and its implementation, see "
 "[the docs on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal)."
 msgstr ""
 
-#: about/index.md:block 5 (header)
+#: about/index.md:block 4 (header)
 msgid "Image credits"
 msgstr ""
 
-#: about/index.md:block 6 (unordered list)
+#: about/index.md:block 5 (unordered list)
 msgid ""
 "Wikimedia logo: Neolux, Public domain, via [Wikimedia "
 "Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)"
 msgstr ""
 
-#: about/index.md:block 6 (unordered list)
+#: about/index.md:block 5 (unordered list)
 msgid ""
 "Wikimedia favicon: Wikimedia Foundation, [CC BY-SA "
 "3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia "
 "Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)"
 msgstr ""
 
-#: build-tools/index.md:block 3 (header)
+#: build-tools/index.md:block 2 (header)
 msgid "Discover and share tools"
 msgstr ""
 
-#: build-tools/index.md:block 4 (paragraph) build-tools/search.md:block 2
+#: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
 msgid ""
 "Browse the catalog of tools on Toolhub, share your tools, and help maintain "
 "tool metadata."
 msgstr ""
 
-#: build-tools/index.md:block 5 (paragraph) contribute/index.md:block 13
+#: build-tools/index.md:block 4 (paragraph) contribute/index.md:block 13
 #: (paragraph)
 msgid "[Learn more](search.md)"
 msgstr ""
 
-#: build-tools/index.md:block 6 (header) build-tools/get-started.md:block 1
+#: build-tools/index.md:block 5 (header) build-tools/get-started.md:block 1
 #: (header)
 msgid "Get started building tools and bots"
 msgstr ""
 
-#: build-tools/index.md:block 7 (paragraph) build-tools/get-started.md:block 2
+#: build-tools/index.md:block 6 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
 msgid ""
 "Create your first tool, learn about running a bot, and get best practices."
 msgstr ""
 
-#: build-tools/index.md:block 8 (paragraph)
+#: build-tools/index.md:block 7 (paragraph)
 msgid "[Learn more](get-started.md)"
 msgstr ""
 
-#: build-tools/index.md:block 9 (header) use-content/index.md:block 14
+#: build-tools/index.md:block 8 (header) use-content/index.md:block 14
 #: (header) use-content/tutorials.md:title
 msgid "Learn with tutorials"
 msgstr ""
 
-#: build-tools/index.md:block 10 (paragraph) build-tools/tutorials.md:block 2
+#: build-tools/index.md:block 9 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
 msgid ""
 "Follow step-by-step guides to learn the basics of interacting with Wikimedia"
 " projects."
 msgstr ""
 
-#: build-tools/index.md:block 11 (paragraph) get-started/index.md:block 6
+#: build-tools/index.md:block 10 (paragraph) get-started/index.md:block 6
 #: (paragraph) use-content/index.md:block 16 (paragraph)
 msgid "[Learn more](tutorials.md)"
 msgstr ""
 
-#: build-tools/index.md:block 12 (header)
+#: build-tools/index.md:block 11 (header)
 msgid "Use frameworks, APIs, and data sources"
 msgstr ""
 
-#: build-tools/index.md:block 13 (paragraph) build-tools/apis.md:block 2
+#: build-tools/index.md:block 12 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
 msgstr ""
 
-#: build-tools/index.md:block 14 (paragraph)
+#: build-tools/index.md:block 13 (paragraph)
 msgid "[Learn more](apis.md)"
 msgstr ""
 
-#: build-tools/index.md:block 15 (header) build-tools/host-tools.md:block 1
+#: build-tools/index.md:block 14 (header) build-tools/host-tools.md:block 1
 #: (header)
 msgid "Host tools on Wikimedia servers"
 msgstr ""
 
-#: build-tools/index.md:block 16 (paragraph)
+#: build-tools/index.md:block 15 (paragraph)
 msgid ""
 "Cloud hosting for performing analytics, administering bots, running web "
 "services, and tools that help Wikimedia projects."
 msgstr ""
 
-#: build-tools/index.md:block 17 (paragraph)
+#: build-tools/index.md:block 16 (paragraph)
 msgid "[Learn more](host-tools.md)"
 msgstr ""
 

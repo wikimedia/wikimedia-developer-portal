@@ -1,8 +1,8 @@
 ---
 hide:
   - toc
+title: Build, discover, and share tools
 ---
-# Build, discover, and share tools
 
 Tools and bots make it easier to edit and maintain Wikimedia projects.
 
