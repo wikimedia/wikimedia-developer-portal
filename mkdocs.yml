@@ -19,6 +19,7 @@ nav:
     - use-content/tutorials.md
   - Build tools and bots:
     - build-tools/index.md
+    - build-tools/search.md
     - build-tools/get-started.md
     - build-tools/tutorials.md
     - build-tools/apis.md

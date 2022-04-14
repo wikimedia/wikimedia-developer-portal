@@ -9,3 +9,5 @@ title: Use wiki content
 ### See all tutorials
 
 [Browse tutorials](./tutorials.md)
+
+{{ document.render( "enterprise" ) }}

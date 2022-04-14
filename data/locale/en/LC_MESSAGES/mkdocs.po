@@ -157,16 +157,16 @@ msgstr ""
 msgid "Discover and share tools"
 msgstr ""
 
-#: build-tools/index.md:block 4 (paragraph) contribute/search.md:block 12
-#: (paragraph) use-content/featured-apps.md:block 7 (paragraph)
+#: build-tools/index.md:block 4 (paragraph) build-tools/search.md:block 2
+#: (paragraph)
 msgid ""
 "Browse the catalog of tools on Toolhub, share your tools, and help maintain "
 "tool metadata."
 msgstr ""
 
-#: build-tools/index.md:block 5 (unordered list) contribute/search.md:block 13
-#: (unordered list) use-content/featured-apps.md:block 8 (unordered list)
-msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
+#: build-tools/index.md:block 5 (paragraph) contribute/index.md:block 13
+#: (paragraph)
+msgid "[Learn more](search.md)"
 msgstr ""
 
 #: build-tools/index.md:block 6 (header) build-tools/get-started.md:block 1
@@ -180,7 +180,7 @@ msgid ""
 "Create your first tool, learn about running a bot, and get best practices."
 msgstr ""
 
-#: build-tools/index.md:block 8 (unordered list)
+#: build-tools/index.md:block 8 (paragraph)
 msgid "[Learn more](get-started.md)"
 msgstr ""
 
@@ -196,7 +196,7 @@ msgid ""
 " projects."
 msgstr ""
 
-#: build-tools/index.md:block 11 (unordered list) get-started/index.md:block 6
+#: build-tools/index.md:block 11 (paragraph) get-started/index.md:block 6
 #: (paragraph) use-content/index.md:block 16 (paragraph)
 msgid "[Learn more](tutorials.md)"
 msgstr ""
@@ -210,7 +210,7 @@ msgstr ""
 msgid "Explore programming interfaces for building bots and tools."
 msgstr ""
 
-#: build-tools/index.md:block 14 (unordered list)
+#: build-tools/index.md:block 14 (paragraph)
 msgid "[Learn more](apis.md)"
 msgstr ""
 
@@ -225,7 +225,7 @@ msgid ""
 "services, and tools that help Wikimedia projects."
 msgstr ""
 
-#: build-tools/index.md:block 17 (unordered list)
+#: build-tools/index.md:block 17 (paragraph)
 msgid "[Learn more](host-tools.md)"
 msgstr ""
 
@@ -435,6 +435,41 @@ msgid ""
 "Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
 msgstr ""
 
+#: build-tools/search.md:title build-tools/search.md:block 1 (header)
+msgid "Search tools"
+msgstr ""
+
+#: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block 6
+#: (header)
+msgid "Toolhub"
+msgstr ""
+
+#: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 12
+#: (paragraph) use-content/featured-apps.md:block 7 (paragraph)
+msgid ""
+"Toolhub is a community-authored catalog of Wikimedia tools. Discover new "
+"tools, and promote their use in your wiki community."
+msgstr ""
+
+#: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
+#: 13 (unordered list) use-content/featured-apps.md:block 8 (unordered list)
+msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
+msgstr ""
+
+#: build-tools/search.md:block 6 (header)
+msgid "Share a tool"
+msgstr ""
+
+#: build-tools/search.md:block 7 (paragraph)
+msgid "Log in to Toolhub, and add your tool to the catalog."
+msgstr ""
+
+#: build-tools/search.md:block 8 (unordered list)
+msgid ""
+"[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-"
+"tools?tab=tool-create)"
+msgstr ""
+
 #: build-tools/tutorials.md:title get-started/tutorials.md:block 1 (header)
 #: use-content/content.md:block 12 (header) use-content/data.md:block 9
 #: (header)
@@ -598,20 +633,20 @@ msgstr ""
 msgid "[Learn more](updates.md)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 3 (header) contribute/index.md:block 2
-#: (header)
+#: connect-learn/communicate.md:block 3 (header) contribute/overview.md:block
+#: 3 (header)
 msgid "Read the code of conduct"
 msgstr ""
 
-#: connect-learn/communicate.md:block 4 (paragraph) contribute/index.md:block
-#: 3 (paragraph)
+#: connect-learn/communicate.md:block 4 (paragraph)
+#: contribute/overview.md:block 4 (paragraph)
 msgid ""
 "The code of conduct for Wikimedia technical spaces applies to both physical "
 "and virtual environments."
 msgstr ""
 
 #: connect-learn/communicate.md:block 5 (unordered list)
-#: contribute/index.md:block 4 (unordered list)
+#: contribute/overview.md:block 5 (unordered list)
 msgid ""
 "[Read the code of conduct on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
@@ -928,78 +963,54 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 msgstr ""
 
-#: contribute/index.md:block 5 (header) contribute/overview.md:title
+#: contribute/index.md:block 2 (header) contribute/overview.md:title
 msgid "Learn how contributing works"
 msgstr ""
 
-#: contribute/index.md:block 6 (paragraph)
+#: contribute/index.md:block 3 (paragraph)
 msgid ""
 "Get the basics of how to contribute to MediaWiki and other Wikimedia open "
 "source projects."
 msgstr ""
 
-#: contribute/index.md:block 7 (paragraph) use-content/index.md:block 7
+#: contribute/index.md:block 4 (paragraph) use-content/index.md:block 7
 #: (paragraph)
 msgid "[Learn more](overview.md)"
 msgstr ""
 
-#: contribute/index.md:block 8 (header) contribute/by-topic.md:title
+#: contribute/index.md:block 5 (header) contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
 msgid "Contribute by topic"
 msgstr ""
 
-#: contribute/index.md:block 9 (paragraph) contribute/by-topic.md:block 2
+#: contribute/index.md:block 6 (paragraph) contribute/by-topic.md:block 2
 #: (paragraph)
 msgid ""
 "Find ways to contribute, and connect with others with shared interests."
 msgstr ""
 
-#: contribute/index.md:block 10 (paragraph)
+#: contribute/index.md:block 7 (paragraph)
 msgid "[Learn more](by-topic.md)"
 msgstr ""
 
-#: contribute/index.md:block 11 (header) contribute/by-language.md:title
+#: contribute/index.md:block 8 (header) contribute/by-language.md:title
 msgid "Contribute by programming language"
 msgstr ""
 
-#: contribute/index.md:block 12 (paragraph)
+#: contribute/index.md:block 9 (paragraph)
 msgid "Choose a project based on programming language."
 msgstr ""
 
-#: contribute/index.md:block 13 (paragraph)
+#: contribute/index.md:block 10 (paragraph)
 msgid "[Learn more](by-language.md)"
 msgstr ""
 
-#: contribute/index.md:block 14 (header)
+#: contribute/index.md:block 11 (header)
 msgid "Search all projects"
 msgstr ""
 
-#: contribute/index.md:block 15 (paragraph)
+#: contribute/index.md:block 12 (paragraph)
 msgid "Search all Wikimedia open source software projects."
-msgstr ""
-
-#: contribute/index.md:block 16 (paragraph)
-msgid "[Learn more](search.md)"
-msgstr ""
-
-#: contribute/index.md:block 17 (header)
-msgid "Guidelines and code conventions"
-msgstr ""
-
-#: contribute/index.md:block 18 (paragraph)
-msgid "Follow best practices and coding conventions."
-msgstr ""
-
-#: contribute/index.md:block 19 (unordered list)
-msgid ""
-"[Development guidelines on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
-msgstr ""
-
-#: contribute/index.md:block 19 (unordered list)
-msgid ""
-"[Coding conventions on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Coding_conventions)"
 msgstr ""
 
 #: contribute/by-language.md:block 1 (header)
@@ -1176,35 +1187,35 @@ msgid ""
 "source projects."
 msgstr ""
 
-#: contribute/overview.md:block 3 (header)
+#: contribute/overview.md:block 6 (header)
 msgid "Create a developer account"
 msgstr ""
 
-#: contribute/overview.md:block 4 (paragraph)
+#: contribute/overview.md:block 7 (paragraph)
 msgid ""
 "Most of Wikimedia's technical spaces use a developer account to identify and"
 " authorize users. This account provides access to a number of resources for "
 "making technical contributions."
 msgstr ""
 
-#: contribute/overview.md:block 5 (unordered list)
+#: contribute/overview.md:block 8 (unordered list)
 msgid ""
 "[Create your "
 "account](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
 msgstr ""
 
-#: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 3
+#: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 15 (header)
 msgid "Recommended projects for new contributors"
 msgstr ""
 
-#: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 4
+#: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
 #: (paragraph) get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid ""
 "Choose from open source projects that offer mentoring for new contributors."
 msgstr ""
 
-#: contribute/overview.md:block 8 (unordered list)
+#: contribute/overview.md:block 11 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid ""
@@ -1212,15 +1223,35 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
 msgstr ""
 
-#: contribute/overview.md:block 9 (header)
+#: contribute/overview.md:block 12 (header)
+msgid "Guidelines and code conventions"
+msgstr ""
+
+#: contribute/overview.md:block 13 (paragraph)
+msgid "Follow best practices and coding conventions."
+msgstr ""
+
+#: contribute/overview.md:block 14 (unordered list)
+msgid ""
+"[Development guidelines on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+msgstr ""
+
+#: contribute/overview.md:block 14 (unordered list)
+msgid ""
+"[Coding conventions on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Coding_conventions)"
+msgstr ""
+
+#: contribute/overview.md:block 15 (header)
 msgid "See your contributions"
 msgstr ""
 
-#: contribute/overview.md:block 10 (paragraph)
+#: contribute/overview.md:block 16 (paragraph)
 msgid "Visualize your technical contributions to Wikimedia open source."
 msgstr ""
 
-#: contribute/overview.md:block 11 (unordered list)
+#: contribute/overview.md:block 17 (unordered list)
 msgid "[Visit WikiContrib](https://wikicontrib.toolforge.org/)"
 msgstr ""
 
@@ -1535,20 +1566,6 @@ msgid ""
 "and data."
 msgstr ""
 
-#: use-content/index.md:block 17 (header)
-msgid "Wikimedia Enterprise"
-msgstr ""
-
-#: use-content/index.md:block 18 (paragraph)
-msgid ""
-"Enterprise-grade services built for high-volume, commercial users of "
-"Wikimedia content"
-msgstr ""
-
-#: use-content/index.md:block 19 (unordered list)
-msgid "[Learn more](https://enterprise.wikimedia.com)"
-msgstr ""
-
 #: use-content/content.md:block 19 (header) use-content/data.md:block 16
 #: (header)
 msgid "See all tutorials"
@@ -1557,6 +1574,20 @@ msgstr ""
 #: use-content/content.md:block 20 (paragraph) use-content/data.md:block 17
 #: (paragraph)
 msgid "[Browse tutorials](./tutorials.md)"
+msgstr ""
+
+#: use-content/content.md:block 21 (header)
+msgid "Wikimedia Enterprise"
+msgstr ""
+
+#: use-content/content.md:block 22 (paragraph)
+msgid ""
+"Enterprise-grade services built for high-volume, commercial users of "
+"Wikimedia content"
+msgstr ""
+
+#: use-content/content.md:block 23 (unordered list)
+msgid "[Learn more](https://enterprise.wikimedia.com)"
 msgstr ""
 
 #: use-content/data.md:block 2 (paragraph)
@@ -1609,10 +1640,6 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 5 (unordered list)
 msgid "[Browse apps](https://apps-gallery.toolforge.org)"
-msgstr ""
-
-#: use-content/featured-apps.md:block 6 (header)
-msgid "Toolhub"
 msgstr ""
 
 #: use-content/featured-apps.md:block 9 (header)

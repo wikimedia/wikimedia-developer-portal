@@ -35,5 +35,3 @@ Explore public data that you can use in research and machine learning.
 Follow step-by-step guides to learn the basics of using Wikimedia content and data.
 
 [Learn more](tutorials.md)
-
-{{ document.render( "enterprise" ) }}

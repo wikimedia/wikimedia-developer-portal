@@ -6,3 +6,5 @@ links:
     label: Development guidelines on mediawiki.org
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Coding_conventions
     label: Coding conventions on mediawiki.org
+categories:
+  new-contributor: 4

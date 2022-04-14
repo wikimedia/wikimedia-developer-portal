@@ -1,0 +1,8 @@
+---
+title: Share a tool
+description: Log in to Toolhub, and add your tool to the catalog.
+links:
+  - url: https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create
+    label: Add a tool to Toolhub
+categories:
+  search-tools: 2
