@@ -4,6 +4,11 @@ description: Toolhub is a community-authored catalog of Wikimedia tools. Discove
 links:
   - url: https://toolhub.wikimedia.org/
     label: Visit Toolhub
+  - url: https://github.com/wikimedia/toolhub/blob/main/docs/CONTRIBUTING.rst
+    label: Contribute to Toolhub
+  - url: https://gerrit.wikimedia.org/g/wikimedia/toolhub
+    label: Get the source code
 categories:
   app-galleries: 0
   search-tools: 1
+  contribute-python: 0

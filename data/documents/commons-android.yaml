@@ -1,0 +1,12 @@
+---
+title: Wikimedia Commons Android app
+description: The Wikimedia Commons Android app allows users to upload pictures from their Android phone or tablet to Wikimedia Commons.
+links:
+  - url: https://commons-app.github.io/
+    label: Read the docs
+  - url: https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md
+    label: Contribute to the Wikimedia Commons Android app
+  - url: https://github.com/commons-app/apps-android-commons
+    label: Get the source code
+categories:
+  - contribute-java

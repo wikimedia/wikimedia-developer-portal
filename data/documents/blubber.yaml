@@ -1,0 +1,12 @@
+---
+title: Blubber
+description: Run a tool as a recurring process that edits wiki pages automatically.
+links:
+  - url: https://wikitech.wikimedia.org/wiki/Blubber
+    label: Read the docs on Wikitech
+  - url: https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md
+    label: Contribute to Blubber
+  - url: https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/
+    label: Get the source code
+categories:
+  - contribute-go
