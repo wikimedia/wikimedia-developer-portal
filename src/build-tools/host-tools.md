@@ -1,5 +1,5 @@
 ---
-title: Host tools
+title: Host tools on Wikimedia servers
 ---
 
 {{ category.render( "toolforge" ) }}

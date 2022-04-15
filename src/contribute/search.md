@@ -1,5 +1,5 @@
 ---
-title: Search Wikimedia open source projects
+title: Search all projects
 ---
 
 {{ category.render( "search-projects" ) }}

@@ -1,7 +1,5 @@
 ---
-hide:
-  - toc
-title: Use Wikimedia content and data in your project
+title: Use content and data
 ---
 
 Wikimedia offers public APIs, libraries, and downloads that let you access encyclopedia articles, media files, structured data, and more.
@@ -18,6 +16,12 @@ Learn about different types of Wikimedia content, and see what's available in yo
 
 [Learn more](overview.md)
 
+## Learn with tutorials
+
+Follow step-by-step guides to learn the basics of using Wikimedia content and data.
+
+[Learn more](tutorials.md)
+
 ## Use wiki content
 
 Find open source libraries, get started using the API, or download content in bulk.
@@ -29,9 +33,3 @@ Find open source libraries, get started using the API, or download content in bu
 Explore public data that you can use in research and machine learning.
 
 [Learn more](data.md)
-
-## Learn with tutorials
-
-Follow step-by-step guides to learn the basics of using Wikimedia content and data.
-
-[Learn more](tutorials.md)

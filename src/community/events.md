@@ -1,5 +1,5 @@
 ---
-title: Connect at hackathons and events
+title: Explore hackathons and events
 ---
 {{ category.render( "events" ) }}
 

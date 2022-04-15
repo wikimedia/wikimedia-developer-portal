@@ -1,5 +1,5 @@
 ---
-title: Discover tools
+title: Discover and share tools
 ---
 
 {{ category.render( "search-tools" ) }}

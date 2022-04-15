@@ -1,6 +1,4 @@
 ---
-hide:
-  - toc
 title: Get started
 ---
 

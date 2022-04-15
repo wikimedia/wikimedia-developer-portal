@@ -1,7 +1,5 @@
 ---
-hide:
-  - toc
-title: Build, discover, and share tools
+title: Tools and bots
 ---
 
 Tools and bots make it easier to edit and maintain Wikimedia projects.
@@ -12,7 +10,7 @@ Browse the catalog of tools on Toolhub, share your tools, and help maintain tool
 
 [Learn more](search.md)
 
-## Get started building tools and bots
+## Get started
 
 Create your first tool, learn about running a bot, and get best practices.
 
@@ -24,7 +22,7 @@ Follow step-by-step guides to learn the basics of interacting with Wikimedia pro
 
 [Learn more](tutorials.md)
 
-## Use frameworks, APIs, and data sources
+## Use APIs and data sources
 
 Explore programming interfaces for building bots and tools.
 

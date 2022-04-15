@@ -1,6 +1,4 @@
 ---
-hide:
-  - toc
 title: Contribute to Wikimedia open source
 ---
 

@@ -26,25 +26,31 @@ msgstr ""
 msgid "Copyright &copy; 2021 Wikimedia Foundation and contributors"
 msgstr ""
 
-#: mkdocs.yml:navigation build-tools/get-started.md:title
-#: get-started/index.md:title
+#: mkdocs.yml:navigation build-tools/index.md:block 5 (header)
+#: build-tools/get-started.md:title build-tools/get-started.md:block 1
+#: (header) get-started/index.md:title
 msgid "Get started"
 msgstr ""
 
-#: mkdocs.yml:navigation
+#: mkdocs.yml:navigation use-content/index.md:title
 msgid "Use content and data"
 msgstr ""
 
-#: mkdocs.yml:navigation
-msgid "Build tools and bots"
+#: mkdocs.yml:navigation build-tools/index.md:title
+msgid "Tools and bots"
 msgstr ""
 
 #: mkdocs.yml:navigation
 msgid "Contribute"
 msgstr ""
 
-#: mkdocs.yml:navigation
-msgid "Connect and learn"
+#: mkdocs.yml:navigation community/index.md:title
+msgid "Community"
+msgstr ""
+
+#: mkdocs.yml:navigation get-help/index.md:title get-help/index.md:block 1
+#: (header)
+msgid "Get help"
 msgstr ""
 
 #: index.md:title
@@ -53,8 +59,8 @@ msgstr ""
 
 #: index.md:block 1 (paragraph)
 msgid ""
-"Learn about, interact with, and contribute to the open source technology "
-"that powers [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia "
+"Explore and contribute to the open source technology that powers "
+"[Wikipedia](https://www.wikipedia.org/) and other [Wikimedia "
 "projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 msgstr ""
 
@@ -68,14 +74,14 @@ msgid ""
 "dark.svg#only-dark)"
 msgstr ""
 
-#: index.md:block 5 (header) use-content/index.md:title
-msgid "Use Wikimedia content and data in your project"
+#: index.md:block 5 (header)
+msgid "Use Wikimedia content and data"
 msgstr ""
 
-#: index.md:block 6 (paragraph) use-content/index.md:block 1 (paragraph)
+#: index.md:block 6 (paragraph)
 msgid ""
-"Wikimedia offers public APIs, libraries, and downloads that let you access "
-"encyclopedia articles, media files, structured data, and more."
+"Access articles from Wikipedia, media files, structured data, and more with "
+"public APIs and downloads."
 msgstr ""
 
 #: index.md:block 7 (paragraph)
@@ -88,8 +94,8 @@ msgid ""
 "set](/assets/chemistry-dark.svg#only-dark)"
 msgstr ""
 
-#: index.md:block 10 (header) build-tools/index.md:title
-msgid "Build, discover, and share tools"
+#: index.md:block 10 (header)
+msgid "Build tools and bots"
 msgstr ""
 
 #: index.md:block 11 (paragraph) build-tools/index.md:block 1 (paragraph)
@@ -125,70 +131,21 @@ msgid ""
 msgstr ""
 
 #: index.md:block 20 (header)
-msgid "Connect to community and grow your skills"
+msgid "Connect with the community"
 msgstr ""
 
 #: index.md:block 21 (paragraph)
 msgid ""
-"Get involved with the Wikimedia technical community and find opportunities "
+"Get involved with the Wikimedia technical community, and find opportunities "
 "for support and learning."
 msgstr ""
 
 #: index.md:block 22 (paragraph)
-msgid "[Learn more](connect-learn/)"
+msgid "[Learn more](community/)"
 msgstr ""
 
-#: about/index.md:title
-msgid "About"
-msgstr ""
-
-#: about/index.md:block 1 (paragraph)
-msgid ""
-"The Wikimedia Developer Portal is a central entry point for Wikimedia "
-"technical documentation, created by the Wikimedia Foundation Developer "
-"Advocacy Team."
-msgstr ""
-
-#: about/index.md:block 2 (paragraph)
-msgid ""
-"This site currently in development. For more information about the project "
-"and to share your feedback, visit "
-"[mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
-msgstr ""
-
-#: about/index.md:block 3 (paragraph)
-msgid ""
-"For technical documentation about the portal and its implementation, see "
-"[the docs on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal)."
-msgstr ""
-
-#: about/index.md:block 4 (header)
-msgid "Image credits"
-msgstr ""
-
-#: about/index.md:block 5 (unordered list)
-msgid ""
-"Wikimedia logo: Neolux, Public domain, via [Wikimedia "
-"Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)"
-msgstr ""
-
-#: about/index.md:block 5 (unordered list)
-msgid ""
-"Wikimedia favicon: Wikimedia Foundation, [CC BY-SA "
-"3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia "
-"Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)"
-msgstr ""
-
-#: about/index.md:block 5 (unordered list)
-msgid ""
-"Adapted Wikipedia 20 illustrations: Jasmina El Bouamraoui and Karabo Poppy "
-"Moletsane, via [Wikimedia "
-"Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20) "
-"Black background removed from dark-mode images."
-msgstr ""
-
-#: build-tools/index.md:block 2 (header)
+#: build-tools/index.md:block 2 (header) build-tools/search.md:title
+#: build-tools/search.md:block 1 (header)
 msgid "Discover and share tools"
 msgstr ""
 
@@ -204,11 +161,6 @@ msgstr ""
 msgid "[Learn more](search.md)"
 msgstr ""
 
-#: build-tools/index.md:block 5 (header) build-tools/get-started.md:block 1
-#: (header)
-msgid "Get started building tools and bots"
-msgstr ""
-
 #: build-tools/index.md:block 6 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
 msgid ""
@@ -219,9 +171,11 @@ msgstr ""
 msgid "[Learn more](get-started.md)"
 msgstr ""
 
-#: build-tools/index.md:block 8 (header) get-started/index.md:block 7 (header)
-#: get-started/tutorials.md:title use-content/index.md:block 14 (header)
-#: use-content/tutorials.md:title
+#: build-tools/index.md:block 8 (header) build-tools/tutorials.md:title
+#: build-tools/tutorials.md:block 1 (header) get-started/index.md:block 7
+#: (header) get-started/tutorials.md:title use-content/index.md:block 8
+#: (header) use-content/tutorials.md:title use-content/tutorials.md:block 1
+#: (header)
 msgid "Learn with tutorials"
 msgstr ""
 
@@ -233,12 +187,13 @@ msgid ""
 msgstr ""
 
 #: build-tools/index.md:block 10 (paragraph) get-started/index.md:block 9
-#: (paragraph) use-content/index.md:block 16 (paragraph)
+#: (paragraph) use-content/index.md:block 10 (paragraph)
 msgid "[Learn more](tutorials.md)"
 msgstr ""
 
-#: build-tools/index.md:block 11 (header)
-msgid "Use frameworks, APIs, and data sources"
+#: build-tools/index.md:block 11 (header) build-tools/apis.md:title
+#: build-tools/apis.md:block 1 (header)
+msgid "Use APIs and data sources"
 msgstr ""
 
 #: build-tools/index.md:block 12 (paragraph) build-tools/apis.md:block 2
@@ -250,8 +205,8 @@ msgstr ""
 msgid "[Learn more](apis.md)"
 msgstr ""
 
-#: build-tools/index.md:block 14 (header) build-tools/host-tools.md:block 1
-#: (header)
+#: build-tools/index.md:block 14 (header) build-tools/host-tools.md:title
+#: build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
 msgstr ""
 
@@ -263,14 +218,6 @@ msgstr ""
 
 #: build-tools/index.md:block 16 (paragraph)
 msgid "[Learn more](host-tools.md)"
-msgstr ""
-
-#: build-tools/apis.md:title
-msgid "APIs and frameworks"
-msgstr ""
-
-#: build-tools/apis.md:block 1 (header)
-msgid "APIs, frameworks, and data access for tools"
 msgstr ""
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 2
@@ -429,10 +376,6 @@ msgid ""
 "Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
 msgstr ""
 
-#: build-tools/host-tools.md:title
-msgid "Host tools"
-msgstr ""
-
 #: build-tools/host-tools.md:block 2 (paragraph)
 msgid ""
 "Perform analytics, administer bots, run web services, and host tools for "
@@ -469,10 +412,6 @@ msgstr ""
 msgid ""
 "[Read the Toolforge docs on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr ""
-
-#: build-tools/search.md:title build-tools/search.md:block 1 (header)
-msgid "Discover tools"
 msgstr ""
 
 #: build-tools/search.md:block 3 (header) contribute/by-language.md:block 5
@@ -524,15 +463,6 @@ msgstr ""
 msgid ""
 "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-"
 "tools?tab=tool-create)"
-msgstr ""
-
-#: build-tools/tutorials.md:title use-content/content.md:block 12 (header)
-#: use-content/data.md:block 9 (header)
-msgid "Tutorials"
-msgstr ""
-
-#: build-tools/tutorials.md:block 1 (header)
-msgid "Tutorials for building tools"
 msgstr ""
 
 #: build-tools/tutorials.md:block 3 (header) contribute/by-language.md:block 9
@@ -625,83 +555,79 @@ msgid ""
 "_Python_3_Tutorial)"
 msgstr ""
 
-#: connect-learn/index.md:title
-msgid "Connect with the tech community"
+#: community/index.md:block 1 (header) community/events.md:title
+#: community/events.md:block 1 (header)
+msgid "Explore hackathons and events"
 msgstr ""
 
-#: connect-learn/index.md:block 1 (header) connect-learn/events.md:title
-msgid "Connect at hackathons and events"
-msgstr ""
-
-#: connect-learn/index.md:block 2 (paragraph)
+#: community/index.md:block 2 (paragraph)
 msgid "Explore content from past hackathons or join an upcoming event."
 msgstr ""
 
-#: connect-learn/index.md:block 3 (paragraph)
+#: community/index.md:block 3 (paragraph)
 msgid "[Learn more](events.md)"
 msgstr ""
 
-#: connect-learn/index.md:block 4 (header) connect-learn/communicate.md:title
-#: connect-learn/communicate.md:block 1 (header)
+#: community/index.md:block 4 (header) community/communicate.md:title
+#: community/communicate.md:block 1 (header)
 msgid "Communicate with the tech community"
 msgstr ""
 
-#: connect-learn/index.md:block 5 (paragraph)
-#: connect-learn/communicate.md:block 2 (paragraph)
+#: community/index.md:block 5 (paragraph) community/communicate.md:block 2
+#: (paragraph)
 msgid ""
 "Understand communication channels and how to connect with Wikimedia "
 "developers."
 msgstr ""
 
-#: connect-learn/index.md:block 6 (paragraph)
+#: community/index.md:block 6 (paragraph)
 msgid "[Learn more](communicate.md)"
 msgstr ""
 
-#: connect-learn/index.md:block 7 (header) connect-learn/grow.md:title
-#: connect-learn/grow.md:block 1 (header)
+#: community/index.md:block 7 (header) community/grow.md:title
+#: community/grow.md:block 1 (header)
 msgid "Learn and share technical skills"
 msgstr ""
 
-#: connect-learn/index.md:block 8 (paragraph) connect-learn/grow.md:block 2
+#: community/index.md:block 8 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid ""
 "Grow your skills or help others learn through Wikimedia workshops, "
 "internships, and mentoring opportunities."
 msgstr ""
 
-#: connect-learn/index.md:block 9 (paragraph)
+#: community/index.md:block 9 (paragraph)
 msgid "[Learn more](grow.md)"
 msgstr ""
 
-#: connect-learn/index.md:block 10 (header) connect-learn/updates.md:title
-#: connect-learn/updates.md:block 1 (header)
+#: community/index.md:block 10 (header) community/updates.md:title
+#: community/updates.md:block 1 (header)
 msgid "Get tech project updates"
 msgstr ""
 
-#: connect-learn/index.md:block 11 (paragraph) connect-learn/updates.md:block
-#: 2 (paragraph)
+#: community/index.md:block 11 (paragraph) community/updates.md:block 2
+#: (paragraph)
 msgid ""
 "Stay up to date with the latest from the Wikimedia technical community."
 msgstr ""
 
-#: connect-learn/index.md:block 12 (paragraph)
+#: community/index.md:block 12 (paragraph)
 msgid "[Learn more](updates.md)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 3 (header) contribute/overview.md:block
-#: 3 (header) get-started/new-dev.md:block 12 (header)
+#: community/communicate.md:block 3 (header) contribute/overview.md:block 3
+#: (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
 msgstr ""
 
-#: connect-learn/communicate.md:block 4 (paragraph)
-#: contribute/overview.md:block 4 (paragraph) get-started/new-dev.md:block 13
-#: (paragraph)
+#: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
+#: (paragraph) get-started/new-dev.md:block 13 (paragraph)
 msgid ""
 "The code of conduct for Wikimedia technical spaces applies to both physical "
 "and virtual environments."
 msgstr ""
 
-#: connect-learn/communicate.md:block 5 (unordered list)
+#: community/communicate.md:block 5 (unordered list)
 #: contribute/overview.md:block 5 (unordered list)
 #: get-started/new-dev.md:block 14 (unordered list)
 msgid ""
@@ -709,318 +635,315 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 6 (header) get-help/index.md:block 6
+#: community/communicate.md:block 6 (header) get-help/index.md:block 6
 #: (header)
 msgid "Communication channels"
 msgstr ""
 
-#: connect-learn/communicate.md:block 7 (paragraph) get-help/index.md:block 7
+#: community/communicate.md:block 7 (paragraph) get-help/index.md:block 7
 #: (paragraph)
 msgid ""
 "Get in contact with other MediaWiki users and developers, for support or to "
 "share knowledge."
 msgstr ""
 
-#: connect-learn/communicate.md:block 8 (unordered list)
-#: get-help/index.md:block 8 (unordered list)
+#: community/communicate.md:block 8 (unordered list) get-help/index.md:block 8
+#: (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 9 (header)
+#: community/communicate.md:block 9 (header)
 msgid "Find code maintainers and stewards"
 msgstr ""
 
-#: connect-learn/communicate.md:block 10 (paragraph)
+#: community/communicate.md:block 10 (paragraph)
 msgid ""
 "Maintainers know the most about, and maintain, MediaWiki core, key "
 "extensions, and Wikimedia servers. Code stewards are ultimately responsible "
 "for the development policies, support, and overall health of the code."
 msgstr ""
 
-#: connect-learn/communicate.md:block 11 (unordered list)
+#: community/communicate.md:block 11 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 12 (header)
+#: community/communicate.md:block 12 (header)
 msgid "Wikimedia Foundation technical operations"
 msgstr ""
 
-#: connect-learn/communicate.md:block 13 (paragraph)
+#: community/communicate.md:block 13 (paragraph)
 msgid "Learn about the infrastructure and teams behind Wikimedia projects."
 msgstr ""
 
-#: connect-learn/communicate.md:block 14 (header)
+#: community/communicate.md:block 14 (header)
 #: get-started/wikimedia-tech.md:block 6 (header)
 msgid "Cloud tools and services"
 msgstr ""
 
-#: connect-learn/communicate.md:block 15 (paragraph)
+#: community/communicate.md:block 15 (paragraph)
 #: get-started/wikimedia-tech.md:block 7 (paragraph)
 msgid ""
 "Infrastructure and support for contributors to Wikimedia software projects."
 msgstr ""
 
-#: connect-learn/communicate.md:block 16 (unordered list)
+#: community/communicate.md:block 16 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid ""
 "[Cloud services overview on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 17 (header)
+#: community/communicate.md:block 17 (header)
 msgid "Performance monitoring"
 msgstr ""
 
-#: connect-learn/communicate.md:block 18 (paragraph)
+#: community/communicate.md:block 18 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
 msgstr ""
 
-#: connect-learn/communicate.md:block 19 (unordered list)
+#: community/communicate.md:block 19 (unordered list)
 msgid "[Visit the site](https://performance.wikimedia.org/)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 20 (header)
+#: community/communicate.md:block 20 (header)
 msgid "Security policies"
 msgstr ""
 
-#: connect-learn/communicate.md:block 21 (paragraph)
+#: community/communicate.md:block 21 (paragraph)
 msgid ""
 "Read security policies for the MediaWiki platform and the Wikimedia "
 "Foundation."
 msgstr ""
 
-#: connect-learn/communicate.md:block 22 (unordered list)
+#: community/communicate.md:block 22 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 23 (header)
+#: community/communicate.md:block 23 (header)
 msgid "Software deployments"
 msgstr ""
 
-#: connect-learn/communicate.md:block 24 (paragraph)
+#: community/communicate.md:block 24 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
 msgstr ""
 
-#: connect-learn/communicate.md:block 25 (unordered list)
+#: community/communicate.md:block 25 (unordered list)
 msgid ""
 "[Read the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 26 (header)
+#: community/communicate.md:block 26 (header)
 msgid "Technical infrastructure"
 msgstr ""
 
-#: connect-learn/communicate.md:block 27 (paragraph)
+#: community/communicate.md:block 27 (paragraph)
 msgid "Learn about the infrastructure behind Wikimedia projects."
 msgstr ""
 
-#: connect-learn/communicate.md:block 28 (unordered list)
+#: community/communicate.md:block 28 (unordered list)
 msgid ""
 "[Read the docs on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
 msgstr ""
 
-#: connect-learn/communicate.md:block 29 (header)
+#: community/communicate.md:block 29 (header)
 msgid "Technical decision-making process"
 msgstr ""
 
-#: connect-learn/communicate.md:block 30 (paragraph)
+#: community/communicate.md:block 30 (paragraph)
 msgid ""
 "Learn about why and how technical decisions are made, and browse decision "
 "records."
 msgstr ""
 
-#: connect-learn/communicate.md:block 31 (unordered list)
+#: community/communicate.md:block 31 (unordered list)
 msgid ""
 "[Read the docs on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 msgstr ""
 
-#: connect-learn/events.md:block 1 (header)
-msgid "Explore hackathons and events"
-msgstr ""
-
-#: connect-learn/events.md:block 2 (paragraph)
+#: community/events.md:block 2 (paragraph)
 msgid "Explore content from past events or join us for an upcoming event."
 msgstr ""
 
-#: connect-learn/events.md:block 3 (header)
+#: community/events.md:block 3 (header)
 msgid "Hackathons"
 msgstr ""
 
-#: connect-learn/events.md:block 4 (paragraph)
+#: community/events.md:block 4 (paragraph)
 msgid ""
 "A hackathon brings together people with different skills to work together on"
 " a common technical goal."
 msgstr ""
 
-#: connect-learn/events.md:block 5 (unordered list)
+#: community/events.md:block 5 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
 msgstr ""
 
-#: connect-learn/events.md:block 6 (header)
+#: community/events.md:block 6 (header)
 msgid "Wikidata events"
 msgstr ""
 
-#: connect-learn/events.md:block 7 (paragraph)
+#: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
 msgstr ""
 
-#: connect-learn/events.md:block 8 (unordered list)
+#: community/events.md:block 8 (unordered list)
 msgid ""
 "[Read more on "
 "wikidata.org](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
 msgstr ""
 
-#: connect-learn/events.md:block 9 (header)
+#: community/events.md:block 9 (header)
 msgid "Research events"
 msgstr ""
 
-#: connect-learn/events.md:block 10 (paragraph)
+#: community/events.md:block 10 (paragraph)
 msgid ""
 "Forums and meetups for scientists, engineers, and scholars who are exploring"
 " all aspects of Wikimedia projects."
 msgstr ""
 
-#: connect-learn/events.md:block 11 (unordered list)
+#: community/events.md:block 11 (unordered list)
 msgid ""
 "[Read more on wikimedia.org](https://research.wikimedia.org/events.html)"
 msgstr ""
 
-#: connect-learn/events.md:block 12 (header)
+#: community/events.md:block 12 (header)
 msgid "Tech talks"
 msgstr ""
 
-#: connect-learn/events.md:block 13 (paragraph)
+#: community/events.md:block 13 (paragraph)
 msgid ""
 "Learn about technical topics through presentations created by and for the "
 "Wikimedia technical community."
 msgstr ""
 
-#: connect-learn/events.md:block 14 (unordered list)
+#: community/events.md:block 14 (unordered list)
 msgid ""
 "[Browse talks on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks)"
 msgstr ""
 
-#: connect-learn/events.md:block 15 (header)
+#: community/events.md:block 15 (header)
 msgid "Coolest Tool Award"
 msgstr ""
 
-#: connect-learn/events.md:block 16 (paragraph)
+#: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
 msgstr ""
 
-#: connect-learn/events.md:block 17 (unordered list)
+#: community/events.md:block 17 (unordered list)
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
 msgstr ""
 
-#: connect-learn/events.md:block 18 (header)
+#: community/events.md:block 18 (header)
 msgid "Technical skills workshops"
 msgstr ""
 
-#: connect-learn/events.md:block 19 (paragraph) connect-learn/grow.md:block 10
+#: community/events.md:block 19 (paragraph) community/grow.md:block 10
 #: (paragraph)
 msgid ""
 "Recommended tools and educational resources to support small wiki "
 "communities in learning and sharing technical skills."
 msgstr ""
 
-#: connect-learn/events.md:block 20 (unordered list)
-#: connect-learn/grow.md:block 11 (unordered list)
+#: community/events.md:block 20 (unordered list) community/grow.md:block 11
+#: (unordered list)
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 msgstr ""
 
-#: connect-learn/grow.md:block 3 (header)
+#: community/grow.md:block 3 (header)
 msgid "Become a tech ambassador"
 msgstr ""
 
-#: connect-learn/grow.md:block 4 (paragraph)
+#: community/grow.md:block 4 (paragraph)
 msgid ""
 "Tech ambassadors are technically-minded volunteers who help other "
 "Wikimedians with technical issues, and act as a bridge between developers "
 "and local Wikimedia wikis."
 msgstr ""
 
-#: connect-learn/grow.md:block 5 (unordered list)
+#: community/grow.md:block 5 (unordered list)
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 msgstr ""
 
-#: connect-learn/grow.md:block 6 (header)
+#: community/grow.md:block 6 (header)
 msgid "Outreach and mentoring programs"
 msgstr ""
 
-#: connect-learn/grow.md:block 7 (paragraph)
+#: community/grow.md:block 7 (paragraph)
 msgid ""
 "Grow your skills or help others learn through internships and mentoring "
 "opportunities with Wikimedia."
 msgstr ""
 
-#: connect-learn/grow.md:block 8 (unordered list)
+#: community/grow.md:block 8 (unordered list)
 msgid ""
 "[Learn more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 msgstr ""
 
-#: connect-learn/grow.md:block 9 (header)
+#: community/grow.md:block 9 (header)
 msgid "Small wiki toolkits"
 msgstr ""
 
-#: connect-learn/updates.md:block 3 (header)
+#: community/updates.md:block 3 (header)
 msgid "Tech blog"
 msgstr ""
 
-#: connect-learn/updates.md:block 4 (paragraph)
+#: community/updates.md:block 4 (paragraph)
 msgid "Blog posts from the Wikimedia technical community."
 msgstr ""
 
-#: connect-learn/updates.md:block 5 (unordered list)
+#: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
 msgstr ""
 
-#: connect-learn/updates.md:block 6 (header)
+#: community/updates.md:block 6 (header)
 msgid "Tech news"
 msgstr ""
 
-#: connect-learn/updates.md:block 7 (paragraph)
+#: community/updates.md:block 7 (paragraph)
 msgid "Weekly summary of technical topics for Wikimedians."
 msgstr ""
 
-#: connect-learn/updates.md:block 8 (unordered list)
+#: community/updates.md:block 8 (unordered list)
 msgid ""
 "[Read the latest tech news on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 msgstr ""
 
-#: connect-learn/updates.md:block 9 (header)
+#: community/updates.md:block 9 (header)
 msgid "Technical community newsletter"
 msgstr ""
 
-#: connect-learn/updates.md:block 10 (paragraph)
+#: community/updates.md:block 10 (paragraph)
 msgid "Quarterly updates on activities in the Wikimedia technical community."
 msgstr ""
 
-#: connect-learn/updates.md:block 11 (unordered list)
+#: community/updates.md:block 11 (unordered list)
 msgid ""
 "[Read the latest newsletter on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 msgstr ""
 
 #: contribute/index.md:block 2 (header) contribute/overview.md:title
+#: contribute/overview.md:block 1 (header)
 msgid "Learn how contributing works"
 msgstr ""
 
@@ -1062,7 +985,8 @@ msgstr ""
 msgid "[Learn more](by-language.md)"
 msgstr ""
 
-#: contribute/index.md:block 11 (header)
+#: contribute/index.md:block 11 (header) contribute/search.md:title
+#: contribute/search.md:block 1 (header)
 msgid "Search all projects"
 msgstr ""
 
@@ -1307,10 +1231,6 @@ msgstr ""
 msgid "[Contribute to Kiwix](https://www.kiwix.org/en/support-us/code/)"
 msgstr ""
 
-#: contribute/overview.md:block 1 (header)
-msgid "Get started contributing to Wikimedia open source"
-msgstr ""
-
 #: contribute/overview.md:block 2 (paragraph)
 msgid ""
 "Learn the basics of how to contribute to MediaWiki and other Wikimedia open "
@@ -1386,10 +1306,6 @@ msgstr ""
 msgid "[Visit WikiContrib](https://wikicontrib.toolforge.org/)"
 msgstr ""
 
-#: contribute/search.md:title contribute/search.md:block 1 (header)
-msgid "Search Wikimedia open source projects"
-msgstr ""
-
 #: contribute/search.md:block 2 (header)
 msgid "Search codebases"
 msgstr ""
@@ -1420,7 +1336,7 @@ msgid "Browse repositories"
 msgstr ""
 
 #: contribute/search.md:block 9 (paragraph)
-msgid "Explore Wikimedia code using Git interfaces."
+msgid "Explore Wikimedia codebases."
 msgstr ""
 
 #: contribute/search.md:block 10 (unordered list)
@@ -1437,10 +1353,6 @@ msgstr ""
 
 #: contribute/search.md:block 11 (header)
 msgid "Search tools and bots"
-msgstr ""
-
-#: get-help/index.md:title get-help/index.md:block 1 (header)
-msgid "Get help"
 msgstr ""
 
 #: get-help/index.md:block 2 (paragraph)
@@ -1477,6 +1389,47 @@ msgstr ""
 
 #: get-help/index.md:block 11 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
+msgstr ""
+
+#: get-help/about.md:title
+msgid "About"
+msgstr ""
+
+#: get-help/about.md:block 1 (paragraph)
+msgid ""
+"The Wikimedia Developer Portal is a central entry point for Wikimedia "
+"technical documentation, created by the Wikimedia Foundation Developer "
+"Advocacy Team. This site currently in development. For more information "
+"about the project and to share your feedback, visit "
+"[mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
+" For technical documentation about the portal and its implementation, see "
+"[the docs on "
+"Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal)."
+msgstr ""
+
+#: get-help/about.md:block 2 (header)
+msgid "Image credits"
+msgstr ""
+
+#: get-help/about.md:block 3 (unordered list)
+msgid ""
+"Wikimedia logo by Neolux, public domain, via [Wikimedia "
+"Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)"
+msgstr ""
+
+#: get-help/about.md:block 3 (unordered list)
+msgid ""
+"Wikimedia favicon by the Wikimedia Foundation, [CC BY-SA "
+"3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia "
+"Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)"
+msgstr ""
+
+#: get-help/about.md:block 3 (unordered list)
+msgid ""
+"Adapted Wikipedia 20 illustrations by Jasmina El Bouamraoui and Karabo Poppy"
+" Moletsane, via [Wikimedia "
+"Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20); "
+"black background removed from dark-mode images"
 msgstr ""
 
 #: get-started/index.md:block 1 (header) get-started/wikimedia-tech.md:title
@@ -1554,8 +1507,7 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 msgstr ""
 
-#: get-started/tutorials.md:block 1 (header) use-content/tutorials.md:block 1
-#: (header)
+#: get-started/tutorials.md:block 1 (header)
 msgid "Tutorials for using content and data"
 msgstr ""
 
@@ -1618,6 +1570,12 @@ msgid ""
 "Wikibase](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 msgstr ""
 
+#: use-content/index.md:block 1 (paragraph)
+msgid ""
+"Wikimedia offers public APIs, libraries, and downloads that let you access "
+"encyclopedia articles, media files, structured data, and more."
+msgstr ""
+
 #: use-content/index.md:block 2 (header) use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
 msgid "Explore featured apps"
@@ -1645,39 +1603,44 @@ msgid ""
 "in your language."
 msgstr ""
 
-#: use-content/index.md:block 8 (header) use-content/content.md:title
+#: use-content/index.md:block 9 (paragraph)
+msgid ""
+"Follow step-by-step guides to learn the basics of using Wikimedia content "
+"and data."
+msgstr ""
+
+#: use-content/index.md:block 11 (header) use-content/content.md:title
 #: use-content/content.md:block 1 (header)
 msgid "Use wiki content"
 msgstr ""
 
-#: use-content/index.md:block 9 (paragraph) use-content/content.md:block 2
+#: use-content/index.md:block 12 (paragraph) use-content/content.md:block 2
 #: (paragraph)
 msgid ""
 "Find open source libraries, get started using the API, or download content "
 "in bulk."
 msgstr ""
 
-#: use-content/index.md:block 10 (paragraph)
+#: use-content/index.md:block 13 (paragraph)
 msgid "[Learn more](content.md)"
 msgstr ""
 
-#: use-content/index.md:block 11 (header) use-content/data.md:title
+#: use-content/index.md:block 14 (header) use-content/data.md:title
 #: use-content/data.md:block 1 (header)
 msgid "Access open data"
 msgstr ""
 
-#: use-content/index.md:block 12 (paragraph)
+#: use-content/index.md:block 15 (paragraph)
 msgid "Explore public data that you can use in research and machine learning."
 msgstr ""
 
-#: use-content/index.md:block 13 (paragraph)
+#: use-content/index.md:block 16 (paragraph)
 msgid "[Learn more](data.md)"
 msgstr ""
 
-#: use-content/index.md:block 15 (paragraph)
-msgid ""
-"Follow step-by-step guides to learn the basics of using Wikimedia content "
-"and data."
+#: use-content/content.md:block 12 (header) use-content/data.md:block 9
+#: (header)
+msgid "Tutorials"
 msgstr ""
 
 #: use-content/content.md:block 13 (header) use-content/tutorials.md:block 9

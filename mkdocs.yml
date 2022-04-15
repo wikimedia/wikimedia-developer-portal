@@ -17,7 +17,7 @@ nav:
     - use-content/content.md
     - use-content/data.md
     - use-content/tutorials.md
-  - Build tools and bots:
+  - Tools and bots:
     - build-tools/index.md
     - build-tools/search.md
     - build-tools/get-started.md
@@ -30,14 +30,15 @@ nav:
     - contribute/by-topic.md
     - contribute/by-language.md
     - contribute/search.md
-  - Connect and learn:
-    - connect-learn/index.md
-    - connect-learn/events.md
-    - connect-learn/communicate.md
-    - connect-learn/grow.md
-    - connect-learn/updates.md
-  - Get help: get-help/index.md
-  - About: about/index.md
+  - Community:
+    - community/index.md
+    - community/events.md
+    - community/communicate.md
+    - community/grow.md
+    - community/updates.md
+  - Get help:
+    - get-help/index.md
+    - get-help/about.md
 
 docs_dir: src
 theme:

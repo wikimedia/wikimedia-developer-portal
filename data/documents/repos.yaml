@@ -1,6 +1,6 @@
 ---
 title: Browse repositories
-description: Explore Wikimedia code using Git interfaces.
+description: Explore Wikimedia codebases.
 links:
   - url: https://gerrit.wikimedia.org/g/
     label: Browse repositories on Gerrit
