@@ -395,9 +395,8 @@ msgstr ""
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 11 (unordered list)
 msgid ""
-"[Read the "
-"tutorial](https://public.paws.wmcloud.org/User:SRodlund_(WMF)/Using-"
-"Pywikibot-with-Paws.ipynb)"
+"[Read the tutorial on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
 msgstr ""
 
 #: build-tools/get-started.md:block 6 (header)
