@@ -1,8 +1,8 @@
 ---
 title: Technical decision-making process
-description: Learn about why and how technical decisions are made, and browse decision records. 
+description: Learn about why and how technical decisions are made, and browse decision records.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making
     label: Read the docs on mediawiki.org
 categories:
-  - wikimedia-tech-operations
+  wikimedia-tech-operations: 5

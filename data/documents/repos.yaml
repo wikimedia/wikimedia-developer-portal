@@ -1,6 +1,6 @@
 ---
 title: Browse repositories
-description: List all Wikimedia repositories.
+description: Explore Wikimedia code using Git interfaces.
 links:
   - url: https://gerrit.wikimedia.org/g/
     label: Browse repositories on Gerrit

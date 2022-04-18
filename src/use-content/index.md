@@ -8,7 +8,7 @@ Wikimedia offers public APIs, libraries, and downloads that let you access encyc
 
 ## Explore featured apps
 
-See examples of open-source apps and data visualizations built with content and data from Wikimedia projects.
+See examples of open source apps and data visualizations built with content and data from Wikimedia projects.
 
 [Learn more](featured-apps.md)
 
@@ -20,7 +20,7 @@ Learn about different types of Wikimedia content, and see what's available in yo
 
 ## Use wiki content
 
-Find open-source libraries, get started using the API, or download content in bulk.
+Find open source libraries, get started using the API, or download content in bulk.
 
 [Learn more](content.md)
 

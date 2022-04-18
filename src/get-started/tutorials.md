@@ -1,8 +1,15 @@
 ---
-title: Browse tutorials
+title: Learn with tutorials
 ---
-{{ category.render( "tutorials-content", 2 ) }}
 
-<!--TODO: Add or find tutorials about querying replicas/working with data dumps -->
+## Tutorials for using content and data
 
-{{ category.render( "tutorials-data", 2 ) }}
+Learn the basics of using Wikimedia content and data in your project.
+
+[Learn more](../use-content/tutorials.md)
+
+## Tutorials for building tools and bots
+
+Learn the basics of writing code that interacts with Wikimedia projects.
+
+[Learn more](../build-tools/tutorials.md)

@@ -7,9 +7,9 @@ copyright: Copyright &copy; 2021 Wikimedia Foundation and contributors
 nav:
   - Get started:
     - get-started/index.md
+    - get-started/wikimedia-tech.md
     - get-started/new-dev.md
     - get-started/tutorials.md
-    - get-started/wikimedia-tech.md
   - Use content and data:
     - use-content/index.md
     - use-content/featured-apps.md

@@ -4,28 +4,20 @@ hide:
 title: Get started
 ---
 
-## Learn how Wikimedia software projects work
-
-Understand how to make technical contributions and communicate effectively.
-
-[Learn more](new-dev.md)
-
-## Browse tutorials
-
-Try out Wikimedia APIs with interactive coding exercises.
-
-[Learn more](tutorials.md)
-
 ## Learn about Wikimedia technology
 
-Explore the foundational technologies and open source software behind Wikimedia projects.
+Explore the open source software and technical components behind Wikimedia projects.
 
 [Learn more](wikimedia-tech.md)
 
-## Choose your goal and start coding
+## Understand the development process
 
-Ready to start coding? Choose one of the following goals to get more guidance:
+Learn how Wikimedia software projects work and how to make technical contributions.
 
-* [Re-use wiki data or content in your project or app.](../use-content/)
-* [Build tools to edit and maintain Wikimedia projects.](../build-tools/index.md)
-* [Contribute to Wikimedia open source.](../contribute/index.md)
+[Learn more](new-dev.md)
+
+## Learn with tutorials
+
+Follow coding exercises with step-by-step guidance.
+
+[Learn more](tutorials.md)

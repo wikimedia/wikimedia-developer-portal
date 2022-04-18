@@ -219,8 +219,9 @@ msgstr ""
 msgid "[Learn more](get-started.md)"
 msgstr ""
 
-#: build-tools/index.md:block 8 (header) use-content/index.md:block 14
-#: (header) use-content/tutorials.md:title
+#: build-tools/index.md:block 8 (header) get-started/index.md:block 7 (header)
+#: get-started/tutorials.md:title use-content/index.md:block 14 (header)
+#: use-content/tutorials.md:title
 msgid "Learn with tutorials"
 msgstr ""
 
@@ -231,7 +232,7 @@ msgid ""
 " projects."
 msgstr ""
 
-#: build-tools/index.md:block 10 (paragraph) get-started/index.md:block 6
+#: build-tools/index.md:block 10 (paragraph) get-started/index.md:block 9
 #: (paragraph) use-content/index.md:block 16 (paragraph)
 msgid "[Learn more](tutorials.md)"
 msgstr ""
@@ -471,7 +472,7 @@ msgid ""
 msgstr ""
 
 #: build-tools/search.md:title build-tools/search.md:block 1 (header)
-msgid "Search tools"
+msgid "Discover tools"
 msgstr ""
 
 #: build-tools/search.md:block 3 (header) contribute/by-language.md:block 5
@@ -525,9 +526,8 @@ msgid ""
 "tools?tab=tool-create)"
 msgstr ""
 
-#: build-tools/tutorials.md:title get-started/tutorials.md:block 1 (header)
-#: use-content/content.md:block 12 (header) use-content/data.md:block 9
-#: (header)
+#: build-tools/tutorials.md:title use-content/content.md:block 12 (header)
+#: use-content/data.md:block 9 (header)
 msgid "Tutorials"
 msgstr ""
 
@@ -689,12 +689,13 @@ msgid "[Learn more](updates.md)"
 msgstr ""
 
 #: connect-learn/communicate.md:block 3 (header) contribute/overview.md:block
-#: 3 (header)
+#: 3 (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
 msgstr ""
 
 #: connect-learn/communicate.md:block 4 (paragraph)
-#: contribute/overview.md:block 4 (paragraph)
+#: contribute/overview.md:block 4 (paragraph) get-started/new-dev.md:block 13
+#: (paragraph)
 msgid ""
 "The code of conduct for Wikimedia technical spaces applies to both physical "
 "and virtual environments."
@@ -702,6 +703,7 @@ msgstr ""
 
 #: connect-learn/communicate.md:block 5 (unordered list)
 #: contribute/overview.md:block 5 (unordered list)
+#: get-started/new-dev.md:block 14 (unordered list)
 msgid ""
 "[Read the code of conduct on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
@@ -752,18 +754,18 @@ msgid "Learn about the infrastructure and teams behind Wikimedia projects."
 msgstr ""
 
 #: connect-learn/communicate.md:block 14 (header)
-#: get-started/wikimedia-tech.md:block 3 (header)
+#: get-started/wikimedia-tech.md:block 6 (header)
 msgid "Cloud tools and services"
 msgstr ""
 
 #: connect-learn/communicate.md:block 15 (paragraph)
-#: get-started/wikimedia-tech.md:block 4 (paragraph)
+#: get-started/wikimedia-tech.md:block 7 (paragraph)
 msgid ""
 "Infrastructure and support for contributors to Wikimedia software projects."
 msgstr ""
 
 #: connect-learn/communicate.md:block 16 (unordered list)
-#: get-started/wikimedia-tech.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid ""
 "[Cloud services overview on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction)"
@@ -778,7 +780,7 @@ msgid "Monitor the current and past performance of Wikimedia sites."
 msgstr ""
 
 #: connect-learn/communicate.md:block 19 (unordered list)
-msgid "[Read the docs](https://performance.wikimedia.org/)"
+msgid "[Visit the site](https://performance.wikimedia.org/)"
 msgstr ""
 
 #: connect-learn/communicate.md:block 20 (header)
@@ -811,33 +813,33 @@ msgid ""
 msgstr ""
 
 #: connect-learn/communicate.md:block 26 (header)
-msgid "Technical decision-making process"
+msgid "Technical infrastructure"
 msgstr ""
 
 #: connect-learn/communicate.md:block 27 (paragraph)
-msgid ""
-"Learn about why and how technical decisions are made, and browse decision "
-"records."
+msgid "Learn about the infrastructure behind Wikimedia projects."
 msgstr ""
 
 #: connect-learn/communicate.md:block 28 (unordered list)
 msgid ""
 "[Read the docs on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
+"Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
 msgstr ""
 
 #: connect-learn/communicate.md:block 29 (header)
-msgid "Technical infrastructure"
+msgid "Technical decision-making process"
 msgstr ""
 
 #: connect-learn/communicate.md:block 30 (paragraph)
-msgid "Learn about the infrastructure behind Wikimedia projects."
+msgid ""
+"Learn about why and how technical decisions are made, and browse decision "
+"records."
 msgstr ""
 
 #: connect-learn/communicate.md:block 31 (unordered list)
 msgid ""
 "[Read the docs on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 msgstr ""
 
 #: connect-learn/events.md:block 1 (header)
@@ -1222,84 +1224,86 @@ msgid ""
 msgstr ""
 
 #: contribute/by-topic.md:block 3 (header)
-msgid "Documentation"
-msgstr ""
-
-#: contribute/by-topic.md:block 4 (paragraph)
-msgid "Get started writing documentation for Wikimedia technologies."
-msgstr ""
-
-#: contribute/by-topic.md:block 5 (unordered list)
-msgid ""
-"[Learn more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
-msgstr ""
-
-#: contribute/by-topic.md:block 6 (header)
 msgid "Infrastructure"
 msgstr ""
 
-#: contribute/by-topic.md:block 7 (paragraph)
+#: contribute/by-topic.md:block 4 (paragraph)
 msgid ""
 "Contribute to the effort to make Wikimedia's servers and software faster and"
 " more efficient."
 msgstr ""
 
-#: contribute/by-topic.md:block 8 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
 msgid ""
 "[Read the docs on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
 msgstr ""
 
-#: contribute/by-topic.md:block 9 (header)
+#: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
+#: 12 (header)
 msgid "Localization and internationalization"
 msgstr ""
 
-#: contribute/by-topic.md:block 10 (paragraph)
+#: contribute/by-topic.md:block 7 (paragraph)
+#: get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "Write code that can be localized, and get your code translated."
 msgstr ""
 
-#: contribute/by-topic.md:block 11 (unordered list)
+#: contribute/by-topic.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
 msgstr ""
 
-#: contribute/by-topic.md:block 12 (header)
+#: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
+#: 15 (header)
 msgid "Mobile apps"
 msgstr ""
 
-#: contribute/by-topic.md:block 13 (paragraph)
+#: contribute/by-topic.md:block 10 (paragraph)
+#: get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid ""
 "Expand the reach of Wikimedia content by contributing to mobile apps for "
 "Wikipedia, Wikimedia Commons, and other projects."
 msgstr ""
 
-#: contribute/by-topic.md:block 14 (unordered list)
+#: contribute/by-topic.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
 msgstr ""
 
+#: contribute/by-topic.md:block 12 (header)
+msgid "Documentation"
+msgstr ""
+
+#: contribute/by-topic.md:block 13 (paragraph)
+msgid "Get started writing documentation for Wikimedia technologies."
+msgstr ""
+
+#: contribute/by-topic.md:block 14 (unordered list)
+msgid ""
+"[Learn more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
+msgstr ""
+
 #: contribute/by-topic.md:block 15 (header)
-#: get-started/wikimedia-tech.md:block 12 (header)
 msgid "Offline reading"
 msgstr ""
 
 #: contribute/by-topic.md:block 16 (paragraph)
-#: get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "Help people use Wikipedia without internet access."
 msgstr ""
 
 #: contribute/by-topic.md:block 17 (unordered list)
-#: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid ""
 "[Join the offline projects user "
 "group](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 msgstr ""
 
 #: contribute/by-topic.md:block 17 (unordered list)
-#: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute to Kiwix](https://www.kiwix.org/en/support-us/code/)"
 msgstr ""
 
@@ -1313,37 +1317,38 @@ msgid ""
 "source projects."
 msgstr ""
 
-#: contribute/overview.md:block 6 (header)
+#: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
+#: (header)
 msgid "Create a developer account"
 msgstr ""
 
-#: contribute/overview.md:block 7 (paragraph)
+#: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
+#: (paragraph)
 msgid ""
-"Most of Wikimedia's technical spaces use a developer account to identify and"
-" authorize users. This account provides access to a number of resources for "
-"making technical contributions."
+"Most Wikimedia technical spaces use a developer account to identify and "
+"authorize users for making technical contributions."
 msgstr ""
 
 #: contribute/overview.md:block 8 (unordered list)
+#: get-started/new-dev.md:block 8 (unordered list)
 msgid ""
 "[Create your "
 "account](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
 msgstr ""
 
 #: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
-#: (header) get-started/wikimedia-tech.md:block 15 (header)
-msgid "Recommended projects for new contributors"
+#: (header)
+msgid "Find projects and tasks for new contributors"
 msgstr ""
 
 #: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
-#: (paragraph) get-started/wikimedia-tech.md:block 16 (paragraph)
+#: (paragraph)
 msgid ""
 "Choose from open source projects that offer mentoring for new contributors."
 msgstr ""
 
 #: contribute/overview.md:block 11 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
-#: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid ""
 "[New developers guide on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
@@ -1394,7 +1399,6 @@ msgid "Search all Wikimedia codebases using the code search tool."
 msgstr ""
 
 #: contribute/search.md:block 4 (unordered list)
-#: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Code search](https://codesearch.wmcloud.org/search)"
 msgstr ""
 
@@ -1416,7 +1420,7 @@ msgid "Browse repositories"
 msgstr ""
 
 #: contribute/search.md:block 9 (paragraph)
-msgid "List all Wikimedia repositories."
+msgid "Explore Wikimedia code using Git interfaces."
 msgstr ""
 
 #: contribute/search.md:block 10 (unordered list)
@@ -1458,7 +1462,6 @@ msgid "[Search across wikis](https://global-search.toolforge.org/)"
 msgstr ""
 
 #: get-help/index.md:block 5 (unordered list)
-#: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
 msgstr ""
 
@@ -1476,158 +1479,143 @@ msgstr ""
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
 msgstr ""
 
-#: get-started/index.md:block 1 (header) get-started/new-dev.md:title
-#: get-started/new-dev.md:block 1 (header)
-msgid "Learn how Wikimedia software projects work"
-msgstr ""
-
-#: get-started/index.md:block 2 (paragraph)
-msgid ""
-"Understand how to make technical contributions and communicate effectively."
-msgstr ""
-
-#: get-started/index.md:block 3 (paragraph)
-msgid "[Learn more](new-dev.md)"
-msgstr ""
-
-#: get-started/index.md:block 4 (header) get-started/tutorials.md:title
-msgid "Browse tutorials"
-msgstr ""
-
-#: get-started/index.md:block 5 (paragraph)
-msgid "Try out Wikimedia APIs with interactive coding exercises."
-msgstr ""
-
-#: get-started/index.md:block 7 (header) get-started/wikimedia-tech.md:title
+#: get-started/index.md:block 1 (header) get-started/wikimedia-tech.md:title
 #: get-started/wikimedia-tech.md:block 1 (header)
 msgid "Learn about Wikimedia technology"
 msgstr ""
 
-#: get-started/index.md:block 8 (paragraph)
+#: get-started/index.md:block 2 (paragraph)
 msgid ""
-"Explore the foundational technologies and open source software behind "
-"Wikimedia projects."
+"Explore the open source software and technical components behind Wikimedia "
+"projects."
 msgstr ""
 
-#: get-started/index.md:block 9 (paragraph)
+#: get-started/index.md:block 3 (paragraph)
 msgid "[Learn more](wikimedia-tech.md)"
 msgstr ""
 
-#: get-started/index.md:block 10 (header)
-msgid "Choose your goal and start coding"
+#: get-started/index.md:block 4 (header) get-started/new-dev.md:title
+#: get-started/new-dev.md:block 1 (header)
+msgid "Understand the development process"
 msgstr ""
 
-#: get-started/index.md:block 11 (paragraph)
+#: get-started/index.md:block 5 (paragraph)
 msgid ""
-"Ready to start coding? Choose one of the following goals to get more "
-"guidance:"
+"Learn how Wikimedia software projects work and how to make technical "
+"contributions."
 msgstr ""
 
-#: get-started/index.md:block 12 (unordered list)
-msgid "[Re-use wiki data or content in your project or app.](../use-content/)"
+#: get-started/index.md:block 6 (paragraph)
+msgid "[Learn more](new-dev.md)"
 msgstr ""
 
-#: get-started/index.md:block 12 (unordered list)
-msgid ""
-"[Build tools to edit and maintain Wikimedia projects.](../build-"
-"tools/index.md)"
-msgstr ""
-
-#: get-started/index.md:block 12 (unordered list)
-msgid "[Contribute to Wikimedia open source.](../contribute/index.md)"
+#: get-started/index.md:block 8 (paragraph)
+msgid "Follow coding exercises with step-by-step guidance."
 msgstr ""
 
 #: get-started/new-dev.md:block 2 (paragraph)
-msgid "Get started as a new contributor."
+msgid "Learn how to make technical contributions to Wikimedia projects."
 msgstr ""
 
-#: get-started/tutorials.md:block 2 (header) use-content/content.md:block 13
-#: (header) use-content/tutorials.md:block 9 (header)
-msgid "Display the picture of the day"
+#: get-started/new-dev.md:block 9 (header)
+msgid "Find tickets, and track projects"
 msgstr ""
 
-#: get-started/tutorials.md:block 3 (paragraph) use-content/content.md:block
-#: 14 (paragraph) use-content/tutorials.md:block 10 (paragraph)
-msgid "Use the MediaWiki Action API to build a picture of the day viewer."
-msgstr ""
-
-#: get-started/tutorials.md:block 4 (unordered list)
-#: use-content/content.md:block 15 (unordered list)
-#: use-content/tutorials.md:block 11 (unordered list)
+#: get-started/new-dev.md:block 10 (paragraph)
 msgid ""
-"[Read the tutorial on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+"Wikimedia uses Phabricator for task management and bug reporting. To "
+"interact with tasks, create a Phabricator account."
 msgstr ""
 
-#: get-started/tutorials.md:block 5 (header) use-content/content.md:block 16
-#: (header) use-content/tutorials.md:block 18 (header)
-msgid "Search nearby places"
+#: get-started/new-dev.md:block 11 (unordered list)
+msgid "[Go to Phabricator](https://phabricator.wikimedia.org/)"
 msgstr ""
 
-#: get-started/tutorials.md:block 6 (paragraph) use-content/content.md:block
-#: 17 (paragraph) use-content/tutorials.md:block 19 (paragraph)
+#: get-started/new-dev.md:block 11 (unordered list)
 msgid ""
-"Use the MediaWiki Action API to search for wiki pages near your location."
+"[Read the user "
+"guide](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
 msgstr ""
 
-#: get-started/tutorials.md:block 7 (unordered list)
-#: use-content/content.md:block 18 (unordered list)
-#: use-content/tutorials.md:block 20 (unordered list)
+#: get-started/new-dev.md:block 15 (header)
+msgid "Learn how to submit code"
+msgstr ""
+
+#: get-started/new-dev.md:block 16 (paragraph)
 msgid ""
-"[Read the tutorial on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+"Many Wikimedia projects use Git and Gerrit for development. Before you "
+"submit code for review, get familiar with the tools, processes, and best "
+"practices."
 msgstr ""
 
-#: get-started/tutorials.md:block 10 (header) use-content/data.md:block 10
-#: (header) use-content/tutorials.md:block 6 (header)
-msgid "Display info from Wikidata"
-msgstr ""
-
-#: get-started/tutorials.md:block 11 (paragraph) use-content/data.md:block 11
-#: (paragraph) use-content/tutorials.md:block 7 (paragraph)
+#: get-started/new-dev.md:block 17 (unordered list)
 msgid ""
-"Use the MediaWiki Action API to present information from Wikidata in your "
-"application."
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 msgstr ""
 
-#: get-started/tutorials.md:block 12 (unordered list)
-#: use-content/data.md:block 12 (unordered list)
-#: use-content/tutorials.md:block 8 (unordered list)
+#: get-started/tutorials.md:block 1 (header) use-content/tutorials.md:block 1
+#: (header)
+msgid "Tutorials for using content and data"
+msgstr ""
+
+#: get-started/tutorials.md:block 2 (paragraph)
+msgid "Learn the basics of using Wikimedia content and data in your project."
+msgstr ""
+
+#: get-started/tutorials.md:block 3 (paragraph)
+msgid "[Learn more](../use-content/tutorials.md)"
+msgstr ""
+
+#: get-started/tutorials.md:block 4 (header)
+msgid "Tutorials for building tools and bots"
+msgstr ""
+
+#: get-started/tutorials.md:block 5 (paragraph)
 msgid ""
-"[Read the tutorial on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+"Learn the basics of writing code that interacts with Wikimedia projects."
 msgstr ""
 
-#: get-started/tutorials.md:block 13 (header) use-content/data.md:block 13
-#: (header) use-content/tutorials.md:block 15 (header)
-msgid "Get started querying Wikidata"
-msgstr ""
-
-#: get-started/tutorials.md:block 14 (paragraph) use-content/data.md:block 14
-#: (paragraph) use-content/tutorials.md:block 16 (paragraph)
-msgid "A beginner's guide to querying Wikidata using SPARQL"
-msgstr ""
-
-#: get-started/tutorials.md:block 15 (unordered list)
-#: use-content/data.md:block 15 (unordered list)
-#: use-content/tutorials.md:block 17 (unordered list)
-msgid "[Start the tutorial](https://wdqs-tutorial.toolforge.org)"
+#: get-started/tutorials.md:block 6 (paragraph)
+msgid "[Learn more](../build-tools/tutorials.md)"
 msgstr ""
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 6 (header)
-msgid "Code search"
+#: get-started/wikimedia-tech.md:block 3 (header)
+msgid "Introduction to Wikimedia"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 7 (paragraph)
-msgid "Search the Wikimedia codebases."
+#: get-started/wikimedia-tech.md:block 4 (paragraph)
+msgid "Learn the differences between Wikipedia, Wikimedia, and MediaWiki."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 8 (unordered list)
-msgid "[Browse Gerrit repositories](https://gerrit.wikimedia.org/g/)"
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 18 (header)
+msgid "Wikibase and Wikidata"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 19 (paragraph)
+msgid ""
+"Wikibase is a MediaWiki extension for working with structured data, and it's"
+" the software that powers Wikidata."
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 20 (unordered list)
+msgid "[Visit wikidata.org](https://www.wikidata.org/)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 20 (unordered list)
+msgid ""
+"[Learn more about "
+"Wikibase](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 msgstr ""
 
 #: use-content/index.md:block 2 (header) use-content/featured-apps.md:title
@@ -1637,7 +1625,7 @@ msgstr ""
 
 #: use-content/index.md:block 3 (paragraph)
 msgid ""
-"See examples of open-source apps and data visualizations built with content "
+"See examples of open source apps and data visualizations built with content "
 "and data from Wikimedia projects."
 msgstr ""
 
@@ -1665,7 +1653,7 @@ msgstr ""
 #: use-content/index.md:block 9 (paragraph) use-content/content.md:block 2
 #: (paragraph)
 msgid ""
-"Find open-source libraries, get started using the API, or download content "
+"Find open source libraries, get started using the API, or download content "
 "in bulk."
 msgstr ""
 
@@ -1690,6 +1678,41 @@ msgstr ""
 msgid ""
 "Follow step-by-step guides to learn the basics of using Wikimedia content "
 "and data."
+msgstr ""
+
+#: use-content/content.md:block 13 (header) use-content/tutorials.md:block 9
+#: (header)
+msgid "Display the picture of the day"
+msgstr ""
+
+#: use-content/content.md:block 14 (paragraph) use-content/tutorials.md:block
+#: 10 (paragraph)
+msgid "Use the MediaWiki Action API to build a picture of the day viewer."
+msgstr ""
+
+#: use-content/content.md:block 15 (unordered list)
+#: use-content/tutorials.md:block 11 (unordered list)
+msgid ""
+"[Read the tutorial on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+msgstr ""
+
+#: use-content/content.md:block 16 (header) use-content/tutorials.md:block 18
+#: (header)
+msgid "Search nearby places"
+msgstr ""
+
+#: use-content/content.md:block 17 (paragraph) use-content/tutorials.md:block
+#: 19 (paragraph)
+msgid ""
+"Use the MediaWiki Action API to search for wiki pages near your location."
+msgstr ""
+
+#: use-content/content.md:block 18 (unordered list)
+#: use-content/tutorials.md:block 20 (unordered list)
+msgid ""
+"[Read the tutorial on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 msgstr ""
 
 #: use-content/content.md:block 19 (header) use-content/data.md:block 16
@@ -1748,6 +1771,40 @@ msgstr ""
 msgid ""
 "[Read the guide on "
 "wikidata.org](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgstr ""
+
+#: use-content/data.md:block 10 (header) use-content/tutorials.md:block 6
+#: (header)
+msgid "Display info from Wikidata"
+msgstr ""
+
+#: use-content/data.md:block 11 (paragraph) use-content/tutorials.md:block 7
+#: (paragraph)
+msgid ""
+"Use the MediaWiki Action API to present information from Wikidata in your "
+"application."
+msgstr ""
+
+#: use-content/data.md:block 12 (unordered list)
+#: use-content/tutorials.md:block 8 (unordered list)
+msgid ""
+"[Read the tutorial on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+msgstr ""
+
+#: use-content/data.md:block 13 (header) use-content/tutorials.md:block 15
+#: (header)
+msgid "Get started querying Wikidata"
+msgstr ""
+
+#: use-content/data.md:block 14 (paragraph) use-content/tutorials.md:block 16
+#: (paragraph)
+msgid "A beginner's guide to querying Wikidata using SPARQL"
+msgstr ""
+
+#: use-content/data.md:block 15 (unordered list)
+#: use-content/tutorials.md:block 17 (unordered list)
+msgid "[Start the tutorial](https://wdqs-tutorial.toolforge.org)"
 msgstr ""
 
 #: use-content/featured-apps.md:block 2 (paragraph)
@@ -1837,10 +1894,6 @@ msgstr ""
 msgid ""
 "[Read the "
 "guide](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
-msgstr ""
-
-#: use-content/tutorials.md:block 1 (header)
-msgid "Tutorials for using content and data"
 msgstr ""
 
 #: use-content/tutorials.md:block 2 (paragraph)

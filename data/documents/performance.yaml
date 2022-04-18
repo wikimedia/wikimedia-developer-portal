@@ -3,6 +3,6 @@ title: Performance monitoring
 description: Monitor the current and past performance of Wikimedia sites.
 links:
   - url: https://performance.wikimedia.org/
-    label: Read the docs
+    label: Visit the site
 categories:
-  - wikimedia-tech-operations
+  wikimedia-tech-operations: 1

@@ -1,0 +1,8 @@
+---
+title: Learn how to submit code
+description: Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial
+    label: Read more on mediawiki.org
+categories:
+  new-dev: 6

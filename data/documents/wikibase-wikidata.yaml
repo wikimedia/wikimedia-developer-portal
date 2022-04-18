@@ -1,0 +1,10 @@
+---
+title: Wikibase and Wikidata
+description: Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata.
+links:
+  - url: https://www.wikidata.org/
+    label: Visit wikidata.org
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase
+    label: Learn more about Wikibase
+categories:
+  wikimedia-tech: 5

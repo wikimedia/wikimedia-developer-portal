@@ -5,4 +5,4 @@ links:
   - url: https://wikitech.wikimedia.org/wiki/Deployments
     label: Read the docs on Wikitech
 categories:
-  - wikimedia-tech-operations
+  wikimedia-tech-operations: 3

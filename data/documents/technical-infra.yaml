@@ -5,4 +5,4 @@ links:
   - url: https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure
     label: Read the docs on Wikitech
 categories:
-  - wikimedia-tech-operations
+  wikimedia-tech-operations: 4

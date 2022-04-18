@@ -5,6 +5,5 @@ links:
   - url: https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction
     label: Cloud services overview on Wikitech
 categories:
-  - wikimedia-tech
-  - wikimedia-tech-operations
-  - cloud
+  wikimedia-tech: 1
+  wikimedia-tech-operations: 0

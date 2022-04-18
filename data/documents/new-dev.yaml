@@ -1,5 +1,5 @@
 ---
-title: Recommended projects for new contributors
+title: Find projects and tasks for new contributors
 description: Choose from open source projects that offer mentoring for new contributors.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers
@@ -7,4 +7,3 @@ links:
 categories:
   new-dev: 0
   new-contributor: 3
-  wikimedia-tech: 0

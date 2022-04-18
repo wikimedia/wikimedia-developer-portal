@@ -1,5 +1,4 @@
 ---
-title: Learn how Wikimedia software projects work
+title: Understand the development process
 ---
-
 {{ category.render( "new-dev" ) }}

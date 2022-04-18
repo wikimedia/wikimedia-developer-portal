@@ -5,4 +5,4 @@ links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Security
     label: Read the docs on mediawiki.org
 categories:
-  - wikimedia-tech-operations
+  wikimedia-tech-operations: 2

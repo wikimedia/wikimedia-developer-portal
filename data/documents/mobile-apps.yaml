@@ -5,4 +5,5 @@ links:
   - url: https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps
     label: Read more on Meta-Wiki
 categories:
-  - contribute-by-topic
+  contribute-by-topic: 1
+  wikimedia-tech: 4

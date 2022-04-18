@@ -7,5 +7,4 @@ links:
   - url: https://www.kiwix.org/en/support-us/code/
     label: Contribute to Kiwix
 categories:
-  - wikimedia-tech
-  - contribute-by-topic
+  contribute-by-topic: 3
