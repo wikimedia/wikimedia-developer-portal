@@ -6,8 +6,6 @@ title: Use wiki content
 
 {{ category.render( "tutorials-content", 2 ) }}
 
-### See all tutorials
-
-[Browse tutorials](./tutorials.md)
+[See all tutorials](./tutorials.md){ .md-button }
 
 {{ document.render( "enterprise" ) }}

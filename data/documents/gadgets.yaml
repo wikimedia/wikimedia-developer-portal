@@ -3,7 +3,7 @@ title: Add JavaScript or CSS gadgets to a wiki
 description: Customize MediaWiki with client-side JavaScript code and CSS. Use gadgets other people have created, write scripts to modify your wiki's global js, and share your code with others.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen
-    label: Read the tutorial on mediawiki.org
+    label: Read more on mediawiki.org
 categories:
   - tutorials-tools
   - contribute-javascript

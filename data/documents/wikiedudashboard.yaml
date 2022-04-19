@@ -5,7 +5,7 @@ links:
   - url: https://dashboard.wikiedu.org
     label: Visit the dashboard
   - url: https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md
-    label: Contribute to the dashboard
+    label: Contribute
   - url: https://github.com/WikiEducationFoundation/WikiEduDashboard
     label: Get the source code
 categories:

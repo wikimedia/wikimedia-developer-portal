@@ -3,7 +3,7 @@ title: Download content in bulk
 description: Download Wikimedia content for backup, offline use, research, and more.
 links:
   - url: https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps
-    label: Read about data dumps on Meta-Wiki
+    label: Read more on Meta-Wiki
 categories:
   use-content: 3
   apis-tools: 5

@@ -3,8 +3,8 @@ title: Run scripts in your browser
 description: Create interactive scripts and data visualizations with PAWS.
 links:
   - url: https://hub.paws.wmcloud.org/hub/login
-    label: Log in to PAWS
+    label: Visit PAWS
   - url: https://wikitech.wikimedia.org/wiki/PAWS
-    label: Learn more about PAWS on Wikitech
+    label: Read more on Wikitech
 categories:
   toolforge: 1

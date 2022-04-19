@@ -3,7 +3,7 @@ title: Display the picture of the day
 description: Use the MediaWiki Action API to build a picture of the day viewer.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer
-    label: Read the tutorial on mediawiki.org
+    label: Read more on mediawiki.org
 categories:
   - tutorials-content
   - tutorials-use

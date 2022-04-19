@@ -3,8 +3,8 @@ title: Query wiki databases
 description: Wiki replicas are sanitized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries.
 links:
   - url: https://quarry.wmcloud.org/
-    label: Log in to Quarry
+    label: Visit Quarry
   - url: https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry
-    label: Learn more about Quarry
+    label: Read more on Meta-Wiki
 categories:
   apis-tools: 6

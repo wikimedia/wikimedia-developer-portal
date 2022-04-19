@@ -1,8 +1,8 @@
 ---
 title: App gallery
-description: Demo web apps demonstrating best practices for using Wikimedia content
+description: Browse demo web apps demonstrating best practices for using Wikimedia content.
 links:
   - url: https://apps-gallery.toolforge.org
-    label: Browse apps
+    label: Visit the gallery
 categories:
   - app-galleries

@@ -30,6 +30,6 @@ Explore programming interfaces for building bots and tools.
 
 ## Host tools on Wikimedia servers
 
-Cloud hosting for performing analytics, administering bots, running web services, and tools that help Wikimedia projects.
+Wikimedia offers cloud hosting for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects.
 
 [Learn more](host-tools.md)

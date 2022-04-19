@@ -3,7 +3,7 @@ title: Generate ideas for articles
 description: Learn to use the MediaWiki Action API Parse and Links modules by building an app that generates article ideas.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator
-    label: Read the tutorial on mediawiki.org
+    label: Read more on mediawiki.org
 categories:
   - tutorials-use
   - tutorials-tools

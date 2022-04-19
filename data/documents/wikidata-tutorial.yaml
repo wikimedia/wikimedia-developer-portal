@@ -3,7 +3,7 @@ title: Display info from Wikidata
 description: Use the MediaWiki Action API to present information from Wikidata in your application.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge
-    label: Read the tutorial on mediawiki.org
+    label: Read more on mediawiki.org
 categories:
   - tutorials-data
   - tutorials-use

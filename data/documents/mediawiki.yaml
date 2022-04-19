@@ -3,9 +3,9 @@ title: MediaWiki and extensions
 description: MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world.
 links:
   - url: https://www.mediawiki.org/
-    label: Read the docs
+    label: Visit mediawiki.org
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker
-    label: Contribute to MediaWiki
+    label: Contribute
   - url: https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core
     label: Get the source code
 categories:

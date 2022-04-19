@@ -3,7 +3,7 @@ title: Search nearby places
 description: Use the MediaWiki Action API to search for wiki pages near your location.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer
-    label: Read the tutorial on mediawiki.org
+    label: Read more on mediawiki.org
 categories:
   - tutorials-content
   - tutorials-use

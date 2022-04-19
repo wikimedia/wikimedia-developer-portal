@@ -2,6 +2,8 @@
 title: Learn with tutorials
 ---
 
+Follow coding exercises with step-by-step guidance.
+
 ## Tutorials for using content and data
 
 Learn the basics of using Wikimedia content and data in your project.

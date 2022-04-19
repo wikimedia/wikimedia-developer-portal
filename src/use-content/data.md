@@ -6,6 +6,4 @@ title: Access open data
 
 {{ category.render( "tutorials-data", 2 ) }}
 
-### See all tutorials
-
-[Browse tutorials](./tutorials.md)
+[See all tutorials](./tutorials.md){ .md-button }

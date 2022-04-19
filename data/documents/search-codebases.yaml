@@ -3,6 +3,6 @@ title: Search codebases
 description: Search all Wikimedia codebases using the code search tool.
 links:
   - url: https://codesearch.wmcloud.org/search
-    label: Code search
+    label: Visit code search
 categories:
   search-projects: 1

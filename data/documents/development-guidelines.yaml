@@ -3,8 +3,6 @@ title: Guidelines and code conventions
 description: Follow best practices and coding conventions.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines
-    label: Development guidelines on mediawiki.org
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Coding_conventions
-    label: Coding conventions on mediawiki.org
+    label: Read more on mediawiki.org
 categories:
   new-contributor: 4

@@ -3,8 +3,8 @@ title: Find tickets, and track projects
 description: Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account.
 links:
   - url: https://phabricator.wikimedia.org/
-    label: Go to Phabricator
+    label: Visit Phabricator
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help
-    label: Read the user guide
+    label: Read more on mediawiki.org
 categories:
   new-dev: 2

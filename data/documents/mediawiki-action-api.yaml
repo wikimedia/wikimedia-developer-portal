@@ -3,7 +3,7 @@ title: Use the API
 description: The MediaWiki Action API gives you programmatic access to content and editing on all Wikimedia projects.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API
-    label: Read the docs on mediawiki.org
+    label: Read more on mediawiki.org
   - url: https://www.mediawiki.org/wiki/Special:ApiSandbox
     label: Try the sandbox
 categories:

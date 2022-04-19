@@ -5,7 +5,7 @@ links:
   - url: https://toolhub.wikimedia.org/
     label: Visit Toolhub
   - url: https://github.com/wikimedia/toolhub/blob/main/docs/CONTRIBUTING.rst
-    label: Contribute to Toolhub
+    label: Contribute
   - url: https://gerrit.wikimedia.org/g/wikimedia/toolhub
     label: Get the source code
 categories:
