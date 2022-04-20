@@ -11,8 +11,8 @@ powers [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](ht
 
 <hr>
 
-![An open book](/assets/book.svg#only-light)
-![An open book](/assets/book-dark.svg#only-dark)
+![](/assets/book.svg#only-light)
+![](/assets/book-dark.svg#only-dark)
 
 ## Use Wikimedia content and data
 
@@ -22,8 +22,8 @@ Access articles from Wikipedia, media files, structured data, and more with publ
 
 <hr>
 
-![A chemistry set](/assets/chemistry.svg#only-light)
-![A chemistry set](/assets/chemistry-dark.svg#only-dark)
+![](/assets/chemistry.svg#only-light)
+![](/assets/chemistry-dark.svg#only-dark)
 
 ## Build tools and bots
 
@@ -33,8 +33,8 @@ Tools and bots make it easier to edit and maintain Wikimedia projects.
 
 <hr>
 
-![A computer browsing Wikipedia](/assets/computer.svg#only-light)
-![A computer browsing Wikipedia](/assets/computer-dark.svg#only-dark)
+![](/assets/computer.svg#only-light)
+![](/assets/computer-dark.svg#only-dark)
 
 ## Contribute to Wikimedia open source
 
@@ -44,8 +44,8 @@ Help build the Wikimedia ecosystem with open source software projects.
 
 <hr>
 
-![Earth](/assets/world.svg#only-light)
-![Earth](/assets/world-dark.svg#only-dark)
+![](/assets/world.svg#only-light)
+![](/assets/world-dark.svg#only-dark)
 
 ## Connect with the community
 

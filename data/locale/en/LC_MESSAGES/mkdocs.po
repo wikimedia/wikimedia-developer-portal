@@ -69,9 +69,7 @@ msgid "[Get started](get-started/){ .md-button .md-button--primary }"
 msgstr ""
 
 #: index.md:block 4 (paragraph)
-msgid ""
-"![An open book](/assets/book.svg#only-light) ![An open book](/assets/book-"
-"dark.svg#only-dark)"
+msgid "![](/assets/book.svg#only-light) ![](/assets/book-dark.svg#only-dark)"
 msgstr ""
 
 #: index.md:block 5 (header)
@@ -90,8 +88,8 @@ msgstr ""
 
 #: index.md:block 9 (paragraph)
 msgid ""
-"![A chemistry set](/assets/chemistry.svg#only-light) ![A chemistry "
-"set](/assets/chemistry-dark.svg#only-dark)"
+"![](/assets/chemistry.svg#only-light) ![](/assets/chemistry-dark.svg#only-"
+"dark)"
 msgstr ""
 
 #: index.md:block 10 (header)
@@ -108,8 +106,8 @@ msgstr ""
 
 #: index.md:block 14 (paragraph)
 msgid ""
-"![A computer browsing Wikipedia](/assets/computer.svg#only-light) ![A "
-"computer browsing Wikipedia](/assets/computer-dark.svg#only-dark)"
+"![](/assets/computer.svg#only-light) ![](/assets/computer-dark.svg#only-"
+"dark)"
 msgstr ""
 
 #: index.md:block 15 (header) contribute/index.md:title
@@ -126,8 +124,7 @@ msgstr ""
 
 #: index.md:block 19 (paragraph)
 msgid ""
-"![Earth](/assets/world.svg#only-light) ![Earth](/assets/world-dark.svg#only-"
-"dark)"
+"![](/assets/world.svg#only-light) ![](/assets/world-dark.svg#only-dark)"
 msgstr ""
 
 #: index.md:block 20 (header)
