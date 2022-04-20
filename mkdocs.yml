@@ -6,39 +6,39 @@ copyright: Copyright &copy; 2022 Wikimedia Foundation and contributors
 
 nav:
   - Get started:
-    - get-started/index.md
-    - get-started/wikimedia-tech.md
-    - get-started/new-dev.md
-    - get-started/tutorials.md
+    - Get started: get-started/index.md
+    - Learn about Wikimedia technology: get-started/wikimedia-tech.md
+    - Understand the development process: get-started/new-dev.md
+    - Learn with tutorials: get-started/tutorials.md
   - Use content and data:
-    - use-content/index.md
-    - use-content/featured-apps.md
-    - use-content/overview.md
-    - use-content/content.md
-    - use-content/data.md
-    - use-content/tutorials.md
+    - Use content and data: use-content/index.md
+    - Explore featured apps: use-content/featured-apps.md
+    - Discover available wikis: use-content/overview.md
+    - Learn with tutorials: use-content/content.md
+    - Use wiki content: use-content/data.md
+    - Access open data: use-content/tutorials.md
   - Tools and bots:
-    - build-tools/index.md
-    - build-tools/search.md
-    - build-tools/get-started.md
-    - build-tools/tutorials.md
-    - build-tools/apis.md
-    - build-tools/host-tools.md
+    - Tools and bots: build-tools/index.md
+    - Discover and share tools: build-tools/search.md
+    - Get started: build-tools/get-started.md
+    - Learn with tutorials: build-tools/tutorials.md
+    - Use APIs and data sources: build-tools/apis.md
+    - Host tools on Wikimedia servers: build-tools/host-tools.md
   - Contribute:
-    - contribute/index.md
-    - contribute/overview.md
-    - contribute/by-topic.md
-    - contribute/by-language.md
-    - contribute/search.md
+    - Contribute to Wikimedia open source: contribute/index.md
+    - Learn how contributing works: contribute/overview.md
+    - Contribute by topic: contribute/by-topic.md
+    - Contribute by programming language: contribute/by-language.md
+    - Search all projects: contribute/search.md
   - Community:
-    - community/index.md
-    - community/events.md
-    - community/communicate.md
-    - community/grow.md
-    - community/updates.md
+    - Community: community/index.md
+    - Explore hackathons and events: community/events.md
+    - Communicate with the tech community: community/communicate.md
+    - Learn and share technical skills: community/grow.md
+    - Get tech project updates: community/updates.md
   - Get help:
-    - get-help/index.md
-    - get-help/about.md
+    - Get help: get-help/index.md
+    - About: get-help/about.md
 
 docs_dir: src
 theme:

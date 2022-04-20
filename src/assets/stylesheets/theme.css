@@ -77,6 +77,27 @@ p > img {
 	}
 }
 
+[dir="rtl"] p > img {
+	width: 170px;
+	float: right;
+	padding-left: 40px;
+	padding-right: 0;
+	padding-top: 35px;
+	padding-bottom: 20px;
+}
+
+@media (max-width: 784px) {
+	[dir="rtl"] p > img {
+		width: 120px;
+		display: block;
+		float: none;
+		padding-left: 0;
+		padding-right: 0;
+		padding-top: 25px;
+		padding-bottom: 0;
+	}
+}
+
 .md-grid {
 	max-width: 1100px;
 }
