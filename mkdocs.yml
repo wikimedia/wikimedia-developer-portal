@@ -75,6 +75,7 @@ extra_css:
 #  - assets/js/extra.js
 
 extra:
+  homepage: /
   alternate:
     # Supported content languages. Additional values will be added by our
     # `wikimedia` plugin during build time based on locales found on disk.

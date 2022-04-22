@@ -223,6 +223,8 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         for key in self.CONFIG_KEYS:
             config[key] = util.get_message(po, src_config[key])
 
+        # T306672: vary url for header logo nav by locale
+        config["extra"]["homepage"] = "/{}/".format(lang)
         return config
 
     def po_for_lang(self, lang):
