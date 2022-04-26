@@ -94,6 +94,11 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         "copyright",
     ]
 
+    META_KEYS = [
+        "title",
+        "description",
+    ]
+
     def __init__(self, *args, **kwargs):
         """Initialize object."""
         super().__init__(*args, **kwargs)
@@ -315,6 +320,19 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
                 occurrences=[(page.file.src_path, "title")],
             ),
         )
+        for key in self.META_KEYS:
+            if key in page.meta:
+                po.insert(
+                    0,
+                    polib.POEntry(
+                        msgid=page.meta[key],
+                        msgstr="",
+                        occurrences=[
+                            (page.file.src_path, "meta.{}".format(key)),
+                        ],
+                    ),
+                )
+
         # Merge translation units into catalog
         self.merge_po_into_catalog(po)
         return markdown
@@ -343,7 +361,17 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         self.catalog.save()
 
     def on_page_context(self, context, page, config, nav):
-        """Make language switcher contextual to current page."""
+        """Localize page metadata and language switcher."""
+        lang = self.page_language(page)
+        po = self.po_for_lang(lang)
+        if lang != "en":
+            # Translate page title and metadata
+            page.title = util.get_message(po, page.title)
+            for key in self.META_KEYS:
+                if key in page.meta:
+                    page.meta[key] = util.get_message(po, page.meta[key])
+
+        # Make language switcher contextual to current page.
         alts = copy.deepcopy(self.alternates)
         page_url = page.url
         for lang in self.po_files.keys():

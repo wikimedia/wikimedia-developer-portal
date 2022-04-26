@@ -28,15 +28,17 @@ msgstr ""
 
 #: mkdocs.yml:navigation build-tools/index.md:block 5 (header)
 #: build-tools/get-started.md:title build-tools/get-started.md:block 1
-#: (header) get-started/index.md:title
+#: (header) get-started/index.md:meta.title get-started/index.md:title
 msgid "Get started"
 msgstr ""
 
-#: mkdocs.yml:navigation use-content/index.md:title
+#: mkdocs.yml:navigation use-content/index.md:meta.title
+#: use-content/index.md:title
 msgid "Use content and data"
 msgstr ""
 
-#: mkdocs.yml:navigation build-tools/index.md:title
+#: mkdocs.yml:navigation build-tools/index.md:meta.title
+#: build-tools/index.md:title
 msgid "Tools and bots"
 msgstr ""
 
@@ -44,16 +46,17 @@ msgstr ""
 msgid "Contribute"
 msgstr ""
 
-#: mkdocs.yml:navigation community/index.md:title
+#: mkdocs.yml:navigation community/index.md:meta.title
+#: community/index.md:title
 msgid "Community"
 msgstr ""
 
-#: mkdocs.yml:navigation get-help/index.md:title get-help/index.md:block 1
-#: (header)
+#: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
+#: get-help/index.md:block 1 (header)
 msgid "Get help"
 msgstr ""
 
-#: index.md:title
+#: index.md:meta.title index.md:title
 msgid "Discover Wikimedia technical documentation and communities"
 msgstr ""
 
@@ -110,7 +113,8 @@ msgid ""
 "dark)"
 msgstr ""
 
-#: index.md:block 15 (header) contribute/index.md:title
+#: index.md:block 15 (header) contribute/index.md:meta.title
+#: contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
 msgstr ""
 
@@ -141,8 +145,8 @@ msgstr ""
 msgid "[Learn more](community/)"
 msgstr ""
 
-#: build-tools/index.md:block 2 (header) build-tools/search.md:title
-#: build-tools/search.md:block 1 (header)
+#: build-tools/index.md:block 2 (header) build-tools/search.md:meta.title
+#: build-tools/search.md:title build-tools/search.md:block 1 (header)
 msgid "Discover and share tools"
 msgstr ""
 
@@ -168,11 +172,12 @@ msgstr ""
 msgid "[Learn more](get-started.md)"
 msgstr ""
 
-#: build-tools/index.md:block 8 (header) build-tools/tutorials.md:title
-#: build-tools/tutorials.md:block 1 (header) get-started/index.md:block 7
-#: (header) get-started/tutorials.md:title use-content/index.md:block 8
-#: (header) use-content/tutorials.md:title use-content/tutorials.md:block 1
-#: (header)
+#: build-tools/index.md:block 8 (header) build-tools/tutorials.md:meta.title
+#: build-tools/tutorials.md:title build-tools/tutorials.md:block 1 (header)
+#: get-started/index.md:block 7 (header) get-started/tutorials.md:meta.title
+#: get-started/tutorials.md:title use-content/index.md:block 8 (header)
+#: use-content/tutorials.md:meta.title use-content/tutorials.md:title
+#: use-content/tutorials.md:block 1 (header)
 msgid "Learn with tutorials"
 msgstr ""
 
@@ -188,8 +193,8 @@ msgstr ""
 msgid "[Learn more](tutorials.md)"
 msgstr ""
 
-#: build-tools/index.md:block 11 (header) build-tools/apis.md:title
-#: build-tools/apis.md:block 1 (header)
+#: build-tools/index.md:block 11 (header) build-tools/apis.md:meta.title
+#: build-tools/apis.md:title build-tools/apis.md:block 1 (header)
 msgid "Use APIs and data sources"
 msgstr ""
 
@@ -202,8 +207,8 @@ msgstr ""
 msgid "[Learn more](apis.md)"
 msgstr ""
 
-#: build-tools/index.md:block 14 (header) build-tools/host-tools.md:title
-#: build-tools/host-tools.md:block 1 (header)
+#: build-tools/index.md:block 14 (header) build-tools/host-tools.md:meta.title
+#: build-tools/host-tools.md:title build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
 msgstr ""
 
@@ -548,8 +553,8 @@ msgid ""
 "_Python_3_Tutorial)"
 msgstr ""
 
-#: community/index.md:block 1 (header) community/events.md:title
-#: community/events.md:block 1 (header)
+#: community/index.md:block 1 (header) community/events.md:meta.title
+#: community/events.md:title community/events.md:block 1 (header)
 msgid "Explore hackathons and events"
 msgstr ""
 
@@ -561,8 +566,8 @@ msgstr ""
 msgid "[Learn more](events.md)"
 msgstr ""
 
-#: community/index.md:block 4 (header) community/communicate.md:title
-#: community/communicate.md:block 1 (header)
+#: community/index.md:block 4 (header) community/communicate.md:meta.title
+#: community/communicate.md:title community/communicate.md:block 1 (header)
 msgid "Communicate with the tech community"
 msgstr ""
 
@@ -577,8 +582,8 @@ msgstr ""
 msgid "[Learn more](communicate.md)"
 msgstr ""
 
-#: community/index.md:block 7 (header) community/grow.md:title
-#: community/grow.md:block 1 (header)
+#: community/index.md:block 7 (header) community/grow.md:meta.title
+#: community/grow.md:title community/grow.md:block 1 (header)
 msgid "Learn and share technical skills"
 msgstr ""
 
@@ -593,8 +598,8 @@ msgstr ""
 msgid "[Learn more](grow.md)"
 msgstr ""
 
-#: community/index.md:block 10 (header) community/updates.md:title
-#: community/updates.md:block 1 (header)
+#: community/index.md:block 10 (header) community/updates.md:meta.title
+#: community/updates.md:title community/updates.md:block 1 (header)
 msgid "Get tech project updates"
 msgstr ""
 
@@ -953,8 +958,8 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 msgstr ""
 
-#: contribute/index.md:block 2 (header) contribute/overview.md:title
-#: contribute/overview.md:block 1 (header)
+#: contribute/index.md:block 2 (header) contribute/overview.md:meta.title
+#: contribute/overview.md:title contribute/overview.md:block 1 (header)
 msgid "Learn how contributing works"
 msgstr ""
 
@@ -969,8 +974,8 @@ msgstr ""
 msgid "[Learn more](overview.md)"
 msgstr ""
 
-#: contribute/index.md:block 5 (header) contribute/by-topic.md:title
-#: contribute/by-topic.md:block 1 (header)
+#: contribute/index.md:block 5 (header) contribute/by-topic.md:meta.title
+#: contribute/by-topic.md:title contribute/by-topic.md:block 1 (header)
 msgid "Contribute by topic"
 msgstr ""
 
@@ -984,7 +989,8 @@ msgstr ""
 msgid "[Learn more](by-topic.md)"
 msgstr ""
 
-#: contribute/index.md:block 8 (header) contribute/by-language.md:title
+#: contribute/index.md:block 8 (header) contribute/by-language.md:meta.title
+#: contribute/by-language.md:title
 msgid "Contribute by programming language"
 msgstr ""
 
@@ -997,8 +1003,8 @@ msgstr ""
 msgid "[Learn more](by-language.md)"
 msgstr ""
 
-#: contribute/index.md:block 11 (header) contribute/search.md:title
-#: contribute/search.md:block 1 (header)
+#: contribute/index.md:block 11 (header) contribute/search.md:meta.title
+#: contribute/search.md:title contribute/search.md:block 1 (header)
 msgid "Search all projects"
 msgstr ""
 
@@ -1393,7 +1399,7 @@ msgstr ""
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
 msgstr ""
 
-#: get-help/about.md:title
+#: get-help/about.md:meta.title get-help/about.md:title
 msgid "About"
 msgstr ""
 
@@ -1434,8 +1440,10 @@ msgid ""
 "black background removed from dark-mode images"
 msgstr ""
 
-#: get-started/index.md:block 1 (header) get-started/wikimedia-tech.md:title
-#: get-started/wikimedia-tech.md:block 1 (header)
+#: get-started/index.md:block 1 (header)
+#: get-started/wikimedia-tech.md:meta.title
+#: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
+#: (header)
 msgid "Learn about Wikimedia technology"
 msgstr ""
 
@@ -1449,8 +1457,8 @@ msgstr ""
 msgid "[Learn more](wikimedia-tech.md)"
 msgstr ""
 
-#: get-started/index.md:block 4 (header) get-started/new-dev.md:title
-#: get-started/new-dev.md:block 1 (header)
+#: get-started/index.md:block 4 (header) get-started/new-dev.md:meta.title
+#: get-started/new-dev.md:title get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
 msgstr ""
 
@@ -1579,7 +1587,8 @@ msgid ""
 "encyclopedia articles, media files, structured data, and more."
 msgstr ""
 
-#: use-content/index.md:block 2 (header) use-content/featured-apps.md:title
+#: use-content/index.md:block 2 (header)
+#: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
 msgid "Explore featured apps"
 msgstr ""
@@ -1594,8 +1603,8 @@ msgstr ""
 msgid "[Learn more](featured-apps.md)"
 msgstr ""
 
-#: use-content/index.md:block 5 (header) use-content/overview.md:title
-#: use-content/overview.md:block 1 (header)
+#: use-content/index.md:block 5 (header) use-content/overview.md:meta.title
+#: use-content/overview.md:title use-content/overview.md:block 1 (header)
 msgid "Discover available wikis"
 msgstr ""
 
@@ -1612,8 +1621,8 @@ msgid ""
 "and data."
 msgstr ""
 
-#: use-content/index.md:block 11 (header) use-content/content.md:title
-#: use-content/content.md:block 1 (header)
+#: use-content/index.md:block 11 (header) use-content/content.md:meta.title
+#: use-content/content.md:title use-content/content.md:block 1 (header)
 msgid "Use wiki content"
 msgstr ""
 
@@ -1628,8 +1637,8 @@ msgstr ""
 msgid "[Learn more](content.md)"
 msgstr ""
 
-#: use-content/index.md:block 14 (header) use-content/data.md:title
-#: use-content/data.md:block 1 (header)
+#: use-content/index.md:block 14 (header) use-content/data.md:meta.title
+#: use-content/data.md:title use-content/data.md:block 1 (header)
 msgid "Access open data"
 msgstr ""
 

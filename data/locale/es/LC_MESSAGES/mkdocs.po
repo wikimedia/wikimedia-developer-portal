@@ -39,7 +39,7 @@ msgid "Home"
 msgstr "Inicio"
 
 #: index.md:block 1 (paragraph)
-msgid "title: Discover Wikimedia technical documentation and communities"
+msgid "Discover Wikimedia technical documentation and communities"
 msgstr "Descubra la documentación técnica y las comunidades de Wikimedia"
 
 #: index.md:block 2 (paragraph)
