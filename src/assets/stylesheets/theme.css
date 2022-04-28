@@ -2,39 +2,12 @@
 	--md-primary-fg-color:        #3366CC; /* accent50 */
 	--md-primary-fg-color--light: #EAF3FF; /* accent90 */
 	--md-primary-fg-color--dark:  #2A4B8D; /* accent30 */
-	--md-accent-fg-color:         #447ff5;
+	--md-accent-fg-color:         #447FF5;
 	--md-text-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Lato, Helvetica, Arial, sans-serif;
 }
 
 [data-md-color-scheme="slate"] {
-	--md-typeset-a-color: #f0bc00;
-}
-
-.md-typeset h1 {
-	font-weight: 600;
-	color: var(--md-typeset-color);
-	font-size: 1.8rem;
-	margin-bottom: 1rem;
-}
-
-.md-typeset h2 {
-	font-size: 1.3rem;
-	padding-bottom: 0.3rem;
-	font-weight: 600;
-}
-
-.md-typeset h3 {
-	font-size: 1.05rem;
-	font-weight: 600;
-}
-
-.md-typeset a:hover {
-	text-decoration: underline;
-	color: var(--md-typeset-a-color);
-}
-
-.md-typeset .md-button:is(:focus,:hover) {
-	text-decoration: none;
+	--md-typeset-a-color: #F0BC00;
 }
 
 [data-md-color-scheme="slate"] .md-button {
@@ -47,7 +20,6 @@
 	color: var(--md-default-bg-color);
 }
 
-/* Use the same primary button styles in dark and light modes */
 [data-md-color-scheme="slate"] .md-button--primary {
 	color: #FFF;
 }
@@ -58,44 +30,31 @@
 	color: #FFF;
 }
 
-/* Apply homepage image styles to all images on content pages to minimize
-markup in translation tags */
-p > img {
-	width: 170px;
-	float: left;
-	padding-right: 40px;
-	padding-top: 30px;
-	padding-bottom: 15px;
+.md-typeset h1 {
+	color: var(--md-typeset-color);
+	font-size: 1.8rem;
+	font-weight: 600;
+	margin-bottom: 1rem;
 }
 
-@media (max-width: 784px) {
-	p > img {
-		width: 120px;
-		display: block;
-		float: none;
-		padding: 0px;
-	}
+.md-typeset h2 {
+	font-size: 1.3rem;
+	font-weight: 600;
+	padding-bottom: 0.3rem;
 }
 
-[dir="rtl"] p > img {
-	width: 170px;
-	float: right;
-	padding-left: 40px;
-	padding-right: 0;
-	padding-top: 35px;
-	padding-bottom: 20px;
+.md-typeset h3 {
+	font-size: 1.05rem;
+	font-weight: 600;
 }
 
-@media (max-width: 784px) {
-	[dir="rtl"] p > img {
-		width: 120px;
-		display: block;
-		float: none;
-		padding-left: 0;
-		padding-right: 0;
-		padding-top: 25px;
-		padding-bottom: 0;
-	}
+.md-typeset a:hover {
+	color: var(--md-typeset-a-color);
+	text-decoration: underline;
+}
+
+.md-typeset .md-button:is(:focus,:hover) {
+	text-decoration: none;
 }
 
 .md-grid {
@@ -104,4 +63,26 @@ p > img {
 
 h1 > a.headerlink {
 	display: none;
+}
+
+/* Images */
+p > img {
+	margin-top: 1.6em;
+	padding: 0px;
+	width: 120px;
+}
+
+@media (min-width: 785px) {
+	p > img {
+		clear: both;
+		float: left;
+		margin-top: 0px;
+		padding: 30px 40px 15px 0px;
+		width: 170px;
+	}
+	[dir="rtl"] p > img {
+		float: right;
+		padding-left: 40px;
+		padding-right: 0px;
+	}
 }
