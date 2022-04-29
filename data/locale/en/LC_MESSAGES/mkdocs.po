@@ -176,7 +176,7 @@ msgstr ""
 #: build-tools/tutorials.md:title build-tools/tutorials.md:block 1 (header)
 #: get-started/index.md:block 7 (header) get-started/tutorials.md:meta.title
 #: get-started/tutorials.md:title use-content/index.md:block 8 (header)
-#: use-content/content.md:title use-content/tutorials.md:meta.title
+#: use-content/tutorials.md:meta.title use-content/tutorials.md:title
 #: use-content/tutorials.md:block 1 (header)
 msgid "Learn with tutorials"
 msgstr ""
@@ -1622,7 +1622,7 @@ msgid ""
 msgstr ""
 
 #: use-content/index.md:block 11 (header) use-content/content.md:meta.title
-#: use-content/content.md:block 1 (header) use-content/data.md:title
+#: use-content/content.md:title use-content/content.md:block 1 (header)
 msgid "Use wiki content"
 msgstr ""
 
@@ -1638,7 +1638,7 @@ msgid "[Learn more](content.md)"
 msgstr ""
 
 #: use-content/index.md:block 14 (header) use-content/data.md:meta.title
-#: use-content/data.md:block 1 (header) use-content/tutorials.md:title
+#: use-content/data.md:title use-content/data.md:block 1 (header)
 msgid "Access open data"
 msgstr ""
 
