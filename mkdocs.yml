@@ -59,7 +59,6 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
   features:
-    - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
