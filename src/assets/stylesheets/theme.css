@@ -61,7 +61,9 @@
 	max-width: 1100px;
 }
 
-h1 > a.headerlink {
+.md-typeset h1 > a.headerlink,
+.md-typeset h2 > a.headerlink,
+.md-typeset h3 > a.headerlink {
 	display: none;
 }
 
