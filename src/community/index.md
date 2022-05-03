@@ -1,32 +1,22 @@
 ---
 title: Community
 ---
-## Explore hackathons and events
+## [Explore hackathons and events](events.md)
 
 Explore content from past hackathons or join an upcoming event.
 
-[Learn more](events.md)
-
-## Communicate with the tech community
+## [Communicate with the tech community](communicate.md)
 
 Understand communication channels and how to connect with Wikimedia developers.
 
-[Learn more](communicate.md)
-
-## Learn and share technical skills
+## [Learn and share technical skills](grow.md)
 
 Grow your skills or help others learn through Wikimedia workshops, internships, and mentoring opportunities.
 
-[Learn more](grow.md)
-
-## Get tech project updates
+## [Get tech project updates](updates.md)
 
 Stay up to date with the latest from the Wikimedia technical community.
 
-[Learn more](updates.md)
-
-## Learn about Wikimedia technical operations
+## [Learn about Wikimedia technical operations](tech-ops.md)
 
 Find information about the infrastructure and teams behind Wikimedia technology.
-
-[Learn more](tech-ops.md)

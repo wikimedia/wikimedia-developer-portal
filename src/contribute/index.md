@@ -4,26 +4,18 @@ title: Contribute to Wikimedia open source
 
 Help build the Wikimedia ecosystem with open source software projects.
 
-## Learn how contributing works
+## [Learn how contributing works](overview.md)
 
 Get the basics of how to contribute to MediaWiki and other Wikimedia open source projects.
 
-[Learn more](overview.md)
-
-## Contribute by topic
+## [Contribute by topic](by-topic.md)
 
 Find ways to contribute, and connect with others with shared interests.
 
-[Learn more](by-topic.md)
-
-## Contribute by programming language
+## [Contribute by programming language](by-language.md)
 
 Choose a project based on programming language.
 
-[Learn more](by-language.md)
-
-## Search all projects
+## [Search all projects](search.md)
 
 Search all Wikimedia open source software projects.
-
-[Learn more](search.md)

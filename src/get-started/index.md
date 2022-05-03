@@ -2,26 +2,18 @@
 title: Get started
 ---
 
-## Learn about Wikimedia technology
+## [Learn about Wikimedia technology](wikimedia-tech.md)
 
 Explore the open source software and technical components behind Wikimedia projects.
 
-[Learn more](wikimedia-tech.md)
-
-## Understand the development process
+## [Understand the development process](new-dev.md)
 
 Learn how Wikimedia software projects work and how to make technical contributions.
 
-[Learn more](new-dev.md)
-
-## Learn with tutorials
+## [Learn with tutorials](tutorials.md)
 
 Follow coding exercises with step-by-step guidance.
 
-[Learn more](tutorials.md)
-
-## Browse by programming language
+## [Browse by programming language](browse-languages.md)
 
 Find client libraries, example apps, and open source projects in your preferred coding languages.
-
-[Learn more](browse-languages.md)

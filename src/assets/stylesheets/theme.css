@@ -74,17 +74,23 @@ p > img {
 	width: 120px;
 }
 
-@media (min-width: 785px) {
+@media (min-width: 700px) {
 	p > img {
 		clear: both;
 		float: left;
 		margin-top: 0px;
-		padding: 30px 40px 15px 0px;
-		width: 170px;
+		padding: 20px 40px 5px 0px;
+		width: 160px;
 	}
 	[dir="rtl"] p > img {
 		float: right;
 		padding-left: 40px;
 		padding-right: 0px;
+	}
+}
+
+@media (min-width: 2000px) {
+	p > img {
+		padding-top: 25px;
 	}
 }
