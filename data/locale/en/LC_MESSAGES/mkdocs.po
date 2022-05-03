@@ -175,7 +175,7 @@ msgstr ""
 #: build-tools/index.md:block 8 (header) build-tools/tutorials.md:meta.title
 #: build-tools/tutorials.md:title build-tools/tutorials.md:block 1 (header)
 #: get-started/index.md:block 7 (header) get-started/tutorials.md:meta.title
-#: get-started/tutorials.md:title use-content/index.md:block 8 (header)
+#: get-started/tutorials.md:title use-content/index.md:block 5 (header)
 #: use-content/tutorials.md:meta.title use-content/tutorials.md:title
 #: use-content/tutorials.md:block 1 (header)
 msgid "Learn with tutorials"
@@ -189,7 +189,7 @@ msgid ""
 msgstr ""
 
 #: build-tools/index.md:block 10 (paragraph) get-started/index.md:block 9
-#: (paragraph) use-content/index.md:block 10 (paragraph)
+#: (paragraph) use-content/index.md:block 7 (paragraph)
 msgid "[Learn more](tutorials.md)"
 msgstr ""
 
@@ -252,29 +252,29 @@ msgstr ""
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
 msgstr ""
 
-#: build-tools/apis.md:block 6 (header) use-content/content.md:block 3
+#: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
 #: (header)
 msgid "Browse libraries by programming language"
 msgstr ""
 
-#: build-tools/apis.md:block 7 (paragraph) use-content/content.md:block 4
+#: build-tools/apis.md:block 7 (paragraph) use-content/content.md:block 10
 #: (paragraph)
 msgid "Browse API client libraries by programming language."
 msgstr ""
 
-#: build-tools/apis.md:block 8 (unordered list) use-content/content.md:block 5
-#: (unordered list)
+#: build-tools/apis.md:block 8 (unordered list) use-content/content.md:block
+#: 11 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
 msgstr ""
 
-#: build-tools/apis.md:block 9 (header) use-content/content.md:block 6
+#: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
 #: (header)
 msgid "Use the API"
 msgstr ""
 
-#: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 7
+#: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
 #: (paragraph)
 msgid ""
 "The MediaWiki Action API gives you programmatic access to content and "
@@ -282,30 +282,30 @@ msgid ""
 msgstr ""
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
-#: 8 (unordered list)
+#: 14 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
 msgstr ""
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
-#: 8 (unordered list)
+#: 14 (unordered list)
 msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
 msgstr ""
 
-#: build-tools/apis.md:block 12 (header) use-content/content.md:block 9
+#: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
 #: (header)
 msgid "Download content in bulk"
 msgstr ""
 
-#: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 10
+#: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
 #: (paragraph)
 msgid ""
 "Download Wikimedia content for backup, offline use, research, and more."
 msgstr ""
 
 #: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
-#: 11 (unordered list)
+#: 17 (unordered list)
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
@@ -969,8 +969,7 @@ msgid ""
 "source projects."
 msgstr ""
 
-#: contribute/index.md:block 4 (paragraph) use-content/index.md:block 7
-#: (paragraph)
+#: contribute/index.md:block 4 (paragraph)
 msgid "[Learn more](overview.md)"
 msgstr ""
 
@@ -1603,109 +1602,128 @@ msgstr ""
 msgid "[Learn more](featured-apps.md)"
 msgstr ""
 
-#: use-content/index.md:block 5 (header) use-content/overview.md:meta.title
-#: use-content/overview.md:title use-content/overview.md:block 1 (header)
-msgid "Discover available wikis"
-msgstr ""
-
-#: use-content/index.md:block 6 (paragraph) use-content/overview.md:block 2
-#: (paragraph)
-msgid ""
-"Learn about different types of Wikimedia content, and see what's available "
-"in your language."
-msgstr ""
-
-#: use-content/index.md:block 9 (paragraph)
+#: use-content/index.md:block 6 (paragraph)
 msgid ""
 "Follow step-by-step guides to learn the basics of using Wikimedia content "
 "and data."
 msgstr ""
 
-#: use-content/index.md:block 11 (header) use-content/content.md:meta.title
+#: use-content/index.md:block 8 (header) use-content/content.md:meta.title
 #: use-content/content.md:title use-content/content.md:block 1 (header)
 msgid "Use wiki content"
 msgstr ""
 
-#: use-content/index.md:block 12 (paragraph) use-content/content.md:block 2
+#: use-content/index.md:block 9 (paragraph) use-content/content.md:block 2
 #: (paragraph)
 msgid ""
 "Find open source libraries, get started using the API, or download content "
 "in bulk."
 msgstr ""
 
-#: use-content/index.md:block 13 (paragraph)
+#: use-content/index.md:block 10 (paragraph)
 msgid "[Learn more](content.md)"
 msgstr ""
 
-#: use-content/index.md:block 14 (header) use-content/data.md:meta.title
+#: use-content/index.md:block 11 (header) use-content/data.md:meta.title
 #: use-content/data.md:title use-content/data.md:block 1 (header)
 msgid "Access open data"
 msgstr ""
 
-#: use-content/index.md:block 15 (paragraph)
+#: use-content/index.md:block 12 (paragraph)
 msgid "Explore public data that you can use in research and machine learning."
 msgstr ""
 
-#: use-content/index.md:block 16 (paragraph)
+#: use-content/index.md:block 13 (paragraph)
 msgid "[Learn more](data.md)"
 msgstr ""
 
-#: use-content/content.md:block 12 (header) use-content/data.md:block 9
+#: use-content/content.md:block 3 (header)
+msgid "Introduction to Wikimedia projects"
+msgstr ""
+
+#: use-content/content.md:block 4 (paragraph)
+msgid ""
+"Learn about Wikimedia's collaborative knowledge wikis, and discover content "
+"you can use."
+msgstr ""
+
+#: use-content/content.md:block 5 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+msgstr ""
+
+#: use-content/content.md:block 6 (header)
+msgid "Learn about open licensing"
+msgstr ""
+
+#: use-content/content.md:block 7 (paragraph)
+msgid ""
+"Learn about open licenses and best practices for reusing Wikimedia content."
+msgstr ""
+
+#: use-content/content.md:block 8 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+msgstr ""
+
+#: use-content/content.md:block 18 (header) use-content/data.md:block 9
 #: (header)
 msgid "Tutorials"
 msgstr ""
 
-#: use-content/content.md:block 13 (header) use-content/tutorials.md:block 9
+#: use-content/content.md:block 19 (header) use-content/tutorials.md:block 9
 #: (header)
 msgid "Display the picture of the day"
 msgstr ""
 
-#: use-content/content.md:block 14 (paragraph) use-content/tutorials.md:block
+#: use-content/content.md:block 20 (paragraph) use-content/tutorials.md:block
 #: 10 (paragraph)
 msgid "Use the MediaWiki Action API to build a picture of the day viewer."
 msgstr ""
 
-#: use-content/content.md:block 15 (unordered list)
+#: use-content/content.md:block 21 (unordered list)
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
 msgstr ""
 
-#: use-content/content.md:block 16 (header) use-content/tutorials.md:block 18
+#: use-content/content.md:block 22 (header) use-content/tutorials.md:block 18
 #: (header)
 msgid "Search nearby places"
 msgstr ""
 
-#: use-content/content.md:block 17 (paragraph) use-content/tutorials.md:block
+#: use-content/content.md:block 23 (paragraph) use-content/tutorials.md:block
 #: 19 (paragraph)
 msgid ""
 "Use the MediaWiki Action API to search for wiki pages near your location."
 msgstr ""
 
-#: use-content/content.md:block 18 (unordered list)
+#: use-content/content.md:block 24 (unordered list)
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 msgstr ""
 
-#: use-content/content.md:block 19 (paragraph) use-content/data.md:block 16
+#: use-content/content.md:block 25 (paragraph) use-content/data.md:block 16
 #: (paragraph)
 msgid "[See all tutorials](./tutorials.md){ .md-button }"
 msgstr ""
 
-#: use-content/content.md:block 20 (header)
+#: use-content/content.md:block 26 (header)
 msgid "Get services for enterprise"
 msgstr ""
 
-#: use-content/content.md:block 21 (paragraph)
+#: use-content/content.md:block 27 (paragraph)
 msgid ""
 "Wikimedia Enterprise offers services built for high-volume, commercial users"
 " of Wikimedia content."
 msgstr ""
 
-#: use-content/content.md:block 22 (unordered list)
+#: use-content/content.md:block 28 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
 msgstr ""
 
@@ -1821,50 +1839,6 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 14 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"
-msgstr ""
-
-#: use-content/overview.md:block 3 (header)
-msgid "Introduction to Wikimedia projects"
-msgstr ""
-
-#: use-content/overview.md:block 4 (paragraph)
-msgid ""
-"Learn about Wikimedia's collaborative knowledge wikis, and discover content "
-"you can use."
-msgstr ""
-
-#: use-content/overview.md:block 5 (unordered list)
-msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
-msgstr ""
-
-#: use-content/overview.md:block 6 (header)
-msgid "Browse wikis by language"
-msgstr ""
-
-#: use-content/overview.md:block 7 (paragraph)
-msgid "See which wikis are available in a given language."
-msgstr ""
-
-#: use-content/overview.md:block 8 (unordered list)
-msgid ""
-"[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:SiteMatrix)"
-msgstr ""
-
-#: use-content/overview.md:block 9 (header)
-msgid "Introduction to open licensing"
-msgstr ""
-
-#: use-content/overview.md:block 10 (paragraph)
-msgid ""
-"Learn about open licenses and best practices for reusing Wikimedia content."
-msgstr ""
-
-#: use-content/overview.md:block 11 (unordered list)
-msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
 msgstr ""
 
 #: use-content/tutorials.md:block 2 (paragraph)

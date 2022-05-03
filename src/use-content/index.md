@@ -10,12 +10,6 @@ See examples of open source apps and data visualizations built with content and 
 
 [Learn more](featured-apps.md)
 
-## Discover available wikis
-
-Learn about different types of Wikimedia content, and see what's available in your language.
-
-[Learn more](overview.md)
-
 ## Learn with tutorials
 
 Follow step-by-step guides to learn the basics of using Wikimedia content and data.
