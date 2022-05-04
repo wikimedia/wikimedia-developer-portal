@@ -19,3 +19,9 @@ Learn how Wikimedia software projects work and how to make technical contributio
 Follow coding exercises with step-by-step guidance.
 
 [Learn more](tutorials.md)
+
+## Browse by programming language
+
+Find client libraries, example apps, and open source projects in your preferred coding languages.
+
+[Learn more](browse-languages.md)

@@ -257,13 +257,17 @@ msgstr ""
 msgid "Browse libraries by programming language"
 msgstr ""
 
-#: build-tools/apis.md:block 7 (paragraph) use-content/content.md:block 10
-#: (paragraph)
-msgid "Browse API client libraries by programming language."
+#: build-tools/apis.md:block 7 (paragraph)
+#: get-started/browse-languages.md:block 2 (paragraph)
+#: use-content/content.md:block 10 (paragraph)
+msgid ""
+"Use the MediaWiki API with client libraries in your preferred programming "
+"languages."
 msgstr ""
 
-#: build-tools/apis.md:block 8 (unordered list) use-content/content.md:block
-#: 11 (unordered list)
+#: build-tools/apis.md:block 8 (unordered list)
+#: get-started/browse-languages.md:block 3 (unordered list)
+#: use-content/content.md:block 11 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
@@ -1340,23 +1344,28 @@ msgstr ""
 msgid "[Browse docs](https://doc.wikimedia.org)"
 msgstr ""
 
-#: contribute/search.md:block 9 (header)
+#: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
+#: 10 (header)
 msgid "Browse repositories"
 msgstr ""
 
 #: contribute/search.md:block 10 (paragraph)
+#: get-started/browse-languages.md:block 11 (paragraph)
 msgid "Explore Wikimedia codebases."
 msgstr ""
 
 #: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 12 (unordered list)
 msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
 msgstr ""
 
 #: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 12 (unordered list)
 msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
 msgstr ""
 
 #: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 12 (unordered list)
 msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
 msgstr ""
 
@@ -1476,6 +1485,54 @@ msgstr ""
 #: get-started/index.md:block 8 (paragraph) get-started/tutorials.md:block 1
 #: (paragraph)
 msgid "Follow coding exercises with step-by-step guidance."
+msgstr ""
+
+#: get-started/index.md:block 10 (header)
+#: get-started/browse-languages.md:meta.title
+#: get-started/browse-languages.md:title
+msgid "Browse by programming language"
+msgstr ""
+
+#: get-started/index.md:block 11 (paragraph)
+msgid ""
+"Find client libraries, example apps, and open source projects in your "
+"preferred coding languages."
+msgstr ""
+
+#: get-started/index.md:block 12 (paragraph)
+msgid "[Learn more](browse-languages.md)"
+msgstr ""
+
+#: get-started/browse-languages.md:block 1 (header)
+msgid "API client libraries by language"
+msgstr ""
+
+#: get-started/browse-languages.md:block 4 (header)
+msgid "Apps and tools by language"
+msgstr ""
+
+#: get-started/browse-languages.md:block 5 (paragraph)
+msgid ""
+"Search by programming language in app galleries and tool catalogs to find "
+"working examples and get inspired."
+msgstr ""
+
+#: get-started/browse-languages.md:block 6 (paragraph)
+msgid "[Explore featured apps](../use-content/featured-apps.md){ .md-button}"
+msgstr ""
+
+#: get-started/browse-languages.md:block 7 (header)
+msgid "Open source projects by language"
+msgstr ""
+
+#: get-started/browse-languages.md:block 8 (paragraph)
+msgid ""
+"Find Wikimedia open source projects by programming language, and start "
+"contributing code."
+msgstr ""
+
+#: get-started/browse-languages.md:block 9 (paragraph)
+msgid "[Browse projects](../contribute/by-language.md){ .md-button}"
 msgstr ""
 
 #: get-started/new-dev.md:block 2 (paragraph)

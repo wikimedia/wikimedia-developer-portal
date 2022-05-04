@@ -1,5 +1,5 @@
 title: Browse libraries by programming language
-description: Browse API client libraries by programming language.
+description: Use the MediaWiki API with client libraries in your preferred programming languages.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code
     label: Read more on mediawiki.org
