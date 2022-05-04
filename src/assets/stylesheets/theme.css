@@ -1,33 +1,26 @@
 :root {
-	--md-primary-fg-color:        #3366CC; /* accent50 */
-	--md-primary-fg-color--light: #EAF3FF; /* accent90 */
-	--md-primary-fg-color--dark:  #2A4B8D; /* accent30 */
-	--md-accent-fg-color:         #447FF5;
+	--md-primary-fg-color: #0C57A8;
+	--md-accent-fg-color: #0063BF;
 	--md-text-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Lato, Helvetica, Arial, sans-serif;
 }
 
+/* Dark theme */
 [data-md-color-scheme="slate"] {
+	--md-accent-fg-color: #F0BC00;
 	--md-typeset-a-color: #F0BC00;
+	--md-default-bg-color: #1A1B23;
 }
 
-[data-md-color-scheme="slate"] .md-button {
-	color: var(--md-typeset-a-color);
-}
-
-[data-md-color-scheme="slate"] .md-button:is(:focus,:hover) {
-	background-color: var(--md-typeset-a-color);
-	border-color: var(--md-typeset-a-color);
-	color: var(--md-default-bg-color);
-}
-
-[data-md-color-scheme="slate"] .md-button--primary {
+/* Increase contrast of nav drawer title */
+[data-md-color-scheme="slate"] .md-nav--primary .md-nav__title {
 	color: #FFF;
 }
 
-[data-md-color-scheme="slate"] .md-button--primary:is(:focus,:hover) {
-	background-color: var(--md-accent-fg-color);
-	border-color: var(--md-accent-fg-color);
-	color: #FFF;
+/* Match vertical line in sidebar to link color, but don't apply to nav drawer */
+@media (min-width: 1220px) {
+	[data-md-color-scheme="slate"] .md-nav--integrated > .md-nav__list > .md-nav__item--active .md-nav--secondary {
+		border-left: 0.05rem solid var(--md-typeset-a-color);
+	}
 }
 
 [dir=ltr] .md-header__title {
@@ -36,6 +29,41 @@
 
 [dir=rtl] .md-header__title {
     margin-right: 0rem;
+}
+
+.md-tabs a {
+	opacity: 1;
+}
+
+.md-tabs a:hover{
+	opacity: .7;
+}
+
+.md-tabs .md-tabs__link--active {
+	opacity: .7;
+}
+
+/* Override table of contents behavior to gray out sections above the scroll point */
+.md-nav__link[data-md-state=blur] {
+	color: inherit;
+}
+
+.md-nav__link[data-md-state=blur]:is(:focus,:hover) {
+	color: var(--md-typeset-a-color);
+}
+
+.md-nav__item .md-nav__link--active {
+	color: var(--md-typeset-a-color) !important;
+}
+
+/* Increase contrast of nav drawer title */
+.md-nav--primary .md-nav__title {
+	color: var(--md-typeset-color);
+}
+
+/* Fix disappearing arrow in nav drawer table of contents */
+.md-nav--secondary .md-nav__title .md-nav__icon {
+	display: inherit;
 }
 
 .md-typeset h1 {
@@ -61,7 +89,17 @@
 	text-decoration: underline;
 }
 
+.md-typeset .md-button {
+	background-color: var(--md-primary-fg-color);
+	border-color: var(--md-primary-fg-color);
+	color: #FFF;
+}
+
+/* Hardcoded hex code to apply to both light and dark mode */
 .md-typeset .md-button:is(:focus,:hover) {
+	background-color: #0063BF;
+	border-color: #0063BF;
+	color: #FFF;
 	text-decoration: none;
 }
 

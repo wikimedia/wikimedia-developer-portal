@@ -8,6 +8,6 @@ title: Browse by programming language
 
 Find Wikimedia open source projects by programming language, and start contributing code.
 
-[Browse projects](../contribute/by-language.md){ .md-button}
+[Browse projects](../contribute/by-language.md){ .md-button }
 
 {{ document.render( "repos") }}

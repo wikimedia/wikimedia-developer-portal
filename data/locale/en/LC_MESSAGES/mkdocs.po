@@ -103,7 +103,7 @@ msgid ""
 msgstr ""
 
 #: index.md:block 2 (paragraph)
-msgid "[Get started](get-started/){ .md-button .md-button--primary }"
+msgid "[Get started](get-started/){ .md-button }"
 msgstr ""
 
 #: index.md:block 3 (paragraph)
@@ -1606,7 +1606,7 @@ msgid ""
 msgstr ""
 
 #: get-started/browse-languages.md:block 6 (paragraph)
-msgid "[Browse projects](../contribute/by-language.md){ .md-button}"
+msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
 msgstr ""
 
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
@@ -1664,7 +1664,7 @@ msgid "Learn the basics of using Wikimedia content and data in your project."
 msgstr ""
 
 #: get-started/tutorials.md:block 4 (paragraph)
-msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button}"
+msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
 msgstr ""
 
 #: get-started/tutorials.md:block 5 (header)
@@ -1677,7 +1677,7 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 7 (paragraph)
-msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button}"
+msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
 msgstr ""
 
 #: get-started/wikimedia-tech.md:meta.title

@@ -6,7 +6,7 @@ title: Discover and build Wikimedia technology
 
 Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/).
 
-[Get started](get-started/){ .md-button .md-button--primary }
+[Get started](get-started/){ .md-button }
 
 - - -
 
