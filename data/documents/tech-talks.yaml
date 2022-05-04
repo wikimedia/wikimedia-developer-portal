@@ -1,8 +1,9 @@
 ---
-title: Tech talks
-description: Learn about technical topics through presentations created by and for the Wikimedia technical community.
+title: Videos and tech talks
+description: Learn about Wikimedia technology through recorded presentations from the community.
 links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks
-    label: Read more on mediawiki.org
+  - url: https://www.youtube.com/user/watchmediawiki/videos
+    label: Visit the YouTube channel
 categories:
-  events: 6
+  wikimedia-tech: 1
+  grow: 2

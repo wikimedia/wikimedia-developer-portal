@@ -678,19 +678,19 @@ msgid "Learn about the infrastructure and teams behind Wikimedia projects."
 msgstr ""
 
 #: community/communicate.md:block 14 (header)
-#: get-started/wikimedia-tech.md:block 6 (header)
+#: get-started/wikimedia-tech.md:block 9 (header)
 msgid "Cloud tools and services"
 msgstr ""
 
 #: community/communicate.md:block 15 (paragraph)
-#: get-started/wikimedia-tech.md:block 7 (paragraph)
+#: get-started/wikimedia-tech.md:block 10 (paragraph)
 msgid ""
 "Learn about infrastructure and support for contributors to Wikimedia "
 "software projects."
 msgstr ""
 
 #: community/communicate.md:block 16 (unordered list)
-#: get-started/wikimedia-tech.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid ""
 "[Read more on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction)"
@@ -846,33 +846,17 @@ msgid ""
 msgstr ""
 
 #: community/events.md:block 18 (header)
-msgid "Tech talks"
-msgstr ""
-
-#: community/events.md:block 19 (paragraph)
-msgid ""
-"Learn about technical topics through presentations created by and for the "
-"Wikimedia technical community."
-msgstr ""
-
-#: community/events.md:block 20 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Technical_Talks)"
-msgstr ""
-
-#: community/events.md:block 21 (header)
 msgid "Technical skills workshops"
 msgstr ""
 
-#: community/events.md:block 22 (paragraph) community/grow.md:block 10
+#: community/events.md:block 19 (paragraph) community/grow.md:block 7
 #: (paragraph)
 msgid ""
 "Get recommended tools and educational resources to support small wiki "
 "communities in learning and sharing technical skills."
 msgstr ""
 
-#: community/events.md:block 23 (unordered list) community/grow.md:block 11
+#: community/events.md:block 20 (unordered list) community/grow.md:block 8
 #: (unordered list)
 msgid ""
 "[Read more on Meta-"
@@ -880,40 +864,59 @@ msgid ""
 msgstr ""
 
 #: community/grow.md:block 3 (header)
-msgid "Become a tech ambassador"
+msgid "Outreach and mentoring programs"
 msgstr ""
 
 #: community/grow.md:block 4 (paragraph)
+msgid ""
+"Grow your skills or help others learn through internships and mentoring "
+"opportunities with Wikimedia."
+msgstr ""
+
+#: community/grow.md:block 5 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+msgstr ""
+
+#: community/grow.md:block 6 (header)
+msgid "Small wiki toolkits"
+msgstr ""
+
+#: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
+#: (header)
+msgid "Videos and tech talks"
+msgstr ""
+
+#: community/grow.md:block 10 (paragraph) get-started/wikimedia-tech.md:block
+#: 7 (paragraph)
+msgid ""
+"Learn about Wikimedia technology through recorded presentations from the "
+"community."
+msgstr ""
+
+#: community/grow.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid ""
+"[Visit the YouTube "
+"channel](https://www.youtube.com/user/watchmediawiki/videos)"
+msgstr ""
+
+#: community/grow.md:block 12 (header)
+msgid "Become a tech ambassador"
+msgstr ""
+
+#: community/grow.md:block 13 (paragraph)
 msgid ""
 "Tech ambassadors are technically-minded volunteers who help other "
 "Wikimedians with technical issues, and act as a bridge between developers "
 "and local Wikimedia wikis."
 msgstr ""
 
-#: community/grow.md:block 5 (unordered list)
+#: community/grow.md:block 14 (unordered list)
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
-msgstr ""
-
-#: community/grow.md:block 6 (header)
-msgid "Outreach and mentoring programs"
-msgstr ""
-
-#: community/grow.md:block 7 (paragraph)
-msgid ""
-"Grow your skills or help others learn through internships and mentoring "
-"opportunities with Wikimedia."
-msgstr ""
-
-#: community/grow.md:block 8 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
-msgstr ""
-
-#: community/grow.md:block 9 (header)
-msgid "Small wiki toolkits"
 msgstr ""
 
 #: community/updates.md:block 3 (header)
@@ -1071,30 +1074,30 @@ msgid "PHP"
 msgstr ""
 
 #: contribute/by-language.md:block 21 (header)
-#: get-started/wikimedia-tech.md:block 9 (header)
+#: get-started/wikimedia-tech.md:block 12 (header)
 msgid "MediaWiki and extensions"
 msgstr ""
 
 #: contribute/by-language.md:block 22 (paragraph)
-#: get-started/wikimedia-tech.md:block 10 (paragraph)
+#: get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid ""
 "MediaWiki is the software that powers Wikipedia, its sister projects, and "
 "thousands of wikis all over the world."
 msgstr ""
 
 #: contribute/by-language.md:block 23 (unordered list)
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
 msgstr ""
 
 #: contribute/by-language.md:block 23 (unordered list)
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid ""
 "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 msgstr ""
 
 #: contribute/by-language.md:block 23 (unordered list)
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid ""
 "[Get the source "
 "code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
@@ -1175,36 +1178,36 @@ msgid ""
 msgstr ""
 
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
-#: 12 (header)
+#: 15 (header)
 msgid "Localization and internationalization"
 msgstr ""
 
 #: contribute/by-topic.md:block 7 (paragraph)
-#: get-started/wikimedia-tech.md:block 13 (paragraph)
+#: get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid "Write code that can be localized, and get your code translated."
 msgstr ""
 
 #: contribute/by-topic.md:block 8 (unordered list)
-#: get-started/wikimedia-tech.md:block 14 (unordered list)
+#: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
 msgstr ""
 
 #: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
-#: 15 (header)
+#: 18 (header)
 msgid "Mobile apps"
 msgstr ""
 
 #: contribute/by-topic.md:block 10 (paragraph)
-#: get-started/wikimedia-tech.md:block 16 (paragraph)
+#: get-started/wikimedia-tech.md:block 19 (paragraph)
 msgid ""
 "Expand the reach of Wikimedia content by contributing to mobile apps for "
 "Wikipedia, Wikimedia Commons, and other projects."
 msgstr ""
 
 #: contribute/by-topic.md:block 11 (unordered list)
-#: get-started/wikimedia-tech.md:block 17 (unordered list)
+#: get-started/wikimedia-tech.md:block 20 (unordered list)
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
@@ -1560,21 +1563,21 @@ msgid ""
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 18 (header)
+#: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 19 (paragraph)
+#: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid ""
 "Wikibase is a MediaWiki extension for working with structured data, and it's"
 " the software that powers Wikidata."
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 20 (unordered list)
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
 msgstr ""
 
-#: get-started/wikimedia-tech.md:block 20 (unordered list)
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"

@@ -9,5 +9,5 @@ links:
   - url: https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core
     label: Get the source code
 categories:
-  wikimedia-tech: 2
+  wikimedia-tech: 3
   contribute-php: 0
