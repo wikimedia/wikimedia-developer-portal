@@ -1,13 +1,6 @@
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-12-11 00:31:24+00:00\n"
-"PO-Revision-Date: 2021-12-11 00:31:24+00:00\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 #: mkdocs.yml:site_name
 msgid "Wikimedia Developer Portal"
@@ -595,6 +588,22 @@ msgstr ""
 msgid "[Learn more](updates.md)"
 msgstr ""
 
+#: community/index.md:block 13 (header) community/tech-ops.md:meta.title
+#: community/tech-ops.md:title
+msgid "Learn about Wikimedia technical operations"
+msgstr ""
+
+#: community/index.md:block 14 (paragraph) community/tech-ops.md:block 2
+#: (paragraph)
+msgid ""
+"Find information about the infrastructure and teams behind Wikimedia "
+"technology."
+msgstr ""
+
+#: community/index.md:block 15 (paragraph)
+msgid "[Learn more](tech-ops.md)"
+msgstr ""
+
 #: community/communicate.md:block 3 (header) contribute/overview.md:block 3
 #: (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
@@ -649,104 +658,6 @@ msgstr ""
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
-msgstr ""
-
-#: community/communicate.md:block 12 (header)
-msgid "Wikimedia Foundation technical operations"
-msgstr ""
-
-#: community/communicate.md:block 13 (paragraph)
-msgid "Learn about the infrastructure and teams behind Wikimedia projects."
-msgstr ""
-
-#: community/communicate.md:block 14 (header)
-#: get-started/wikimedia-tech.md:block 9 (header)
-msgid "Cloud tools and services"
-msgstr ""
-
-#: community/communicate.md:block 15 (paragraph)
-#: get-started/wikimedia-tech.md:block 10 (paragraph)
-msgid ""
-"Learn about infrastructure and support for contributors to Wikimedia "
-"software projects."
-msgstr ""
-
-#: community/communicate.md:block 16 (unordered list)
-#: get-started/wikimedia-tech.md:block 11 (unordered list)
-msgid ""
-"[Read more on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction)"
-msgstr ""
-
-#: community/communicate.md:block 17 (header)
-msgid "Performance monitoring"
-msgstr ""
-
-#: community/communicate.md:block 18 (paragraph)
-msgid "Monitor the current and past performance of Wikimedia sites."
-msgstr ""
-
-#: community/communicate.md:block 19 (unordered list)
-msgid "[Read more](https://performance.wikimedia.org/)"
-msgstr ""
-
-#: community/communicate.md:block 20 (header)
-msgid "Security policies"
-msgstr ""
-
-#: community/communicate.md:block 21 (paragraph)
-msgid ""
-"Read security policies for the MediaWiki platform and the Wikimedia "
-"Foundation."
-msgstr ""
-
-#: community/communicate.md:block 22 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
-msgstr ""
-
-#: community/communicate.md:block 23 (header)
-msgid "Software deployments"
-msgstr ""
-
-#: community/communicate.md:block 24 (paragraph)
-msgid "Track software deployments to Wikimedia Foundation servers."
-msgstr ""
-
-#: community/communicate.md:block 25 (unordered list)
-msgid ""
-"[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
-msgstr ""
-
-#: community/communicate.md:block 26 (header)
-msgid "Technical infrastructure"
-msgstr ""
-
-#: community/communicate.md:block 27 (paragraph)
-msgid "Learn about the infrastructure behind Wikimedia projects."
-msgstr ""
-
-#: community/communicate.md:block 28 (unordered list)
-msgid ""
-"[Read more on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
-msgstr ""
-
-#: community/communicate.md:block 29 (header)
-msgid "Technical decision-making process"
-msgstr ""
-
-#: community/communicate.md:block 30 (paragraph)
-msgid ""
-"Learn about why and how technical decisions are made, and browse decision "
-"records."
-msgstr ""
-
-#: community/communicate.md:block 31 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 msgstr ""
 
 #: community/events.md:block 2 (paragraph)
@@ -900,6 +811,119 @@ msgid ""
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 msgstr ""
 
+#: community/tech-ops.md:block 1 (header)
+msgid "Wikimedia technical operations"
+msgstr ""
+
+#: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
+#: 9 (header)
+msgid "Cloud tools and services"
+msgstr ""
+
+#: community/tech-ops.md:block 4 (paragraph)
+#: get-started/wikimedia-tech.md:block 10 (paragraph)
+msgid ""
+"Learn about shared hosting, data services, and other infrastructure support "
+"for technical contributions to Wikimedia projects."
+msgstr ""
+
+#: community/tech-ops.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
+msgid ""
+"[Read more on "
+"Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction)"
+msgstr ""
+
+#: community/tech-ops.md:block 6 (header)
+msgid "Performance monitoring"
+msgstr ""
+
+#: community/tech-ops.md:block 7 (paragraph)
+msgid "Monitor the current and past performance of Wikimedia sites."
+msgstr ""
+
+#: community/tech-ops.md:block 8 (unordered list)
+msgid "[Read more](https://performance.wikimedia.org/)"
+msgstr ""
+
+#: community/tech-ops.md:block 9 (header)
+msgid "Security policies"
+msgstr ""
+
+#: community/tech-ops.md:block 10 (paragraph)
+msgid ""
+"Read security policies for the MediaWiki platform and the Wikimedia "
+"Foundation."
+msgstr ""
+
+#: community/tech-ops.md:block 11 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+msgstr ""
+
+#: community/tech-ops.md:block 12 (header)
+msgid "Software deployments"
+msgstr ""
+
+#: community/tech-ops.md:block 13 (paragraph)
+msgid "Track software deployments to Wikimedia Foundation servers."
+msgstr ""
+
+#: community/tech-ops.md:block 14 (unordered list)
+msgid ""
+"[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
+msgstr ""
+
+#: community/tech-ops.md:block 15 (header)
+msgid "Structured data infrastructure"
+msgstr ""
+
+#: community/tech-ops.md:block 16 (paragraph)
+msgid ""
+"Wikibase is open source software for collaborative knowledge bases and "
+"linked open data. Learn about the system architecture of the software behind"
+" Wikidata."
+msgstr ""
+
+#: community/tech-ops.md:block 17 (unordered list)
+msgid ""
+"[Read more on Github](https://wmde.github.io/wikidata-wikibase-"
+"architecture/)"
+msgstr ""
+
+#: community/tech-ops.md:block 18 (header)
+msgid "Technical infrastructure"
+msgstr ""
+
+#: community/tech-ops.md:block 19 (paragraph)
+msgid ""
+"Learn about essential Wikimedia infrastructure like networks, data centers, "
+"logging, and core software."
+msgstr ""
+
+#: community/tech-ops.md:block 20 (unordered list)
+msgid ""
+"[Read more on "
+"Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+msgstr ""
+
+#: community/tech-ops.md:block 21 (header)
+msgid "Technical decision-making process"
+msgstr ""
+
+#: community/tech-ops.md:block 22 (paragraph)
+msgid ""
+"Learn about why and how technical decisions are made, and browse decision "
+"records."
+msgstr ""
+
+#: community/tech-ops.md:block 23 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
+msgstr ""
+
 #: community/updates.md:block 3 (header)
 msgid "Tech blog"
 msgstr ""
@@ -913,33 +937,33 @@ msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
 msgstr ""
 
 #: community/updates.md:block 6 (header)
-msgid "Tech news"
-msgstr ""
-
-#: community/updates.md:block 7 (paragraph)
-msgid "Get weekly summaries of technical topics for Wikimedians."
-msgstr ""
-
-#: community/updates.md:block 8 (unordered list)
-msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
-msgstr ""
-
-#: community/updates.md:block 9 (header)
 msgid "Technical community newsletter"
 msgstr ""
 
-#: community/updates.md:block 10 (paragraph)
+#: community/updates.md:block 7 (paragraph)
 msgid ""
 "Subscribe to quarterly updates on activities in the Wikimedia technical "
 "community."
 msgstr ""
 
-#: community/updates.md:block 11 (unordered list)
+#: community/updates.md:block 8 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
+msgstr ""
+
+#: community/updates.md:block 9 (header)
+msgid "Tech news"
+msgstr ""
+
+#: community/updates.md:block 10 (paragraph)
+msgid "Get weekly summaries of technical topics for Wikimedians."
+msgstr ""
+
+#: community/updates.md:block 11 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 msgstr ""
 
 #: contribute/index.md:block 2 (header) contribute/overview.md:meta.title

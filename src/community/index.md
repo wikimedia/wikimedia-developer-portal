@@ -24,3 +24,9 @@ Grow your skills or help others learn through Wikimedia workshops, internships, 
 Stay up to date with the latest from the Wikimedia technical community.
 
 [Learn more](updates.md)
+
+## Learn about Wikimedia technical operations
+
+Find information about the infrastructure and teams behind Wikimedia technology.
+
+[Learn more](tech-ops.md)
