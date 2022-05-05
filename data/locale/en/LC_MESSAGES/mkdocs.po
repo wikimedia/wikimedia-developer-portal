@@ -852,8 +852,8 @@ msgstr ""
 #: community/events.md:block 19 (paragraph) community/grow.md:block 7
 #: (paragraph)
 msgid ""
-"Get recommended tools and educational resources to support small wiki "
-"communities in learning and sharing technical skills."
+"Find tools and educational resources to help small wiki communities grow "
+"their technical capacity and learn new skills."
 msgstr ""
 
 #: community/events.md:block 20 (unordered list) community/grow.md:block 8
@@ -869,8 +869,8 @@ msgstr ""
 
 #: community/grow.md:block 4 (paragraph)
 msgid ""
-"Grow your skills or help others learn through internships and mentoring "
-"opportunities with Wikimedia."
+"Grow your skills through internships and mentoring programs like Outreachy "
+"and Google Summer of Code."
 msgstr ""
 
 #: community/grow.md:block 5 (unordered list)
@@ -903,14 +903,13 @@ msgid ""
 msgstr ""
 
 #: community/grow.md:block 12 (header)
-msgid "Become a tech ambassador"
+msgid "Tech ambassadors"
 msgstr ""
 
 #: community/grow.md:block 13 (paragraph)
 msgid ""
-"Tech ambassadors are technically-minded volunteers who help other "
-"Wikimedians with technical issues, and act as a bridge between developers "
-"and local Wikimedia wikis."
+"Volunteer your skills to help Wikimedians resolve technical issues and "
+"connect developers with local wikis."
 msgstr ""
 
 #: community/grow.md:block 14 (unordered list)
