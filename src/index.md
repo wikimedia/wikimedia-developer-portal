@@ -52,3 +52,14 @@ Help build the Wikimedia ecosystem with open source software projects.
 Get involved with the Wikimedia technical community, and find opportunities for support and learning.
 
 [Learn more](community/)
+
+- - -
+
+![](/assets/PenAndPaper.svg#only-light)
+![](/assets/PenAndPaper-dark.svg#only-dark)
+
+## Get help
+
+Find resources to help with questions and troubleshooting.
+
+[Learn more](get-help/)

@@ -44,7 +44,8 @@ msgstr ""
 msgid "Community"
 msgstr ""
 
-#: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
+#: mkdocs.yml:navigation index.md:block 25 (header)
+#: get-help/index.md:meta.title get-help/index.md:title
 #: get-help/index.md:block 1 (header)
 msgid "Get help"
 msgstr ""
@@ -136,6 +137,20 @@ msgstr ""
 
 #: index.md:block 18 (paragraph)
 msgid "[Learn more](community/)"
+msgstr ""
+
+#: index.md:block 24 (paragraph)
+msgid ""
+"![](/assets/PenAndPaper.svg#only-light) ![](/assets/PenAndPaper-"
+"dark.svg#only-dark)"
+msgstr ""
+
+#: index.md:block 26 (paragraph)
+msgid "Find resources to help with questions and troubleshooting."
+msgstr ""
+
+#: index.md:block 27 (paragraph)
+msgid "[Learn more](get-help/)"
 msgstr ""
 
 #: build-tools/index.md:block 2 (header) build-tools/search.md:meta.title
