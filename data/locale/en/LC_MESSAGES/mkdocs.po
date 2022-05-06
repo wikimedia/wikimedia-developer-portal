@@ -1083,30 +1083,33 @@ msgstr ""
 msgid "PHP"
 msgstr ""
 
-#: contribute/by-language.md:block 19 (header)
-#: get-started/wikimedia-tech.md:block 12 (header)
+#: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
+#: (header) get-started/wikimedia-tech.md:block 12 (header)
 msgid "MediaWiki and extensions"
 msgstr ""
 
-#: contribute/by-language.md:block 20 (paragraph)
-#: get-started/wikimedia-tech.md:block 13 (paragraph)
+#: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
+#: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid ""
 "MediaWiki is the software that powers Wikipedia, its sister projects, and "
 "thousands of wikis all over the world."
 msgstr ""
 
 #: contribute/by-language.md:block 21 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
 msgstr ""
 
 #: contribute/by-language.md:block 21 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid ""
 "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 msgstr ""
 
 #: contribute/by-language.md:block 21 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid ""
 "[Get the source "
@@ -1143,21 +1146,6 @@ msgid ""
 "code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 msgstr ""
 
-#: contribute/by-topic.md:block 3 (header)
-msgid "Infrastructure"
-msgstr ""
-
-#: contribute/by-topic.md:block 4 (paragraph)
-msgid ""
-"Contribute to the effort to make Wikimedia's servers and software faster and"
-" more efficient."
-msgstr ""
-
-#: contribute/by-topic.md:block 5 (unordered list)
-msgid ""
-"[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
-msgstr ""
-
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
@@ -1165,7 +1153,9 @@ msgstr ""
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
-msgid "Write code that can be localized, and get your code translated."
+msgid ""
+"Write code that can be localized, get your code translated, and contribute "
+"to making Wikimedia technology multilingual."
 msgstr ""
 
 #: contribute/by-topic.md:block 8 (unordered list)
@@ -1224,6 +1214,21 @@ msgstr ""
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
+msgstr ""
+
+#: contribute/by-topic.md:block 18 (header)
+msgid "Infrastructure"
+msgstr ""
+
+#: contribute/by-topic.md:block 19 (paragraph)
+msgid ""
+"Contribute to the effort to make Wikimedia's servers and software faster and"
+" more efficient."
+msgstr ""
+
+#: contribute/by-topic.md:block 20 (unordered list)
+msgid ""
+"[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
 msgstr ""
 
 #: contribute/overview.md:block 2 (paragraph)

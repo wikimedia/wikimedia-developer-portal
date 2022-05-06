@@ -1,9 +1,9 @@
 ---
 title: Localization and internationalization
-description: Write code that can be localized, and get your code translated.
+description: Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation
     label: Read more on mediawiki.org
 categories:
-  contribute-by-topic: 0
+  contribute-by-topic: 2
   wikimedia-tech: 4
