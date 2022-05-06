@@ -9,7 +9,7 @@ powers [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](ht
 
 [Get started](get-started/){ .md-button .md-button--primary }
 
-<hr>
+- - -
 
 ![](/assets/book.svg#only-light)
 ![](/assets/book-dark.svg#only-dark)
@@ -20,7 +20,7 @@ Access articles from Wikipedia, media files, structured data, and more with publ
 
 [Learn more](use-content/)
 
-<hr>
+- - -
 
 ![](/assets/chemistry.svg#only-light)
 ![](/assets/chemistry-dark.svg#only-dark)
@@ -31,7 +31,7 @@ Tools and bots make it easier to edit and maintain Wikimedia projects.
 
 [Learn more](build-tools/)
 
-<hr>
+- - -
 
 ![](/assets/computer.svg#only-light)
 ![](/assets/computer-dark.svg#only-dark)
@@ -42,7 +42,7 @@ Help build the Wikimedia ecosystem with open source software projects.
 
 [Learn more](contribute/)
 
-<hr>
+- - -
 
 ![](/assets/world.svg#only-light)
 ![](/assets/world-dark.svg#only-dark)

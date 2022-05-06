@@ -64,77 +64,77 @@ msgstr ""
 msgid "[Get started](get-started/){ .md-button .md-button--primary }"
 msgstr ""
 
-#: index.md:block 4 (paragraph)
+#: index.md:block 3 (paragraph)
 msgid "![](/assets/book.svg#only-light) ![](/assets/book-dark.svg#only-dark)"
 msgstr ""
 
-#: index.md:block 5 (header)
+#: index.md:block 4 (header)
 msgid "Use Wikimedia content and data"
 msgstr ""
 
-#: index.md:block 6 (paragraph)
+#: index.md:block 5 (paragraph)
 msgid ""
 "Access articles from Wikipedia, media files, structured data, and more with "
 "public APIs and downloads."
 msgstr ""
 
-#: index.md:block 7 (paragraph)
+#: index.md:block 6 (paragraph)
 msgid "[Learn more](use-content/)"
 msgstr ""
 
-#: index.md:block 9 (paragraph)
+#: index.md:block 7 (paragraph)
 msgid ""
 "![](/assets/chemistry.svg#only-light) ![](/assets/chemistry-dark.svg#only-"
 "dark)"
 msgstr ""
 
-#: index.md:block 10 (header)
+#: index.md:block 8 (header)
 msgid "Build tools and bots"
 msgstr ""
 
-#: index.md:block 11 (paragraph) build-tools/index.md:block 1 (paragraph)
+#: index.md:block 9 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
 msgstr ""
 
-#: index.md:block 12 (paragraph)
+#: index.md:block 10 (paragraph)
 msgid "[Learn more](build-tools/)"
 msgstr ""
 
-#: index.md:block 14 (paragraph)
+#: index.md:block 11 (paragraph)
 msgid ""
 "![](/assets/computer.svg#only-light) ![](/assets/computer-dark.svg#only-"
 "dark)"
 msgstr ""
 
-#: index.md:block 15 (header) contribute/index.md:meta.title
+#: index.md:block 12 (header) contribute/index.md:meta.title
 #: contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
 msgstr ""
 
-#: index.md:block 16 (paragraph) contribute/index.md:block 1 (paragraph)
+#: index.md:block 13 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software projects."
 msgstr ""
 
-#: index.md:block 17 (paragraph)
+#: index.md:block 14 (paragraph)
 msgid "[Learn more](contribute/)"
 msgstr ""
 
-#: index.md:block 19 (paragraph)
+#: index.md:block 15 (paragraph)
 msgid ""
 "![](/assets/world.svg#only-light) ![](/assets/world-dark.svg#only-dark)"
 msgstr ""
 
-#: index.md:block 20 (header)
+#: index.md:block 16 (header)
 msgid "Connect with the community"
 msgstr ""
 
-#: index.md:block 21 (paragraph)
+#: index.md:block 17 (paragraph)
 msgid ""
 "Get involved with the Wikimedia technical community, and find opportunities "
 "for support and learning."
 msgstr ""
 
-#: index.md:block 22 (paragraph)
+#: index.md:block 18 (paragraph)
 msgid "[Learn more](community/)"
 msgstr ""
 
