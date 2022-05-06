@@ -1,6 +1,6 @@
 ---
-title: Build a holidays viewer
-description: Build an app that fetches holidays and observances for a given date from Wikipedia, with an option to log in to add new holidays.
+title: Display holidays from Wikipedia
+description: Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer
     label: Read more on mediawiki.org

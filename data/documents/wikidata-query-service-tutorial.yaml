@@ -1,6 +1,6 @@
 ---
 title: Get started querying Wikidata
-description: A beginner's guide to querying Wikidata using SPARQL
+description: Learn how query Wikidata with SPARQL. This tutorial covers the basic Wikidata and how to use the Wikidata Query Service.
 links:
   - url: https://wdqs-tutorial.toolforge.org
     label: Read more

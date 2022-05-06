@@ -1,6 +1,6 @@
 ---
 title: Best practices for open source tools
-description: This page provides tips to help you develop successful tools and bots.
+description: New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs.
 links:
   - url: https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools
     label: Read more on Wikitech

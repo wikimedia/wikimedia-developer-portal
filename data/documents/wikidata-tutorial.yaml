@@ -1,6 +1,6 @@
 ---
-title: Display info from Wikidata
-description: Use the MediaWiki Action API to present information from Wikidata in your application.
+title: Display information from Wikidata
+description: Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge
     label: Read more on mediawiki.org

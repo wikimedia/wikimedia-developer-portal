@@ -1,9 +1,9 @@
 ---
 title: Toolhub
-description: Toolhub is a community-authored catalog of Wikimedia tools. Discover new tools, and promote their use in your wiki community.
+description: Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools.
 links:
   - url: https://toolhub.wikimedia.org/
     label: Visit Toolhub
 categories:
-  app-galleries: 0
+  app-galleries: 4
   search-tools: 1

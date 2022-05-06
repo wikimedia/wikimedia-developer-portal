@@ -1,8 +1,8 @@
 ---
 title: Wikipedia visualizations
-description: Explore data visualizations built on Wikipedia.
+description: “See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs.
 links:
   - url: https://seealso.org/
     label: Visit the gallery
 categories:
-  - app-galleries
+  app-galleries: 2

@@ -1,6 +1,6 @@
 ---
 title: Learn about creating and running bots
-description: Run a tool as a recurring process that edits wiki pages automatically.
+description: Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices for design, authentication, and more.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot
     label: Read more on mediawiki.org

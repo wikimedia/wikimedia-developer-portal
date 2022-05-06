@@ -1,6 +1,6 @@
 ---
 title: Build your first tool
-description: Write a script to edit wiki pages with Python.
+description: Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS
     label: Read more on mediawiki.org

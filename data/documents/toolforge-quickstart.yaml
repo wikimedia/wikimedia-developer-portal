@@ -1,6 +1,6 @@
 ---
 title: Host a tool on Wikimedia cloud servers
-description: Set up your Toolforge account and get started with a simple web service.
+description: Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service.
 links:
   - url: https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart
     label: Read more on Wikitech

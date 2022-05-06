@@ -1,6 +1,6 @@
 ---
 title: Use the API
-description: The MediaWiki Action API gives you programmatic access to content and editing on all Wikimedia projects.
+description: The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, edit pages, get media files, explore page history, and more.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API
     label: Read more on mediawiki.org

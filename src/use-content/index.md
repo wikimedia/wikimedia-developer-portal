@@ -2,11 +2,11 @@
 title: Use content and data
 ---
 
-Wikimedia offers public APIs, libraries, and downloads that let you access encyclopedia articles, media files, structured data, and more.
+Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads.
 
 ## [Explore featured apps](featured-apps.md)
 
-See examples of open source apps and data visualizations built with content and data from Wikimedia projects.
+See examples of open source apps and data visualizations built with Wikimedia content and data.
 
 ## [Learn with tutorials](tutorials.md)
 
