@@ -2,7 +2,7 @@
 title: About
 ---
 
-The Wikimedia Developer Portal is a central entry point for Wikimedia technical documentation, created by the Wikimedia Foundation Developer Advocacy Team. This site currently in development. For more information about the project and to share your feedback, visit [mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal). For technical documentation about the portal and its implementation, see [the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal).
+The Wikimedia Developer Portal is a central entry point for [Wikimedia](https://wikimediafoundation.org/) technical documentation, created by the Wikimedia Foundation Developer Advocacy Team. For more information about the project and to share your feedback, visit [mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal). For technical documentation about the portal and its implementation, see [the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal).
 
 ## Image credits
 

@@ -1,4 +1,4 @@
-# Copyright (c) 2021 Wikimedia Foundation and contributors.
+# Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
 #
 # This file is part of Wikimedia Developer Portal.

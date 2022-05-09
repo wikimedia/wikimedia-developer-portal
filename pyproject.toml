@@ -3,7 +3,9 @@ name = "wikimedia-developer-portal"
 version = "0.1.0"
 description = ""
 authors = [
-  "Bryan Davis <bd808@wikimedia.org>"
+  "Bryan Davis <bd808@wikimedia.org>",
+  "Alex Paskulin <apaskulin@wikimedia.org>",
+  "Tricia Burmeister <tburmeister@wikimedia.org>"
 ]
 license = "GPL-3.0-or-later"
 readme = "README.md"

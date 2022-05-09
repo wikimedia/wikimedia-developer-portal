@@ -7,8 +7,7 @@ msgid "Wikimedia Developer Portal"
 msgstr ""
 
 #: mkdocs.yml:site_description
-msgid ""
-"Portal for discovering technical documentation about Wikimedia projects"
+msgid "Discover Wikimedia technical documentation and communities"
 msgstr ""
 
 #: mkdocs.yml:site_author
@@ -50,13 +49,13 @@ msgid "Get help"
 msgstr ""
 
 #: index.md:meta.title index.md:title
-msgid "Discover Wikimedia technical documentation and communities"
+msgid "Discover and build Wikimedia technology"
 msgstr ""
 
 #: index.md:block 1 (paragraph)
 msgid ""
-"Explore and contribute to the open source technology that powers "
-"[Wikipedia](https://www.wikipedia.org/) and other [Wikimedia "
+"Find technical documentation and connect with the developer community behind"
+" [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia "
 "projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 msgstr ""
 
@@ -1456,10 +1455,10 @@ msgstr ""
 
 #: get-help/about.md:block 1 (paragraph)
 msgid ""
-"The Wikimedia Developer Portal is a central entry point for Wikimedia "
-"technical documentation, created by the Wikimedia Foundation Developer "
-"Advocacy Team. This site currently in development. For more information "
-"about the project and to share your feedback, visit "
+"The Wikimedia Developer Portal is a central entry point for "
+"[Wikimedia](https://wikimediafoundation.org/) technical documentation, "
+"created by the Wikimedia Foundation Developer Advocacy Team. For more "
+"information about the project and to share your feedback, visit "
 "[mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
 " For technical documentation about the portal and its implementation, see "
 "[the docs on "

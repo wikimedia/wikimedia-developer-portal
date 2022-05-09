@@ -1,11 +1,10 @@
 ---
 hide:
   - navigation
-title: Discover Wikimedia technical documentation and communities
+title: Discover and build Wikimedia technology
 ---
 
-Explore and contribute to the open source technology that
-powers [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/).
+Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/).
 
 [Get started](get-started/){ .md-button .md-button--primary }
 
