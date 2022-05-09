@@ -609,7 +609,8 @@ msgstr ""
 #: (paragraph) get-started/new-dev.md:block 13 (paragraph)
 msgid ""
 "The code of conduct for Wikimedia technical spaces applies to both physical "
-"and virtual environments."
+"and virtual environments. Learn how to foster an open and welcoming "
+"community."
 msgstr ""
 
 #: community/communicate.md:block 5 (unordered list)
@@ -989,7 +990,8 @@ msgstr ""
 msgid "[Learn how contributing works](overview.md)"
 msgstr ""
 
-#: contribute/index.md:block 3 (paragraph)
+#: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
+#: (paragraph)
 msgid ""
 "Get the basics of how to contribute to MediaWiki and other Wikimedia open "
 "source projects."
@@ -1096,7 +1098,9 @@ msgid "Blubber"
 msgstr ""
 
 #: contribute/by-language.md:block 16 (paragraph)
-msgid "Run a tool as a recurring process that edits wiki pages automatically."
+msgid ""
+"Blubber is an infrastructure tool that configures Docker containers and "
+"tests code as part of Wikimedia's continuous integration pipeline."
 msgstr ""
 
 #: contribute/by-language.md:block 17 (unordered list)
@@ -1229,7 +1233,10 @@ msgid "Documentation"
 msgstr ""
 
 #: contribute/by-topic.md:block 13 (paragraph)
-msgid "Get started writing documentation for Wikimedia technologies."
+msgid ""
+"Read the documentation style guide, find good first tasks for improving "
+"documentation, and get tips for writing documentation for Wikimedia "
+"technologies."
 msgstr ""
 
 #: contribute/by-topic.md:block 14 (unordered list)
@@ -1243,7 +1250,9 @@ msgid "Offline reading"
 msgstr ""
 
 #: contribute/by-topic.md:block 16 (paragraph)
-msgid "Help people use Wikipedia without internet access."
+msgid ""
+"Expand the reach of the free knowledge by helping people use Wikipedia "
+"without internet access."
 msgstr ""
 
 #: contribute/by-topic.md:block 17 (unordered list)
@@ -1262,8 +1271,8 @@ msgstr ""
 
 #: contribute/by-topic.md:block 19 (paragraph)
 msgid ""
-"Contribute to the effort to make Wikimedia's servers and software faster and"
-" more efficient."
+"Contribute to the infrastructure that powers Wikimedia projects. Help "
+"improve the performance and efficiency of Wikimedia servers and software."
 msgstr ""
 
 #: contribute/by-topic.md:block 20 (unordered list)
@@ -1276,12 +1285,6 @@ msgstr ""
 msgid "Learn how contributing works"
 msgstr ""
 
-#: contribute/overview.md:block 2 (paragraph)
-msgid ""
-"Learn the basics of how to contribute to MediaWiki and other Wikimedia open "
-"source projects."
-msgstr ""
-
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
 msgid "Create a developer account"
@@ -1291,7 +1294,8 @@ msgstr ""
 #: (paragraph)
 msgid ""
 "Most Wikimedia technical spaces use a developer account to identify and "
-"authorize users for making technical contributions."
+"authorize users. Create a free account to get started as a technical "
+"contributor."
 msgstr ""
 
 #: contribute/overview.md:block 8 (unordered list)
@@ -1320,11 +1324,13 @@ msgid ""
 msgstr ""
 
 #: contribute/overview.md:block 12 (header)
-msgid "Guidelines and code conventions"
+msgid "Review guidelines and code conventions"
 msgstr ""
 
 #: contribute/overview.md:block 13 (paragraph)
-msgid "Follow best practices and coding conventions."
+msgid ""
+"Understand development policies, best practices, and code conventions for "
+"Wikimedia software."
 msgstr ""
 
 #: contribute/overview.md:block 14 (unordered list)
@@ -1338,7 +1344,9 @@ msgid "See your contributions"
 msgstr ""
 
 #: contribute/overview.md:block 16 (paragraph)
-msgid "Visualize your technical contributions to Wikimedia open source."
+msgid ""
+"Visualize your contributions across Wikimedia's code review and task "
+"tracking tools."
 msgstr ""
 
 #: contribute/overview.md:block 17 (unordered list)
