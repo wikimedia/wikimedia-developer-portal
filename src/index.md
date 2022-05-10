@@ -33,7 +33,7 @@ Tools and bots make it easier to edit and maintain Wikimedia projects.
 
 ## [Contribute to Wikimedia open source](contribute/)
 
-Help build the Wikimedia ecosystem with open source software projects.
+Help build the Wikimedia ecosystem with open source software.
 
 - - -
 

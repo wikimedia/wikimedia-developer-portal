@@ -1,6 +1,6 @@
 ---
 title: Technical infrastructure
-description: Learn about essential Wikimedia infrastructure like networks, data centers, logging, and core software.
+description: Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams.
 links:
   - url: https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure
     label: Read more on Wikitech

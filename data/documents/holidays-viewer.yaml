@@ -5,5 +5,5 @@ links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer
     label: Read more on mediawiki.org
 categories:
-  - tutorials-tools
-  - tutorials-use
+  tutorials-tools: 4
+  tutorials-use: 0

@@ -8,4 +8,4 @@ The Wikimedia Developer Portal is a central entry point for [Wikimedia](https://
 
 * Wikimedia logo by Neolux, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)
 * Wikimedia favicon by the Wikimedia Foundation, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)
-* Adapted Wikipedia 20 illustrations by Jasmina El Bouamraoui and Karabo Poppy Moletsane, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20); black background removed from dark-mode images
+* Adapted Wikipedia 20 illustrations by Jasmina El Bouamraoui and Karabo Poppy Moletsane, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20); black background removed from dark-mode images

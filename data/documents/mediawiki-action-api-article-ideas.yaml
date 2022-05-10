@@ -5,5 +5,5 @@ links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator
     label: Read more on mediawiki.org
 categories:
-  - tutorials-use
-  - tutorials-tools
+  tutorials-use: 0
+  tutorials-tools: 2

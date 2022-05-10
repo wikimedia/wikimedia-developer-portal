@@ -2,7 +2,7 @@
 title: Contribute by programming language
 ---
 
-Choose a project based on programming language.
+Choose a project to contribute to based on programming language.
 
 {{ category.render( "contribute-python", 2 ) }}
 

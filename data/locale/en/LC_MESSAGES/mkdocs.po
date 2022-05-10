@@ -7,7 +7,7 @@ msgid "Wikimedia Developer Portal"
 msgstr ""
 
 #: mkdocs.yml:site_description
-msgid "Discover Wikimedia technical documentation and communities"
+msgid "Find Wikimedia technical documentation and communities"
 msgstr ""
 
 #: mkdocs.yml:site_author
@@ -54,8 +54,8 @@ msgstr ""
 
 #: index.md:block 1 (paragraph)
 msgid ""
-"Find technical documentation and connect with the developer community behind"
-" [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia "
+"Find technical documentation, and connect with the developer community "
+"behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia "
 "projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 msgstr ""
 
@@ -102,7 +102,7 @@ msgid "[Contribute to Wikimedia open source](contribute/)"
 msgstr ""
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
-msgid "Help build the Wikimedia ecosystem with open source software projects."
+msgid "Help build the Wikimedia ecosystem with open source software."
 msgstr ""
 
 #: index.md:block 12 (paragraph)
@@ -257,8 +257,8 @@ msgstr ""
 #: (paragraph)
 msgid ""
 "The MediaWiki API gives you programmatic access to content on any Wikimedia "
-"wiki. You can use the API to search and display wiki pages, edit pages, get "
-"media files, explore page history, and more."
+"wiki. You can use the API to search and display wiki pages, get media files,"
+" edit pages, and manage wikis."
 msgstr ""
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
@@ -274,19 +274,19 @@ msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
 msgstr ""
 
 #: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
-#: (header)
+#: (header) use-content/data.md:block 9 (header)
 msgid "Download content in bulk"
 msgstr ""
 
 #: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
-#: (paragraph)
+#: (paragraph) use-content/data.md:block 10 (paragraph)
 msgid ""
 "Access free downloads of wiki content and data that you can use in research,"
 " offline reading, bot editing, and other projects."
 msgstr ""
 
 #: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
-#: 17 (unordered list)
+#: 17 (unordered list) use-content/data.md:block 11 (unordered list)
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
@@ -298,8 +298,8 @@ msgstr ""
 
 #: build-tools/apis.md:block 16 (paragraph)
 msgid ""
-"Wiki replicas are sanitized versions of the databases that back Wikimedia's "
-"production sites. Use Quarry to run and share SQL queries."
+"Wiki replicas are anonymized versions of the databases that back Wikimedia's"
+" production sites. Use Quarry to run and share SQL queries."
 msgstr ""
 
 #: build-tools/apis.md:block 17 (unordered list)
@@ -313,19 +313,19 @@ msgid ""
 msgstr ""
 
 #: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
-#: 6 (header)
+#: 3 (header)
 msgid "Build your first tool"
 msgstr ""
 
 #: build-tools/get-started.md:block 4 (paragraph)
-#: build-tools/tutorials.md:block 7 (paragraph)
+#: build-tools/tutorials.md:block 4 (paragraph)
 msgid ""
 "Learn how to edit wiki pages using Python and the Pywikibot framework. This "
 "tutorial helps you get started quickly using only your browser."
 msgstr ""
 
 #: build-tools/get-started.md:block 5 (unordered list)
-#: build-tools/tutorials.md:block 8 (unordered list)
+#: build-tools/tutorials.md:block 5 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
@@ -338,8 +338,7 @@ msgstr ""
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid ""
 "Bots help maintain wikis by performing repetitive tasks. Get started "
-"creating and running bots by learning about best practices for design, "
-"authentication, and more."
+"creating and running bots by learning about best practices."
 msgstr ""
 
 #: build-tools/get-started.md:block 8 (unordered list)
@@ -396,7 +395,7 @@ msgstr ""
 msgid ""
 "Toolforge is a free hosting environment for running and managing tools. "
 "Developing a tool in Toolforge makes it easier to access Wikimedia content "
-"and data and share your tool with others."
+"and data and to share your tool with others."
 msgstr ""
 
 #: build-tools/host-tools.md:block 8 (unordered list)
@@ -452,29 +451,48 @@ msgstr ""
 msgid "Learn with tutorials"
 msgstr ""
 
-#: build-tools/tutorials.md:block 3 (header)
-msgid "Add JavaScript or CSS gadgets to a wiki"
+#: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
+#: (header)
+msgid "Generate ideas for articles"
 msgstr ""
 
-#: build-tools/tutorials.md:block 4 (paragraph)
+#: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
+#: 13 (paragraph)
 msgid ""
-"Customize MediaWiki with client-side JavaScript code and CSS. Use gadgets "
-"other people have created, write scripts to modify your wiki's global js, "
-"and share your code with others."
+"Learn how to use the MediaWiki API to generate ideas for new Wikipedia "
+"articles. This tutorial uses Python and the Flask framework."
 msgstr ""
 
-#: build-tools/tutorials.md:block 5 (unordered list)
+#: build-tools/tutorials.md:block 8 (unordered list)
+#: use-content/tutorials.md:block 14 (unordered list)
 msgid ""
 "[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 msgstr ""
 
-#: build-tools/tutorials.md:block 9 (header) use-content/tutorials.md:block 3
+#: build-tools/tutorials.md:block 9 (header)
+msgid "Write a bot that uses Wikidata"
+msgstr ""
+
+#: build-tools/tutorials.md:block 10 (paragraph)
+msgid ""
+"Use Python to handle large datasets from Wikidata and transfer data between "
+"tools in your workflow."
+msgstr ""
+
+#: build-tools/tutorials.md:block 11 (unordered list)
+msgid ""
+"[Read more on "
+"Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-"
+"_Python_3_Tutorial)"
+msgstr ""
+
+#: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
 msgid "Display holidays from Wikipedia"
 msgstr ""
 
-#: build-tools/tutorials.md:block 10 (paragraph)
+#: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
 msgid ""
 "Learn how to use the MediaWiki API to fetch holidays for a given date from "
@@ -483,72 +501,53 @@ msgid ""
 "framework."
 msgstr ""
 
-#: build-tools/tutorials.md:block 11 (unordered list)
+#: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
 msgid ""
 "[Read more on "
 "mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
 msgstr ""
 
-#: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block
-#: 12 (header)
-msgid "Generate ideas for articles"
-msgstr ""
-
-#: build-tools/tutorials.md:block 13 (paragraph)
-#: use-content/tutorials.md:block 13 (paragraph)
-msgid ""
-"Learn how to use the MediaWiki API to generate ideas for new Wikipedia "
-"articles. This tutorial uses Python and the Flask framework."
-msgstr ""
-
-#: build-tools/tutorials.md:block 14 (unordered list)
-#: use-content/tutorials.md:block 14 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
-msgstr ""
-
 #: build-tools/tutorials.md:block 15 (header)
-msgid "Host a tool on Wikimedia cloud servers"
+msgid "Add JavaScript or CSS to a wiki"
 msgstr ""
 
 #: build-tools/tutorials.md:block 16 (paragraph)
+msgid ""
+"Customize MediaWiki with client-side JavaScript and CSS. Use scripts other "
+"people have created, and share your code with others."
+msgstr ""
+
+#: build-tools/tutorials.md:block 17 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+msgstr ""
+
+#: build-tools/tutorials.md:block 18 (header)
+msgid "Host a tool on Wikimedia cloud servers"
+msgstr ""
+
+#: build-tools/tutorials.md:block 19 (paragraph)
 msgid ""
 "Toolforge is a free hosting environment for running and managing tools. Get "
 "started with Toolforge by creating an account and setting up a basic web "
 "service."
 msgstr ""
 
-#: build-tools/tutorials.md:block 17 (unordered list)
-msgid ""
-"[Read more on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
-msgstr ""
-
-#: build-tools/tutorials.md:block 18 (header)
-msgid "Write a bot that uses Wikidata"
-msgstr ""
-
-#: build-tools/tutorials.md:block 19 (paragraph)
-msgid ""
-"Use Python and Wikidata to handle large datasets and transfer data between "
-"tools in your workflow."
-msgstr ""
-
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid ""
 "[Read more on "
-"Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-"
-"_Python_3_Tutorial)"
+"Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
 msgstr ""
 
 #: community/index.md:block 1 (header)
 msgid "[Explore hackathons and events](events.md)"
 msgstr ""
 
-#: community/index.md:block 2 (paragraph)
-msgid "Explore content from past hackathons or join an upcoming event."
+#: community/index.md:block 2 (paragraph) community/events.md:block 2
+#: (paragraph)
+msgid "Browse content from past events, or join an upcoming event."
 msgstr ""
 
 #: community/index.md:block 3 (header)
@@ -569,8 +568,8 @@ msgstr ""
 #: community/index.md:block 6 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid ""
-"Grow your skills or help others learn through Wikimedia workshops, "
-"internships, and mentoring opportunities."
+"Grow your skills, or help others learn through workshops, internships, and "
+"mentoring opportunities."
 msgstr ""
 
 #: community/index.md:block 7 (header)
@@ -645,9 +644,9 @@ msgstr ""
 
 #: community/communicate.md:block 10 (paragraph)
 msgid ""
-"Maintainers know the most about, and maintain, MediaWiki core, key "
-"extensions, and Wikimedia servers. Code stewards are ultimately responsible "
-"for the development policies, support, and overall health of the code."
+"Browse the list of developers and teams who maintain core MediaWiki "
+"components, key extensions and skins, libraries, and other Wikimedia "
+"technical infrastructure."
 msgstr ""
 
 #: community/communicate.md:block 11 (unordered list)
@@ -659,10 +658,6 @@ msgstr ""
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
 msgid "Explore hackathons and events"
-msgstr ""
-
-#: community/events.md:block 2 (paragraph)
-msgid "Explore content from past events or join us for an upcoming event."
 msgstr ""
 
 #: community/events.md:block 3 (header)
@@ -841,7 +836,7 @@ msgstr ""
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid ""
 "[Read more on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction)"
+"Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
 msgstr ""
 
 #: community/tech-ops.md:block 6 (header)
@@ -898,8 +893,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid ""
-"[Read more on Github](https://wmde.github.io/wikidata-wikibase-"
-"architecture/)"
+"[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
 msgstr ""
 
 #: community/tech-ops.md:block 18 (header)
@@ -909,7 +903,7 @@ msgstr ""
 #: community/tech-ops.md:block 19 (paragraph)
 msgid ""
 "Learn about essential Wikimedia infrastructure like networks, data centers, "
-"logging, and core software."
+"and logging, and browse architecture diagrams."
 msgstr ""
 
 #: community/tech-ops.md:block 20 (unordered list)
@@ -1012,7 +1006,7 @@ msgstr ""
 
 #: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
 #: (paragraph)
-msgid "Choose a project based on programming language."
+msgid "Choose a project to contribute to based on programming language."
 msgstr ""
 
 #: contribute/index.md:block 8 (header)
@@ -1070,7 +1064,7 @@ msgstr ""
 #: contribute/by-language.md:block 12 (paragraph)
 msgid ""
 "The Wikimedia Commons Android app allows users to upload pictures from their"
-" Android phone or tablet to Wikimedia Commons."
+" device to Wikimedia Commons."
 msgstr ""
 
 #: contribute/by-language.md:block 13 (unordered list)
@@ -1233,9 +1227,8 @@ msgstr ""
 
 #: contribute/by-topic.md:block 13 (paragraph)
 msgid ""
-"Read the documentation style guide, find good first tasks for improving "
-"documentation, and get tips for writing documentation for Wikimedia "
-"technologies."
+"Read the documentation style guide, and find good first tasks for improving "
+"documentation."
 msgstr ""
 
 #: contribute/by-topic.md:block 14 (unordered list)
@@ -1312,7 +1305,8 @@ msgstr ""
 #: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
 #: (paragraph)
 msgid ""
-"Choose from open source projects that offer mentoring for new contributors."
+"Choose from open source projects that offer mentoring for new contributors, "
+"and find good first tasks."
 msgstr ""
 
 #: contribute/overview.md:block 11 (unordered list)
@@ -1385,27 +1379,27 @@ msgid "[Browse docs](https://doc.wikimedia.org)"
 msgstr ""
 
 #: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
-#: 10 (header)
+#: 7 (header)
 msgid "Browse repositories"
 msgstr ""
 
 #: contribute/search.md:block 10 (paragraph)
-#: get-started/browse-languages.md:block 11 (paragraph)
+#: get-started/browse-languages.md:block 8 (paragraph)
 msgid "Explore Wikimedia codebases."
 msgstr ""
 
 #: contribute/search.md:block 11 (unordered list)
-#: get-started/browse-languages.md:block 12 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
 msgstr ""
 
 #: contribute/search.md:block 11 (unordered list)
-#: get-started/browse-languages.md:block 12 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
 msgstr ""
 
 #: contribute/search.md:block 11 (unordered list)
-#: get-started/browse-languages.md:block 12 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
 msgstr ""
 
@@ -1485,7 +1479,8 @@ msgstr ""
 #: get-help/about.md:block 3 (unordered list)
 msgid ""
 "Adapted Wikipedia 20 illustrations by Jasmina El Bouamraoui and Karabo Poppy"
-" Moletsane, via [Wikimedia "
+" Moletsane, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), "
+"via [Wikimedia "
 "Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20); "
 "black background removed from dark-mode images"
 msgstr ""
@@ -1535,30 +1530,16 @@ msgid "API client libraries by language"
 msgstr ""
 
 #: get-started/browse-languages.md:block 4 (header)
-msgid "Apps and tools by language"
-msgstr ""
-
-#: get-started/browse-languages.md:block 5 (paragraph)
-msgid ""
-"Search by programming language in app galleries and tool catalogs to find "
-"working examples and get inspired."
-msgstr ""
-
-#: get-started/browse-languages.md:block 6 (paragraph)
-msgid "[Explore featured apps](../use-content/featured-apps.md){ .md-button}"
-msgstr ""
-
-#: get-started/browse-languages.md:block 7 (header)
 msgid "Open source projects by language"
 msgstr ""
 
-#: get-started/browse-languages.md:block 8 (paragraph)
+#: get-started/browse-languages.md:block 5 (paragraph)
 msgid ""
 "Find Wikimedia open source projects by programming language, and start "
 "contributing code."
 msgstr ""
 
-#: get-started/browse-languages.md:block 9 (paragraph)
+#: get-started/browse-languages.md:block 6 (paragraph)
 msgid "[Browse projects](../contribute/by-language.md){ .md-button}"
 msgstr ""
 
@@ -1617,7 +1598,7 @@ msgid "Learn the basics of using Wikimedia content and data in your project."
 msgstr ""
 
 #: get-started/tutorials.md:block 4 (paragraph)
-msgid "[Learn more](../use-content/tutorials.md)"
+msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button}"
 msgstr ""
 
 #: get-started/tutorials.md:block 5 (header)
@@ -1630,7 +1611,7 @@ msgid ""
 msgstr ""
 
 #: get-started/tutorials.md:block 7 (paragraph)
-msgid "[Learn more](../build-tools/tutorials.md)"
+msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button}"
 msgstr ""
 
 #: get-started/wikimedia-tech.md:meta.title
@@ -1727,9 +1708,8 @@ msgstr ""
 #: use-content/content.md:block 4 (paragraph)
 msgid ""
 "Wikimedia content is organized by project and language. Each project hosts a"
-" different type of free content: encyclopedia articles on Wikipedia, "
-"dictionary entries on Wiktionary, media files on Wikimedia Commons, and "
-"more."
+" different type of free content, like encyclopedia articles on Wikipedia, "
+"media files on Wikimedia Commons, and structured data on Wikidata."
 msgstr ""
 
 #: use-content/content.md:block 5 (unordered list)
@@ -1739,15 +1719,14 @@ msgid ""
 msgstr ""
 
 #: use-content/content.md:block 6 (header)
-msgid "Terms and conditions"
+msgid "Review the terms and conditions"
 msgstr ""
 
 #: use-content/content.md:block 7 (paragraph)
 msgid ""
-"Most Wikimedia content is licensed under a Creative Commons license. This "
-"means that you are free to share and remix the content as long as you comply"
-" with the terms of the license. There are some exceptions, so check the "
-"bottom of any wiki page to find the applicable license."
+"Most Wikimedia content is licensed under a Creative Commons license that "
+"allows free reuse with attribution. You can check the bottom of any wiki "
+"page to find the applicable license."
 msgstr ""
 
 #: use-content/content.md:block 8 (unordered list)
@@ -1756,66 +1735,17 @@ msgid ""
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
 msgstr ""
 
-#: use-content/content.md:block 18 (header) use-content/data.md:block 9
-#: (header)
-msgid "Tutorials"
-msgstr ""
-
-#: use-content/content.md:block 19 (header) use-content/tutorials.md:block 9
-#: (header)
-msgid "Display the picture of the day"
-msgstr ""
-
-#: use-content/content.md:block 20 (paragraph) use-content/tutorials.md:block
-#: 10 (paragraph)
-msgid ""
-"Learn how to use the MediaWiki API to fetch the daily featured picture from "
-"Wikipedia. This tutorial uses Python and the Flask framework."
-msgstr ""
-
-#: use-content/content.md:block 21 (unordered list)
-#: use-content/tutorials.md:block 11 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
-msgstr ""
-
-#: use-content/content.md:block 22 (header) use-content/tutorials.md:block 18
-#: (header)
-msgid "Search articles by location"
-msgstr ""
-
-#: use-content/content.md:block 23 (paragraph) use-content/tutorials.md:block
-#: 19 (paragraph)
-msgid ""
-"Learn how to use the MediaWiki API to search for Wikipedia articles near a "
-"specific location. This tutorial uses Python, the Flask framework, and "
-"JavaScript."
-msgstr ""
-
-#: use-content/content.md:block 24 (unordered list)
-#: use-content/tutorials.md:block 20 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr ""
-
-#: use-content/content.md:block 25 (paragraph) use-content/data.md:block 16
-#: (paragraph)
-msgid "[See all tutorials](./tutorials.md){ .md-button }"
-msgstr ""
-
-#: use-content/content.md:block 26 (header)
+#: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
 msgstr ""
 
-#: use-content/content.md:block 27 (paragraph)
+#: use-content/content.md:block 19 (paragraph)
 msgid ""
 "Wikimedia Enterprise provides a suite of APIs and services designed for "
 "high-volume, commercial access to Wikimedia content and data."
 msgstr ""
 
-#: use-content/content.md:block 28 (unordered list)
+#: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
 msgstr ""
 
@@ -1830,9 +1760,8 @@ msgstr ""
 
 #: use-content/data.md:block 4 (paragraph)
 msgid ""
-"Access publicly-available, open-licensed data about Wikimedia projects. "
-"Choose from bulk downloads, streams of recent changes, page views and "
-"statistics, and more."
+"Access publicly-available, open-licensed data about Wikimedia projects, "
+"including bulk downloads, streams of recent changes, and page statistics."
 msgstr ""
 
 #: use-content/data.md:block 5 (unordered list)
@@ -1848,51 +1777,14 @@ msgstr ""
 #: use-content/data.md:block 7 (paragraph)
 msgid ""
 "Wikidata is a free and open knowledge base that can be read and edited by "
-"both humans and machines. Learn how to access data from Wikidata and follow "
-"best practices for reusing it."
+"both humans and machines. Learn how to access data from Wikidata, and follow"
+" best practices for reusing it."
 msgstr ""
 
 #: use-content/data.md:block 8 (unordered list)
 msgid ""
 "[Read more on "
 "Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr ""
-
-#: use-content/data.md:block 10 (header) use-content/tutorials.md:block 6
-#: (header)
-msgid "Display information from Wikidata"
-msgstr ""
-
-#: use-content/data.md:block 11 (paragraph) use-content/tutorials.md:block 7
-#: (paragraph)
-msgid ""
-"Use the MediaWiki API to fetch and display information from Wikidata. Learn "
-"how Wikipedia articles are associated with Wikidata and how to parse "
-"Wikidata structures."
-msgstr ""
-
-#: use-content/data.md:block 12 (unordered list)
-#: use-content/tutorials.md:block 8 (unordered list)
-msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
-msgstr ""
-
-#: use-content/data.md:block 13 (header) use-content/tutorials.md:block 15
-#: (header)
-msgid "Get started querying Wikidata"
-msgstr ""
-
-#: use-content/data.md:block 14 (paragraph) use-content/tutorials.md:block 16
-#: (paragraph)
-msgid ""
-"Learn how query Wikidata with SPARQL. This tutorial covers the basic "
-"Wikidata and how to use the Wikidata Query Service."
-msgstr ""
-
-#: use-content/data.md:block 15 (unordered list)
-#: use-content/tutorials.md:block 17 (unordered list)
-msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
 msgstr ""
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
@@ -1934,14 +1826,77 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 10 (paragraph)
 msgid ""
-"Wikidata is a machine-readable knowledge base with millions of items. This "
-"page shows apps that use Wikidata to visualize knowledge from a variety of "
-"subjects. Check out these visualizations to get inspired and see open source"
-" examples of how to reuse Wikidata."
+"Wikidata is a machine-readable knowledge base with millions of items. Browse"
+" this list of visualizations to get inspired and see open source examples of"
+" how to reuse Wikidata."
 msgstr ""
 
 #: use-content/featured-apps.md:block 11 (unordered list)
 msgid ""
 "[Read more on "
 "Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+msgstr ""
+
+#: use-content/tutorials.md:block 6 (header)
+msgid "Display information from Wikidata"
+msgstr ""
+
+#: use-content/tutorials.md:block 7 (paragraph)
+msgid ""
+"Use the MediaWiki API to fetch and display information from Wikidata. Learn "
+"how Wikipedia articles are associated with Wikidata and how to parse "
+"Wikidata structures."
+msgstr ""
+
+#: use-content/tutorials.md:block 8 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+msgstr ""
+
+#: use-content/tutorials.md:block 9 (header)
+msgid "Display the picture of the day"
+msgstr ""
+
+#: use-content/tutorials.md:block 10 (paragraph)
+msgid ""
+"Learn how to use the MediaWiki API to fetch the daily featured picture from "
+"Wikipedia. This tutorial uses Python and the Flask framework."
+msgstr ""
+
+#: use-content/tutorials.md:block 11 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+msgstr ""
+
+#: use-content/tutorials.md:block 15 (header)
+msgid "Get started querying Wikidata"
+msgstr ""
+
+#: use-content/tutorials.md:block 16 (paragraph)
+msgid ""
+"Learn how to query Wikidata with SPARQL. This tutorial covers the basics of "
+"Wikidata and how to use the Wikidata Query Service."
+msgstr ""
+
+#: use-content/tutorials.md:block 17 (unordered list)
+msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
+msgstr ""
+
+#: use-content/tutorials.md:block 18 (header)
+msgid "Search articles by location"
+msgstr ""
+
+#: use-content/tutorials.md:block 19 (paragraph)
+msgid ""
+"Learn how to use the MediaWiki API to search for Wikipedia articles near a "
+"specific location. This tutorial uses JavaScript, Python, and the Flask "
+"framework."
+msgstr ""
+
+#: use-content/tutorials.md:block 20 (unordered list)
+msgid ""
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 msgstr ""

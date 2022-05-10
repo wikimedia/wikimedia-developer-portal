@@ -1,6 +1,6 @@
 ---
 title: Learn about cloud hosting for tools
-description: Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and share your tool with others.
+description: Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others.
 links:
   - url: https://wikitech.wikimedia.org/wiki/Portal:Toolforge
     label: Read more on Wikitech

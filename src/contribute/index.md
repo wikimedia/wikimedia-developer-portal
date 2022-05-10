@@ -2,7 +2,7 @@
 title: Contribute to Wikimedia open source
 ---
 
-Help build the Wikimedia ecosystem with open source software projects.
+Help build the Wikimedia ecosystem with open source software.
 
 ## [Learn how contributing works](overview.md)
 
@@ -14,7 +14,7 @@ Find ways to contribute, and connect with others with shared interests.
 
 ## [Contribute by programming language](by-language.md)
 
-Choose a project based on programming language.
+Choose a project to contribute to based on programming language.
 
 ## [Search all projects](search.md)
 

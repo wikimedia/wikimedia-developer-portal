@@ -1,6 +1,6 @@
 ---
 title: Query wiki databases
-description: Wiki replicas are sanitized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries.
+description: Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries.
 links:
   - url: https://quarry.wmcloud.org/
     label: Visit Quarry

@@ -1,6 +1,6 @@
 ---
 title: Search articles by location
-description: Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses Python, the Flask framework, and JavaScript.
+description: Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework.
 links:
   - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer
     label: Read more on mediawiki.org

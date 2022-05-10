@@ -3,6 +3,6 @@ title: Structured data infrastructure
 description: Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata.
 links:
   - url: https://wmde.github.io/wikidata-wikibase-architecture/
-    label: Read more on Github
+    label: Read the docs
 categories:
   wikimedia-tech-operations: 4

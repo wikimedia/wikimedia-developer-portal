@@ -2,7 +2,7 @@
 title: Cloud tools and services
 description: Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects.
 links:
-  - url: https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction
+  - url: https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction
     label: Read more on Wikitech
 categories:
   wikimedia-tech: 2
