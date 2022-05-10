@@ -187,10 +187,6 @@ msgid ""
 "web services, and hosting tools that help Wikimedia projects."
 msgstr ""
 
-#: build-tools/index.md:block 12 (paragraph)
-msgid "[Learn more](host-tools.md)"
-msgstr ""
-
 #: build-tools/apis.md:meta.title build-tools/apis.md:title
 #: build-tools/apis.md:block 1 (header)
 msgid "Use APIs and data sources"
