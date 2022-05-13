@@ -3,6 +3,11 @@ title: About
 ---
 
 The Wikimedia Developer Portal is a central entry point for [Wikimedia](https://wikimediafoundation.org/) technical documentation, created by the Wikimedia Foundation Developer Advocacy Team. For more information about the project and to share your feedback, visit [mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal). For technical documentation about the portal and its implementation, see [the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal).
+The source code is available on [Gerrit](https://gerrit.wikimedia.org/r/plugins/gitiles/wikimedia/developer-portal).
+
+## License
+
+Wikimedia Developer Portal code and configuration is licensed under the [GNU GPLv3+](https://www.gnu.org/licenses/gpl-3.0.html) license. Textual content is licensed under the [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
 
 ## Image credits
 
