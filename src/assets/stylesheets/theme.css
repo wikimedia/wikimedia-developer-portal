@@ -30,6 +30,14 @@
 	color: #FFF;
 }
 
+[dir=ltr] .md-header__title {
+    margin-left: 0rem;
+}
+
+[dir=rtl] .md-header__title {
+    margin-right: 0rem;
+}
+
 .md-typeset h1 {
 	color: var(--md-typeset-color);
 	font-size: 1.8rem;
