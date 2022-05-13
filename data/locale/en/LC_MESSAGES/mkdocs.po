@@ -7,7 +7,9 @@ msgid "Wikimedia Developer Portal"
 msgstr ""
 
 #: mkdocs.yml:site_description
-msgid "Find Wikimedia technical documentation and communities"
+msgid ""
+"Find technical documentation, and connect with Wikimedia developer "
+"communities."
 msgstr ""
 
 #: mkdocs.yml:site_author
@@ -114,7 +116,7 @@ msgstr ""
 msgid "[Connect with the community](community/)"
 msgstr ""
 
-#: index.md:block 14 (paragraph)
+#: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid ""
 "Get involved with the Wikimedia technical community, and find opportunities "
 "for support and learning."
@@ -537,52 +539,52 @@ msgid ""
 "Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
 msgstr ""
 
-#: community/index.md:block 1 (header)
+#: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
 msgstr ""
 
-#: community/index.md:block 2 (paragraph) community/events.md:block 2
+#: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
 msgid "Browse content from past events, or join an upcoming event."
 msgstr ""
 
-#: community/index.md:block 3 (header)
+#: community/index.md:block 4 (header)
 msgid "[Communicate with the tech community](communicate.md)"
 msgstr ""
 
-#: community/index.md:block 4 (paragraph) community/communicate.md:block 2
+#: community/index.md:block 5 (paragraph) community/communicate.md:block 2
 #: (paragraph)
 msgid ""
 "Understand communication channels and how to connect with Wikimedia "
 "developers."
 msgstr ""
 
-#: community/index.md:block 5 (header)
+#: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
 msgstr ""
 
-#: community/index.md:block 6 (paragraph) community/grow.md:block 2
+#: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid ""
 "Grow your skills, or help others learn through workshops, internships, and "
 "mentoring opportunities."
 msgstr ""
 
-#: community/index.md:block 7 (header)
+#: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
 msgstr ""
 
-#: community/index.md:block 8 (paragraph) community/updates.md:block 2
+#: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
 msgid ""
 "Stay up to date with the latest from the Wikimedia technical community."
 msgstr ""
 
-#: community/index.md:block 9 (header)
+#: community/index.md:block 10 (header)
 msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
 msgstr ""
 
-#: community/index.md:block 10 (paragraph) community/tech-ops.md:block 2
+#: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
 #: (paragraph)
 msgid ""
 "Find information about the infrastructure and teams behind Wikimedia "

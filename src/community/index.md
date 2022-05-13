@@ -1,6 +1,9 @@
 ---
 title: Community
 ---
+
+Get involved with the Wikimedia technical community, and find opportunities for support and learning.
+
 ## [Explore hackathons and events](events.md)
 
 Browse content from past events, or join an upcoming event.
