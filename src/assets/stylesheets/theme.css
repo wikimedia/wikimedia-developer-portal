@@ -102,3 +102,20 @@ p > img {
 		padding-top: 25px;
 	}
 }
+
+.md-footer .md-grid {
+    justify-content: stretch;
+}
+.md-footer .md-copyright {
+    margin: 0;
+    flex-grow: 1;
+}
+.footer-links ul {
+    list-style: none;
+    margin: .5em 0 !important;
+    font-size: .64rem;
+}
+.footer-links ul > li {
+    display: inline-block;
+    margin: 0 .25em !important;
+}

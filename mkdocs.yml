@@ -44,6 +44,7 @@ nav:
 docs_dir: src
 theme:
   name: material
+  custom_dir: data/theme
   language: en
   font: false
   logo: assets/wikimedia.svg
@@ -82,6 +83,16 @@ extra:
     - name: English
       link: /
       lang: en
+  generator: false
+  footer_links:
+    - label: Privacy policy
+      href: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy
+    - label: Terms of Use
+      href: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use
+    - label: "Code: GPL-3.0-or-later"
+      href: https://www.gnu.org/licenses/gpl-3.0.html
+    - label: "Content: CC-BY-SA-3.0"
+      href: https://creativecommons.org/licenses/by-sa/3.0/
 
 markdown_extensions:
   - meta

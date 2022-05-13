@@ -29,7 +29,7 @@ This project's documentation is at https://wikitech.wikimedia.org/wiki/Developer
 
 ## License
 
-Wikimedia Developer Portal code and configuration is licensed under the [GNU GPLv3+][] license. Textual content is licensed under the [CC-BY-SA 3.0][] license.
+Wikimedia Developer Portal code and configuration is licensed under the [GPL-3.0-or-later][] license. Textual content is licensed under the [CC-BY-SA-3.0][] license.
 
-[GNU GPLv3+]: https://www.gnu.org/licenses/gpl-3.0.html
-[CC-BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
+[GPL-3.0-or-later]: https://www.gnu.org/licenses/gpl-3.0.html
+[CC-BY-SA-3.0]: https://creativecommons.org/licenses/by-sa/3.0/

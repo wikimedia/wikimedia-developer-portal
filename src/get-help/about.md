@@ -7,7 +7,7 @@ The source code is available on [Gerrit](https://gerrit.wikimedia.org/r/plugins/
 
 ## License
 
-Wikimedia Developer Portal code and configuration is licensed under the [GNU GPLv3+](https://www.gnu.org/licenses/gpl-3.0.html) license. Textual content is licensed under the [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
+Wikimedia Developer Portal code and configuration is licensed under the [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html) license. Textual content is licensed under the [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
 
 ## Image credits
 

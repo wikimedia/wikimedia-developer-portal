@@ -1,0 +1,14 @@
+<div class="md-copyright">
+  {% if config.copyright %}
+    <div class="md-copyright__highlight">
+      {{ config.copyright }}
+    </div>
+  {% endif %}
+</div>
+<div class="footer-links">
+    <ul>
+        {% for link in config.extra.footer_links %}
+        <li><a href="{{ link.href }}">{{ link.label }}</a></li>
+        {% endfor %}
+    </ul>
+</div>

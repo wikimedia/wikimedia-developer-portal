@@ -190,6 +190,15 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         po = polib.POFile()
         for key in self.CONFIG_KEYS:
             util.add_to_po(po, config[key], "mkdocs.yml", key)
+
+        if "footer_links" in config["extra"]:
+            for idx, link in enumerate(config["extra"]["footer_links"]):
+                util.add_to_po(
+                    po,
+                    link["label"],
+                    "mkdocs.yml",
+                    "extra.footer_links.{}".format(idx),
+                )
         self.merge_po_into_catalog(po)
 
         for lang in self.po_files.keys():
@@ -227,6 +236,11 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         po = self.po_for_lang(lang)
         for key in self.CONFIG_KEYS:
             config[key] = util.get_message(po, src_config[key])
+
+        if "footer_links" in src_config["extra"]:
+            flinks = config["extra"]["footer_links"]
+            for idx, link in enumerate(src_config["extra"]["footer_links"]):
+                flinks[idx]["label"] = util.get_message(po, link["label"])
 
         # T306672: vary url for header logo nav by locale
         config["extra"]["homepage"] = "/{}/".format(lang)
