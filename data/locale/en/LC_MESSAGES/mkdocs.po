@@ -1,6 +1,31 @@
+# Copyright (c) 2022 Wikimedia Foundation and contributors.
+# All Rights Reserved.
 #
+# This file is part of Wikimedia Developer Portal.
+#
+# Wikimedia Developer Portal is free software: you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or (at your
+# option) any later version.
+#
+# Wikimedia Developer Portal is distributed in the hope that it will be
+# useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+# Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# Wikimedia Developer Portal.  If not, see <http://www.gnu.org/licenses/>.
+#
+#, fuzzy
 msgid ""
 msgstr ""
+"POT-Creation-Date: 2022-05-17 21:29:19+00:00\n"
+"PO-Revision-Date: 2022-05-17 21:29:19+00:00\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: mkdocs.yml:site_name
 msgid "Wikimedia Developer Portal"

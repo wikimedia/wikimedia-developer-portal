@@ -135,7 +135,14 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
             now = datetime.datetime.now(datetime.timezone.utc).isoformat(
                 sep=" ", timespec="seconds"
             )
+            header_comments = []
+            with pathlib.Path(__file__).open() as fh:
+                for line in fh:
+                    if not line.startswith("#"):
+                        break
+                    header_comments.append(line.lstrip("# "))
             po = polib.POFile()
+            po.header = "".join(header_comments)
             po.metadata = {
                 "POT-Creation-Date": now,
                 "PO-Revision-Date": now,
@@ -143,6 +150,7 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
                 "MIME-Version": "1.0",
                 "Content-Type": "text/plain; charset=utf-8",
                 "Content-Transfer-Encoding": "8bit",
+                "Plural-Forms": "nplurals=2; plural=(n != 1);",
             }
             po.metadata_is_fuzzy = True
             po.save(self.catalog_file)
@@ -466,6 +474,7 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
     def remove_obsolete_messages(self):
         """Remove messages marked as obsolete from catalog."""
         po = polib.POFile()
+        po.header = self.catalog.header
         po.fpath = self.catalog.fpath
         po.encoding = self.catalog.encoding
         po.metadata = self.catalog.metadata
