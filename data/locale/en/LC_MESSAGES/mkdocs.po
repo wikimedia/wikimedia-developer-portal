@@ -1493,25 +1493,31 @@ msgid ""
 "created by the Wikimedia Foundation Developer Advocacy Team. For more "
 "information about the project and to share your feedback, visit "
 "[mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
-" For technical documentation about the portal and its implementation, see "
+msgstr ""
+
+#: get-help/about.md:block 2 (paragraph)
+msgid ""
+"For technical documentation about the portal and its implementation, see "
 "[the docs on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal). The source "
-"code is available on "
+"Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal). This site "
+"is built using [MkDocs](https://www.mkdocs.org/), [Material for "
+"MkDocs](https://squidfunk.github.io/mkdocs-material/), and "
+"[mdpo](https://pypi.org/project/mdpo/). The source code is available on "
 "[Gerrit](https://gerrit.wikimedia.org/r/plugins/gitiles/wikimedia/developer-"
 "portal)."
 msgstr ""
 
-#: get-help/about.md:block 2 (paragraph)
+#: get-help/about.md:block 3 (paragraph)
 msgid ""
 "To propose or contribute code, content, or translations, see [the docs on "
 "Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal#Contribute)."
 msgstr ""
 
-#: get-help/about.md:block 3 (header)
+#: get-help/about.md:block 4 (header)
 msgid "License"
 msgstr ""
 
-#: get-help/about.md:block 4 (paragraph)
+#: get-help/about.md:block 5 (paragraph)
 msgid ""
 "Wikimedia Developer Portal code and configuration is licensed under the "
 "[GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html) license. "
@@ -1519,24 +1525,24 @@ msgid ""
 "SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) license."
 msgstr ""
 
-#: get-help/about.md:block 5 (header)
+#: get-help/about.md:block 6 (header)
 msgid "Image credits"
 msgstr ""
 
-#: get-help/about.md:block 6 (unordered list)
+#: get-help/about.md:block 7 (unordered list)
 msgid ""
 "Wikimedia logo by Neolux, public domain, via [Wikimedia "
 "Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)"
 msgstr ""
 
-#: get-help/about.md:block 6 (unordered list)
+#: get-help/about.md:block 7 (unordered list)
 msgid ""
 "Wikimedia favicon by the Wikimedia Foundation, [CC BY-SA "
 "3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia "
 "Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)"
 msgstr ""
 
-#: get-help/about.md:block 6 (unordered list)
+#: get-help/about.md:block 7 (unordered list)
 msgid ""
 "Adapted Wikipedia 20 illustrations by Jasmina El Bouamraoui and Karabo Poppy"
 " Moletsane, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), "
