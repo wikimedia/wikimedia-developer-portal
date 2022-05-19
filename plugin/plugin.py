@@ -124,6 +124,10 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         # Scan locale_dir for translation dictionaries
         for p in locale_dir.glob("**/LC_MESSAGES/mkdocs.po"):
             lang = p.parts[len(locale_dir.parts)]
+            if lang == "qqq":
+                # Ignore the fake 'qqq' locale used for message documentation
+                logger.debug("Ignoring qqq locale translation dictionary")
+                continue
             self.po_files[lang] = str(p)
         logger.debug("Locales found on disk: %s", list(self.po_files.keys()))
 
