@@ -39,6 +39,7 @@ from . import util
 
 logger = logging.getLogger("mkdocs.plugins.wikimedia")
 
+# Languages known to be supported by the lunr.js system
 LUNR_LANGS = [
     "ar",
     "da",
@@ -59,6 +60,64 @@ LUNR_LANGS = [
     "th",
     "tr",
     "vi",
+]
+
+# Languages known to be supported by the mkdocs-material theme
+THEME_LANGS = [
+    "af",
+    "ar",
+    "bg",
+    "bn",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "en",
+    "eo",
+    "es",
+    "et",
+    "fa",
+    "fi",
+    "fr",
+    "gl",
+    "he",
+    "hi",
+    "hr",
+    "hu",
+    "id",
+    "is",
+    "it",
+    "ja",
+    "ka",
+    "kr",
+    "lv",
+    "mk",
+    "mn",
+    "ms",
+    "my",
+    "nl",
+    "nn",
+    "no",
+    "pl",
+    "pt",
+    "pt-BR",
+    "ro",
+    "ru",
+    "sh",
+    "si",
+    "sk",
+    "sl",
+    "sr",
+    "sv",
+    "th",
+    "tr",
+    "uk",
+    "uz",
+    "vi",
+    "zh",
+    "zh-Hant",
+    "zh-TW",
 ]
 
 
@@ -244,7 +303,8 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         # Preserve orginal plugins object in clones
         config["plugins"] = src_config["plugins"]
 
-        config["theme"]["language"] = lang
+        if lang in THEME_LANGS:
+            config["theme"]["language"] = lang
         po = self.po_for_lang(lang)
         for key in self.CONFIG_KEYS:
             config[key] = util.get_message(po, src_config[key])
@@ -422,7 +482,8 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
             self.update_nav_paths_for_lang(lang)
 
             config = self.configs[lang]
-            config["theme"].language = lang
+            if lang in THEME_LANGS:
+                config["theme"].language = lang
             env = config["theme"].get_env()
             files = self.files[lang]
             nav = mkdocs.structure.nav.get_navigation(files, config)
