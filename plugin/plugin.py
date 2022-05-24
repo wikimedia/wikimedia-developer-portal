@@ -474,56 +474,63 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
 
     def on_post_build(self, config):
         """Build localized versions."""
-        # Run a truncated version of the mkdocs build process for each locale.
-        # Largely copied from mkdocs-static-i18n
         for lang in self.po_files.keys():
-            logger.info("Building %s site", lang)
-
-            self.update_nav_paths_for_lang(lang)
-
-            config = self.configs[lang]
-            if lang in THEME_LANGS:
-                config["theme"].language = lang
-            env = config["theme"].get_env()
-            files = self.files[lang]
-            nav = mkdocs.structure.nav.get_navigation(files, config)
-
-            # Fire `on_nav` event
-            nav = config["plugins"].run_event(
-                "nav",
-                nav,
-                config=config,
-                files=files,
-            )
-
-            # Process markdown pages
-            logger.debug("Processing markdown files for %s", lang)
-            for file in files.documentation_pages():
-                mkdocs.commands.build._populate_page(
-                    file.page,
-                    config,
-                    files,
-                )
-
-            # Copy static files to build destination
-            # FIXME: do we actually need this?
-            files.copy_static_files()
-
-            # Render markdown pages to files
-            for file in files.documentation_pages():
-                mkdocs.commands.build._build_page(
-                    file.page,
-                    config,
-                    files,
-                    nav,
-                    env,
-                )
-
-            # Fire post-build event for search plugin
-            config["plugins"]["search"].on_post_build(config)
+            try:
+                self.build_for_language(lang)
+            except Exception:  # noqa: B902 blind except Exception: statement
+                logger.exception("Failed to build for %s", lang)
 
         self.remove_obsolete_messages()
         self.cleanup_tmp()
+
+    def build_for_language(self, lang):
+        """Build site for a given language code."""
+        # Run a truncated version of the mkdocs build process.
+        # Largely copied from mkdocs-static-i18n
+        logger.info("Building %s site", lang)
+
+        self.update_nav_paths_for_lang(lang)
+
+        config = self.configs[lang]
+        if lang in THEME_LANGS:
+            config["theme"].language = lang
+        env = config["theme"].get_env()
+        files = self.files[lang]
+        nav = mkdocs.structure.nav.get_navigation(files, config)
+
+        # Fire `on_nav` event
+        nav = config["plugins"].run_event(
+            "nav",
+            nav,
+            config=config,
+            files=files,
+        )
+
+        # Process markdown pages
+        logger.debug("Processing markdown files for %s", lang)
+        for file in files.documentation_pages():
+            mkdocs.commands.build._populate_page(
+                file.page,
+                config,
+                files,
+            )
+
+        # Copy static files to build destination
+        # FIXME: do we actually need this?
+        files.copy_static_files()
+
+        # Render markdown pages to files
+        for file in files.documentation_pages():
+            mkdocs.commands.build._build_page(
+                file.page,
+                config,
+                files,
+                nav,
+                env,
+            )
+
+        # Fire post-build event for search plugin
+        config["plugins"]["search"].on_post_build(config)
 
     def update_nav_paths_for_lang(self, lang):
         """Update paths in config nav for this language."""
