@@ -19,6 +19,7 @@ import copy
 import datetime
 import logging
 import math
+import operator
 import os
 import pathlib
 import shutil
@@ -244,6 +245,8 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
                     "lang": lang,
                 }
             )
+        # Order list of alternate languages by display name
+        config["extra"]["alternate"].sort(key=operator.itemgetter("name"))
         self.alternates = copy.deepcopy(config["extra"]["alternate"])
 
         # Add supported locales to the search plugin config
@@ -474,7 +477,7 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
 
     def on_post_build(self, config):
         """Build localized versions."""
-        for lang in self.po_files.keys():
+        for lang in sorted(self.po_files.keys()):
             try:
                 self.build_for_language(lang)
             except Exception:  # noqa: B902 blind except Exception: statement
