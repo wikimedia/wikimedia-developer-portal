@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-05-23 11:17:20+0000\n"
+"PO-Revision-Date: 2022-05-26 11:18:07+0000\n"
 "X-POT-Import-Date: 2022-05-20 10:46:41+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -125,7 +125,7 @@ msgstr "도구와 봇은 위키미디어 프로젝트 편집과 유지를 더 �
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
-msgstr ""
+msgstr "[위키미디어 오픈 소스에 기여](contribute/)"
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
@@ -467,7 +467,7 @@ msgstr ""
 
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
-msgstr ""
+msgstr "[위키테크에서 더 읽기](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
@@ -589,7 +589,7 @@ msgstr ""
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
-msgstr ""
+msgstr "[위키데이터에서 더 읽기](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
 
 #: community/events.md:block 9 (header)
 msgid "Research events"
@@ -639,7 +639,7 @@ msgstr ""
 #: community/events.md:block 20 (unordered list) community/grow.md:block 8
 #: (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr ""
+msgstr "[메타위키에서 더 읽기](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -1121,7 +1121,7 @@ msgstr ""
 
 #: contribute/overview.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
-msgstr ""
+msgstr "[mediawiki.org에서 더 읽기](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
 
 #: contribute/overview.md:block 15 (header)
 msgid "See your contributions"
@@ -1213,7 +1213,7 @@ msgstr "[위키 간 검색](https://global-search.toolforge.org/)"
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
-msgstr ""
+msgstr "[위키미디어 오픈 소스 설명문서 둘러보기](https://doc.wikimedia.org/)"
 
 #: get-help/index.md:block 12 (header)
 msgid "Check system status"
@@ -1225,7 +1225,7 @@ msgstr ""
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
-msgstr ""
+msgstr "[wikimediastatus.net 방문](https://www.wikimediastatus.net/)"
 
 #: get-help/about.md:meta.title get-help/about.md:title
 msgid "About"
@@ -1277,7 +1277,7 @@ msgstr ""
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
-msgstr ""
+msgstr "[개발 프로세스 이해](new-dev.md)"
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
@@ -1320,7 +1320,7 @@ msgstr ""
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr ""
+msgstr "개발 프로세스 이해"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
@@ -1455,7 +1455,7 @@ msgstr "위키 내용 사용"
 
 #: use-content/content.md:block 3 (header)
 msgid "Introduction to Wikimedia projects"
-msgstr ""
+msgstr "위키미디어 프로젝트 소개"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
@@ -1504,7 +1504,7 @@ msgstr ""
 
 #: use-content/data.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
-msgstr ""
+msgstr "[메타위키에서 더 읽기](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
 
 #: use-content/data.md:block 6 (header)
 msgid "Explore structured data with Wikidata"
@@ -1605,5 +1605,5 @@ msgstr ""
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr ""
+msgstr "[mediawiki.org에서 더 읽기](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 

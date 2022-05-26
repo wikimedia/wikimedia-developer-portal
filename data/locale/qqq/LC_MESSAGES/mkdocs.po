@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: BryanDavis
+# Author: Verdy p
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -23,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-05-23 11:17:20+0000\n"
+"PO-Revision-Date: 2022-05-26 11:18:08+0000\n"
 "X-POT-Import-Date: 2022-05-20 10:46:41+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -946,7 +947,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 14 (header)
 msgid "Go"
-msgstr ""
+msgstr "\"Go\" is the name of a programming language (see “The Go Programming Language” on https://go.dev/, or “[[wikipedia:en:Go (programming language)|Go (programming language)]]” on Wikipedia)."
 
 #: contribute/by-language.md:block 15 (header)
 msgid "Blubber"

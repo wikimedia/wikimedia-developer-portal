@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-05-23 11:17:20+0000\n"
+"PO-Revision-Date: 2022-05-26 11:18:07+0000\n"
 "X-POT-Import-Date: 2022-05-20 10:46:41+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -59,7 +59,7 @@ msgstr "Conditions d’utilisation"
 
 #: mkdocs.yml:extra.footer_links.2
 msgid "Code: GPL-3.0-or-later"
-msgstr "Code : GPL 3.0 ou ultérieur"
+msgstr "Code : GPL 3.0 ou ultérieure"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-3.0"
@@ -69,7 +69,7 @@ msgstr "Contenu : CC BY-SA 3.0"
 #: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
 #: get-started/index.md:title
 msgid "Get started"
-msgstr "Démarrer"
+msgstr "Bien démarrer"
 
 #: mkdocs.yml:navigation use-content/index.md:meta.title
 #: use-content/index.md:title
@@ -182,7 +182,7 @@ msgstr "[Utiliser des APIs et sources de données](apis.md)"
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
-msgstr "Explorer les interfaces de programmation pour construire des robots et outils."
+msgstr "Explorez les interfaces de programmation pour construire des robots et outils."
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
@@ -211,7 +211,7 @@ msgstr "Pywikibot est une bibliothèque Python et une collection de scripts qui 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
-msgstr "[Lire le manuel sur mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[Lire le manuel sur MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -299,12 +299,12 @@ msgstr "Construire votre premier outil"
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
 msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
-msgstr "Appenez comment modifier des pages wiki en utilisant Python et la structure Pywikibot. Ce tutoriel vous aide à démarrer rapidement en utilisant seulement votre navigateur."
+msgstr "Appenez comment modifier des pages wiki en utilisant Python et le cadre de travail Pywikibot. Ce tutoriel vous aide à démarrer rapidement en utilisant seulement votre navigateur."
 
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
-msgstr "[Lire davantage sur mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr "[Lire davantage sur MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
@@ -316,7 +316,7 @@ msgstr "Les robot aident à maintenir les wikis en effectuant des tâches répé
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
-msgstr "[Lire davantage sur mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr "[Lire davantage sur MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
 
 #: build-tools/get-started.md:block 9 (header)
 msgid "Best practices for open source tools"
@@ -389,7 +389,7 @@ msgstr "Partager un outil"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
-msgstr "Ajoutez votre outil au catalogue Toolhub pour que d’autres puissent en bénéficier et construire à partir de votre travail. Connectez-vous à Toolhub avec votre compte Wikimédia pour démarrer."
+msgstr "Ajoutez votre outil au catalogue Toolhub pour que d’autres puissent en bénéficier et construire à partir de votre travail. Connectez-vous à Toolhub avec votre compte Wikimedia pour bien démarrer."
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
@@ -416,7 +416,7 @@ msgstr "Apprenez comment utiliser l’API de MediaWiki pour générer des idées
 #: build-tools/tutorials.md:block 8 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
-msgstr "[Lire davantage sur mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr "[Lire davantage sur MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 
 #: build-tools/tutorials.md:block 9 (header)
 msgid "Write a bot that uses Wikidata"
@@ -455,7 +455,7 @@ msgstr "Personnalisez MediaWiki avec du JavaScript ou du CSS côté client. Util
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
-msgstr "[Lire davantage sur mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+msgstr "[Lire davantage sur MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
@@ -476,7 +476,7 @@ msgstr "[Explorer les hackathons et les événements](events.md)"
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
 msgid "Browse content from past events, or join an upcoming event."
-msgstr "Naviguez dans le contenu depuis les événements passés ou rejoignez un prochain événement."
+msgstr "Parcourez le contenu des événements passés ou rejoignez un prochain événement."
 
 #: community/index.md:block 4 (header)
 msgid "[Communicate with the tech community](communicate.md)"
@@ -597,7 +597,7 @@ msgstr "Rechercher des événements"
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
-msgstr "Rejoignez des forums et réunion de scientifiques, ingénieurs et étudiants qui explorent tous les aspects des projets Wikimedia."
+msgstr "Rejoignez des forums et réunions de scientifiques, ingénieurs et étudiants qui explorent tous les aspects des projets Wikimedia."
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
@@ -609,7 +609,7 @@ msgstr "Événements pour développeurs de MediaWiki"
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
-msgstr "Rejoignez les réunions, conférences et sessions de codage liés à MediaWiki et au code de Wikimedia."
+msgstr "Rejoignez les réunions, conférences et sessions de codage relatives à MediaWiki et au code de Wikimedia."
 
 #: community/events.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
@@ -700,7 +700,7 @@ msgstr "Opérations techniques de Wikimedia"
 #: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
 #: 9 (header)
 msgid "Cloud tools and services"
-msgstr "Outils et services hébergés en ligne"
+msgstr "Outils et services hébergés en ligne (sur le « cloud »)"
 
 #: community/tech-ops.md:block 4 (paragraph)
 #: get-started/wikimedia-tech.md:block 10 (paragraph)
@@ -807,7 +807,7 @@ msgstr "Bulletin d’information de la communauté technique"
 
 #: community/updates.md:block 7 (paragraph)
 msgid "Subscribe to quarterly updates on activities in the Wikimedia technical community."
-msgstr "Abonnez-vous aux mises à jour trimestrielles sur les activités de la communauté technique Wikimédia."
+msgstr "Abonnez-vous au bulletin trimestriel d’information sur les activités de la communauté technique de Wikimedia."
 
 #: community/updates.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
@@ -923,7 +923,7 @@ msgstr "[Obtenir le code source](https://github.com/commons-app/apps-android-com
 
 #: contribute/by-language.md:block 14 (header)
 msgid "Go"
-msgstr "Aller"
+msgstr "Go"
 
 #: contribute/by-language.md:block 15 (header)
 msgid "Blubber"
@@ -957,7 +957,7 @@ msgstr "MediaWiki et extensions"
 #: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
-msgstr "MediaWiki est le logiciel qui fait tourner Wikipédia, ses projets sœur et des milliers de wikis dans le monde entier."
+msgstr "MediaWiki est le logiciel qui propulse Wikipédia, ses projets sœur et des milliers de wikis dans le monde entier."
 
 #: contribute/by-language.md:block 21 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
@@ -987,7 +987,7 @@ msgstr "Tableau de bord de Wiki Éducation"
 
 #: contribute/by-language.md:block 24 (paragraph)
 msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
-msgstr "Le tableau de bord de Wiki Éducation est une application web qui soutient les affectations éducatives de Wikipédia, les modifica-thons et d’autres projets de contribution, construite avec Ruby on Rails et React."
+msgstr "Le tableau de bord de Wiki Éducation est une application web qui soutient les affectations éducatives de Wikipédia, les « modific-a-thons » et d’autres projets de contribution, construite avec Ruby on Rails et React."
 
 #: contribute/by-language.md:block 25 (unordered list)
 msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
@@ -1070,7 +1070,7 @@ msgstr "Infrastructure"
 
 #: contribute/by-topic.md:block 19 (paragraph)
 msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
-msgstr "Contribuer à l’infrastructure qui fait tourner les projets Wikimedia. Aider à améliorer la performance et l’efficacité des serveurs et du logiciel de Wikimedia."
+msgstr "Contribuez à l’infrastructure qui propulse les projets Wikimedia. Aidez à améliorer la performance et l’efficacité des serveurs et du logiciel de Wikimedia."
 
 #: contribute/by-topic.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
@@ -1233,7 +1233,7 @@ msgstr "À propos"
 
 #: get-help/about.md:block 1 (paragraph)
 msgid "The Wikimedia Developer Portal is a central entry point for [Wikimedia](https://wikimediafoundation.org/) technical documentation, created by the Wikimedia Foundation Developer Advocacy Team. For more information about the project and to share your feedback, visit [mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
-msgstr "Le Portail Développeur de Wikimedia est un point d’entrée central pour la documentation technique de [Wikimedia](https://wikimediafoundation.org/), créé par l’équipe Developer Advocate de la Fondation Wikimedia. Pour plus de renseignements sur le projet et pour partager vos avis, visitez [MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
+msgstr "Le Portail des développeurs de Wikimedia est un point d’entrée central pour la documentation technique de [Wikimedia](https://wikimediafoundation.org/), créé par l’équipe « Developer Advocate » de la Fondation Wikimedia. Pour plus de renseignements sur le projet et pour partager vos avis, visitez [MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
 
 #: get-help/about.md:block 2 (paragraph)
 msgid "For technical documentation about the portal and its implementation, see [the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal). This site is built using [MkDocs](https://www.mkdocs.org/), [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), and [mdpo](https://pypi.org/project/mdpo/). The source code is available on [Gerrit](https://gerrit.wikimedia.org/r/plugins/gitiles/wikimedia/developer-portal)."
@@ -1249,7 +1249,7 @@ msgstr "Licence"
 
 #: get-help/about.md:block 5 (paragraph)
 msgid "Wikimedia Developer Portal code and configuration is licensed under the [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html) license. Textual content is licensed under the [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) license."
-msgstr "Le code et la configuration du Portail Développeur de Wikimedia est placé sous la licence [GPL-3.0-ou-ultérieur](https://www.gnu.org/licenses/gpl-3.0.html). Le contenu textuel est placé sous la licence [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)."
+msgstr "Le code et la configuration du Portail des développeurs de Wikimedia est placé sous la licence [GPL 3.0 ou ultérieure](https://www.gnu.org/licenses/gpl-3.0.html). Le contenu textuel est placé sous la licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)."
 
 #: get-help/about.md:block 6 (header)
 msgid "Image credits"
@@ -1428,7 +1428,7 @@ msgstr "Voyez des exemples d’applis en source ouverte et de visualisations des
 #: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
-msgstr "Suiviez des guides pas à pas pour apprendre les bases de l’utilisation du contenu et des données de Wikimedia."
+msgstr "Suivez des guides pas à pas pour apprendre les bases de l’utilisation du contenu et des données de Wikimedia."
 
 #: use-content/index.md:block 6 (header)
 msgid "[Use wiki content](content.md)"

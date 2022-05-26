@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-05-23 11:17:20+0000\n"
+"PO-Revision-Date: 2022-05-26 11:18:07+0000\n"
 "X-POT-Import-Date: 2022-05-20 10:46:41+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -204,7 +204,7 @@ msgstr "Pywikibot"
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
 msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
-msgstr ""
+msgstr "Pywikibot е библиотека за Python и збирка од скрипти кои ја автоматизираат работата на Викимедиините проекти."
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -224,13 +224,13 @@ msgstr "[Перземете го изворниот код](https://gerrit.wikim
 #: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
 #: (header)
 msgid "Browse libraries by programming language"
-msgstr ""
+msgstr "Прелистајте ги библиотеките по програмски јазик"
 
 #: build-tools/apis.md:block 7 (paragraph)
 #: get-started/browse-languages.md:block 2 (paragraph)
 #: use-content/content.md:block 10 (paragraph)
 msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
-msgstr ""
+msgstr "Библиотеките за приложнички клиенти го олеснуваат пишувањето на код кој содејствува со приложникот. Посетете го овој список за да ги прелистате популарните библиотеки за приложникот на МедијаВики по програмски јазик."
 
 #: build-tools/apis.md:block 8 (unordered list)
 #: get-started/browse-languages.md:block 3 (unordered list)
@@ -275,11 +275,11 @@ msgstr "[Прочитајте повеќе на Мета](https://meta.wikimedia
 
 #: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
-msgstr ""
+msgstr "Правете побарувања од бази на податоци од викија"
 
 #: build-tools/apis.md:block 16 (paragraph)
 msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
-msgstr ""
+msgstr "Викирепликите се анонимизирани верзии на базите на податоци на кои работат Викимедиините мрежни места. Користетего Quarry за да правите и споделување SQL-побарувања."
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
@@ -331,19 +331,19 @@ msgstr "[Прочитајте повеќе на Викитехника](https://
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
-msgstr ""
+msgstr "Вдомете алатки на Викимедиините опслужувачи"
 
 #: build-tools/host-tools.md:block 3 (header)
 msgid "Run scripts in your browser"
-msgstr ""
+msgstr "Пуштајте скрипти во вашиот прелистувач"
 
 #: build-tools/host-tools.md:block 4 (paragraph)
 msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
-msgstr ""
+msgstr "PAWS е слободно, облачно вдомено игралиште за создавање на скрипти и нагледни претстави на податоци за Викимедиините проекти. Најавете се со вашата викмедиска сметка и создајте тетратка за да почнете."
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub.paws.wmcloud.org/hub/login)"
-msgstr ""
+msgstr "[Посетете го PAWS](https://hub.paws.wmcloud.org/hub/login)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -351,7 +351,7 @@ msgstr "[Прочитајте повеќе на Викитехника](https://
 
 #: build-tools/host-tools.md:block 6 (header)
 msgid "Learn about cloud hosting for tools"
-msgstr ""
+msgstr "Дознајте за облачното вдомување на алатки"
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
@@ -364,7 +364,7 @@ msgstr "[Прочитајте повеќе на Викитехника](https://
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
 msgid "Discover and share tools"
-msgstr ""
+msgstr "Откривајте и споделувајте алатки"
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
@@ -379,7 +379,7 @@ msgstr ""
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
 msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
-msgstr ""
+msgstr "[Посетете го Toolhub](https://toolhub.wikimedia.org/)"
 
 #: build-tools/search.md:block 6 (header)
 msgid "Share a tool"
@@ -469,7 +469,7 @@ msgstr "[Прочитајте повеќе на Викитехника](https://
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
-msgstr ""
+msgstr "[Истражете ги хакатоните и настаните](events.md)"
 
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
@@ -487,16 +487,16 @@ msgstr ""
 
 #: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
-msgstr ""
+msgstr "[Стекнувајте и споделувајте технички вештини](grow.md)"
 
 #: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
-msgstr ""
+msgstr "Градете ги вашите вештини, или пак помогнете им на другите да ги стекнат по пат на работилници, стажирања и советување."
 
 #: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
-msgstr ""
+msgstr "[Добивајте новости за техничките проекти](updates.md)"
 
 #: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
@@ -505,7 +505,7 @@ msgstr ""
 
 #: community/index.md:block 10 (header)
 msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
-msgstr ""
+msgstr "[Дознајте за техничките операции на Викимедија](tech-ops.md)"
 
 #: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
 #: (paragraph)
@@ -642,7 +642,7 @@ msgstr "[Прочитајте повеќе на Мета](https://meta.wikimedia
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
 msgid "Learn and share technical skills"
-msgstr ""
+msgstr "Стекнете и споделувајте технички вештини"
 
 #: community/grow.md:block 3 (header)
 msgid "Outreach and mentoring programs"
@@ -673,7 +673,7 @@ msgstr ""
 #: community/grow.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
-msgstr ""
+msgstr "[Посетете го каналот на Јутјуб](https://www.youtube.com/user/watchmediawiki/videos)"
 
 #: community/grow.md:block 12 (header)
 msgid "Tech ambassadors"
@@ -689,7 +689,7 @@ msgstr "[Прочитајте повеќе на Мета](https://meta.wikimedia
 
 #: community/tech-ops.md:meta.title community/tech-ops.md:title
 msgid "Learn about Wikimedia technical operations"
-msgstr "Дознајте за техничките операции на Викимедија"
+msgstr "Осознајте ги техничките операции на Викимедија"
 
 #: community/tech-ops.md:block 1 (header)
 msgid "Wikimedia technical operations"
@@ -703,7 +703,7 @@ msgstr "Облачни алатки и услуги"
 #: community/tech-ops.md:block 4 (paragraph)
 #: get-started/wikimedia-tech.md:block 10 (paragraph)
 msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
-msgstr ""
+msgstr "Дознајте за споделеното вдомување, податочните служби и друга инфраструктурна поддршка за технички придонеси на Викимедиините проекти."
 
 #: community/tech-ops.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
@@ -712,11 +712,11 @@ msgstr "[Прочитајте повеќе на Викитехника](https://
 
 #: community/tech-ops.md:block 6 (header)
 msgid "Performance monitoring"
-msgstr ""
+msgstr "Надзор врз делотворноста"
 
 #: community/tech-ops.md:block 7 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
-msgstr ""
+msgstr "Надгледувајте ја сегашната и поранешната делотворност на Викимедиините викија."
 
 #: community/tech-ops.md:block 8 (unordered list)
 msgid "[Read more](https://performance.wikimedia.org/)"
@@ -724,11 +724,11 @@ msgstr "[Прочитајте повеќе](https://performance.wikimedia.org/)"
 
 #: community/tech-ops.md:block 9 (header)
 msgid "Security policies"
-msgstr ""
+msgstr "Безбедносни правила"
 
 #: community/tech-ops.md:block 10 (paragraph)
 msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
-msgstr ""
+msgstr "Прочитајте ги безбедностите правила за подлогата МедијаВики и Фондацијата Викимедија."
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
@@ -736,11 +736,11 @@ msgstr "[Прочитајте повеќе на mediawiki.org](https://www.media
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
-msgstr ""
+msgstr "Спроведување на програми"
 
 #: community/tech-ops.md:block 13 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
-msgstr ""
+msgstr "Следете ги спроведувањата на програмската опрама на опслужувачи на Фондацијата Викимедија."
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
@@ -748,23 +748,23 @@ msgstr "[Прочитајте повеќе на Викитехника](https://
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
-msgstr ""
+msgstr "Инфраструктура за структурирани податоци"
 
 #: community/tech-ops.md:block 16 (paragraph)
 msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
-msgstr ""
+msgstr "Викибазата е програм со отворен код наменета за соработни бази на знаења и поврзани отворени податоци. Осознајте ја системската архитектура на програмската опрема на која работат Википодатоците."
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
-msgstr ""
+msgstr "[Прочитајте ги документите](https://wmde.github.io/wikidata-wikibase-architecture/)"
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
-msgstr ""
+msgstr "Техничка инфраструктура"
 
 #: community/tech-ops.md:block 19 (paragraph)
 msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
-msgstr ""
+msgstr "Осознајте ја основната инфраструктура на Викимедија како мрежи, податочни центри и заведување во дневници. Прелистајте ги архитектонските дијаграми."
 
 #: community/tech-ops.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
@@ -772,11 +772,11 @@ msgstr "[Прочитајте повеќе на Викитехника](https://
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Technical decision-making process"
-msgstr ""
+msgstr "Постапки на одлучување за техниката"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about why and how technical decisions are made, and browse decision records."
-msgstr ""
+msgstr "Дознајте зошто и како се донесуваат техничките одлуки и прелистајте ја евиденцијата за донесените одлуки."
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
@@ -789,7 +789,7 @@ msgstr ""
 
 #: community/updates.md:block 3 (header)
 msgid "Tech blog"
-msgstr ""
+msgstr "Технички блог"
 
 #: community/updates.md:block 4 (paragraph)
 msgid "Read blog posts from the Wikimedia technical community."
@@ -797,15 +797,15 @@ msgstr ""
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr ""
+msgstr "[Посетете го техничкиот блог](https://techblog.wikimedia.org/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Technical community newsletter"
-msgstr ""
+msgstr "Билтен на техничката заедница"
 
 #: community/updates.md:block 7 (paragraph)
 msgid "Subscribe to quarterly updates on activities in the Wikimedia technical community."
-msgstr ""
+msgstr "Претплатете се на тримесечниот билтен посветен на активностите на Викимедиината техничка заедница."
 
 #: community/updates.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
@@ -937,11 +937,11 @@ msgstr "[Прочитајте повеќе на Викитехника](https://
 
 #: contribute/by-language.md:block 17 (unordered list)
 msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Учествувајте](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 17 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
-msgstr ""
+msgstr "[Преземете го изворниот код](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
 
 #: contribute/by-language.md:block 18 (header)
 msgid "PHP"
@@ -961,19 +961,19 @@ msgstr ""
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
-msgstr ""
+msgstr "[Посетете го mediawiki.org](https://www.mediawiki.org/)"
 
 #: contribute/by-language.md:block 21 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
-msgstr ""
+msgstr "[Учествувајте](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 
 #: contribute/by-language.md:block 21 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
-msgstr ""
+msgstr "[Преземете го изворниот код](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
 #: contribute/by-language.md:block 22 (header)
 msgid "Ruby"
@@ -1199,7 +1199,7 @@ msgstr ""
 
 #: get-help/index.md:block 3 (header)
 msgid "Search the docs"
-msgstr ""
+msgstr "Пребарајте ги документите"
 
 #: get-help/index.md:block 4 (paragraph)
 msgid "Find technical information for Wikimedia projects."
@@ -1207,11 +1207,11 @@ msgstr ""
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Search across wikis](https://global-search.toolforge.org/)"
-msgstr ""
+msgstr "[Пребарајте по сите викија](https://global-search.toolforge.org/)"
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
-msgstr ""
+msgstr "[Прелистајте ги Викимедиините документи со отворен код](https://doc.wikimedia.org/)"
 
 #: get-help/index.md:block 12 (header)
 msgid "Check system status"
@@ -1301,11 +1301,11 @@ msgstr ""
 
 #: get-started/browse-languages.md:block 1 (header)
 msgid "API client libraries by language"
-msgstr ""
+msgstr "Приложнички клиентски библиотеки по јазик"
 
 #: get-started/browse-languages.md:block 4 (header)
 msgid "Open source projects by language"
-msgstr ""
+msgstr "Проекти со отворен код по јазик"
 
 #: get-started/browse-languages.md:block 5 (paragraph)
 msgid "Find Wikimedia open source projects by programming language, and start contributing code."
@@ -1449,11 +1449,11 @@ msgstr ""
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
 msgid "Use wiki content"
-msgstr ""
+msgstr "Користете викисодржини"
 
 #: use-content/content.md:block 3 (header)
 msgid "Introduction to Wikimedia projects"
-msgstr ""
+msgstr "Вовед во Викимедиините проекти"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
