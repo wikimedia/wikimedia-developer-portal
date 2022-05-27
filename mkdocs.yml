@@ -39,7 +39,6 @@ nav:
     - Learn about Wikimedia technical operations: community/tech-ops.md
   - Get help:
     - Get help: get-help/index.md
-    - About: get-help/about.md
 
 docs_dir: src
 theme:
@@ -93,6 +92,10 @@ extra:
       href: https://www.gnu.org/licenses/gpl-3.0.html
     - label: "Content: CC-BY-SA-3.0"
       href: https://creativecommons.org/licenses/by-sa/3.0/
+    - label: About
+      href: https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal
+    - label: Contribute
+      href: https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal/Contribute
 
 markdown_extensions:
   - meta
