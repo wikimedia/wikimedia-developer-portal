@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-05-26 11:18:07+0000\n"
+"PO-Revision-Date: 2022-05-30 11:17:39+0000\n"
 "X-POT-Import-Date: 2022-05-20 10:46:41+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -168,7 +168,7 @@ msgstr ""
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr ""
+msgstr "[튜토리얼로 배우기](tutorials.md)"
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
@@ -186,7 +186,7 @@ msgstr ""
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr ""
+msgstr "[위키미디어 서버에서 도구 호스팅](host-tools.md)"
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
@@ -911,7 +911,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 13 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
-msgstr ""
+msgstr "[문서 읽기](https://commons-app.github.io/)"
 
 #: contribute/by-language.md:block 13 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
@@ -923,7 +923,7 @@ msgstr "[소스 코드 가져오기](https://github.com/commons-app/apps-android
 
 #: contribute/by-language.md:block 14 (header)
 msgid "Go"
-msgstr "이동"
+msgstr "Go"
 
 #: contribute/by-language.md:block 15 (header)
 msgid "Blubber"
@@ -1516,7 +1516,7 @@ msgstr ""
 
 #: use-content/data.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr ""
+msgstr "[위키데이터에서 더 읽기](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)

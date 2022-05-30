@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Message documentation (Message documentation)
 # Exported from translatewiki.net
 #
+# Author: Amire80
 # Author: BryanDavis
 # Author: Verdy p
 # --
@@ -24,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-05-26 11:18:08+0000\n"
+"PO-Revision-Date: 2022-05-30 11:17:39+0000\n"
 "X-POT-Import-Date: 2022-05-20 10:46:41+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -947,7 +948,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 14 (header)
 msgid "Go"
-msgstr "\"Go\" is the name of a programming language (see “The Go Programming Language” on https://go.dev/, or “[[wikipedia:en:Go (programming language)|Go (programming language)]]” on Wikipedia)."
+msgstr "{{Doc-important|\"Go\" doesn't mean \"to go somewhere\". It's a name of a programming language!}}\n\n\"Go\" is the name of a programming language (see “The Go Programming Language” on https://go.dev/, or “[[wikipedia:en:Go (programming language)|Go (programming language)]]” on Wikipedia)."
 
 #: contribute/by-language.md:block 15 (header)
 msgid "Blubber"

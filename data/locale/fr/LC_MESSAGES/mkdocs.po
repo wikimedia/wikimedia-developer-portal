@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-05-26 11:18:07+0000\n"
+"PO-Revision-Date: 2022-05-30 11:17:39+0000\n"
 "X-POT-Import-Date: 2022-05-20 10:46:41+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -216,7 +216,7 @@ msgstr "[Lire le manuel sur MediaWiki.org](https://www.mediawiki.org/wiki/Specia
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
-msgstr "[Contributer](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr "[Contribuer](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -312,7 +312,7 @@ msgstr "Apprendre à créer et lancer des robots"
 
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
-msgstr "Les robot aident à maintenir les wikis en effectuant des tâches répétitives. Commencez à créer et exécuter des robots en apprenant les meilleures pratiques."
+msgstr "Les robots aident à maintenir les wikis en effectuant des tâches répétitives. Commencez à créer et exécuter des robots en apprenant les meilleures pratiques."
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
@@ -1521,7 +1521,7 @@ msgstr "[Lire davantage sur Wikidata](https://www.wikidata.org/wiki/Special:MyLa
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
 msgid "Explore featured apps"
-msgstr "Explorer des applis en vedette"
+msgstr "Explorer les applis en vedette"
 
 #: use-content/featured-apps.md:block 3 (header)
 msgid "App gallery"
