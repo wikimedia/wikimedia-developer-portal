@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-05-30 11:17:39+0000\n"
-"X-POT-Import-Date: 2022-05-20 10:46:41+0000\n"
+"PO-Revision-Date: 2022-06-02 11:18:36+0000\n"
+"X-POT-Import-Date: 2022-06-01 16:36:51+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ko\n"
@@ -64,6 +64,14 @@ msgstr "코드: GPL-3.0 이상"
 msgid "Content: CC-BY-SA-3.0"
 msgstr "콘텐츠: CC-BY-SA-3.0"
 
+#: mkdocs.yml:extra.footer_links.4
+msgid "About"
+msgstr "정보"
+
+#: mkdocs.yml:extra.footer_links.5 mkdocs.yml:navigation
+msgid "Contribute"
+msgstr "기여"
+
 #: mkdocs.yml:navigation build-tools/get-started.md:title
 #: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
 #: get-started/index.md:title
@@ -79,10 +87,6 @@ msgstr "내용 및 데이터 사용"
 #: build-tools/index.md:title
 msgid "Tools and bots"
 msgstr "도구 및 봇"
-
-#: mkdocs.yml:navigation
-msgid "Contribute"
-msgstr "기여"
 
 #: mkdocs.yml:navigation community/index.md:meta.title
 #: community/index.md:title
@@ -1226,46 +1230,6 @@ msgstr ""
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
 msgstr "[wikimediastatus.net 방문](https://www.wikimediastatus.net/)"
-
-#: get-help/about.md:meta.title get-help/about.md:title
-msgid "About"
-msgstr "정보"
-
-#: get-help/about.md:block 1 (paragraph)
-msgid "The Wikimedia Developer Portal is a central entry point for [Wikimedia](https://wikimediafoundation.org/) technical documentation, created by the Wikimedia Foundation Developer Advocacy Team. For more information about the project and to share your feedback, visit [mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
-msgstr ""
-
-#: get-help/about.md:block 2 (paragraph)
-msgid "For technical documentation about the portal and its implementation, see [the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal). This site is built using [MkDocs](https://www.mkdocs.org/), [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), and [mdpo](https://pypi.org/project/mdpo/). The source code is available on [Gerrit](https://gerrit.wikimedia.org/r/plugins/gitiles/wikimedia/developer-portal)."
-msgstr ""
-
-#: get-help/about.md:block 3 (paragraph)
-msgid "To propose or contribute code, content, or translations, see [the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal#Contribute)."
-msgstr ""
-
-#: get-help/about.md:block 4 (header)
-msgid "License"
-msgstr "라이선스"
-
-#: get-help/about.md:block 5 (paragraph)
-msgid "Wikimedia Developer Portal code and configuration is licensed under the [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html) license. Textual content is licensed under the [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) license."
-msgstr ""
-
-#: get-help/about.md:block 6 (header)
-msgid "Image credits"
-msgstr ""
-
-#: get-help/about.md:block 7 (unordered list)
-msgid "Wikimedia logo by Neolux, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)"
-msgstr ""
-
-#: get-help/about.md:block 7 (unordered list)
-msgid "Wikimedia favicon by the Wikimedia Foundation, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)"
-msgstr ""
-
-#: get-help/about.md:block 7 (unordered list)
-msgid "Adapted Wikipedia 20 illustrations by Jasmina El Bouamraoui and Karabo Poppy Moletsane, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20); black background removed from dark-mode images"
-msgstr ""
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"

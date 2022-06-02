@@ -25,8 +25,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-05-30 11:17:39+0000\n"
-"X-POT-Import-Date: 2022-05-20 10:46:41+0000\n"
+"PO-Revision-Date: 2022-06-02 11:18:35+0000\n"
+"X-POT-Import-Date: 2022-06-01 16:36:51+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
@@ -65,6 +65,14 @@ msgstr "Code : GPL 3.0 ou ultérieure"
 msgid "Content: CC-BY-SA-3.0"
 msgstr "Contenu : CC BY-SA 3.0"
 
+#: mkdocs.yml:extra.footer_links.4
+msgid "About"
+msgstr "À propos"
+
+#: mkdocs.yml:extra.footer_links.5 mkdocs.yml:navigation
+msgid "Contribute"
+msgstr "Contribuer"
+
 #: mkdocs.yml:navigation build-tools/get-started.md:title
 #: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
 #: get-started/index.md:title
@@ -80,10 +88,6 @@ msgstr "Utiliser des contenus et données"
 #: build-tools/index.md:title
 msgid "Tools and bots"
 msgstr "Outils et robots"
-
-#: mkdocs.yml:navigation
-msgid "Contribute"
-msgstr "Contribuer"
 
 #: mkdocs.yml:navigation community/index.md:meta.title
 #: community/index.md:title
@@ -1226,46 +1230,6 @@ msgstr "Vérifiez l’état de santé général et les performances de l’envir
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
 msgstr "[Visitez WikimediaStatus.net](https://www.wikimediastatus.net/)"
-
-#: get-help/about.md:meta.title get-help/about.md:title
-msgid "About"
-msgstr "À propos"
-
-#: get-help/about.md:block 1 (paragraph)
-msgid "The Wikimedia Developer Portal is a central entry point for [Wikimedia](https://wikimediafoundation.org/) technical documentation, created by the Wikimedia Foundation Developer Advocacy Team. For more information about the project and to share your feedback, visit [mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
-msgstr "Le Portail des développeurs de Wikimedia est un point d’entrée central pour la documentation technique de [Wikimedia](https://wikimediafoundation.org/), créé par l’équipe « Developer Advocate » de la Fondation Wikimedia. Pour plus de renseignements sur le projet et pour partager vos avis, visitez [MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal)."
-
-#: get-help/about.md:block 2 (paragraph)
-msgid "For technical documentation about the portal and its implementation, see [the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal). This site is built using [MkDocs](https://www.mkdocs.org/), [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), and [mdpo](https://pypi.org/project/mdpo/). The source code is available on [Gerrit](https://gerrit.wikimedia.org/r/plugins/gitiles/wikimedia/developer-portal)."
-msgstr "Pour la documentation technique concernant le portail et sa mise en œuvre, voyez la [documentation sur Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal). Ce site est construit en utilisant [MkDocs](https://www.mkdocs.org/), [Material pour MkDocs](https://squidfunk.github.io/mkdocs-material/) et [mdpo](https://pypi.org/project/mdpo/). Le code source est disponible sur [Gerrit](https://gerrit.wikimedia.org/r/plugins/gitiles/wikimedia/developer-portal)."
-
-#: get-help/about.md:block 3 (paragraph)
-msgid "To propose or contribute code, content, or translations, see [the docs on Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal#Contribute)."
-msgstr "Pour proposer ou contribuer du code, du contenu ou des traductions, voyez la [documentation sur Wikitech](https://wikitech.wikimedia.org/wiki/Developer_Portal#Contribute)."
-
-#: get-help/about.md:block 4 (header)
-msgid "License"
-msgstr "Licence"
-
-#: get-help/about.md:block 5 (paragraph)
-msgid "Wikimedia Developer Portal code and configuration is licensed under the [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html) license. Textual content is licensed under the [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) license."
-msgstr "Le code et la configuration du Portail des développeurs de Wikimedia est placé sous la licence [GPL 3.0 ou ultérieure](https://www.gnu.org/licenses/gpl-3.0.html). Le contenu textuel est placé sous la licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)."
-
-#: get-help/about.md:block 6 (header)
-msgid "Image credits"
-msgstr "Crédits des images"
-
-#: get-help/about.md:block 7 (unordered list)
-msgid "Wikimedia logo by Neolux, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)"
-msgstr "Logo de Wikimedia par Neolux, dans le domaine public, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_logo_white.svg)"
-
-#: get-help/about.md:block 7 (unordered list)
-msgid "Wikimedia favicon by the Wikimedia Foundation, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)"
-msgstr "Icône de favori Wikimedia par la Fondation Wikimedia, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wmf-ico-48px.png)"
-
-#: get-help/about.md:block 7 (unordered list)
-msgid "Adapted Wikipedia 20 illustrations by Jasmina El Bouamraoui and Karabo Poppy Moletsane, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20); black background removed from dark-mode images"
-msgstr "Illustrations adaptées de Wikipédia 20 par El Bouamraoui et Karabo Poppy Moletsane, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Adapted_Wikipedia_20); fond noir retiré des images pour le monde sombre"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
