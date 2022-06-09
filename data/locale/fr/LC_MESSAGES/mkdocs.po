@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-06-02 11:18:35+0000\n"
+"PO-Revision-Date: 2022-06-09 11:20:33+0000\n"
 "X-POT-Import-Date: 2022-06-01 16:36:51+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1346,7 +1346,7 @@ msgstr "[Parcourir les tutoriels](../build-tools/tutorials.md){ .md-button }"
 #: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
 #: (header)
 msgid "Learn about Wikimedia technology"
-msgstr "Apprendre sur la technologie de Wikimedia"
+msgstr "Apprendre sur la technologie Wikimedia"
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
