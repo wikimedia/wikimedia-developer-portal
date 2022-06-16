@@ -4,5 +4,7 @@ description: Verify the overall health and performance of the wiki environment, 
 links:
   - url: https://www.wikimediastatus.net/
     label: Visit wikimediastatus.net
+  - url: https://versions.toolforge.org/
+    label: See MediaWiki versions used by Wikimedia wikis
 categories:
   help: 4
