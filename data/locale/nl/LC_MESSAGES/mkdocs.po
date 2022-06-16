@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-06-02 11:18:36+0000\n"
+"PO-Revision-Date: 2022-06-16 11:20:50+0000\n"
 "X-POT-Import-Date: 2022-06-01 16:36:51+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-3.0"
-msgstr ""
+msgstr "Inhoud: CC-BY-SA-3.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -180,7 +180,7 @@ msgstr ""
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
-msgstr ""
+msgstr "[API's en databronnen gebruiken](apis.md)"
 
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
@@ -199,7 +199,7 @@ msgstr ""
 #: build-tools/apis.md:meta.title build-tools/apis.md:title
 #: build-tools/apis.md:block 1 (header)
 msgid "Use APIs and data sources"
-msgstr ""
+msgstr "API's en databronnen gebruiken"
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
@@ -209,7 +209,7 @@ msgstr ""
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
 msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
-msgstr ""
+msgstr "Pywikibot is een Pythonbibliotheek en collectie van scripts die handelingen op Wikimedia projecten automatiseren."
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -409,7 +409,7 @@ msgstr ""
 #: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
 #: (header)
 msgid "Generate ideas for articles"
-msgstr ""
+msgstr "Ideeën voor artikelen genereren"
 
 #: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
 #: 13 (paragraph)
@@ -1204,7 +1204,7 @@ msgstr ""
 
 #: get-help/index.md:block 3 (header)
 msgid "Search the docs"
-msgstr ""
+msgstr "Doorzoek de documentatie"
 
 #: get-help/index.md:block 4 (paragraph)
 msgid "Find technical information for Wikimedia projects."
@@ -1357,7 +1357,7 @@ msgstr ""
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn the differences between Wikipedia, Wikimedia, and MediaWiki."
-msgstr ""
+msgstr "Leer de verschillen tussen Wikipedia, Wikimedia en MediaWiki."
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
@@ -1365,11 +1365,11 @@ msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLa
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
-msgstr ""
+msgstr "Wikibase en Wikidata"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
-msgstr ""
+msgstr "Wikibase is een MediaWiki-uitbreiding voor het werken met gestructureerde data en het is de software waarop Wikidata draait."
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
@@ -1377,7 +1377,7 @@ msgstr "[wikidata.org bezoeken](https://www.wikidata.org/)"
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
-msgstr ""
+msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 
 #: use-content/index.md:block 2 (header)
 msgid "[Explore featured apps](featured-apps.md)"
@@ -1426,7 +1426,7 @@ msgstr ""
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
-msgstr ""
+msgstr "[Lees meer op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
 
 #: use-content/content.md:block 6 (header)
 msgid "Review the terms and conditions"
@@ -1434,7 +1434,7 @@ msgstr ""
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr ""
+msgstr "De meeste Wikimedia-inhoud is beschikbaar onder een Creative Commons licentie die vrij hergebruik met vermelding toelaat. U kunt onderaan elke pagina kijken om een toepasselijke licentie te vinden."
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
@@ -1524,11 +1524,11 @@ msgstr "[Lees meer op Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
-msgstr ""
+msgstr "Informatie van Wikidata weergeven"
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
-msgstr ""
+msgstr "Gebruik de MediaWiki API om informatie van Wikidata op te halen en te weergeven. Leer hoe Wikipedia artikelen gekoppeld zijn met Wikidata en hoe de structuur van Wikidata verwerkt kan worden."
 
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
@@ -1536,7 +1536,7 @@ msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLa
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
-msgstr ""
+msgstr "De afbeelding van de dag weergeven"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
@@ -1568,5 +1568,5 @@ msgstr ""
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr ""
+msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 
