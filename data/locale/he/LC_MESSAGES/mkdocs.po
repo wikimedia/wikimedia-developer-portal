@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-06-13 11:20:51+0000\n"
+"PO-Revision-Date: 2022-06-20 11:14:51+0000\n"
 "X-POT-Import-Date: 2022-06-01 16:36:51+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -426,7 +426,7 @@ msgstr "לכתוב בוט שמשמתש בוויקינתונים"
 
 #: build-tools/tutorials.md:block 10 (paragraph)
 msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
-msgstr ""
+msgstr "להשתמש בפייתון לטיפול בערכות נתונים גדולות מוויקינתונים ולהעביר נתונים בין כלים בזרם העבודה שלך."
 
 #: build-tools/tutorials.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
@@ -435,12 +435,12 @@ msgstr "[מידע נוסף באתר Wikidata](https://www.wikidata.org/wiki/Spec
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
 msgid "Display holidays from Wikipedia"
-msgstr ""
+msgstr "הצגת חגים מוויקיפדיה"
 
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
-msgstr ""
+msgstr "ללמוד איך להשתמש ב־API של מדיה־ויקי כדי לאחזר חגים בתאריך נתון מוויקיפדיה. המדריך הזה מסביר גם איך להשתמש ב־API כדי להיכנס לוויקיפדיה ולהוסיף חגים חדשים. המדריך הזה משמש בפייתון ובמסגרת Flask."
 
 #: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
@@ -449,11 +449,11 @@ msgstr "[מידע נוסף באתר mediawiki.org](https://www.mediawiki.org/wik
 
 #: build-tools/tutorials.md:block 15 (header)
 msgid "Add JavaScript or CSS to a wiki"
-msgstr ""
+msgstr "להוסיף JavaScript או CSS לוויקי"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Use scripts other people have created, and share your code with others."
-msgstr ""
+msgstr "התאמה אישית של מדיה־ויקי באמצעות JavaScript בצד הלקוח ו־CSS. אפשר להשתמש בסקריפטים שאנשים אחרים יצרו ולשתף את הקוד שלך עם אחרים."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -461,11 +461,11 @@ msgstr "[מידע נוסף באתר mediawiki.org](https://www.mediawiki.org/wik
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
-msgstr ""
+msgstr "אירוח כלים בשרתי ענן של ויקימדיה"
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
-msgstr ""
+msgstr "Toolforge היא סביבת אירוח חינמית להרצה וניהול של כלים. אפשר להתחיל להשתמש ב־Toolforge באמצעות יצירת חשבון והקמת שירות וב פשוט."
 
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
@@ -473,16 +473,16 @@ msgstr "[מידע נוסף באתר Wikitech](https://wikitech.wikimedia.org/wik
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
-msgstr ""
+msgstr "[מידע על האקאתונים ואירועים](events.md)"
 
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
 msgid "Browse content from past events, or join an upcoming event."
-msgstr ""
+msgstr "עיון בתוכן מאירועים קודמים, או הצטרפות לאירוע עתידי."
 
 #: community/index.md:block 4 (header)
 msgid "[Communicate with the tech community](communicate.md)"
-msgstr ""
+msgstr "[תקשורת עם הקהילה הטכנית](communicate.md)"
 
 #: community/index.md:block 5 (paragraph) community/communicate.md:block 2
 #: (paragraph)
