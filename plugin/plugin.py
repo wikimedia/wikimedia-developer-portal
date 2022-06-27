@@ -163,6 +163,7 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         """Initialize object."""
         super().__init__(*args, **kwargs)
         self.tmp_dir = None
+        self.root_dir = None
         self.docs_dir = None
         self.po_files = {}
         self.catalog_file = None
@@ -176,9 +177,9 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         self.tmp_dir = pathlib.Path(tempfile.mkdtemp(suffix=".wmplugin"))
         logger.debug("Created tmp dir %s", self.tmp_dir)
 
-        root_dir = pathlib.Path(config["config_file_path"]).parent
-        self.docs_dir = root_dir / config["docs_dir"]
-        data_dir = root_dir / "data"
+        self.root_dir = pathlib.Path(config["config_file_path"]).parent
+        self.docs_dir = self.root_dir / config["docs_dir"]
+        data_dir = self.root_dir / "data"
         locale_dir = data_dir / "locale"
 
         # Scan locale_dir for translation dictionaries
@@ -485,6 +486,7 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
 
         self.remove_obsolete_messages()
         self.cleanup_tmp()
+        self.generate_build_info(config)
 
     def build_for_language(self, lang):
         """Build site for a given language code."""
@@ -567,6 +569,31 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         if not self.tmp_dir.exists():
             return
         shutil.rmtree(self.tmp_dir)
+
+    def generate_build_info(self, config):
+        """Generate build-info content."""
+        HEAD = self.git_hash()
+        logger.info("HEAD: %s", HEAD)
+        site_dir = pathlib.Path(config["site_dir"])
+        build_info = site_dir / "build-info.txt"
+        now = datetime.datetime.now(datetime.timezone.utc).isoformat(
+            timespec="seconds"
+        )
+        with build_info.open("w") as fh:
+            fh.write(f"Git hash: {HEAD}")
+            fh.write(f"Date: {now}\n")
+
+    def git_hash(self):
+        """Find current git tree'ish hash."""
+        dot_git = self.root_dir / ".git"
+        head_file = dot_git / "HEAD"
+        HEAD = head_file.open().read()
+        if ":" in HEAD:
+            # HEAD is a branch pointer, not a detached hash
+            branch_name = HEAD.split(": ")[1].strip()
+            branch_file = dot_git / branch_name
+            return branch_file.open().read()
+        return HEAD
 
     def on_build_error(self, error):
         """Thunk for unhandled errors."""
