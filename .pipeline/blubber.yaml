@@ -6,6 +6,7 @@ runs:
   environment:
     PYTHONBUFFERED: "1"
     PYTHONDONTWRITEBYTECODE: "1"
+    PYTHONUTF8: "1"  # T310724
     PIP_NO_CACHE_DIR: "off"
     PIP_DISABLE_PIP_VERSION_CHECK: "on"
 
