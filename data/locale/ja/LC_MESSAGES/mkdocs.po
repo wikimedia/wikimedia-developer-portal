@@ -28,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-06-23 11:22:00+0000\n"
+"PO-Revision-Date: 2022-06-27 11:18:59+0000\n"
 "X-POT-Import-Date: 2022-06-01 16:36:51+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1463,7 +1463,7 @@ msgstr ""
 
 #: use-content/data.md:block 3 (header)
 msgid "Use Wikimedia open data"
-msgstr "ウィキメディアのオープンデータの使用"
+msgstr "ウィキメディアのオープンデータの利用"
 
 #: use-content/data.md:block 4 (paragraph)
 msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."

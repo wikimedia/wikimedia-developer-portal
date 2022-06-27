@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-06-20 11:14:51+0000\n"
+"PO-Revision-Date: 2022-06-27 11:18:59+0000\n"
 "X-POT-Import-Date: 2022-06-01 16:36:51+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -487,7 +487,7 @@ msgstr "[תקשורת עם הקהילה הטכנית](communicate.md)"
 #: community/index.md:block 5 (paragraph) community/communicate.md:block 2
 #: (paragraph)
 msgid "Understand communication channels and how to connect with Wikimedia developers."
-msgstr ""
+msgstr "להבין ערוצי תקשורת ואיך לתקשר עם מפתחי ויקימדיה."
 
 #: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
@@ -496,7 +496,7 @@ msgstr "[ללמוד ולשתף כישורים טכניים](grow.md)"
 #: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
-msgstr ""
+msgstr "להצמיח את הכישורים שלך או לעזור לאחרים ללמוד בסדנאות, התמחויות, והזדמנויות חונכות."
 
 #: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
@@ -505,7 +505,7 @@ msgstr "[לקבל עדכונים על פרויקטים טכניים](updates.md)
 #: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
 msgid "Stay up to date with the latest from the Wikimedia technical community."
-msgstr ""
+msgstr "להתעדכן עם המידע העדכני ביותר מהקהילה הטכנית של ויקימדיה."
 
 #: community/index.md:block 10 (header)
 msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
@@ -514,7 +514,7 @@ msgstr "[ללמוד על תפעול טכני של ויקימדיה](tech-ops.md)
 #: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
 #: (paragraph)
 msgid "Find information about the infrastructure and teams behind Wikimedia technology."
-msgstr ""
+msgstr "מציאת מידע על תשתית וצוותים מאחורי טכנולוגיית ויקימדיה."
 
 #: community/communicate.md:meta.title community/communicate.md:title
 #: community/communicate.md:block 1 (header)
@@ -529,7 +529,7 @@ msgstr "קריאת קוד ההתנהגות"
 #: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
 #: (paragraph) get-started/new-dev.md:block 13 (paragraph)
 msgid "The code of conduct for Wikimedia technical spaces applies to both physical and virtual environments. Learn how to foster an open and welcoming community."
-msgstr ""
+msgstr "קוד ההתנהגות למרחבים הטכניים של ויקימדיה חל על סביבות פיזיות וגם וירטואליות. כאן אפשר ללמוד איך לטפח קהילה פתוחה ומסבירת־פנים."
 
 #: community/communicate.md:block 5 (unordered list)
 #: contribute/overview.md:block 5 (unordered list)
@@ -545,7 +545,7 @@ msgstr "ערוצי תקשורת"
 #: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
 #: (paragraph)
 msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
-msgstr ""
+msgstr "יצירת קשר עם מפתחים ומשתמשי מדיה־ויקי כדי לקבל תמיכה ולשתף ידע."
 
 #: community/communicate.md:block 8 (unordered list) get-help/index.md:block
 #: 11 (unordered list)
