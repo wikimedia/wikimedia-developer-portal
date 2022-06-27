@@ -1486,6 +1486,12 @@ msgstr ""
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
 msgstr ""
 
+#: get-help/index.md:block 14 (unordered list)
+msgid ""
+"[See MediaWiki versions used by Wikimedia "
+"wikis](https://versions.toolforge.org/)"
+msgstr ""
+
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
 msgstr ""
