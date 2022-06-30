@@ -28,8 +28,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-06-27 11:18:59+0000\n"
-"X-POT-Import-Date: 2022-06-01 16:36:51+0000\n"
+"PO-Revision-Date: 2022-06-30 11:17:31+0000\n"
+"X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ja\n"
@@ -702,7 +702,7 @@ msgstr "ウィキメディアの技術的な業務"
 
 #: community/tech-ops.md:block 1 (header)
 msgid "Wikimedia technical operations"
-msgstr ""
+msgstr "ウィキメディアの技術的な業務"
 
 #: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
 #: 9 (header)
@@ -725,7 +725,7 @@ msgstr "性能監視"
 
 #: community/tech-ops.md:block 7 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
-msgstr ""
+msgstr "Wikimediaの現在・過去の性能をモニタリングできます。"
 
 #: community/tech-ops.md:block 8 (unordered list)
 msgid "[Read more](https://performance.wikimedia.org/)"
@@ -737,15 +737,15 @@ msgstr "セキュリティーポリシー"
 
 #: community/tech-ops.md:block 10 (paragraph)
 msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
-msgstr ""
+msgstr "メディアウィキのプラットフォームやウィキメディア財団のセキュリティーポリシーを読みましょう。"
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
-msgstr ""
+msgstr "[詳細（MediaWiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
-msgstr ""
+msgstr "ソフトウェアのデプロイ"
 
 #: community/tech-ops.md:block 13 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
@@ -753,7 +753,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
-msgstr ""
+msgstr "[詳細（Wikitech）](https://wikitech.wikimedia.org/wiki/Deployments)"
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
@@ -785,11 +785,11 @@ msgstr "技術上の意思決定プロセス"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about why and how technical decisions are made, and browse decision records."
-msgstr ""
+msgstr "技術的な意思決定がなぜ、どのようになされたかを知ることができます。また、これまでの意思決定に関する記録を閲覧できます。"
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
-msgstr ""
+msgstr "[詳細（Mediawiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
@@ -878,11 +878,11 @@ msgstr ""
 
 #: contribute/by-language.md:block 2 (header)
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: contribute/by-language.md:block 6 (header)
 msgid "JavaScript"
-msgstr ""
+msgstr "JavaScript"
 
 #: contribute/by-language.md:block 7 (header)
 msgid "Codex"
@@ -906,7 +906,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 10 (header)
 msgid "Java"
-msgstr ""
+msgstr "Java"
 
 #: contribute/by-language.md:block 11 (header)
 msgid "Wikimedia Commons Android app"
@@ -954,7 +954,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 18 (header)
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
@@ -986,7 +986,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 22 (header)
 msgid "Ruby"
-msgstr ""
+msgstr "Ruby"
 
 #: contribute/by-language.md:block 23 (header)
 msgid "Wiki Education Dashboard"
@@ -1232,6 +1232,10 @@ msgstr ""
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
+msgstr ""
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
 msgstr ""
 
 #: get-started/index.md:block 1 (header)
@@ -1564,13 +1568,13 @@ msgstr ""
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
-msgstr ""
+msgstr "位置情報を利用した記事検索"
 
 #: use-content/tutorials.md:block 19 (paragraph)
 msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
-msgstr ""
+msgstr "MediaWiki APIを利用して、特定地点に近いWikipediaの記事を検索する方法を学びます。このチュートリアルでは、JavaScript、Python、Flaskを使います。"
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr ""
+msgstr "[詳細（MediaWiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 

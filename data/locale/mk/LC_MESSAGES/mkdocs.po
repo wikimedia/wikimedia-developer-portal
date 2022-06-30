@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-06-06 11:20:07+0000\n"
-"X-POT-Import-Date: 2022-06-01 16:36:51+0000\n"
+"PO-Revision-Date: 2022-06-30 11:17:31+0000\n"
+"X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: mk\n"
@@ -1229,6 +1229,10 @@ msgstr "Проверете ги севкупното здравје и дело�
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
 msgstr "[Посетете го wikimediastatus.net](https://www.wikimediastatus.net/)"
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
+msgstr "[Погледајте ги верзиите на МедијаВики во употреба од Викимедиините викија](https://versions.toolforge.org/)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
