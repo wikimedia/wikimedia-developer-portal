@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-04 11:18:22+0000\n"
+"PO-Revision-Date: 2022-07-07 11:16:57+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -165,7 +165,7 @@ msgstr ""
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
 msgid "Create your first tool, learn about running a bot, and get best practices."
-msgstr ""
+msgstr "Crea tu primera herramienta, aprende cómo correr un bot, y obtén las mejores prácticas."
 
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
@@ -175,7 +175,7 @@ msgstr "[Aprende con tutoriales](tutorials.md)"
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
-msgstr ""
+msgstr "Sigue las guías paso a paso para aprender los elementos básicos para interactuar con los proyectos Wikimedia."
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
@@ -184,11 +184,11 @@ msgstr "[Usar APIs y orígenes de datos](apis.md)"
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
-msgstr ""
+msgstr "Explora las interfaces de programación para construir bots y herramientas."
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr ""
+msgstr "[Hospeda herramientas en los servidores de Wikimedia](host-tools.md)"
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
@@ -279,7 +279,7 @@ msgstr "[Lea más en Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLangua
 
 #: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
-msgstr ""
+msgstr "Consulta las bases de datos"
 
 #: build-tools/apis.md:block 16 (paragraph)
 msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
@@ -296,7 +296,7 @@ msgstr "[Lea más en Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLangua
 #: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
 #: 3 (header)
 msgid "Build your first tool"
-msgstr "Construye ty primera herramienta"
+msgstr "Construye tu primera herramienta"
 
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
@@ -310,7 +310,7 @@ msgstr "[Lea más en mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLan
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
-msgstr ""
+msgstr "Aprende a crear y ejecutar de bots"
 
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
@@ -322,11 +322,11 @@ msgstr "[Lea más de mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLan
 
 #: build-tools/get-started.md:block 9 (header)
 msgid "Best practices for open source tools"
-msgstr ""
+msgstr "Buenas prácticas para herramientas de código abierto"
 
 #: build-tools/get-started.md:block 10 (paragraph)
 msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
-msgstr ""
+msgstr "¿Nuevo en código abierto? Obtén sugerencias para desarrollar exitosamente herramientas y bot, incluyendo la elección de una licencia, publicación del código y la redacción de la documentación."
 
 #: build-tools/get-started.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
@@ -335,11 +335,11 @@ msgstr "[Lea más en Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforg
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
-msgstr ""
+msgstr "Alojar herramientas en los servidores Wikimedia"
 
 #: build-tools/host-tools.md:block 3 (header)
 msgid "Run scripts in your browser"
-msgstr ""
+msgstr "Ejecutar scripts en tu navegador"
 
 #: build-tools/host-tools.md:block 4 (paragraph)
 msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
@@ -408,7 +408,7 @@ msgstr "Aprende con tutoriales"
 #: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
 #: (header)
 msgid "Generate ideas for articles"
-msgstr ""
+msgstr "Generar ideas para artículos"
 
 #: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
 #: 13 (paragraph)
@@ -435,7 +435,7 @@ msgstr "[Lee más en Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
 msgid "Display holidays from Wikipedia"
-msgstr ""
+msgstr "Mostrar días festivos desde Wikipedia"
 
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
@@ -449,7 +449,7 @@ msgstr "[Lea más en mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLan
 
 #: build-tools/tutorials.md:block 15 (header)
 msgid "Add JavaScript or CSS to a wiki"
-msgstr ""
+msgstr "Añadir JavaScript o CSS a una wiki"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Use scripts other people have created, and share your code with others."
@@ -524,7 +524,7 @@ msgstr ""
 #: community/communicate.md:block 3 (header) contribute/overview.md:block 3
 #: (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
-msgstr ""
+msgstr "Lee el código de conducta"
 
 #: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
 #: (paragraph) get-started/new-dev.md:block 13 (paragraph)
@@ -571,7 +571,7 @@ msgstr ""
 
 #: community/events.md:block 3 (header)
 msgid "Hackathons"
-msgstr ""
+msgstr "Hackathons"
 
 #: community/events.md:block 4 (paragraph)
 msgid "A hackathon brings together people with different skills to work together on a common technical goal."
@@ -595,7 +595,7 @@ msgstr "[Lea más en Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/
 
 #: community/events.md:block 9 (header)
 msgid "Research events"
-msgstr ""
+msgstr "Eventos de investigación"
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
@@ -603,11 +603,11 @@ msgstr ""
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
-msgstr ""
+msgstr "[Leer más](https://research.wikimedia.org/events.html)"
 
 #: community/events.md:block 12 (header)
 msgid "MediaWiki developer events"
-msgstr ""
+msgstr "Eventos para desarrolladores de MediaWiki"
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
@@ -667,7 +667,7 @@ msgstr ""
 #: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
 msgid "Videos and tech talks"
-msgstr ""
+msgstr "Vídeos y charlas técnicas"
 
 #: community/grow.md:block 10 (paragraph) get-started/wikimedia-tech.md:block
 #: 7 (paragraph)
@@ -728,7 +728,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 9 (header)
 msgid "Security policies"
-msgstr ""
+msgstr "Políticas de seguridad"
 
 #: community/tech-ops.md:block 10 (paragraph)
 msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
@@ -752,7 +752,7 @@ msgstr "[Lea más en Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
-msgstr ""
+msgstr "Infraestructura de datos estructurados"
 
 #: community/tech-ops.md:block 16 (paragraph)
 msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
@@ -760,11 +760,11 @@ msgstr ""
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
-msgstr ""
+msgstr "[Lee la documentación](https://wmde.github.io/wikidata-wikibase-architecture/)"
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
-msgstr ""
+msgstr "Infraestructura técnica"
 
 #: community/tech-ops.md:block 19 (paragraph)
 msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
@@ -954,7 +954,7 @@ msgstr "PHP"
 #: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
 msgid "MediaWiki and extensions"
-msgstr ""
+msgstr "MediaWiki y extensiones"
 
 #: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
@@ -1006,12 +1006,12 @@ msgstr ""
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
 msgid "Contribute by topic"
-msgstr ""
+msgstr "Contribuir por tema"
 
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
-msgstr ""
+msgstr "Localización e internacionalización"
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
@@ -1052,7 +1052,7 @@ msgstr "[Lea más mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLangua
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
-msgstr ""
+msgstr "Lectura sin conexión"
 
 #: contribute/by-topic.md:block 16 (paragraph)
 msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
@@ -1171,7 +1171,7 @@ msgstr ""
 #: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
 #: 7 (header)
 msgid "Browse repositories"
-msgstr ""
+msgstr "Explorar repositorios"
 
 #: contribute/search.md:block 10 (paragraph)
 #: get-started/browse-languages.md:block 8 (paragraph)
@@ -1181,17 +1181,17 @@ msgstr ""
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
-msgstr ""
+msgstr "[Explorar repositorios en Gerrit](https://gerrit.wikimedia.org/g/)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
-msgstr ""
+msgstr "[Explorar repositorios en GitHub](https://github.com/wikimedia)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
-msgstr ""
+msgstr "[Explorar repositorios en GitLab](https://gitlab.wikimedia.org/explore)"
 
 #: contribute/search.md:block 12 (header)
 msgid "Search tools and bots"
@@ -1235,7 +1235,7 @@ msgstr ""
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
-msgstr ""
+msgstr "[Más información sobre la tecnología de Wikimedia](wikimedia-tech.md)"
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
@@ -1445,7 +1445,7 @@ msgstr "[Lea más en Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLangua
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
-msgstr ""
+msgstr "Obtener servicios para empresas"
 
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
@@ -1503,7 +1503,7 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 6 (header)
 msgid "Wikipedia visualizations"
-msgstr ""
+msgstr "Visualizaciones de Wikipedia"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
@@ -1515,7 +1515,7 @@ msgstr "[Visita la galería](https://seealso.org/)"
 
 #: use-content/featured-apps.md:block 9 (header)
 msgid "Wikidata visualizations"
-msgstr ""
+msgstr "Visualizaciones de Wikidata"
 
 #: use-content/featured-apps.md:block 10 (paragraph)
 msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
@@ -1527,7 +1527,7 @@ msgstr "[Lea más en Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
-msgstr ""
+msgstr "Mostrar información de Wikidata"
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
@@ -1551,7 +1551,7 @@ msgstr "[Lea más mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLangua
 
 #: use-content/tutorials.md:block 15 (header)
 msgid "Get started querying Wikidata"
-msgstr ""
+msgstr "Comience a consultar Wikidata"
 
 #: use-content/tutorials.md:block 16 (paragraph)
 msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."

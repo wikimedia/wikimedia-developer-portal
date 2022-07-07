@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-04 11:18:23+0000\n"
+"PO-Revision-Date: 2022-07-07 11:16:58+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -97,7 +97,7 @@ msgstr "社区"
 #: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
 #: get-help/index.md:block 1 (header)
 msgid "Get help"
-msgstr "得到帮助"
+msgstr "获取帮助"
 
 #: index.md:meta.title index.md:title
 msgid "Discover and build Wikimedia technology"
@@ -172,7 +172,7 @@ msgstr "创建自己的第一个工具，了解如何运行机器人，并获得
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr "[通过教程学习](tutorials.md)"
+msgstr "[跟随教程学习](tutorials.md)"
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
@@ -236,7 +236,7 @@ msgstr "按编程语言浏览函数库"
 #: get-started/browse-languages.md:block 2 (paragraph)
 #: use-content/content.md:block 10 (paragraph)
 msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
-msgstr "API客户端函数库可以让交互API的代码编写起来更简单。访问以下列表来按编程员浏览适用于MediaWiki API的流行函数库。"
+msgstr "API客户端函数库可以让交互API的代码编写起来更简单。访问以下列表来按编程语言浏览适用于MediaWiki API的流行函数库。"
 
 #: build-tools/apis.md:block 8 (unordered list)
 #: get-started/browse-languages.md:block 3 (unordered list)
@@ -247,7 +247,7 @@ msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special
 #: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
 #: (header)
 msgid "Use the API"
-msgstr "使用此API"
+msgstr "使用API"
 
 #: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
 #: (paragraph)
@@ -277,7 +277,7 @@ msgstr "访问可用于研究、离线阅读、机器人编辑和其他项目的
 #: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
 #: 17 (unordered list) use-content/data.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
-msgstr "[在Meta-Wiki上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
 
 #: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
@@ -526,7 +526,7 @@ msgstr "与技术社区交流"
 #: community/communicate.md:block 3 (header) contribute/overview.md:block 3
 #: (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
-msgstr ""
+msgstr "阅读行为准则"
 
 #: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
 #: (paragraph) get-started/new-dev.md:block 13 (paragraph)
@@ -547,45 +547,45 @@ msgstr "交流渠道"
 #: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
 #: (paragraph)
 msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
-msgstr ""
+msgstr "与开发者和MediaWiki用户联系以获得支持和分享知识。"
 
 #: community/communicate.md:block 8 (unordered list) get-help/index.md:block
 #: 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
 
 #: community/communicate.md:block 9 (header)
 msgid "Find code maintainers and stewards"
-msgstr ""
+msgstr "寻找代码维护者和监管员"
 
 #: community/communicate.md:block 10 (paragraph)
 msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
-msgstr ""
+msgstr "浏览维护核心MediaWiki组件、关键扩展和皮肤、库和其他维基媒体技术基础设施的开发者和团队的列表。"
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
 msgid "Explore hackathons and events"
-msgstr ""
+msgstr "探索黑客松和活动"
 
 #: community/events.md:block 3 (header)
 msgid "Hackathons"
-msgstr ""
+msgstr "黑客松"
 
 #: community/events.md:block 4 (paragraph)
 msgid "A hackathon brings together people with different skills to work together on a common technical goal."
-msgstr ""
+msgstr "黑客松将具有不同技能的人们聚集在一起，共同实现同一个技术目标。"
 
 #: community/events.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
 
 #: community/events.md:block 6 (header)
 msgid "Wikidata events"
-msgstr ""
+msgstr "维基数据活动"
 
 #: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
@@ -593,23 +593,23 @@ msgstr ""
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
-msgstr ""
+msgstr "[在维基数据上了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
 
 #: community/events.md:block 9 (header)
 msgid "Research events"
-msgstr ""
+msgstr "研究活动"
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
-msgstr ""
+msgstr "加入探索维基媒体项目各个方面的科学家、工程师和学者的论坛和聚会。"
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
-msgstr ""
+msgstr "[了解更多](https://research.wikimedia.org/events.html)"
 
 #: community/events.md:block 12 (header)
 msgid "MediaWiki developer events"
-msgstr ""
+msgstr "MediaWiki开发者活动"
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
@@ -617,19 +617,19 @@ msgstr ""
 
 #: community/events.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
 
 #: community/events.md:block 15 (header)
 msgid "Coolest Tool Award"
-msgstr ""
+msgstr "最酷工具奖"
 
 #: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
-msgstr ""
+msgstr "这项年度颁奖活动旨在表彰志愿者开发人员的贡献。"
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
-msgstr ""
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
 
 #: community/events.md:block 18 (header)
 msgid "Technical skills workshops"
@@ -643,7 +643,7 @@ msgstr ""
 #: community/events.md:block 20 (unordered list) community/grow.md:block 8
 #: (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr ""
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -660,7 +660,7 @@ msgstr ""
 
 #: community/grow.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
-msgstr ""
+msgstr "[在MediaWiki.org了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 
 #: community/grow.md:block 6 (header)
 msgid "Small wiki toolkits"
@@ -691,7 +691,7 @@ msgstr ""
 
 #: community/grow.md:block 14 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
-msgstr ""
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 
 #: community/tech-ops.md:meta.title community/tech-ops.md:title
 msgid "Learn about Wikimedia technical operations"
@@ -714,7 +714,7 @@ msgstr ""
 #: community/tech-ops.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
-msgstr ""
+msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
 
 #: community/tech-ops.md:block 6 (header)
 msgid "Performance monitoring"
@@ -726,7 +726,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 8 (unordered list)
 msgid "[Read more](https://performance.wikimedia.org/)"
-msgstr ""
+msgstr "[了解更多](https://performance.wikimedia.org/)"
 
 #: community/tech-ops.md:block 9 (header)
 msgid "Security policies"
@@ -738,7 +738,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
@@ -750,7 +750,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
-msgstr ""
+msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Deployments)"
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
@@ -762,7 +762,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
-msgstr ""
+msgstr "[阅读文档](https://wmde.github.io/wikidata-wikibase-architecture/)"
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
@@ -774,7 +774,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
-msgstr ""
+msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Technical decision-making process"
@@ -786,7 +786,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
@@ -815,11 +815,11 @@ msgstr ""
 
 #: community/updates.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 
 #: community/updates.md:block 9 (header)
 msgid "Tech news"
-msgstr ""
+msgstr "技术新闻"
 
 #: community/updates.md:block 10 (paragraph)
 msgid "Get weekly summaries of technical topics for Wikimedians."
@@ -827,7 +827,7 @@ msgstr ""
 
 #: community/updates.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
-msgstr ""
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 
 #: contribute/index.md:meta.title contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
@@ -862,7 +862,7 @@ msgstr ""
 
 #: contribute/index.md:block 8 (header)
 msgid "[Search all projects](search.md)"
-msgstr ""
+msgstr "[搜索所有项目](search.md)"
 
 #: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
 #: (paragraph)
@@ -1023,7 +1023,7 @@ msgstr ""
 #: contribute/by-topic.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
 
 #: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
 #: 18 (header)
@@ -1038,7 +1038,7 @@ msgstr ""
 #: contribute/by-topic.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 20 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
-msgstr ""
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
 
 #: contribute/by-topic.md:block 12 (header)
 msgid "Documentation"
@@ -1050,7 +1050,7 @@ msgstr ""
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
@@ -1062,11 +1062,11 @@ msgstr ""
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-msgstr ""
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
-msgstr ""
+msgstr "[贡献](https://www.kiwix.org/en/support-us/code/)"
 
 #: contribute/by-topic.md:block 18 (header)
 msgid "Infrastructure"
@@ -1078,7 +1078,7 @@ msgstr ""
 
 #: contribute/by-topic.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
-msgstr ""
+msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Get_involved)"
 
 #: contribute/overview.md:meta.title contribute/overview.md:title
 #: contribute/overview.md:block 1 (header)
@@ -1098,7 +1098,7 @@ msgstr ""
 #: contribute/overview.md:block 8 (unordered list)
 #: get-started/new-dev.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
 
 #: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
 #: (header)
@@ -1113,7 +1113,7 @@ msgstr ""
 #: contribute/overview.md:block 11 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
 
 #: contribute/overview.md:block 12 (header)
 msgid "Review guidelines and code conventions"
@@ -1125,7 +1125,7 @@ msgstr ""
 
 #: contribute/overview.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
-msgstr ""
+msgstr "[在MediaWiki上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
 
 #: contribute/overview.md:block 15 (header)
 msgid "See your contributions"
@@ -1183,21 +1183,21 @@ msgstr ""
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
-msgstr ""
+msgstr "[浏览Gerrit上的存储库](https://gerrit.wikimedia.org/g/)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
-msgstr ""
+msgstr "[浏览GitHub上的存储库](https://github.com/wikimedia)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
-msgstr ""
+msgstr "[浏览GitLab上的存储库](https://gitlab.wikimedia.org/explore)"
 
 #: contribute/search.md:block 12 (header)
 msgid "Search tools and bots"
-msgstr ""
+msgstr "搜索工具和机器人"
 
 #: get-help/index.md:block 2 (paragraph)
 msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
@@ -1217,7 +1217,7 @@ msgstr ""
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
-msgstr ""
+msgstr "[浏览维基媒体开源文档](https://doc.wikimedia.org/)"
 
 #: get-help/index.md:block 12 (header)
 msgid "Check system status"
@@ -1229,7 +1229,7 @@ msgstr ""
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
-msgstr ""
+msgstr "[访问wikimediastatus.net](https://www.wikimediastatus.net/)"
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
@@ -1237,7 +1237,7 @@ msgstr ""
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
-msgstr ""
+msgstr "[了解维基媒体技术](wikimedia-tech.md)"
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
@@ -1245,7 +1245,7 @@ msgstr ""
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
-msgstr ""
+msgstr "[了解开发过程](new-dev.md)"
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
@@ -1258,7 +1258,7 @@ msgstr ""
 
 #: get-started/index.md:block 7 (header)
 msgid "[Browse by programming language](browse-languages.md)"
-msgstr ""
+msgstr "[按编程语言浏览](browse-languages.md)"
 
 #: get-started/index.md:block 8 (paragraph)
 msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
@@ -1267,7 +1267,7 @@ msgstr ""
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
 msgid "Browse by programming language"
-msgstr ""
+msgstr "按编程语言浏览"
 
 #: get-started/browse-languages.md:block 1 (header)
 msgid "API client libraries by language"
@@ -1283,36 +1283,36 @@ msgstr ""
 
 #: get-started/browse-languages.md:block 6 (paragraph)
 msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
-msgstr ""
+msgstr "[浏览项目](../contribute/by-language.md){ .md-button }"
 
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr ""
+msgstr "了解开发过程"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
-msgstr ""
+msgstr "了解如何为维基媒体项目做出技术贡献。"
 
 #: get-started/new-dev.md:block 9 (header)
 msgid "Find tickets, and track projects"
-msgstr ""
+msgstr "查找工单，跟踪项目"
 
 #: get-started/new-dev.md:block 10 (paragraph)
 msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
-msgstr ""
+msgstr "维基媒体使用Phabricator进行任务管理和错误报告。要参与任务，请创建 Phabricator账号。"
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
-msgstr ""
+msgstr "[访问Phabricator](https://phabricator.wikimedia.org/)"
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
 
 #: get-started/new-dev.md:block 15 (header)
 msgid "Learn how to submit code"
-msgstr ""
+msgstr "了解如何提交代码"
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid "Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices."
@@ -1320,7 +1320,7 @@ msgstr ""
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
@@ -1332,7 +1332,7 @@ msgstr ""
 
 #: get-started/tutorials.md:block 4 (paragraph)
 msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
-msgstr ""
+msgstr "[浏览教程](../use-content/tutorials.md){ .md-button }"
 
 #: get-started/tutorials.md:block 5 (header)
 msgid "Tutorials for building tools and bots"
@@ -1344,13 +1344,13 @@ msgstr ""
 
 #: get-started/tutorials.md:block 7 (paragraph)
 msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
-msgstr ""
+msgstr "[浏览教程](../build-tools/tutorials.md){ .md-button }"
 
 #: get-started/wikimedia-tech.md:meta.title
 #: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
 #: (header)
 msgid "Learn about Wikimedia technology"
-msgstr ""
+msgstr "了解维基媒体技术"
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
@@ -1366,11 +1366,11 @@ msgstr ""
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
-msgstr ""
+msgstr "Wikibase和维基数据"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
@@ -1378,11 +1378,11 @@ msgstr ""
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
-msgstr ""
+msgstr "[访问wikidata.org](https://www.wikidata.org/)"
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 
 #: use-content/index.md:block 2 (header)
 msgid "[Explore featured apps](featured-apps.md)"
@@ -1431,7 +1431,7 @@ msgstr ""
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
-msgstr ""
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
 
 #: use-content/content.md:block 6 (header)
 msgid "Review the terms and conditions"
@@ -1443,7 +1443,7 @@ msgstr ""
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
-msgstr ""
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
@@ -1455,7 +1455,7 @@ msgstr ""
 
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
-msgstr ""
+msgstr "[了解更多](https://enterprise.wikimedia.com)"
 
 #: use-content/data.md:meta.title use-content/data.md:title
 #: use-content/data.md:block 1 (header)
@@ -1472,7 +1472,7 @@ msgstr ""
 
 #: use-content/data.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
-msgstr ""
+msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
 
 #: use-content/data.md:block 6 (header)
 msgid "Explore structured data with Wikidata"
@@ -1484,7 +1484,7 @@ msgstr ""
 
 #: use-content/data.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr ""
+msgstr "[在维基数据上了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
@@ -1505,7 +1505,7 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 6 (header)
 msgid "Wikipedia visualizations"
-msgstr ""
+msgstr "维基百科可视化"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
@@ -1525,53 +1525,53 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
-msgstr ""
+msgstr "[在维基数据上了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
-msgstr ""
+msgstr "显示来自维基数据的信息"
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
-msgstr ""
+msgstr "使用MediaWiki API从维基数据获取和显示信息。了解维基百科条目如何与维基数据关联以及如何解析维基数据的结构。"
 
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
-msgstr ""
+msgstr "显示每日图片"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
-msgstr ""
+msgstr "了解如何使用MediaWiki API从维基百科获取每日精选图片。本教程使用Python和Flask框架。"
 
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
 
 #: use-content/tutorials.md:block 15 (header)
 msgid "Get started querying Wikidata"
-msgstr ""
+msgstr "开始查询维基数据"
 
 #: use-content/tutorials.md:block 16 (paragraph)
 msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
-msgstr ""
+msgstr "了解如何使用SPARQL查询维基数据。本教程涵盖了维基数据的基础知识以及如何使用维基数据查询服务。"
 
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr ""
+msgstr "[了解更多](https://wdqs-tutorial.toolforge.org)"
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
-msgstr ""
+msgstr "按位置搜索条目"
 
 #: use-content/tutorials.md:block 19 (paragraph)
 msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
-msgstr ""
+msgstr "了解如何使用MediaWiki API搜索有关某位置或其附近的维基百科条目。本教程使用JavaScript、Python和Flask框架。"
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr ""
+msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 
