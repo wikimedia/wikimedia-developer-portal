@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-07 11:16:58+0000\n"
+"PO-Revision-Date: 2022-07-11 11:16:28+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1088,7 +1088,7 @@ msgstr ""
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
 msgid "Create a developer account"
-msgstr ""
+msgstr "创建开发者账号"
 
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
@@ -1103,7 +1103,7 @@ msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special
 #: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
 #: (header)
 msgid "Find projects and tasks for new contributors"
-msgstr ""
+msgstr "查找为新贡献者准备的项目和任务"
 
 #: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
 #: (paragraph)
@@ -1300,7 +1300,7 @@ msgstr "查找工单，跟踪项目"
 
 #: get-started/new-dev.md:block 10 (paragraph)
 msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
-msgstr "维基媒体使用Phabricator进行任务管理和错误报告。要参与任务，请创建 Phabricator账号。"
+msgstr "维基媒体使用Phabricator进行任务管理和错误报告。要参与任务，请创建Phabricator账号。"
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
