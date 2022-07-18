@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-14 11:16:26+0000\n"
+"PO-Revision-Date: 2022-07-18 11:15:22+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -99,15 +99,15 @@ msgstr "Obtén ayuda"
 
 #: index.md:meta.title index.md:title
 msgid "Discover and build Wikimedia technology"
-msgstr ""
+msgstr "Descubra y construya la tecnología de Wikimedia"
 
 #: index.md:block 1 (paragraph)
 msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
-msgstr ""
+msgstr "Encuentra documentación técnica y conéctate con la comunidad de desarrolladores detrás de [Wikipedia](https://www.wikipedia.org/) y los [otros proyectos Wikimedia](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
-msgstr ""
+msgstr "[Comenzar](get-started/){ .md-button }"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
@@ -115,7 +115,7 @@ msgstr "[Usar contenidos y datos Wikimedia](use-content/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
-msgstr ""
+msgstr "Accede a artículos desde Wikipedia, archivos multimedia, datos estructurados y otros, con APIs públicas y descargas."
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
@@ -147,7 +147,7 @@ msgstr "[Obtén ayuda](get-help/)"
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
-msgstr ""
+msgstr "Encuentra recursos para ayudar con preguntas y resolución de problemas."
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
@@ -156,11 +156,11 @@ msgstr "[Descubrir y compartir herramientas](search.md)"
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
 msgid "Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata."
-msgstr ""
+msgstr "Explora el catálogo de herramientas en Toolhub, comparte tus herramientas y ayuda a mantener la metadata de las herramientas."
 
 #: build-tools/index.md:block 4 (header)
 msgid "[Get started](get-started.md)"
-msgstr ""
+msgstr "[Comenzar](get-started.md)"
 
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
@@ -193,7 +193,7 @@ msgstr "[Hospeda herramientas en los servidores de Wikimedia](host-tools.md)"
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
 msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
-msgstr ""
+msgstr "Accede a servicios en la nube para realizar análisis, administrar de bots, ejecutar servicios web y hospedar herramientas que ayuden a los proyectos Wikimedia."
 
 #: build-tools/apis.md:meta.title build-tools/apis.md:title
 #: build-tools/apis.md:block 1 (header)
@@ -208,7 +208,7 @@ msgstr "Pywikibot"
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
 msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
-msgstr "Pywikibot es una librería de Python y una colección de scripts que automatizan el trabajo los proyectos Wikimedia."
+msgstr "Pywikibot es una librería de Python y una colección de scripts que automatizan el trabajo en los proyectos Wikimedia."
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -234,7 +234,7 @@ msgstr "Explorar bibliotecas por lenguaje de programación"
 #: get-started/browse-languages.md:block 2 (paragraph)
 #: use-content/content.md:block 10 (paragraph)
 msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
-msgstr ""
+msgstr "Las librerías clientes de API ayudan a que sea más fácil escribir código que interactúe con una API. Visita esta lista para buscar las librerías para la API de MediaWiki, ordenadas por lenguaje de programación."
 
 #: build-tools/apis.md:block 8 (unordered list)
 #: get-started/browse-languages.md:block 3 (unordered list)
@@ -250,7 +250,7 @@ msgstr "Usar la API"
 #: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
 #: (paragraph)
 msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
-msgstr ""
+msgstr "La API de MediaWiki permite acceder al contenido de cualquier wiki de Wikimedia. Puedes usar la API para buscar y mostrar páginas wiki, obtener archivos multimedia, editar páginas y administrar wikis."
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -260,7 +260,7 @@ msgstr "[Lea más en mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLan
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
-msgstr ""
+msgstr "[Prueba la Zona de Pruebas de la API](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
 
 #: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
 #: (header) use-content/data.md:block 9 (header)
@@ -716,7 +716,7 @@ msgstr "[Lea más en Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Se
 
 #: community/tech-ops.md:block 6 (header)
 msgid "Performance monitoring"
-msgstr "Monitoreo de rendimiento."
+msgstr "Monitoreo de rendimiento"
 
 #: community/tech-ops.md:block 7 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
@@ -889,7 +889,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
-msgstr "[Lea la documentación] (https://doc.wikimedia.org/codex/main)"
+msgstr "[Lea la documentación](https://doc.wikimedia.org/codex/main)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
@@ -1086,7 +1086,7 @@ msgstr ""
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
 msgid "Create a developer account"
-msgstr "Crear una cuenta de desarrollador"
+msgstr "Crea una cuenta de desarrollador"
 
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
@@ -1203,19 +1203,19 @@ msgstr ""
 
 #: get-help/index.md:block 3 (header)
 msgid "Search the docs"
-msgstr ""
+msgstr "Busca en la documentación"
 
 #: get-help/index.md:block 4 (paragraph)
 msgid "Find technical information for Wikimedia projects."
-msgstr ""
+msgstr "Encuentra información técnica para los proyectos Wikimedia."
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Search across wikis](https://global-search.toolforge.org/)"
-msgstr ""
+msgstr "[Busca en todas las wikis](https://global-search.toolforge.org/)"
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
-msgstr ""
+msgstr "[Explora la documentación de código abierto de Wikimedia](https://doc.wikimedia.org/)"
 
 #: get-help/index.md:block 12 (header)
 msgid "Check system status"
@@ -1458,11 +1458,11 @@ msgstr "[Leer más](https://enterprise.wikimedia.com)"
 #: use-content/data.md:meta.title use-content/data.md:title
 #: use-content/data.md:block 1 (header)
 msgid "Access open data"
-msgstr ""
+msgstr "Accede a datos abiertos"
 
 #: use-content/data.md:block 3 (header)
 msgid "Use Wikimedia open data"
-msgstr ""
+msgstr "Usa los datos abiertos de Wikimedia."
 
 #: use-content/data.md:block 4 (paragraph)
 msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
@@ -1539,7 +1539,7 @@ msgstr "[Lea más en mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLan
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
-msgstr "Mostrar la imagen del día."
+msgstr "Mostrar la imagen del día"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."

@@ -26,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-14 11:16:25+0000\n"
+"PO-Revision-Date: 2022-07-18 11:15:22+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -126,7 +126,7 @@ msgstr "[Werkzeuge und Bots erstellen](build-tools/)"
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
-msgstr ""
+msgstr "Werkzeuge und Bots erleichtern die Bearbeitung und Pflege von Wikimedia-Projekten."
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
@@ -138,7 +138,7 @@ msgstr ""
 
 #: index.md:block 13 (header)
 msgid "[Connect with the community](community/)"
-msgstr ""
+msgstr "[Kontakt mit der Community aufnehmen](community/)"
 
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
@@ -187,7 +187,7 @@ msgstr "[APIs und Datenquellen benutzen](apis.md)"
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
-msgstr ""
+msgstr "Programmierschnittstellen zum Erstellen von Bots und Werkzeugen erkunden."
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
@@ -313,7 +313,7 @@ msgstr "[Weiterlesen auf mediawiki.org](https://www.mediawiki.org/wiki/Special:M
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
-msgstr ""
+msgstr "Mehr über das Erstellen und Ausführen von Bots lernen"
 
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
@@ -358,7 +358,7 @@ msgstr "[Weiterlesen auf Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
 
 #: build-tools/host-tools.md:block 6 (header)
 msgid "Learn about cloud hosting for tools"
-msgstr ""
+msgstr "Mehr über Cloud-Hosting für Werkzeuge erfahren"
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
@@ -398,7 +398,7 @@ msgstr ""
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
-msgstr ""
+msgstr "[Ein Werkzeug zu Toolhub hinzufügen](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
 
 #: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
 #: build-tools/tutorials.md:block 1 (header)
@@ -626,7 +626,7 @@ msgstr ""
 
 #: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
-msgstr ""
+msgstr "Diese jährliche Preisverleihung würdigt Beiträge von freiwilligen Entwicklern."
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
@@ -670,7 +670,7 @@ msgstr ""
 #: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
 msgid "Videos and tech talks"
-msgstr ""
+msgstr "Videos und Tech-Talks"
 
 #: community/grow.md:block 10 (paragraph) get-started/wikimedia-tech.md:block
 #: 7 (paragraph)
@@ -705,7 +705,7 @@ msgstr ""
 #: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
 #: 9 (header)
 msgid "Cloud tools and services"
-msgstr ""
+msgstr "Cloud-Werkzeuge und -Dienste"
 
 #: community/tech-ops.md:block 4 (paragraph)
 #: get-started/wikimedia-tech.md:block 10 (paragraph)
@@ -779,7 +779,7 @@ msgstr "[Weiterlesen auf Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Technical decision-making process"
-msgstr ""
+msgstr "Technischer Entscheidungsprozess"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about why and how technical decisions are made, and browse decision records."
@@ -800,7 +800,7 @@ msgstr "Tech-Blog"
 
 #: community/updates.md:block 4 (paragraph)
 msgid "Read blog posts from the Wikimedia technical community."
-msgstr ""
+msgstr "Blogbeiträge der technischen Wikimedia-Community lesen."
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
@@ -808,7 +808,7 @@ msgstr "[Das Tech-Blog besuchen](https://techblog.wikimedia.org/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Technical community newsletter"
-msgstr ""
+msgstr "Newsletter der technischen Community"
 
 #: community/updates.md:block 7 (paragraph)
 msgid "Subscribe to quarterly updates on activities in the Wikimedia technical community."
@@ -892,7 +892,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
-msgstr ""
+msgstr "[Die Dokumentation lesen](https://doc.wikimedia.org/codex/main)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
@@ -900,7 +900,7 @@ msgstr "[Beitragen](https://doc.wikimedia.org/codex/main/contributing/guidelines
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
-msgstr ""
+msgstr "[Quelltext herunterladen](https://gerrit.wikimedia.org/g/pywikibot/core)"
 
 #: contribute/by-language.md:block 10 (header)
 msgid "Java"
@@ -924,7 +924,7 @@ msgstr "[Beitragen](https://github.com/commons-app/commons-app-documentation/blo
 
 #: contribute/by-language.md:block 13 (unordered list)
 msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
-msgstr ""
+msgstr "[Quelltext herunterladen](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 14 (header)
 msgid "Go"
@@ -948,7 +948,7 @@ msgstr "[Beitragen](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING
 
 #: contribute/by-language.md:block 17 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
-msgstr ""
+msgstr "[Quelltext herunterladen](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
 
 #: contribute/by-language.md:block 18 (header)
 msgid "PHP"
@@ -980,7 +980,7 @@ msgstr "[Beitragen](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_bec
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
-msgstr ""
+msgstr "[Quelltext herunterladen](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
 #: contribute/by-language.md:block 22 (header)
 msgid "Ruby"
@@ -1004,7 +1004,7 @@ msgstr "[Beitragen](https://github.com/WikiEducationFoundation/WikiEduDashboard/
 
 #: contribute/by-language.md:block 25 (unordered list)
 msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
-msgstr ""
+msgstr "[Quelltext herunterladen](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
@@ -1089,7 +1089,7 @@ msgstr ""
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
 msgid "Create a developer account"
-msgstr ""
+msgstr "Ein Entwicklerkonto erstellen"
 
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
@@ -1143,7 +1143,7 @@ msgstr "[WikiContrib besuchen](https://wikicontrib.toolforge.org/)"
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
 msgid "Search all projects"
-msgstr ""
+msgstr "Alle Projekte durchsuchen"
 
 #: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
 msgid "Search codebases"
