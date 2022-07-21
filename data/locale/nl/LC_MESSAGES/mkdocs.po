@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-06-30 11:17:31+0000\n"
+"PO-Revision-Date: 2022-07-21 11:17:38+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -369,7 +369,7 @@ msgstr "[Lees meer op Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolf
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
 msgid "Discover and share tools"
-msgstr ""
+msgstr "Hulpmiddelen ontdekken en delen"
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
@@ -388,7 +388,7 @@ msgstr "[Toolhub bezoeken](https://toolhub.wikimedia.org/)"
 
 #: build-tools/search.md:block 6 (header)
 msgid "Share a tool"
-msgstr ""
+msgstr "Een hulpmiddel delen"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
@@ -525,12 +525,12 @@ msgstr ""
 #: community/communicate.md:block 3 (header) contribute/overview.md:block 3
 #: (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
-msgstr ""
+msgstr "Lees de gedragscode"
 
 #: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
 #: (paragraph) get-started/new-dev.md:block 13 (paragraph)
 msgid "The code of conduct for Wikimedia technical spaces applies to both physical and virtual environments. Learn how to foster an open and welcoming community."
-msgstr ""
+msgstr "De gedragscode voor technische ruimtes van Wikimedia is van toepassing op zowel fysieke als virtuele omgevingen. Leer hoe u een open en gastvrije gemeenschap kunt bevorderen."
 
 #: community/communicate.md:block 5 (unordered list)
 #: contribute/overview.md:block 5 (unordered list)
@@ -890,7 +890,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
-msgstr ""
+msgstr "[Lees de documentatie](https://doc.wikimedia.org/codex/main)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
@@ -914,7 +914,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 13 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
-msgstr ""
+msgstr "[Lees de documentatie](https://commons-app.github.io/)"
 
 #: contribute/by-language.md:block 13 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
