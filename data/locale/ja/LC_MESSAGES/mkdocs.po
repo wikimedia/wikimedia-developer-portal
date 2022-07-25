@@ -28,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-06-30 11:17:31+0000\n"
+"PO-Revision-Date: 2022-07-25 11:18:48+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -54,7 +54,7 @@ msgstr "Copyright &copy; 2022 ウィキメディア財団と投稿者"
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"
-msgstr "プライバシーポリシー"
+msgstr "プライバシー・ポリシー"
 
 #: mkdocs.yml:extra.footer_links.1
 msgid "Terms of Use"
@@ -62,11 +62,11 @@ msgstr "利用規約"
 
 #: mkdocs.yml:extra.footer_links.2
 msgid "Code: GPL-3.0-or-later"
-msgstr "コード：GPL3.0以降"
+msgstr "コード: GPL3.0以降"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-3.0"
-msgstr "その他文章：CC-BY-SA-3.0"
+msgstr "コンテンツ: CC-BY-SA-3.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -218,7 +218,7 @@ msgstr "PywikibotはPythonのライブラリの一つで、ウィキメディア
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
-msgstr "[詳細(mediawiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -245,7 +245,7 @@ msgstr ""
 #: get-started/browse-languages.md:block 3 (unordered list)
 #: use-content/content.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
 
 #: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
 #: (header)
@@ -260,7 +260,7 @@ msgstr ""
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
-msgstr "[mediawiki.orgでさらに詳細を調べましょう](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -280,7 +280,7 @@ msgstr ""
 #: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
 #: 17 (unordered list) use-content/data.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
-msgstr "[メタウィキで詳細を調べましょう](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
 
 #: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
@@ -296,7 +296,7 @@ msgstr ""
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
 
 #: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
 #: 3 (header)
@@ -311,7 +311,7 @@ msgstr "PythonとPywikibotのフレームワークを利用して、ウィキペ
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
-msgstr "[詳細（MediaWiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
@@ -323,7 +323,7 @@ msgstr "Botは、ウィキの維持管理に必要な、繰り返し行われる
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
-msgstr "[詳細（MediaWiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
 
 #: build-tools/get-started.md:block 9 (header)
 msgid "Best practices for open source tools"
@@ -335,7 +335,7 @@ msgstr "オープンソースの開発は初めてですか？ ライセンス�
 
 #: build-tools/get-started.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
-msgstr "[詳細（Wikitech）](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
 
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
@@ -356,7 +356,7 @@ msgstr "[PAWS](https://hub.paws.wmcloud.org/hub/login)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
-msgstr "[詳細（Wikitech）](https://wikitech.wikimedia.org/wiki/PAWS)"
+msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/PAWS)"
 
 #: build-tools/host-tools.md:block 6 (header)
 msgid "Learn about cloud hosting for tools"
@@ -368,7 +368,7 @@ msgstr "Toolforgeは、ツールを運用・管理するための無償で利用
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr "[詳細（Wikitech）](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
@@ -423,7 +423,7 @@ msgstr ""
 #: build-tools/tutorials.md:block 8 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 
 #: build-tools/tutorials.md:block 9 (header)
 msgid "Write a bot that uses Wikidata"
@@ -435,7 +435,7 @@ msgstr "Pythonを用いて、ウィキデータから得られる大量のデー
 
 #: build-tools/tutorials.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
-msgstr "[詳細（ウィキデータ）](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+msgstr "[詳細 (ウィキデータ)](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
 
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
@@ -450,7 +450,7 @@ msgstr ""
 #: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
 
 #: build-tools/tutorials.md:block 15 (header)
 msgid "Add JavaScript or CSS to a wiki"
@@ -462,7 +462,7 @@ msgstr ""
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
@@ -474,7 +474,7 @@ msgstr "Toolforgeは、ツールを運用・管理するための、無償で利
 
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
-msgstr "[詳細（Wikitech）](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
@@ -540,7 +540,7 @@ msgstr "ウィキメディアの技術的空間には、イベントなどの現
 #: contribute/overview.md:block 5 (unordered list)
 #: get-started/new-dev.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
-msgstr "[詳細（MediaWiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
 
 #: community/communicate.md:block 6 (header) get-help/index.md:block 9
 #: (header)
@@ -555,7 +555,7 @@ msgstr "開発者やMediaWikiの利用者とやり取りをして、サポート
 #: community/communicate.md:block 8 (unordered list) get-help/index.md:block
 #: 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
-msgstr "[詳細（MediaWiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
 
 #: community/communicate.md:block 9 (header)
 msgid "Find code maintainers and stewards"
@@ -567,7 +567,7 @@ msgstr "MediaWikiのコア部分や、拡張機能・スキン、ライブラリ
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
-msgstr "[詳細（mediawiki.org）](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
@@ -584,7 +584,7 @@ msgstr "ハッカソンは、異なるスキルを持つ人同士が協業し、
 
 #: community/events.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
-msgstr "[詳細（mediawiki.org）](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+msgstr "[詳細（MediaWiki.org）](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
 
 #: community/events.md:block 6 (header)
 msgid "Wikidata events"
@@ -596,7 +596,7 @@ msgstr "ウィキデータの編集者やデータの利用者、開発者向け
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
-msgstr "[詳細（ウィキデータ）](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+msgstr "[詳細 (ウィキデータ)](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
 
 #: community/events.md:block 9 (header)
 msgid "Research events"
@@ -620,7 +620,7 @@ msgstr "MediaWikiやウィキメディアのコードに関する、ミーティ
 
 #: community/events.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
-msgstr "[詳細（mediawiki.org）](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+msgstr "[詳細（MediaWiki.org）](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
 
 #: community/events.md:block 15 (header)
 msgid "Coolest Tool Award"
@@ -632,7 +632,7 @@ msgstr ""
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
 
 #: community/events.md:block 18 (header)
 msgid "Technical skills workshops"
@@ -646,7 +646,7 @@ msgstr ""
 #: community/events.md:block 20 (unordered list) community/grow.md:block 8
 #: (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -663,7 +663,7 @@ msgstr ""
 
 #: community/grow.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 
 #: community/grow.md:block 6 (header)
 msgid "Small wiki toolkits"
@@ -694,7 +694,7 @@ msgstr ""
 
 #: community/grow.md:block 14 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 
 #: community/tech-ops.md:meta.title community/tech-ops.md:title
 msgid "Learn about Wikimedia technical operations"
@@ -717,7 +717,7 @@ msgstr ""
 #: community/tech-ops.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
-msgstr ""
+msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
 
 #: community/tech-ops.md:block 6 (header)
 msgid "Performance monitoring"
@@ -741,7 +741,7 @@ msgstr "メディアウィキのプラットフォームやウィキメディア
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
-msgstr "[詳細（MediaWiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
@@ -753,7 +753,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
-msgstr "[詳細（Wikitech）](https://wikitech.wikimedia.org/wiki/Deployments)"
+msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/Deployments)"
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
@@ -777,7 +777,7 @@ msgstr ""
 
 #: community/tech-ops.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
-msgstr ""
+msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Technical decision-making process"
@@ -789,7 +789,7 @@ msgstr "技術的な意思決定がなぜ、どのようになされたかを知
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
-msgstr "[詳細（Mediawiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
@@ -818,7 +818,7 @@ msgstr ""
 
 #: community/updates.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 
 #: community/updates.md:block 9 (header)
 msgid "Tech news"
@@ -830,7 +830,7 @@ msgstr ""
 
 #: community/updates.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 
 #: contribute/index.md:meta.title contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
@@ -942,7 +942,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 17 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
-msgstr ""
+msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/Blubber)"
 
 #: contribute/by-language.md:block 17 (unordered list)
 msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
@@ -1026,7 +1026,7 @@ msgstr ""
 #: contribute/by-topic.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
 
 #: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
 #: 18 (header)
@@ -1041,7 +1041,7 @@ msgstr ""
 #: contribute/by-topic.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 20 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
 
 #: contribute/by-topic.md:block 12 (header)
 msgid "Documentation"
@@ -1053,7 +1053,7 @@ msgstr ""
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
@@ -1065,7 +1065,7 @@ msgstr ""
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
@@ -1081,7 +1081,7 @@ msgstr ""
 
 #: contribute/by-topic.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
-msgstr ""
+msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/Get_involved)"
 
 #: contribute/overview.md:meta.title contribute/overview.md:title
 #: contribute/overview.md:block 1 (header)
@@ -1101,7 +1101,7 @@ msgstr ""
 #: contribute/overview.md:block 8 (unordered list)
 #: get-started/new-dev.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
 
 #: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
 #: (header)
@@ -1116,7 +1116,7 @@ msgstr ""
 #: contribute/overview.md:block 11 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
 
 #: contribute/overview.md:block 12 (header)
 msgid "Review guidelines and code conventions"
@@ -1128,7 +1128,7 @@ msgstr ""
 
 #: contribute/overview.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
 
 #: contribute/overview.md:block 15 (header)
 msgid "See your contributions"
@@ -1311,7 +1311,7 @@ msgstr ""
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
 
 #: get-started/new-dev.md:block 15 (header)
 msgid "Learn how to submit code"
@@ -1323,7 +1323,7 @@ msgstr ""
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
@@ -1369,7 +1369,7 @@ msgstr ""
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
@@ -1385,7 +1385,7 @@ msgstr ""
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 
 #: use-content/index.md:block 2 (header)
 msgid "[Explore featured apps](featured-apps.md)"
@@ -1434,7 +1434,7 @@ msgstr ""
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
 
 #: use-content/content.md:block 6 (header)
 msgid "Review the terms and conditions"
@@ -1446,7 +1446,7 @@ msgstr ""
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
@@ -1475,7 +1475,7 @@ msgstr ""
 
 #: use-content/data.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
-msgstr ""
+msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
 
 #: use-content/data.md:block 6 (header)
 msgid "Explore structured data with Wikidata"
@@ -1487,7 +1487,7 @@ msgstr ""
 
 #: use-content/data.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr ""
+msgstr "[詳細 (ウィキデータ)](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
@@ -1528,7 +1528,7 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
-msgstr ""
+msgstr "[詳細 (ウィキデータ)](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
@@ -1540,7 +1540,7 @@ msgstr ""
 
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
@@ -1552,7 +1552,7 @@ msgstr ""
 
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
 
 #: use-content/tutorials.md:block 15 (header)
 msgid "Get started querying Wikidata"
@@ -1576,5 +1576,5 @@ msgstr "MediaWiki APIを利用して、特定地点に近いWikipediaの記事�
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr "[詳細（MediaWiki）](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 
