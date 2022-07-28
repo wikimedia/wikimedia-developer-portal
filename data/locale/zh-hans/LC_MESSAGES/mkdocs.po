@@ -25,12 +25,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-25 11:18:49+0000\n"
+"PO-Revision-Date: 2022-07-28 11:19:27+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hans\n"
-"X-Generator: MediaWiki 1.39.0-alpha; Translate 2022-04-26\n"
+"X-Generator: MediaWiki 1.39.0-alpha; Translate 2022-07-28\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: mkdocs.yml:site_name
@@ -252,7 +252,7 @@ msgstr "使用API"
 #: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
 #: (paragraph)
 msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
-msgstr "MediaWiki API使您能以编程方式访问任何维基媒体wiki。您可以使用API搜索和显示wiki页面、获取媒体文件、编辑页面以及管理wiki。"
+msgstr "MediaWiki API使你能以编程方式访问任何维基媒体的wiki。你可以使用API搜索和显示wiki页面、获取媒体文件、编辑页面以及管理wiki。"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -361,7 +361,7 @@ msgstr "了解更多有关工具云托管的信息"
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
-msgstr "Toolforge是用于运行和管理工具的免费托管环境。在Toolforge中开发工具可以更轻松地访问维基媒体内容和数据以及与他人共享您的工具。"
+msgstr "Toolforge是用于运行和管理工具的免费托管环境。在Toolforge中开发工具可以更轻松地访问维基媒体内容和数据以及与他人共享你的工具。"
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
@@ -380,7 +380,7 @@ msgstr "Toolhub"
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
 msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
-msgstr "Toolhub是一个工具目录，可以更轻松地编辑和维护维基媒体项目。使用Toolhub发现新工具，与工具维护者联系，并分享你喜欢的工具列表。"
+msgstr "Toolhub是一个工具目录，其中的工具可以使编辑和维护维基媒体项目变得更加轻松。使用Toolhub发现新工具，与工具维护者联系，并分享你喜欢的工具列表。"
 
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
@@ -511,7 +511,7 @@ msgstr "及时了解来自维基媒体技术社区的最新消息。"
 
 #: community/index.md:block 10 (header)
 msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
-msgstr "[了解维基媒体技术操作](tech-ops.md)"
+msgstr "[了解维基媒体技术运营](tech-ops.md)"
 
 #: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
 #: (paragraph)
@@ -1201,7 +1201,7 @@ msgstr "搜索工具和机器人"
 
 #: get-help/index.md:block 2 (paragraph)
 msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
-msgstr "由于维基媒体技术生态系统复杂且分散，您可以在许多不同的位置找到帮助和支持，而这些内容的格式也有所差异。"
+msgstr "由于维基媒体技术生态系统复杂且分散，你可能会在许多不同的位置找到帮助和支持，而这些内容的格式也有所差异。"
 
 #: get-help/index.md:block 3 (header)
 msgid "Search the docs"
@@ -1262,7 +1262,7 @@ msgstr "[按编程语言浏览](browse-languages.md)"
 
 #: get-started/index.md:block 8 (paragraph)
 msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
-msgstr "以您首选的编程语言查找客户端库、示例应用程序和开源项目。"
+msgstr "以你首选的编程语言查找客户端库、示例应用程序和开源项目。"
 
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
@@ -1316,7 +1316,7 @@ msgstr "了解如何提交代码"
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid "Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices."
-msgstr "许多维基媒体项目使用Git和Gerrit进行开发。在提交代码以供审核之前，请熟悉相关工具、流程和最佳实践。"
+msgstr "许多维基媒体项目使用Git和Gerrit进行开发。在提交代码以供审核之前，建议熟悉相关工具、流程和最佳实践。"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
@@ -1328,7 +1328,7 @@ msgstr "使用内容和数据的教程"
 
 #: get-started/tutorials.md:block 3 (paragraph)
 msgid "Learn the basics of using Wikimedia content and data in your project."
-msgstr "了解在你的项目中使用维基媒体内容和数据的基础知识。"
+msgstr "学习在你的项目中使用维基媒体内容和数据的基础知识。"
 
 #: get-started/tutorials.md:block 4 (paragraph)
 msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
@@ -1374,7 +1374,7 @@ msgstr "Wikibase和维基数据"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
-msgstr "Wikibase是用于处理结构化数据的MediaWiki扩展，它是支持维基数据的软件。"
+msgstr "Wikibase是用于处理结构化数据的MediaWiki扩展，是维基数据的实现基础。"
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
@@ -1396,7 +1396,7 @@ msgstr "查看使用维基媒体内容和数据构建的开源应用程序和数
 #: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
-msgstr "按照分步指南学习使用维基媒体内容和数据的基础知识。"
+msgstr "跟随分步编写的教程，学习使用维基媒体内容和数据的基础知识。"
 
 #: use-content/index.md:block 6 (header)
 msgid "[Use wiki content](content.md)"
@@ -1439,7 +1439,7 @@ msgstr "查看条款和条件"
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr "大多数维基媒体内容都使用知识共享（Creative Commons，简称CC）许可协议进行许可，允许在注明出处的前提下免费重复使用。您可以查看任意wiki页面的底部以找到适用的许可协议。"
+msgstr "大多数维基媒体内容都使用知识共享（Creative Commons，简称CC）许可协议进行许可，允许在注明出处的前提下免费重复使用。你可以查看任意wiki页面的底部以找到适用的许可协议。"
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"

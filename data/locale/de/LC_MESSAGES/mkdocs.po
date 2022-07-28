@@ -26,12 +26,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-18 11:15:22+0000\n"
+"PO-Revision-Date: 2022-07-28 11:19:25+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: de\n"
-"X-Generator: MediaWiki 1.39.0-alpha; Translate 2022-04-26\n"
+"X-Generator: MediaWiki 1.39.0-alpha; Translate 2022-07-28\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: mkdocs.yml:site_name
@@ -626,7 +626,7 @@ msgstr ""
 
 #: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
-msgstr "Diese jährliche Preisverleihung würdigt Beiträge von freiwilligen Entwicklern."
+msgstr "Diese jährliche Preisverleihung würdigt Beiträge von ehrenamtlichen Entwicklern."
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
