@@ -28,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-28 11:19:26+0000\n"
+"PO-Revision-Date: 2022-08-01 11:19:52+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1458,7 +1458,7 @@ msgstr ""
 
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
-msgstr ""
+msgstr "[詳細](https://enterprise.wikimedia.com)"
 
 #: use-content/data.md:meta.title use-content/data.md:title
 #: use-content/data.md:block 1 (header)
@@ -1564,7 +1564,7 @@ msgstr ""
 
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr ""
+msgstr "[詳細](https://wdqs-tutorial.toolforge.org)"
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
