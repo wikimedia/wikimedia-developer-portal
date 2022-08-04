@@ -28,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-08-01 11:19:52+0000\n"
+"PO-Revision-Date: 2022-08-04 11:17:32+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -255,7 +255,7 @@ msgstr "APIを利用する"
 #: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
 #: (paragraph)
 msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
-msgstr ""
+msgstr "MediaWiki APIを利用することにより、あらゆるウィキメディアのウィキのコンテンツに、プログラムからアクセスすることができます。具体的には、ウィキページの検索と表示、メディアファイルの取得、ページの編集、wikiの管理などです。"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -686,7 +686,7 @@ msgstr ""
 
 #: community/grow.md:block 12 (header)
 msgid "Tech ambassadors"
-msgstr ""
+msgstr "技術大使"
 
 #: community/grow.md:block 13 (paragraph)
 msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
@@ -826,7 +826,7 @@ msgstr "技術ニュース"
 
 #: community/updates.md:block 10 (paragraph)
 msgid "Get weekly summaries of technical topics for Wikimedians."
-msgstr ""
+msgstr "ウィキメディアン向けの技術的なトピックの要約が、週次で配信されています。"
 
 #: community/updates.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
@@ -1426,11 +1426,11 @@ msgstr ""
 
 #: use-content/content.md:block 3 (header)
 msgid "Introduction to Wikimedia projects"
-msgstr ""
+msgstr "ウィキメディアのプロジェクト群の紹介"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
-msgstr ""
+msgstr "ウィキメディアのコンテンツは、プロジェクト毎、言語毎に整備されています。プロジェクトはそれぞれ、ウィキペディアであれば百科事典の記事、コモンズであればメディアファイル、ウィキデータであれば構造化データといったように、多種多様な無料コンテンツを保有しています。"
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
@@ -1438,11 +1438,11 @@ msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:My
 
 #: use-content/content.md:block 6 (header)
 msgid "Review the terms and conditions"
-msgstr ""
+msgstr "利用規約の確認"
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr ""
+msgstr "ウィキメディアのコンテンツのほとんどは、帰属表示付きで自由に再利用可能なクリエイティブコモンズライセンスでライセンスされています。ページごとの該当するライセンスを知るには、ウィキページの下部を確認してください。"
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
@@ -1450,11 +1450,11 @@ msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:My
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
-msgstr ""
+msgstr "エンタープライズ向けのサービス"
 
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
-msgstr ""
+msgstr "Wikimedia Enterprise は、ウィキメディアのコンテンツやデータに大容量かつ商用のアクセスを行うことを目的として設計されたAPIとサービスを提供しています。"
 
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
