@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-28 11:19:27+0000\n"
+"PO-Revision-Date: 2022-08-08 11:15:21+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -415,7 +415,7 @@ msgstr "新条目创建建议生成器"
 #: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
 #: 13 (paragraph)
 msgid "Learn how to use the MediaWiki API to generate ideas for new Wikipedia articles. This tutorial uses Python and the Flask framework."
-msgstr "学习如何使用MediaWiki API来为创建维基百科新条目提供想法。此教程使用Python和Flask框架。"
+msgstr "学习如何使用MediaWiki API来为创建维基百科新条目提供想法。本教程使用Python和Flask框架。"
 
 #: build-tools/tutorials.md:block 8 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
@@ -442,7 +442,7 @@ msgstr "显示来自维基百科的节假日信息"
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
-msgstr "学习如何使用MediaWiki API来从维基百科获取某一特定日期的节假日信息。此教程也包括如何使用API登录维基百科和添加新节假日。此教程使用Python和Flask框架。"
+msgstr "学习如何使用MediaWiki API来从维基百科获取某一特定日期的节假日信息。教程也包括如何使用API登录维基百科和添加新节假日。本教程使用Python和Flask框架。"
 
 #: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
