@@ -25,14 +25,14 @@ translate = "plugin.plugin:TranslatePlugin"
 
 [tool.poetry.dependencies]
 python = "^3.7"
-mkdocs = "^1.2.3"
-mkdocs-material = "^8.2.15"
+mkdocs = "^1.3.1"
+mkdocs-material = "^8.4.0"
 mkdocs-macros-plugin = "^0.7.0"
-mdpo = "^0.3.81"
+mdpo = "^0.3.86"
 langcodes = {extras = ["data"], version = "^3.3.0"}
 
 [tool.poetry.dev-dependencies]
-black = "^22.3.0"
+black = "^22.6.0"
 flakehell = "^0.9.0"
 flake8 = "^3.9.2"
 flake8-blind-except = "^0.2.0"
@@ -41,7 +41,7 @@ flake8-builtins = "^1.5.3"
 flake8-docstrings = "^1.6.0"
 flake8-import-order = "^0.18.1"
 flake8-logging-format = "^0.6.0"
-flake8-comprehensions = "^3.7.0"
+flake8-comprehensions = "^3.10.0"
 
 [tool.flakehell]
 exclude = [

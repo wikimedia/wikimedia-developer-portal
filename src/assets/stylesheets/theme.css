@@ -1,14 +1,19 @@
-:root {
-	--md-primary-fg-color: #0C57A8;
-	--md-accent-fg-color: #0063BF;
+:root > * {
 	--md-text-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Lato, Helvetica, Arial, sans-serif;
+}
+
+/* Light theme */
+[data-md-color-scheme="default"] {
+	--md-accent-fg-color: #0063BF;
+	--md-primary-fg-color: #0C57A8;
 }
 
 /* Dark theme */
 [data-md-color-scheme="slate"] {
 	--md-accent-fg-color: #F0BC00;
-	--md-typeset-a-color: #F0BC00;
 	--md-default-bg-color: #1A1B23;
+	--md-primary-fg-color: #0C57A8;
+	--md-typeset-a-color: #F0BC00;
 }
 
 /* Increase contrast of nav drawer title */
