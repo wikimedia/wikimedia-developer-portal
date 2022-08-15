@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-07-28 11:19:26+0000\n"
+"PO-Revision-Date: 2022-08-15 11:15:38+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -111,7 +111,7 @@ msgstr "[להתחיל](get-started/){ .md-button }"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
-msgstr "[שימוש בתוכן ובנתונים של ויקימדיה](use-content/)ahnua"
+msgstr "[שימוש בתוכן ובנתונים של ויקימדיה](use-content/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
@@ -131,7 +131,7 @@ msgstr "[תרומה לקוד פתוח של ויקימדיה](contribute/)"
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
-msgstr "לעזור לבנות את הסביבה של ויקימדיה עם תוכנה בקוד פתוח."
+msgstr "עזרה בבניית הסביבה של ויקימדיה עם תוכנה בקוד פתוח."
 
 #: index.md:block 13 (header)
 msgid "[Connect with the community](community/)"
@@ -139,7 +139,7 @@ msgstr "[התחברות עם הקהילה](community/)"
 
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
-msgstr "להיות מעורבים בקהילה הטכנית של ויקימדיה, ולמצוא הזדמנויות לתמיכה ולימוד."
+msgstr "מעורבות בקהילה הטכנית של ויקימדיה, ומציאת הזדמנויות לתמיכה ולימוד."
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
@@ -147,11 +147,11 @@ msgstr "[קבלת עזרה](get-help/)"
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
-msgstr "למצוא משאבים לעזרה עם שאלות ופתרון בעיות."
+msgstr "מציאת משאבים לעזרה עם שאלות ופתרון בעיות."
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
-msgstr "[גיולי ושיתוף כלים](search.md)"
+msgstr "[גילוי ושיתוף כלים](search.md)"
 
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
@@ -175,16 +175,16 @@ msgstr "[לימוד בעזרת דפי הדרכה](tutorials.md)"
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
-msgstr "לעקוב אחר הוראות צעד־אחר־צעד כדי ללמוד את היסודות של קשר עם מיזמי ויקימדיה."
+msgstr "הוראות צעד־אחר־צעד ללימוד היסודות של ביצוע פעולות עם מיזמי ויקימדיה."
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
-msgstr "[להשתמש ב־API־ים ומקורות מידע](apis.md)"
+msgstr "[שימוש ב־API־ים ובמקורות מידע](apis.md)"
 
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
-msgstr "לחקור ממשקי תכנות לבניית בוטים וכלים."
+msgstr "לימוד ממשקי תכנות לבניית בוטים וכלים."
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
@@ -193,7 +193,7 @@ msgstr "[אירוח כלים בשרתי ויקימדיה](host-tools.md)"
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
 msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
-msgstr "לגשת לשירותי ענן לביצוע ניתוח נתונים, ניהול בוטים, הרצת שירותי וב, ואירוח כלים שעוזרים למיזמי ויקימדיה."
+msgstr "גישה לשירותי ענן לביצוע ניתוח נתונים, ניהול בוטים, הרצת שירותי וב, ואירוח כלים שעוזרים למיזמי ויקימדיה."
 
 #: build-tools/apis.md:meta.title build-tools/apis.md:title
 #: build-tools/apis.md:block 1 (header)
@@ -403,7 +403,7 @@ msgstr "[הוספת כלי ל־Toolhub](https://toolhub.wikimedia.org/add-or-rem
 #: use-content/tutorials.md:meta.title use-content/tutorials.md:title
 #: use-content/tutorials.md:block 1 (header)
 msgid "Learn with tutorials"
-msgstr "ללמוד עם מדריכים"
+msgstr "לימוד עם מדריכים"
 
 #: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
 #: (header)
@@ -833,7 +833,7 @@ msgstr ""
 
 #: contribute/index.md:block 2 (header)
 msgid "[Learn how contributing works](overview.md)"
-msgstr "[ללמוד איך עובדת תקומה](overview.md)"
+msgstr "[איך לתרום](overview.md)"
 
 #: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
 #: (paragraph)
@@ -1081,7 +1081,7 @@ msgstr "[מידע נוסף באתר Wikitech](https://wikitech.wikimedia.org/wik
 #: contribute/overview.md:meta.title contribute/overview.md:title
 #: contribute/overview.md:block 1 (header)
 msgid "Learn how contributing works"
-msgstr "ללמוד איך עובדת תרומה"
+msgstr "איך לתרום"
 
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
@@ -1286,7 +1286,7 @@ msgstr "[עיון בפרויקטים](../contribute/by-language.md){ .md-button 
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr "להבין את תהליך הפיתוח"
+msgstr "הבנת תהליך הפיתוח"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
