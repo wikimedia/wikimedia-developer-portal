@@ -7,10 +7,10 @@ optional = false
 python-versions = ">=3.5"
 
 [package.extras]
-tests_no_zope = ["cloudpickle", "pytest-mypy-plugins", "mypy (>=0.900,!=0.940)", "pytest (>=4.3.0)", "pympler", "hypothesis", "coverage[toml] (>=5.0.2)"]
-tests = ["cloudpickle", "zope.interface", "pytest-mypy-plugins", "mypy (>=0.900,!=0.940)", "pytest (>=4.3.0)", "pympler", "hypothesis", "coverage[toml] (>=5.0.2)"]
-docs = ["sphinx-notfound-page", "zope.interface", "sphinx", "furo"]
-dev = ["cloudpickle", "pre-commit", "sphinx-notfound-page", "sphinx", "furo", "zope.interface", "pytest-mypy-plugins", "mypy (>=0.900,!=0.940)", "pytest (>=4.3.0)", "pympler", "hypothesis", "coverage[toml] (>=5.0.2)"]
+dev = ["coverage[toml] (>=5.0.2)", "hypothesis", "pympler", "pytest (>=4.3.0)", "mypy (>=0.900,!=0.940)", "pytest-mypy-plugins", "zope.interface", "furo", "sphinx", "sphinx-notfound-page", "pre-commit", "cloudpickle"]
+docs = ["furo", "sphinx", "zope.interface", "sphinx-notfound-page"]
+tests = ["coverage[toml] (>=5.0.2)", "hypothesis", "pympler", "pytest (>=4.3.0)", "mypy (>=0.900,!=0.940)", "pytest-mypy-plugins", "zope.interface", "cloudpickle"]
+tests_no_zope = ["coverage[toml] (>=5.0.2)", "hypothesis", "pympler", "pytest (>=4.3.0)", "mypy (>=0.900,!=0.940)", "pytest-mypy-plugins", "cloudpickle"]
 
 [[package]]
 name = "black"
@@ -30,10 +30,10 @@ typed-ast = {version = ">=1.4.2", markers = "python_version < \"3.8\" and implem
 typing-extensions = {version = ">=3.10.0.0", markers = "python_version < \"3.10\""}
 
 [package.extras]
-uvloop = ["uvloop (>=0.15.2)"]
-jupyter = ["tokenize-rt (>=3.2.0)", "ipython (>=7.8.0)"]
-d = ["aiohttp (>=3.7.4)"]
 colorama = ["colorama (>=0.4.3)"]
+d = ["aiohttp (>=3.7.4)"]
+jupyter = ["ipython (>=7.8.0)", "tokenize-rt (>=3.2.0)"]
+uvloop = ["uvloop (>=0.15.2)"]
 
 [[package]]
 name = "click"
@@ -98,7 +98,7 @@ attrs = ">=19.2.0"
 flake8 = ">=3.0.0"
 
 [package.extras]
-dev = ["pre-commit", "hypothesmith (>=0.2)", "hypothesis", "coverage"]
+dev = ["coverage", "hypothesis", "hypothesmith (>=0.2)", "pre-commit"]
 
 [[package]]
 name = "flake8-builtins"
@@ -204,9 +204,9 @@ typing-extensions = {version = ">=3.6.4", markers = "python_version < \"3.8\""}
 zipp = ">=0.5"
 
 [package.extras]
-testing = ["importlib-resources (>=1.3)", "pytest-mypy (>=0.9.1)", "pytest-black (>=0.3.7)", "pytest-perf (>=0.9.2)", "flufl.flake8", "pyfakefs", "packaging", "pytest-enabler (>=1.3)", "pytest-cov", "pytest-flake8", "pytest-checkdocs (>=2.4)", "pytest (>=6)"]
+docs = ["sphinx", "jaraco.packaging (>=9)", "rst.linker (>=1.9)"]
 perf = ["ipython"]
-docs = ["rst.linker (>=1.9)", "jaraco.packaging (>=9)", "sphinx"]
+testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-cov", "pytest-enabler (>=1.3)", "packaging", "pyfakefs", "flufl.flake8", "pytest-perf (>=0.9.2)", "pytest-black (>=0.3.7)", "pytest-mypy (>=0.9.1)", "importlib-resources (>=1.3)"]
 
 [[package]]
 name = "jinja2"
@@ -256,7 +256,7 @@ optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 
 [package.extras]
-test = ["readme-renderer", "pytest", "hypothesis"]
+test = ["hypothesis", "pytest", "readme-renderer"]
 
 [[package]]
 name = "markdown"
@@ -301,10 +301,10 @@ polib = ">=1.1.0"
 pymd4c = "1.1.2"
 
 [package.extras]
-test = ["pytest-cov (==2.12.1)", "pytest (==6.2.4)", "pre-commit (==2.15.0)"]
-lint = ["yamllint (==1.26.1)", "isort (==5.9.1)", "flake8-pytest-style (==1.5.1)", "flake8-printf-formatting (==1.1.2)", "flake8-print (==4.0.0)", "flake8-implicit-str-concat (==0.2.0)", "flake8-executable (==2.1.1)", "flake8-docstrings (==1.6.0)", "flake8-comprehensions (==3.7.0)", "flake8-builtins (==1.5.3)", "flake8 (==4.0.1)"]
-doc = ["sphinx-tabs (==3.2.0)", "sphinx-rtd-theme (==1.0.0)", "sphinx-github-changelog (==1.2.0)", "sphinx-argparse-cli (==1.8.3)", "Sphinx (==4.4.0)"]
-dev = ["yamllint (==1.26.1)", "sphinx-tabs (==3.2.0)", "sphinx-rtd-theme (==1.0.0)", "sphinx-github-changelog (==1.2.0)", "sphinx-argparse-cli (==1.8.3)", "pytest-cov (==2.12.1)", "pytest (==6.2.4)", "pre-commit (==2.15.0)", "isort (==5.9.1)", "flake8-pytest-style (==1.5.1)", "flake8-printf-formatting (==1.1.2)", "flake8-print (==4.0.0)", "flake8-implicit-str-concat (==0.2.0)", "flake8-executable (==2.1.1)", "flake8-docstrings (==1.6.0)", "flake8-comprehensions (==3.7.0)", "flake8-builtins (==1.5.3)", "flake8 (==4.0.1)", "bump2version (==1.0.1)", "Sphinx (==4.4.0)"]
+dev = ["Sphinx (==4.4.0)", "bump2version (==1.0.1)", "flake8 (==4.0.1)", "flake8-builtins (==1.5.3)", "flake8-comprehensions (==3.7.0)", "flake8-docstrings (==1.6.0)", "flake8-executable (==2.1.1)", "flake8-implicit-str-concat (==0.2.0)", "flake8-print (==4.0.0)", "flake8-printf-formatting (==1.1.2)", "flake8-pytest-style (==1.5.1)", "isort (==5.9.1)", "pre-commit (==2.15.0)", "pytest (==6.2.4)", "pytest-cov (==2.12.1)", "sphinx-argparse-cli (==1.8.3)", "sphinx-github-changelog (==1.2.0)", "sphinx-rtd-theme (==1.0.0)", "sphinx-tabs (==3.2.0)", "yamllint (==1.26.1)"]
+doc = ["Sphinx (==4.4.0)", "sphinx-argparse-cli (==1.8.3)", "sphinx-github-changelog (==1.2.0)", "sphinx-rtd-theme (==1.0.0)", "sphinx-tabs (==3.2.0)"]
+lint = ["flake8 (==4.0.1)", "flake8-builtins (==1.5.3)", "flake8-comprehensions (==3.7.0)", "flake8-docstrings (==1.6.0)", "flake8-executable (==2.1.1)", "flake8-implicit-str-concat (==0.2.0)", "flake8-print (==4.0.0)", "flake8-printf-formatting (==1.1.2)", "flake8-pytest-style (==1.5.1)", "isort (==5.9.1)", "yamllint (==1.26.1)"]
+test = ["pre-commit (==2.15.0)", "pytest (==6.2.4)", "pytest-cov (==2.12.1)"]
 
 [[package]]
 name = "mergedeep"
@@ -357,7 +357,7 @@ test = ["mkdocs-include-markdown-plugin", "mkdocs-material (>=6.2)", "mkdocs-mac
 
 [[package]]
 name = "mkdocs-material"
-version = "8.4.0"
+version = "8.4.1"
 description = "Documentation that simply works"
 category = "main"
 optional = false
@@ -415,8 +415,8 @@ optional = false
 python-versions = ">=3.7"
 
 [package.extras]
-test = ["pytest (>=6)", "pytest-mock (>=3.6)", "pytest-cov (>=2.7)", "appdirs (==1.4.4)"]
-docs = ["sphinx (>=4)", "sphinx-autodoc-typehints (>=1.12)", "proselint (>=0.10.2)", "furo (>=2021.7.5b38)"]
+docs = ["furo (>=2021.7.5b38)", "proselint (>=0.10.2)", "sphinx-autodoc-typehints (>=1.12)", "sphinx (>=4)"]
+test = ["appdirs (==1.4.4)", "pytest-cov (>=2.7)", "pytest-mock (>=3.6)", "pytest (>=6)"]
 
 [[package]]
 name = "polib"
@@ -495,7 +495,7 @@ optional = false
 python-versions = ">=3.6.8"
 
 [package.extras]
-diagrams = ["jinja2", "railroad-diagrams"]
+diagrams = ["railroad-diagrams", "jinja2"]
 
 [[package]]
 name = "python-dateutil"
@@ -592,9 +592,9 @@ optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*, <4"
 
 [package.extras]
+brotli = ["brotlicffi (>=0.8.0)", "brotli (>=1.0.9)", "brotlipy (>=0.6.0)"]
+secure = ["pyOpenSSL (>=0.14)", "cryptography (>=1.3.4)", "idna (>=2.0.0)", "certifi", "ipaddress"]
 socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
-secure = ["ipaddress", "certifi", "idna (>=2.0.0)", "cryptography (>=1.3.4)", "pyOpenSSL (>=0.14)"]
-brotli = ["brotlipy (>=0.6.0)", "brotli (>=1.0.9)", "brotlicffi (>=0.8.0)"]
 
 [[package]]
 name = "watchdog"
@@ -616,13 +616,13 @@ optional = false
 python-versions = ">=3.7"
 
 [package.extras]
-testing = ["pytest-mypy (>=0.9.1)", "pytest-black (>=0.3.7)", "func-timeout", "jaraco.itertools", "pytest-enabler (>=1.3)", "pytest-cov", "pytest-flake8", "pytest-checkdocs (>=2.4)", "pytest (>=6)"]
-docs = ["jaraco.tidelift (>=1.4)", "rst.linker (>=1.9)", "jaraco.packaging (>=9)", "sphinx"]
+docs = ["sphinx", "jaraco.packaging (>=9)", "rst.linker (>=1.9)", "jaraco.tidelift (>=1.4)"]
+testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-cov", "pytest-enabler (>=1.3)", "jaraco.itertools", "func-timeout", "pytest-black (>=0.3.7)", "pytest-mypy (>=0.9.1)"]
 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "419fb5cd45c78636784b1a0567fb6b479121390ad4838cb3b44d15a55012fff0"
+content-hash = "cf1687e3e1acac29871d0a072025310230e22bfe3b96ce8b28cd9e7d0ba63b02"
 
 [metadata.files]
 attrs = []

@@ -26,7 +26,7 @@ translate = "plugin.plugin:TranslatePlugin"
 [tool.poetry.dependencies]
 python = "^3.7"
 mkdocs = "^1.3.1"
-mkdocs-material = "^8.4.0"
+mkdocs-material = "^8.4.1"
 mkdocs-macros-plugin = "^0.7.0"
 mdpo = "^0.3.86"
 langcodes = {extras = ["data"], version = "^3.3.0"}
