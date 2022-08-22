@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-08-15 11:15:38+0000\n"
+"PO-Revision-Date: 2022-08-22 11:16:14+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -558,7 +558,7 @@ msgstr "מציאת מתחזקי קוד"
 
 #: community/communicate.md:block 10 (paragraph)
 msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
-msgstr ""
+msgstr "עיון ברשימת המפתחים והצוותים שמתחזקים את רכיבי ליבת מדיה־ויקי, הרחבות, ספריות, ועיצובים עיקריים, ותשתית טכנית אחרת של ויקימדיה."
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
@@ -575,7 +575,7 @@ msgstr "האקאתונים"
 
 #: community/events.md:block 4 (paragraph)
 msgid "A hackathon brings together people with different skills to work together on a common technical goal."
-msgstr ""
+msgstr "האקאתון מפגיש אנשים עם כישורים שונים כד לעבוד יחד על מטרה טכנית משותפת."
 
 #: community/events.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
@@ -587,7 +587,7 @@ msgstr "אירועי ויקינתונים"
 
 #: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
-msgstr ""
+msgstr "עיון בלוח מפגשים לעורכי אתר ויקינתונים, אנשים שמשתמשים בנתונים ממנו, ומפתחים שלו."
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
@@ -599,7 +599,7 @@ msgstr "אירועי מחקר"
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
-msgstr ""
+msgstr "הצטרפות לפורומים ולמפגשים של מדענים, מהנדסים, ומדענים שחוקרים את כל ההיבטים של מיזמי ויקימדיה."
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
