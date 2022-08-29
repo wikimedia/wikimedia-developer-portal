@@ -1,10 +1,8 @@
-# Translation of Wikimedia Developer Portal to Simplified Chinese (中文（简体）)
+# Translation of Wikimedia Developer Portal to Russian (русский)
 # Exported from translatewiki.net
 #
-# Author: Diskdance
-# Author: GuoPC
-# Author: Lakejason0
-# Author: StarrySky
+# Author: Kaganer
+# Author: Pacha Tchernof
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -26,182 +24,182 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-08-29 11:16:41+0000\n"
+"PO-Revision-Date: 2022-08-29 11:16:40+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh-Hans\n"
+"Language: ru\n"
 "X-Generator: MediaWiki 1.39.0-alpha; Translate 2022-07-28\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=3; plural=(n%10 == 1 && n%100 != 11) ? 0 : ( (n%10 >= 2 && n%10 <= 4 && (n%100 < 10 || n%100 >= 20)) ? 1 : 2 );\n"
 
 #: mkdocs.yml:site_name
 msgid "Wikimedia Developer Portal"
-msgstr "维基媒体开发者门户"
+msgstr "Портал разработчиков Викимедиа"
 
 #: mkdocs.yml:site_description
 msgid "Find technical documentation, and connect with Wikimedia developer communities."
-msgstr "寻找技术文档，与维基媒体开发者社区联系。"
+msgstr "Находите техническую документацию и общайтесь с сообществами разработчиков Викимедиа."
 
 #: mkdocs.yml:site_author
 msgid "Wikimedia Foundation and contributors"
-msgstr "维基媒体基金会与贡献者"
+msgstr "Фонд Викимедиа и участники"
 
 #: mkdocs.yml:copyright
 msgid "Copyright &copy; 2022 Wikimedia Foundation and contributors"
-msgstr "Copyright &copy; 2022 维基媒体基金会与贡献者"
+msgstr "Copyright &copy; 2022 Фонд Викимедиа и участники"
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"
-msgstr "隐私政策"
+msgstr "Политика конфиденциальности"
 
 #: mkdocs.yml:extra.footer_links.1
 msgid "Terms of Use"
-msgstr "使用条款"
+msgstr "Условия использования"
 
 #: mkdocs.yml:extra.footer_links.2
 msgid "Code: GPL-3.0-or-later"
-msgstr "代码：GPL 3.0或更高版本"
+msgstr "Код: GPL-3.0 или новее"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-3.0"
-msgstr "内容：CC BY-SA 3.0"
+msgstr "Содержимое: CC-BY-SA-3.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
-msgstr "关于"
+msgstr "О портале"
 
 #: mkdocs.yml:extra.footer_links.5 mkdocs.yml:navigation
 msgid "Contribute"
-msgstr "贡献"
+msgstr "Внести свой вклад"
 
 #: mkdocs.yml:navigation build-tools/get-started.md:title
 #: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
 #: get-started/index.md:title
 msgid "Get started"
-msgstr "入门"
+msgstr "Приступить"
 
 #: mkdocs.yml:navigation use-content/index.md:meta.title
 #: use-content/index.md:title
 msgid "Use content and data"
-msgstr "使用内容与数据"
+msgstr "Используйте содержимое и данные"
 
 #: mkdocs.yml:navigation build-tools/index.md:meta.title
 #: build-tools/index.md:title
 msgid "Tools and bots"
-msgstr "工具和机器人"
+msgstr "Инструменты и боты"
 
 #: mkdocs.yml:navigation community/index.md:meta.title
 #: community/index.md:title
 msgid "Community"
-msgstr "社区"
+msgstr "Сообщество"
 
 #: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
 #: get-help/index.md:block 1 (header)
 msgid "Get help"
-msgstr "获取帮助"
+msgstr "Получить помощь"
 
 #: index.md:meta.title index.md:title
 msgid "Discover and build Wikimedia technology"
-msgstr "探索与构建维基媒体技术"
+msgstr "Откройте для себя технологии Викимедиа и поучаствуйте в их создании"
 
 #: index.md:block 1 (paragraph)
 msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
-msgstr "寻找技术文档，与[维基百科](https://www.wikipedia.org/)和其他[维基媒体项目](https://wikimediafoundation.org/our-work/wikimedia-projects/)背后的开发者社区联系。"
+msgstr "Найдите техническую документацию и свяжитесь с сообществом разработчиков [Википедии] (https://www.wikipedia.org/) и других [проектов Викимедиа] (https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
-msgstr "[开始](get-started/){ .md-button }"
+msgstr "[Приступить](get-started/){ .md-button}"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
-msgstr "[使用维基媒体内容与数据](use-content/)"
+msgstr "[Используйте контент и данные Викимедиа](use-content/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
-msgstr "通过公开的API及下载内容来访问维基百科的条目、媒体文件、结构化数据以及更多其他内容。"
+msgstr "Доступ к статьям из Википедии, медиафайлам, структурированным данным и многому другому с помощью общедоступных API и загрузок."
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
-msgstr "[构建工具与机器人](build-tools/)"
+msgstr "[Создавайте инструменты и ботов](build-tools/)"
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
-msgstr "工具与机器人让编辑和维护维基媒体项目更简单。"
+msgstr "Инструменты и боты облегчают редактирование и поддержку проектов Викимедиа."
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
-msgstr "[贡献维基媒体开源项目](contribute/)"
+msgstr "[Пополнение открытого исходного кода Викимедиа](contribute/)"
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
-msgstr "用开源帮助构建维基媒体生态系统。"
+msgstr "Помогите создать экосистему Викимедиа с помощью программного обеспечения с открытым исходным кодом."
 
 #: index.md:block 13 (header)
 msgid "[Connect with the community](community/)"
-msgstr "[与社区联系](community/)"
+msgstr "[Подключайтесь к сообществу](community/)"
 
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
-msgstr "加入维基媒体技术社区，寻求得到支持和学习的机会。"
+msgstr "Присоединяйтесь к техническому сообществу Викимедиа и откройте для себя возможности для поддержки и обучения."
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
-msgstr "[获取帮助](get-help/)"
+msgstr "[Получайте помощи](get-help/)"
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
-msgstr "寻找解决疑问或排除故障的资源。"
+msgstr "Найдите ресурсы, которые помогут с ответами на вопросы и устранением неполадок."
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
-msgstr "[探索与分享工具](search.md)"
+msgstr "[Откройте для себя инструменты и поделитесь ими](search.md)"
 
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
 msgid "Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata."
-msgstr "浏览Toolhub上的工具目录，分享自己的工具，帮助维护工具元数据。"
+msgstr "Просматривайте каталог инструментов на Toolhub, делитесь своими инструментами и помогайте поддерживать метаданные инструментов."
 
 #: build-tools/index.md:block 4 (header)
 msgid "[Get started](get-started.md)"
-msgstr "[开始](get-started.md)"
+msgstr "[Приступить](get-started.md)"
 
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
 msgid "Create your first tool, learn about running a bot, and get best practices."
-msgstr "创建自己的第一个工具，了解如何运行机器人，并获得最佳实践。"
+msgstr "Создайте свой первый инструмент, узнайте о том, как запустить бота, а также ознакомьтесь с лучшими практиками."
 
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr "[跟随教程学习](tutorials.md)"
+msgstr "[Учитесь с помощью руководств](tutorials.md)"
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
-msgstr "跟随分步编写的教程，学习与维基媒体项目交互的基础知识。"
+msgstr "Следуйте пошаговым инструкциям, чтобы изучить основы взаимодействия с проектами Викимедиа."
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
-msgstr "[使用API与数据源](apis.md)"
+msgstr "[Используйте API и источники данных](apis.md)"
 
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
-msgstr "探索构建机器人与工具的编程接口。"
+msgstr "Изучите программные интерфейсы для создания ботов и инструментов."
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr "[在维基媒体服务器上托管工具](host-tools.md)"
+msgstr "[Хостинг инструментов на серверах Викимедиа](host-tools.md)"
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
 msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
-msgstr "访问云服务，可以执行分析、管理机器人、运行网络服务以及托管有助于维基媒体项目的工具。"
+msgstr "Получите доступ к облачным сервисам для выполнения аналитики, администрирования ботов, запуска веб-сервисов и хостинга инструментов, которые помогают проектам Викимедиа."
 
 #: build-tools/apis.md:meta.title build-tools/apis.md:title
 #: build-tools/apis.md:block 1 (header)
 msgid "Use APIs and data sources"
-msgstr "使用API与数据源"
+msgstr "Используйте API и источники данных"
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
@@ -211,167 +209,167 @@ msgstr "Pywikibot"
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
 msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
-msgstr "Pywikibot是在维基媒体项目上自动运行的Python函数库与脚本集合。"
+msgstr "Pywikibot — это библиотека на языке Python и набор скриптов, которые автоматизируют работу над проектами Викимедиа."
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
-msgstr "[贡献](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr "[Поучаствовать в разработке](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
-msgstr "[获取源代码](https://gerrit.wikimedia.org/g/pywikibot/core)"
+msgstr "[Получить исходный код](https://gerrit.wikimedia.org/g/pywikibot/core)"
 
 #: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
 #: (header)
 msgid "Browse libraries by programming language"
-msgstr "按编程语言浏览函数库"
+msgstr "Просмотр библиотек по языку программирования"
 
 #: build-tools/apis.md:block 7 (paragraph)
 #: get-started/browse-languages.md:block 2 (paragraph)
 #: use-content/content.md:block 10 (paragraph)
 msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
-msgstr "API客户端函数库可以让交互API的代码编写起来更简单。访问以下列表来按编程语言浏览适用于MediaWiki API的流行函数库。"
+msgstr "Клиентские библиотеки API упрощают написание кода, взаимодействующего с API. Ознакомьтесь с этим списком, чтобы просмотреть популярные библиотеки для MediaWiki API по языкам программирования."
 
 #: build-tools/apis.md:block 8 (unordered list)
 #: get-started/browse-languages.md:block 3 (unordered list)
 #: use-content/content.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
 
 #: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
 #: (header)
 msgid "Use the API"
-msgstr "使用API"
+msgstr "Используйте API"
 
 #: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
 #: (paragraph)
 msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
-msgstr "MediaWiki API使你能以编程方式访问任何维基媒体的wiki。你可以使用API搜索和显示wiki页面、获取媒体文件、编辑页面以及管理wiki。"
+msgstr "API MediaWiki предоставляет вам программный доступ к содержимому любого вики-сайта Викимедиа. Вы можете использовать API для поиска и отображения вики-страниц, получения медиафайлов, редактирования страниц и управления вики-сайтом."
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
-msgstr "[试试沙盒](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+msgstr "[Попробуйте песочницу](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
 
 #: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
 #: (header) use-content/data.md:block 9 (header)
 msgid "Download content in bulk"
-msgstr "批量下载内容"
+msgstr "Массовое скачивание контента"
 
 #: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
 #: (paragraph) use-content/data.md:block 10 (paragraph)
 msgid "Access free downloads of wiki content and data that you can use in research, offline reading, bot editing, and other projects."
-msgstr "访问可用于研究、离线阅读、机器人编辑和其他项目的wiki内容的免费下载。"
+msgstr "Получите доступ к свободному скачиванию вики-контента и данных, которые вы можете использовать в исследованиях, автономном чтении, редактировании ботов и других проектах."
 
 #: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
 #: 17 (unordered list) use-content/data.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[Узнать подробнее в Мета-вики](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
 
 #: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
-msgstr "查询wiki数据库"
+msgstr "Базы данных для запросов к вики"
 
 #: build-tools/apis.md:block 16 (paragraph)
 msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
-msgstr "维基副本（Wiki replicas）是支持维基媒体生产站点的数据库的匿名版本。使用Quarry运行和共享SQL查询。"
+msgstr "Реплики Wiki — это анонимные версии баз данных, поддерживающих производственные сайты Wikimedia. Используйте Quarry для запуска и обмена SQL-запросами."
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
-msgstr "[访问Quarry](https://quarry.wmcloud.org/)"
+msgstr "[Посетите Quarry](https://quarry.wmcloud.org/)"
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+msgstr "[Узнать подробнее в Мета-вики] (https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
 
 #: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
 #: 3 (header)
 msgid "Build your first tool"
-msgstr "打造你的第一个工具"
+msgstr "Создайте свой первый инструмент"
 
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
 msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
-msgstr "了解如何使用Python和Pywikibot框架编辑wiki页面。本教程可帮助你仅使用浏览器快速入门。"
+msgstr "Узнайте, как редактировать вики-страницы с помощью Python и платформы Pywikibot. Это руководство поможет вам быстро приступить к работе, используя только браузер."
 
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
-msgstr "了解如何创建和运行机器人"
+msgstr "Узнайте о создании и запуске ботов"
 
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
-msgstr "机器人可以通过执行重复的程序性任务来帮助维护wiki。通过了解最佳实践来开始学习制作和运行机器人。"
+msgstr "Боты помогают поддерживать вики, выполняя повторяющиеся задачи. Начните создавать и запускать ботов, изучив лучшие практики."
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
 
 #: build-tools/get-started.md:block 9 (header)
 msgid "Best practices for open source tools"
-msgstr "开源工具的最佳实践"
+msgstr "Лучшие практики для инструментов с открытым исходным кодом"
 
 #: build-tools/get-started.md:block 10 (paragraph)
 msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
-msgstr "刚接触开源吗？获取帮助你开发成功的工具和机器人的提示，包括选择许可协议、发布代码和编写文档。"
+msgstr "Впервые в мире открытого исходного кода? Получите советы, которые помогут вам разработать успешные инструменты и ботов, включая выбор лицензии, публикацию кода и написание документации."
 
 #: build-tools/get-started.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
-msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+msgstr "[Узнать подробнее в Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
 
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
-msgstr "在维基媒体服务器上托管工具"
+msgstr "Разместите инструмент на облачных серверах Викимедиа"
 
 #: build-tools/host-tools.md:block 3 (header)
 msgid "Run scripts in your browser"
-msgstr "在浏览器中运行脚本"
+msgstr "Запуск скриптов в вашем браузере"
 
 #: build-tools/host-tools.md:block 4 (paragraph)
 msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
-msgstr "PAWS是一个免费的云托管代码实验工具（Playground），用于创建与维基媒体项目相关的脚本和数据可视化。使用维基媒体账号登录并创建一个笔记本以开始使用。"
+msgstr "PAWS — это бесплатная облачная площадка для создания сценариев и визуализации данных, связанных с проектами Викимедиа. Чтобы начать, войдите в свою учётную запись Викимедиа и создайте блокнот."
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub.paws.wmcloud.org/hub/login)"
-msgstr "[访问PAWS](https://hub.paws.wmcloud.org/hub/login)"
+msgstr "[Посетите PAWS](https://hub.paws.wmcloud.org/hub/login)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
-msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/PAWS)"
+msgstr "[Узнать подробнее в Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
 
 #: build-tools/host-tools.md:block 6 (header)
 msgid "Learn about cloud hosting for tools"
-msgstr "了解更多有关工具云托管的信息"
+msgstr "Узнайте об облачном хостинге для инструментов"
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
-msgstr "Toolforge是用于运行和管理工具的免费托管环境。在Toolforge中开发工具可以更轻松地访问维基媒体内容和数据以及与他人共享你的工具。"
+msgstr "Toolforge — это бесплатная среда хостинга для запуска инструментов и управления ими. Разработка инструмента в Toolforge упрощает доступ к содержимому и данным Викимедиа и позволяет делиться своим инструментом с другими."
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+msgstr "[Узнать подробнее в Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
 msgid "Discover and share tools"
-msgstr "探索与分享工具"
+msgstr "Находите и делитесь инструментами"
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
@@ -381,24 +379,24 @@ msgstr "Toolhub"
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
 msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
-msgstr "Toolhub是一个工具目录，其中的工具可以使编辑和维护维基媒体项目变得更加轻松。使用Toolhub发现新工具，与工具维护者联系，并分享你喜欢的工具列表。"
+msgstr "Toolhub — это каталог инструментов, упрощающих редактирование и поддержку проектов Викимедиа. Используйте Toolhub, чтобы узнавать о новых инструментах, связываться с теми, кто сопровождает работу инструментов и делиться списками своих любимых инструментов."
 
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
 msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
-msgstr "[访问Toolhub](https://toolhub.wikimedia.org/)"
+msgstr "[Посетите Toolhub](https://toolhub.wikimedia.org/)"
 
 #: build-tools/search.md:block 6 (header)
 msgid "Share a tool"
-msgstr "分享一个工具"
+msgstr "Поделиться инструментом"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
-msgstr "将你的工具添加到Toolhub目录中，以便其他人可以从你的工作中受益并在你工作的基础上创造更多内容。使用维基媒体账号登录Toolhub以开始使用。"
+msgstr "Добавьте свой инструмент в каталог Toolhub, чтобы другие могли извлечь пользу из вашей работы и развить её. Чтобы начать работу, войдите в Toolhub под своей учетной записью Викимедиа."
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
-msgstr "[向Toolhub添加工具](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+msgstr "[Добавить инструмент в Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
 
 #: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
 #: build-tools/tutorials.md:block 1 (header)
@@ -406,473 +404,473 @@ msgstr "[向Toolhub添加工具](https://toolhub.wikimedia.org/add-or-remove-too
 #: use-content/tutorials.md:meta.title use-content/tutorials.md:title
 #: use-content/tutorials.md:block 1 (header)
 msgid "Learn with tutorials"
-msgstr "跟随教程学习"
+msgstr "Учитесь с помощью руководств"
 
 #: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
 #: (header)
 msgid "Generate ideas for articles"
-msgstr "新条目创建建议生成器"
+msgstr "Генерировать идеи для статей"
 
 #: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
 #: 13 (paragraph)
 msgid "Learn how to use the MediaWiki API to generate ideas for new Wikipedia articles. This tutorial uses Python and the Flask framework."
-msgstr "学习如何使用MediaWiki API来为创建维基百科新条目提供想法。本教程使用Python和Flask框架。"
+msgstr "Узнайте, как использовать MediaWiki API для генерации идей для новых статей в Википедии. В этом руководстве используются Python и среда Flask."
 
 #: build-tools/tutorials.md:block 8 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 
 #: build-tools/tutorials.md:block 9 (header)
 msgid "Write a bot that uses Wikidata"
-msgstr "编写使用维基数据的机器人"
+msgstr "Напишите бота, использующего Викиданные"
 
 #: build-tools/tutorials.md:block 10 (paragraph)
 msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
-msgstr "使用Python处理来自维基数据的大型数据集，在你工作流的工具间传递数据。"
+msgstr "Используйте Python для обработки больших наборов данных из Викиданных и передачи данных между инструментами в вашем рабочем процессе."
 
 #: build-tools/tutorials.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
-msgstr "[在维基数据上了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+msgstr "[Узнать подробнее в Викиданных](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
 
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
 msgid "Display holidays from Wikipedia"
-msgstr "显示来自维基百科的节假日信息"
+msgstr "Показать праздники из Википедии"
 
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
-msgstr "学习如何使用MediaWiki API来从维基百科获取某一特定日期的节假日信息。教程也包括如何使用API登录维基百科和添加新节假日。本教程使用Python和Flask框架。"
+msgstr "Узнайте, как использовать API MediaWiki для получения из Википедии праздников на заданную дату. В этом руководстве также рассказывается, как использовать API для входа в Википедию и добавления новых праздников. В этом руководстве используются Python и среда Flask."
 
 #: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
 
 #: build-tools/tutorials.md:block 15 (header)
 msgid "Add JavaScript or CSS to a wiki"
-msgstr "向wiki添加JavaScript或CSS"
+msgstr "Добавьте в вики JavaScript или CSS"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Use scripts other people have created, and share your code with others."
-msgstr "使用客户端侧的JavaScript和CSS自定义MediaWiki。使用其他人创建的脚本，和其他人分享你的代码。"
+msgstr "Настройте MediaWiki с помощью клиентского JavaScript и CSS. Используйте сценарии, созданные другими людьми, и делитесь своим кодом с другими."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
-msgstr "在维基媒体云服务器上托管工具"
+msgstr "Разместите инструмент на облачных серверах Викимедиа"
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
-msgstr "Toolforge是运行和管理工具的免费托管环境。通过创建账号和设置基础网络服务来开始使用Toolforge。"
+msgstr "Toolforge — это бесплатная среда хостинга для запуска инструментов и управления ими. Начните работу с Toolforge, создав учётную запись и настроив базовый веб-сервис."
 
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
-msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgstr "[Узнать подробнее в Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
-msgstr "[探索黑客松与活动](events.md)"
+msgstr "[Изучите материалы хакатонов и мероприятий](events.md)"
 
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
 msgid "Browse content from past events, or join an upcoming event."
-msgstr "浏览来自过往活动的内容，或加入即将到来的活动。"
+msgstr "Просматривайте содержимое прошлых событий или присоединяйтесь к предстоящему событию."
 
 #: community/index.md:block 4 (header)
 msgid "[Communicate with the tech community](communicate.md)"
-msgstr "[与技术社区联系](communicate.md)"
+msgstr "[Общение с техническим сообществом](communicate.md)"
 
 #: community/index.md:block 5 (paragraph) community/communicate.md:block 2
 #: (paragraph)
 msgid "Understand communication channels and how to connect with Wikimedia developers."
-msgstr "了解交流渠道和与维基媒体开发者联系的方式。"
+msgstr "Узнайте о каналах связи и о том, как связаться с разработчиками Викимедиа."
 
 #: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
-msgstr "[学习与分享技术技能](grow.md)"
+msgstr "[Учитесь и делитесь техническими навыками](grow.md)"
 
 #: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
-msgstr "增长技能，通过实习、工作坊、导师机会等帮助他人学习。"
+msgstr "Развивайте свои навыки или помогайте другим учиться с помощью семинаров, стажировок и возможностей наставничества."
 
 #: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
-msgstr "[获取技术项目的最新动态](updates.md)"
+msgstr "[Получить новости технического проекта](updates.md)"
 
 #: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
 msgid "Stay up to date with the latest from the Wikimedia technical community."
-msgstr "及时了解来自维基媒体技术社区的最新消息。"
+msgstr "Будьте в курсе последних новостей технического сообщества Викимедиа."
 
 #: community/index.md:block 10 (header)
 msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
-msgstr "[了解维基媒体技术运营](tech-ops.md)"
+msgstr "[Узнать о технических операциях Викимедиа](tech-ops.md)"
 
 #: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
 #: (paragraph)
 msgid "Find information about the infrastructure and teams behind Wikimedia technology."
-msgstr "查找有关维基媒体技术背后的基础设施和团队的信息。"
+msgstr "Найдите информацию об инфраструктуре и командах, стоящих за технологиями Викимедиа."
 
 #: community/communicate.md:meta.title community/communicate.md:title
 #: community/communicate.md:block 1 (header)
 msgid "Communicate with the tech community"
-msgstr "与技术社区交流"
+msgstr "Общайтесь с техническим сообществом"
 
 #: community/communicate.md:block 3 (header) contribute/overview.md:block 3
 #: (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
-msgstr "阅读行为准则"
+msgstr "Читать кодекс поведения"
 
 #: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
 #: (paragraph) get-started/new-dev.md:block 13 (paragraph)
 msgid "The code of conduct for Wikimedia technical spaces applies to both physical and virtual environments. Learn how to foster an open and welcoming community."
-msgstr "维基媒体技术空间的行为准则同时适用于现实和网络环境。了解如何建立一个开放和热情的社区。"
+msgstr "Кодекс поведения для технических пространств Викимедиа применяется как к физической, так и к виртуальной среде. Узнайте, как создать открытое и гостеприимное сообщество."
 
 #: community/communicate.md:block 5 (unordered list)
 #: contribute/overview.md:block 5 (unordered list)
 #: get-started/new-dev.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
 
 #: community/communicate.md:block 6 (header) get-help/index.md:block 9
 #: (header)
 msgid "Communication channels"
-msgstr "交流渠道"
+msgstr "Каналы связи"
 
 #: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
 #: (paragraph)
 msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
-msgstr "与开发者和MediaWiki用户联系以获得支持和分享知识。"
+msgstr "Свяжитесь с разработчиками и пользователями MediaWiki, чтобы получить поддержку и поделиться знаниями."
 
 #: community/communicate.md:block 8 (unordered list) get-help/index.md:block
 #: 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
 
 #: community/communicate.md:block 9 (header)
 msgid "Find code maintainers and stewards"
-msgstr "寻找代码维护者和监管员"
+msgstr "Найдите сопровождающих код (майнтейнеров) и стюардов"
 
 #: community/communicate.md:block 10 (paragraph)
 msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
-msgstr "浏览维护核心MediaWiki组件、关键扩展和皮肤、库和其他维基媒体技术基础设施的开发者和团队的列表。"
+msgstr "Просмотрите список разработчиков и команд, которые поддерживают основные компоненты MediaWiki, ключевые расширения и темы оформления, библиотеки и другую техническую инфраструктуру Викимедиа."
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
 msgid "Explore hackathons and events"
-msgstr "探索黑客松和活动"
+msgstr "Исследуйте хакатоны и мероприятия"
 
 #: community/events.md:block 3 (header)
 msgid "Hackathons"
-msgstr "黑客松"
+msgstr "Хакатоны"
 
 #: community/events.md:block 4 (paragraph)
 msgid "A hackathon brings together people with different skills to work together on a common technical goal."
-msgstr "黑客松将具有不同技能的人们聚集在一起，共同实现同一个技术目标。"
+msgstr "Хакатон объединяет людей с разными навыками для совместной работы над общей технической целью."
 
 #: community/events.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
 
 #: community/events.md:block 6 (header)
 msgid "Wikidata events"
-msgstr "维基数据活动"
+msgstr "События Викиданных"
 
 #: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
-msgstr "浏览维基数据编辑者、数据重用者和开发者的聚会。"
+msgstr "Просмотрите встречи для редакторов Викиданных, тех, кто повторно использует данные, а также для разработчиков."
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
-msgstr "[在维基数据上了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+msgstr "[Узнать подробнее в Викиданных](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
 
 #: community/events.md:block 9 (header)
 msgid "Research events"
-msgstr "研究活动"
+msgstr "Исследовательские события"
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
-msgstr "加入探索维基媒体项目各个方面的科学家、工程师和学者的论坛和聚会。"
+msgstr "Присоединяйтесь к форумам и встречам ученых, инженеров и учёных, изучающих все аспекты проектов Викимедиа."
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
-msgstr "[了解更多](https://research.wikimedia.org/events.html)"
+msgstr "[Узнать подробнее](https://research.wikimedia.org/events.html)"
 
 #: community/events.md:block 12 (header)
 msgid "MediaWiki developer events"
-msgstr "MediaWiki开发者活动"
+msgstr "Мероприятия для разработчиков MediaWiki"
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
-msgstr "加入与MediaWiki和维基媒体代码相关的会议。"
+msgstr "Присоединяйтесь к собраниям, конференциям и сеансам кодирования, связанным с кодом MediaWiki и Викимедиа."
 
 #: community/events.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
 
 #: community/events.md:block 15 (header)
 msgid "Coolest Tool Award"
-msgstr "最酷工具奖"
+msgstr "Coolest Tool Award"
 
 #: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
-msgstr "这项年度颁奖活动旨在表彰志愿者开发人员的贡献。"
+msgstr "Эта ежегодная награда отмечает вклад разработчиков-добровольцев."
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+msgstr "[Узнать подробнее в Мета-вики](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
 
 #: community/events.md:block 18 (header)
 msgid "Technical skills workshops"
-msgstr "技术技能研讨会"
+msgstr "Мастер-классы по техническим навыкам"
 
 #: community/events.md:block 19 (paragraph) community/grow.md:block 7
 #: (paragraph)
 msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
-msgstr "寻找工具和教育资源来帮助小型wiki社区提高他们的技术能力和学习新技能。"
+msgstr "Найдите инструменты и образовательные ресурсы, которые помогут небольшим вики-сообществам расширить свои технические возможности и освоить новые навыки."
 
 #: community/events.md:block 20 (unordered list) community/grow.md:block 8
 #: (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+msgstr "[Узнать подробнее в Мета-вики](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
 msgid "Learn and share technical skills"
-msgstr "学习和分享技术技能"
+msgstr "Изучайте и делитесь техническими навыками"
 
 #: community/grow.md:block 3 (header)
 msgid "Outreach and mentoring programs"
-msgstr "外展和导师计划"
+msgstr "Программы популяризации и наставничества"
 
 #: community/grow.md:block 4 (paragraph)
 msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
-msgstr "通过实习和导师计划（例如Outreachy和Google Summer of Code）来提高您的技能。"
+msgstr "Развивайте свои навыки с помощью стажировок и программ наставничества, таких как Outreachy и Google Summer of Code."
 
 #: community/grow.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
-msgstr "[在MediaWiki.org了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 
 #: community/grow.md:block 6 (header)
 msgid "Small wiki toolkits"
-msgstr "小型wiki工具包"
+msgstr "Инструментарий для небольших вики-проектов"
 
 #: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
 msgid "Videos and tech talks"
-msgstr "视频和技术讲座"
+msgstr "Видео и технические доклады"
 
 #: community/grow.md:block 10 (paragraph) get-started/wikimedia-tech.md:block
 #: 7 (paragraph)
 msgid "Learn about Wikimedia technology through recorded presentations from the community."
-msgstr "通过社区录制的演示文稿了解维基媒体技术。"
+msgstr "Узнайте о технологии Викимедиа из записанных презентаций сообщества."
 
 #: community/grow.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
-msgstr "[访问YouTube频道](https://www.youtube.com/user/watchmediawiki/videos)"
+msgstr "[Посетите канал YouTube](https://www.youtube.com/user/watchmediawiki/videos)"
 
 #: community/grow.md:block 12 (header)
 msgid "Tech ambassadors"
-msgstr "技术大使"
+msgstr "Технические посредники"
 
 #: community/grow.md:block 13 (paragraph)
 msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
-msgstr "发挥技能，帮助维基媒体人员解决技术问题并将开发人员与本地wiki联系起来。"
+msgstr "Поделитесь своими навыками, чтобы помочь викимедийцам решать технические проблемы и связывать разработчиков с местными вики."
 
 #: community/grow.md:block 14 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+msgstr "[Узнать подробнее в Мета-вики](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 
 #: community/tech-ops.md:meta.title community/tech-ops.md:title
 msgid "Learn about Wikimedia technical operations"
-msgstr "了解维基媒体技术运营"
+msgstr "Узнайте о технических операциях Викимедиа"
 
 #: community/tech-ops.md:block 1 (header)
 msgid "Wikimedia technical operations"
-msgstr "维基媒体技术运营"
+msgstr "Технические операции Викимедиа"
 
 #: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
 #: 9 (header)
 msgid "Cloud tools and services"
-msgstr "云工具和服务"
+msgstr "Облачные инструменты и сервисы"
 
 #: community/tech-ops.md:block 4 (paragraph)
 #: get-started/wikimedia-tech.md:block 10 (paragraph)
 msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
-msgstr "了解共享主机、数据服务和其他基础设施支持，以便对维基媒体项目进行技术贡献。"
+msgstr "Узнайте о совместном хостинге, службах данных и другой поддержке инфраструктуры для технического вклада в проекты Викимедиа."
 
 #: community/tech-ops.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
-msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+msgstr "[Узнать подробнее в Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
 
 #: community/tech-ops.md:block 6 (header)
 msgid "Performance monitoring"
-msgstr "性能监控"
+msgstr "Мониторинг производительности"
 
 #: community/tech-ops.md:block 7 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
-msgstr "监控维基媒体网站当前和过去的表现。"
+msgstr "Отслеживайте текущую и прошлую производительность сайтов Викимедиа."
 
 #: community/tech-ops.md:block 8 (unordered list)
 msgid "[Read more](https://performance.wikimedia.org/)"
-msgstr "[了解更多](https://performance.wikimedia.org/)"
+msgstr "[Узнать подробнее](https://performance.wikimedia.org/)"
 
 #: community/tech-ops.md:block 9 (header)
 msgid "Security policies"
-msgstr "安全政策"
+msgstr "Политики безопасности"
 
 #: community/tech-ops.md:block 10 (paragraph)
 msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
-msgstr "阅读MediaWiki平台和维基媒体基金会的安全政策。"
+msgstr "Ознакомьтесь с политиками безопасности для платформы MediaWiki и Фонда Викимедиа."
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
-msgstr "软件部署"
+msgstr "Развёртывание программного обеспечения"
 
 #: community/tech-ops.md:block 13 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
-msgstr "跟踪维基媒体基金会服务器的软件部署。"
+msgstr "Отслеживайте развёртывание программного обеспечения на серверах Фонда Викимедиа."
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
-msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Deployments)"
+msgstr "[Узнать подробнее в Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
-msgstr "结构化数据基础设施"
+msgstr "Инфраструктура структурированных данных"
 
 #: community/tech-ops.md:block 16 (paragraph)
 msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
-msgstr "Wikibase是用于协作知识库和链接开放数据的开源软件。了解维基数据背后软件的系统架构。"
+msgstr "Викибаза (Wikibase) — это программное обеспечение с открытым исходным кодом для совместных баз знаний и связанных открытых данных. Узнайте о системной архитектуре программного обеспечения Викиданных."
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
-msgstr "[阅读文档](https://wmde.github.io/wikidata-wikibase-architecture/)"
+msgstr "[Читать документацию](https://wmde.github.io/wikidata-wikibase-architecture/)"
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
-msgstr "技术基础设施"
+msgstr "Техническая инфраструктура"
 
 #: community/tech-ops.md:block 19 (paragraph)
 msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
-msgstr "了解基本的维基媒体基础设施，如网络、数据中心和日志记录，并浏览架构图。"
+msgstr "Узнайте об основной инфраструктуре Викимедиа, такой как сети, центры обработки данных и журналирование, и просмотрите схемы архитектуры."
 
 #: community/tech-ops.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
-msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+msgstr "[Узнать подробнее в Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Technical decision-making process"
-msgstr "技术决策过程"
+msgstr "Процесс принятия технических решений"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about why and how technical decisions are made, and browse decision records."
-msgstr "了解为什么以及如何做出技术决策，并浏览决策记录。"
+msgstr "Узнайте, почему и как принимаются технические решения, и просмотрите записи решений."
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
 msgid "Get tech project updates"
-msgstr "获取技术项目更新"
+msgstr "Получайте обновления технического проекта"
 
 #: community/updates.md:block 3 (header)
 msgid "Tech blog"
-msgstr "技术博客"
+msgstr "Технический блог"
 
 #: community/updates.md:block 4 (paragraph)
 msgid "Read blog posts from the Wikimedia technical community."
-msgstr "阅读来自维基媒体技术社区的博文。"
+msgstr "Читайте сообщения в блогах технического сообщества Викимедиа."
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr "[访问技术博客](https://techblog.wikimedia.org/)"
+msgstr "[Посетите технический блог](https://techblog.wikimedia.org/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Technical community newsletter"
-msgstr "技术社区简报（Newsletter）"
+msgstr "Информационный бюллетень технического сообщества"
 
 #: community/updates.md:block 7 (paragraph)
 msgid "Subscribe to quarterly updates on activities in the Wikimedia technical community."
-msgstr "订阅有关维基媒体技术社区活动的季度更新。"
+msgstr "Подпишитесь на ежеквартальную рассылку новостей о деятельности технического сообщества Викимедиа."
 
 #: community/updates.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 
 #: community/updates.md:block 9 (header)
 msgid "Tech news"
-msgstr "技术新闻"
+msgstr "Технические новости"
 
 #: community/updates.md:block 10 (paragraph)
 msgid "Get weekly summaries of technical topics for Wikimedians."
-msgstr "获取维基媒体技术主题的每周摘要。"
+msgstr "Получайте еженедельные обзоры технических тем для викимедийцев."
 
 #: community/updates.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+msgstr "[Узнать подробнее в Мета-вики] (https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 
 #: contribute/index.md:meta.title contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
-msgstr "为维基媒体开源项目做贡献"
+msgstr "Пополнение открытого исходного кода Викимедиа"
 
 #: contribute/index.md:block 2 (header)
 msgid "[Learn how contributing works](overview.md)"
-msgstr "[了解如何贡献](overview.md)"
+msgstr "[Узнайте, как выглядит процесс добавления своего кода](overview.md)"
 
 #: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
 #: (paragraph)
 msgid "Get the basics of how to contribute to MediaWiki and other Wikimedia open source projects."
-msgstr "了解如何为MediaWiki和其他维基媒体开源项目做出贡献的基础知识。"
+msgstr "Получите основные сведения о том, как внести свой вклад в MediaWiki и другие проекты Викимедиа с открытым исходным кодом."
 
 #: contribute/index.md:block 4 (header)
 msgid "[Contribute by topic](by-topic.md)"
-msgstr "[按方面贡献](by-topic.md)"
+msgstr "[Возможности участия по темам](by-topic.md)"
 
 #: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
 #: (paragraph)
 msgid "Find ways to contribute, and connect with others with shared interests."
-msgstr "寻找做出贡献的方法，并与有共同兴趣的人建立联系。"
+msgstr "Найдите способы вносить свой вклад и общаться с другими людьми с общими интересами."
 
 #: contribute/index.md:block 6 (header)
 msgid "[Contribute by programming language](by-language.md)"
-msgstr "[按编程语言贡献](by-language.md)"
+msgstr "[Возможности участия по языкам программирования](by-language.md)"
 
 #: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
 #: (paragraph)
 msgid "Choose a project to contribute to based on programming language."
-msgstr "按编程语言选择要贡献的项目。"
+msgstr "Выберите проект, в который хотите внести свой вклад, на основе языка программирования."
 
 #: contribute/index.md:block 8 (header)
 msgid "[Search all projects](search.md)"
-msgstr "[搜索所有项目](search.md)"
+msgstr "[Искать во всех проектах](search.md)"
 
 #: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
 #: (paragraph)
 msgid "Search all Wikimedia open source software projects."
-msgstr "搜索所有维基媒体开源软件项目。"
+msgstr "Поиск по всем проектам программного обеспечения Викимедиа с открытым исходным кодом."
 
 #: contribute/by-language.md:meta.title contribute/by-language.md:title
 msgid "Contribute by programming language"
-msgstr "按编程语言贡献"
+msgstr "Возможности участия по языкам программирования"
 
 #: contribute/by-language.md:block 2 (header)
 msgid "Python"
@@ -888,19 +886,19 @@ msgstr "Codex"
 
 #: contribute/by-language.md:block 8 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
-msgstr "Codex是一个使用Vue的在维基媒体设计系统中构建用户界面的工具包。"
+msgstr "Codex — это набор инструментов для создания пользовательских интерфейсов в системе дизайна Викимедиа с использованием Vue."
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
-msgstr "[阅读文档](https://doc.wikimedia.org/codex/main)"
+msgstr "[Читать документацию](https://doc.wikimedia.org/codex/main)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
-msgstr "[贡献](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
+msgstr "[Сделать вклад](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
-msgstr "[获取源代码](https://gerrit.wikimedia.org/g/design/codex/)"
+msgstr "[Получить исходный код](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 10 (header)
 msgid "Java"
@@ -908,23 +906,23 @@ msgstr "Java"
 
 #: contribute/by-language.md:block 11 (header)
 msgid "Wikimedia Commons Android app"
-msgstr "维基共享资源 Android 应用程序"
+msgstr "Android-приложение Викисклада"
 
 #: contribute/by-language.md:block 12 (paragraph)
 msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
-msgstr "维基共享资源 Android 应用程序允许用户将图片从他们的设备上传到维基共享资源。"
+msgstr "Приложение Викисклада (Wikimedia Commons) для Android позволяет пользователям загружать на Викисклад изображения со своего устройства."
 
 #: contribute/by-language.md:block 13 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
-msgstr "[阅读文档](https://commons-app.github.io/)"
+msgstr "[Читать документацию] (https://commons-app.github.io/)"
 
 #: contribute/by-language.md:block 13 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
-msgstr "[贡献](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+msgstr "[Сделать вклад](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
 
 #: contribute/by-language.md:block 13 (unordered list)
 msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
-msgstr "[获取源代码](https://github.com/commons-app/apps-android-commons)"
+msgstr "[Получить исходный код](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 14 (header)
 msgid "Go"
@@ -936,19 +934,19 @@ msgstr "Blubber"
 
 #: contribute/by-language.md:block 16 (paragraph)
 msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
-msgstr "Blubber是一种基础设施工具，可配置Docker容器并测试代码，作为维基媒体持续集成管道的一部分。"
+msgstr "Blubber — это инфраструктурный инструмент, который настраивает контейнеры Docker и тестирует код как часть конвейера непрерывной интеграции Викимедиа."
 
 #: contribute/by-language.md:block 17 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
-msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Blubber)"
+msgstr "[Узнать подробнее в Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
 
 #: contribute/by-language.md:block 17 (unordered list)
 msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
-msgstr "[贡献](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
+msgstr "[Сделать вклад](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 17 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
-msgstr "[获取源代码](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
+msgstr "[Получить исходный код](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
 
 #: contribute/by-language.md:block 18 (header)
 msgid "PHP"
@@ -957,30 +955,30 @@ msgstr "PHP"
 #: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
 msgid "MediaWiki and extensions"
-msgstr "MediaWiki和扩展"
+msgstr "MediaWiki и расширения"
 
 #: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
-msgstr "MediaWiki是为维基百科及其姊妹项目以及世界各地数以千计的wiki提供支持的软件。"
+msgstr "MediaWiki — это программное обеспечение, на котором работает Википедия, ее дочерние проекты и тысячи вики-сайтов по всему миру."
 
 #: contribute/by-language.md:block 21 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
-msgstr "[访问MediaWiki.org](https://www.mediawiki.org/)"
+msgstr "[Посетите mediawiki.org] (https://www.mediawiki.org/)"
 
 #: contribute/by-language.md:block 21 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
-msgstr "[贡献](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+msgstr "[Участвовать в разработке](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 
 #: contribute/by-language.md:block 21 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
-msgstr "[获取源代码](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+msgstr "[Получить исходный код](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
 
 #: contribute/by-language.md:block 22 (header)
 msgid "Ruby"
@@ -988,591 +986,591 @@ msgstr "Ruby"
 
 #: contribute/by-language.md:block 23 (header)
 msgid "Wiki Education Dashboard"
-msgstr "维基教育仪表板"
+msgstr "Информационная панель вики-образования"
 
 #: contribute/by-language.md:block 24 (paragraph)
 msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
-msgstr "维基教育仪表板是一个网络应用程序，支持维基百科的教育任务、编辑松和其他编辑项目，使用Ruby on Rails和React构建。"
+msgstr "Информационная панель вики-образования (Wiki Education Dashboard) — это веб-приложение, которое поддерживает образовательные задания Википедии, редактуру и другие проекты редактирования, созданные с помощью Ruby on Rails и React."
 
 #: contribute/by-language.md:block 25 (unordered list)
 msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
-msgstr "[访问仪表板](https://dashboard.wikiedu.org)"
+msgstr "[Посетите информационную панель](https://dashboard.wikiedu.org)"
 
 #: contribute/by-language.md:block 25 (unordered list)
 msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
-msgstr "[贡献](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+msgstr "[Участвовать в разработке] (https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 25 (unordered list)
 msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
-msgstr "[获取源代码](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+msgstr "[Получить исходный код](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
 msgid "Contribute by topic"
-msgstr "按方面贡献"
+msgstr "Возможности участия по темам"
 
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
-msgstr "本地化和国际化"
+msgstr "Локализация и интернационализация"
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
-msgstr "编写可本地化的代码，翻译你的代码，并为维基媒体技术的多语言化做出贡献。"
+msgstr "Пишите код, который можно локализовать, переводите код и вносите свой вклад в создание многоязычной технологии Викимедиа."
 
 #: contribute/by-topic.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
 
 #: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
 #: 18 (header)
 msgid "Mobile apps"
-msgstr "移动应用"
+msgstr "Мобильные приложения"
 
 #: contribute/by-topic.md:block 10 (paragraph)
 #: get-started/wikimedia-tech.md:block 19 (paragraph)
 msgid "Expand the reach of Wikimedia content by contributing to mobile apps for Wikipedia, Wikimedia Commons, and other projects."
-msgstr "通过为维基百科、维基共享资源和其他项目提供移动应用程序来扩大维基媒体内容的范围。"
+msgstr "Расширьте охват контента Викимедиа, участвуя в разработке мобильных приложений для Википедии, Викисклада и других проектов."
 
 #: contribute/by-topic.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 20 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+msgstr "[Узнать подробнее в Мета-вики](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
 
 #: contribute/by-topic.md:block 12 (header)
 msgid "Documentation"
-msgstr "文档"
+msgstr "Документация"
 
 #: contribute/by-topic.md:block 13 (paragraph)
 msgid "Read the documentation style guide, and find good first tasks for improving documentation."
-msgstr "阅读文档风格指南，找到改进文档的适合你的任务。"
+msgstr "Прочтите руководство по стилю документации и найдите подходящие задачи начального уровня по улучшению документации."
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
-msgstr "离线阅读"
+msgstr "Чтение в автономном режиме"
 
 #: contribute/by-topic.md:block 16 (paragraph)
 msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
-msgstr "通过帮助人们在没有互联网连接的情况下使用维基百科来使免费知识变得更加可及。"
+msgstr "Расширьте доступ к бесплатным знаниям, помогая людям пользоваться Википедией без доступа в интернет."
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+msgstr "[Узнать подробнее в Мета-вики](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
-msgstr "[贡献](https://www.kiwix.org/en/support-us/code/)"
+msgstr "[Участвовать в разработке](https://www.kiwix.org/en/support-us/code/)"
 
 #: contribute/by-topic.md:block 18 (header)
 msgid "Infrastructure"
-msgstr "基础设施"
+msgstr "Инфраструктура"
 
 #: contribute/by-topic.md:block 19 (paragraph)
 msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
-msgstr "为支持维基媒体项目的基础设施做出贡献。帮助提高维基媒体服务器和软件的性能和效率。"
+msgstr "Внесите свой вклад в инфраструктуру, поддерживающую проекты Викимедиа. Помогите повысить производительность и эффективность серверов и программного обеспечения Викимедиа."
 
 #: contribute/by-topic.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
-msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Get_involved)"
+msgstr "[Узнать подробнее в Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
 
 #: contribute/overview.md:meta.title contribute/overview.md:title
 #: contribute/overview.md:block 1 (header)
 msgid "Learn how contributing works"
-msgstr "了解如何贡献"
+msgstr "Узнайте, как выглядит добавление своего кода"
 
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
 msgid "Create a developer account"
-msgstr "创建开发者账号"
+msgstr "Создать учётную запись разработчика"
 
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
 msgid "Most Wikimedia technical spaces use a developer account to identify and authorize users. Create a free account to get started as a technical contributor."
-msgstr "大多数维基媒体技术空间使用开发者账号来识别和授权用户。创建一个免费账号，开始成为技术贡献者。"
+msgstr "Большинство технических пространств Викимедиа используют учётную запись разработчика для идентификации и авторизации участников. Создайте бесплатную учётную запись, чтобы начать работу в качестве технического участника."
 
 #: contribute/overview.md:block 8 (unordered list)
 #: get-started/new-dev.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
 
 #: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
 #: (header)
 msgid "Find projects and tasks for new contributors"
-msgstr "查找为新贡献者准备的项目和任务"
+msgstr "Найдите проекты и задачи для новых участников"
 
 #: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
 #: (paragraph)
 msgid "Choose from open source projects that offer mentoring for new contributors, and find good first tasks."
-msgstr "从为新贡献者提供指导的开源项目中进行选择，并找到适合的任务。"
+msgstr "Выберите из проектов с открытым исходным кодом те, которые предлагают наставничество для новых участников, и найдите подходящие задачи для новичков."
 
 #: contribute/overview.md:block 11 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
 
 #: contribute/overview.md:block 12 (header)
 msgid "Review guidelines and code conventions"
-msgstr "查看指南和代码约定"
+msgstr "Ознакомьтесь с рекомендациями и соглашениями о коде"
 
 #: contribute/overview.md:block 13 (paragraph)
 msgid "Understand development policies, best practices, and code conventions for Wikimedia software."
-msgstr "了解维基媒体软件的开发政策、最佳实践和代码约定。"
+msgstr "Разберитесь в политиках разработки, лучших практиках и правилах кодирования для программного обеспечения Викимедиа."
 
 #: contribute/overview.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
-msgstr "[在MediaWiki上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
 
 #: contribute/overview.md:block 15 (header)
 msgid "See your contributions"
-msgstr "查看你的贡献"
+msgstr "Смотрите свой вклад"
 
 #: contribute/overview.md:block 16 (paragraph)
 msgid "Visualize your contributions across Wikimedia's code review and task tracking tools."
-msgstr "通过维基媒体的代码审查和任务跟踪工具可视化你的贡献。"
+msgstr "Визуализируйте свой вклад в инструменты проверки кода и отслеживания задач Викимедиа."
 
 #: contribute/overview.md:block 17 (unordered list)
 msgid "[Visit WikiContrib](https://wikicontrib.toolforge.org/)"
-msgstr "[访问WikiContrib](https://wikicontrib.toolforge.org/)"
+msgstr "[Посетите WikiContrib] (https://wikicontrib.toolforge.org/)"
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
 msgid "Search all projects"
-msgstr "搜索所有项目"
+msgstr "Поиск по всем проектам"
 
 #: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
 msgid "Search codebases"
-msgstr "搜索代码库"
+msgstr "Поиск по базам исходных кодов"
 
 #: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
 #: (paragraph)
 msgid "Search all Wikimedia codebases using the code search tool."
-msgstr "使用代码搜索工具搜索所有维基媒体代码库。"
+msgstr "Поиск по всем базам исходных кодов Викимедиа с помощью инструмента поиска кода."
 
 #: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
 #: (unordered list)
 msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
-msgstr "[访问代码搜索](https://codesearch.wmcloud.org/search)"
+msgstr "[Посетить инструмент поиска кода](https://codesearch.wmcloud.org/search)"
 
 #: contribute/search.md:block 6 (header)
 msgid "Browse Wikimedia open source docs"
-msgstr "浏览维基媒体开源文档"
+msgstr "Просмотрите документацию открытого исходного кода Викимедиа"
 
 #: contribute/search.md:block 7 (paragraph)
 msgid "Browse auto-generated and related documentation hosted on doc.wikimedia.org."
-msgstr "浏览doc.wikimedia.org上托管的相关的自动生成文档。"
+msgstr "Просмотрите автоматически сгенерированную и связанную с кодом документацию, размещённую на doc.wikimedia.org."
 
 #: contribute/search.md:block 8 (unordered list)
 msgid "[Browse docs](https://doc.wikimedia.org)"
-msgstr "[浏览文档](https://doc.wikimedia.org)"
+msgstr "[Изучить документацию](https://doc.wikimedia.org)"
 
 #: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
 #: 7 (header)
 msgid "Browse repositories"
-msgstr "浏览存储库"
+msgstr "Просмотр репозиториев"
 
 #: contribute/search.md:block 10 (paragraph)
 #: get-started/browse-languages.md:block 8 (paragraph)
 msgid "Explore Wikimedia codebases."
-msgstr "探索维基媒体代码库。"
+msgstr "Исследуйте кодовые базы Викимедиа."
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
-msgstr "[浏览Gerrit上的存储库](https://gerrit.wikimedia.org/g/)"
+msgstr "[Просмотреть репозитории на Gerrit](https://gerrit.wikimedia.org/g/)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
-msgstr "[浏览GitHub上的存储库](https://github.com/wikimedia)"
+msgstr "[Просмотреть репозитории на GitHub](https://github.com/wikimedia)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
-msgstr "[浏览GitLab上的存储库](https://gitlab.wikimedia.org/explore)"
+msgstr "[Просмотр репозиториев в GitLab](https://gitlab.wikimedia.org/explore)"
 
 #: contribute/search.md:block 12 (header)
 msgid "Search tools and bots"
-msgstr "搜索工具和机器人"
+msgstr "Поиск инструментов и ботов"
 
 #: get-help/index.md:block 2 (paragraph)
 msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
-msgstr "由于维基媒体技术生态系统复杂且分散，你可能会在许多不同的位置找到帮助和支持，而这些内容的格式也有所差异。"
+msgstr "Поскольку техническая экосистема Викимедиа сложна и распределена, вы можете найти помощь и поддержку в самых разных местах и форматах."
 
 #: get-help/index.md:block 3 (header)
 msgid "Search the docs"
-msgstr "搜索文档"
+msgstr "Поиск в документации"
 
 #: get-help/index.md:block 4 (paragraph)
 msgid "Find technical information for Wikimedia projects."
-msgstr "查找维基媒体项目的技术信息。"
+msgstr "Найдите техническую информацию о проектах Викимедиа."
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Search across wikis](https://global-search.toolforge.org/)"
-msgstr "[在各个wiki搜索](https://global-search.toolforge.org/)"
+msgstr "[Поиск по разным вики](https://global-search.toolforge.org/)"
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
-msgstr "[浏览维基媒体开源文档](https://doc.wikimedia.org/)"
+msgstr "[Просмотреть документацию открытого исходного кода Викимедиа](https://doc.wikimedia.org/)"
 
 #: get-help/index.md:block 12 (header)
 msgid "Check system status"
-msgstr "检查系统状态"
+msgstr "Проверить состояние системы"
 
 #: get-help/index.md:block 13 (paragraph)
 msgid "Verify the overall health and performance of the wiki environment, and find out about major outages."
-msgstr "验证wiki环境的整体运行状况和性能，并了解重大服务中断。"
+msgstr "Проверьте общее состояние и производительность вики-среды и узнайте о серьезных сбоях."
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
-msgstr "[访问wikimediastatus.net](https://www.wikimediastatus.net/)"
+msgstr "[Посетите wikimediastatus.net] (https://www.wikimediastatus.net/)"
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
-msgstr "[参见维基媒体wiki使用的MediaWiki版本](https://versions.toolforge.org/)"
+msgstr "[См. версии MediaWiki, используемые в вики-сайтах Викимедиа] (https://versions.toolforge.org/)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
-msgstr "[了解维基媒体技术](wikimedia-tech.md)"
+msgstr "[Узнать о технологии Викимедиа](wikimedia-tech.md)"
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
-msgstr "探索维基媒体项目背后的开源软件和技术组件。"
+msgstr "Изучите программное обеспечение с открытым исходным кодом и технические компоненты, лежащие в основе проектов Викимедиа."
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
-msgstr "[了解开发过程](new-dev.md)"
+msgstr "[Разберитесь в процессе разработки](new-dev.md)"
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
-msgstr "了解维基媒体软件项目的运作方式以及如何做出技术贡献。"
+msgstr "Узнайте, как работают программные проекты Викимедиа и как внести технический вклад."
 
 #: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
 #: (paragraph)
 msgid "Follow coding exercises with step-by-step guidance."
-msgstr "按照分步指导进行编程练习。"
+msgstr "Выполняйте упражнения по программированию с пошаговыми инструкциями."
 
 #: get-started/index.md:block 7 (header)
 msgid "[Browse by programming language](browse-languages.md)"
-msgstr "[按编程语言浏览](browse-languages.md)"
+msgstr "[Просмотр по языкам программирования](browse-languages.md)"
 
 #: get-started/index.md:block 8 (paragraph)
 msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
-msgstr "以你首选的编程语言查找客户端库、示例应用程序和开源项目。"
+msgstr "Найдите клиентские библиотеки, примеры приложений и проекты с открытым исходным кодом на предпочитаемых вами языках программирования."
 
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
 msgid "Browse by programming language"
-msgstr "按编程语言浏览"
+msgstr "Просмотр по языкам программирования"
 
 #: get-started/browse-languages.md:block 1 (header)
 msgid "API client libraries by language"
-msgstr "API客户端库（按语言）"
+msgstr "Клиентские библиотеки API по языкам"
 
 #: get-started/browse-languages.md:block 4 (header)
 msgid "Open source projects by language"
-msgstr "开源项目（按语言）"
+msgstr "Проекты с открытым исходным кодом по языку"
 
 #: get-started/browse-languages.md:block 5 (paragraph)
 msgid "Find Wikimedia open source projects by programming language, and start contributing code."
-msgstr "通过编程语言查找维基媒体开源项目，并开始贡献代码。"
+msgstr "Найдите проекты Викимедиа с открытым исходным кодом по языку программирования и начните писать код."
 
 #: get-started/browse-languages.md:block 6 (paragraph)
 msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
-msgstr "[浏览项目](../contribute/by-language.md){ .md-button }"
+msgstr "[Обзор проектов](../contribute/by-language.md){ .md-button }"
 
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr "了解开发过程"
+msgstr "Разберитесь в процессе разработки"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
-msgstr "了解如何为维基媒体项目做出技术贡献。"
+msgstr "Узнайте, как внести технический вклад в проекты Викимедиа."
 
 #: get-started/new-dev.md:block 9 (header)
 msgid "Find tickets, and track projects"
-msgstr "查找工单，跟踪项目"
+msgstr "Находите тикеты и отслеживайте проекты"
 
 #: get-started/new-dev.md:block 10 (paragraph)
 msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
-msgstr "维基媒体使用Phabricator进行任务管理和错误报告。要参与任务，请创建Phabricator账号。"
+msgstr "Викимедиа использует Phabricator для управления задачами и отчетов об ошибках. Для взаимодействия с задачами создайте учётную запись Phabricator."
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
-msgstr "[访问Phabricator](https://phabricator.wikimedia.org/)"
+msgstr "[Посетите Phabricator] (https://phabricator.wikimedia.org/)"
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
 
 #: get-started/new-dev.md:block 15 (header)
 msgid "Learn how to submit code"
-msgstr "了解如何提交代码"
+msgstr "Узнайте, как отправить код"
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid "Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices."
-msgstr "许多维基媒体项目使用Git和Gerrit进行开发。在提交代码以供审核之前，建议熟悉相关工具、流程和最佳实践。"
+msgstr "Многие проекты Викимедиа используют для разработки Git и Gerrit. Прежде чем отправлять код на проверку, ознакомьтесь с инструментами, процессами и рекомендациями."
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
-msgstr "使用内容和数据的教程"
+msgstr "Учебные материалы по использованию контента и данных"
 
 #: get-started/tutorials.md:block 3 (paragraph)
 msgid "Learn the basics of using Wikimedia content and data in your project."
-msgstr "学习在你的项目中使用维基媒体内容和数据的基础知识。"
+msgstr "Изучите основы использования контента и данных Викимедиа в своем проекте."
 
 #: get-started/tutorials.md:block 4 (paragraph)
 msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
-msgstr "[浏览教程](../use-content/tutorials.md){ .md-button }"
+msgstr "[Обзор учебных материалов](../use-content/tutorials.md){ .md-button }"
 
 #: get-started/tutorials.md:block 5 (header)
 msgid "Tutorials for building tools and bots"
-msgstr "构建工具和机器人的教程"
+msgstr "Учебные материалы по созданию инструментов и ботов"
 
 #: get-started/tutorials.md:block 6 (paragraph)
 msgid "Learn the basics of writing code that interacts with Wikimedia projects."
-msgstr "学习编写与维基媒体项目交互的代码的基础知识。"
+msgstr "Изучите основы написания кода, взаимодействующего с проектами Викимедиа."
 
 #: get-started/tutorials.md:block 7 (paragraph)
 msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
-msgstr "[浏览教程](../build-tools/tutorials.md){ .md-button }"
+msgstr "[Обзор учебных материалов](../build-tools/tutorials.md){ .md-button }"
 
 #: get-started/wikimedia-tech.md:meta.title
 #: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
 #: (header)
 msgid "Learn about Wikimedia technology"
-msgstr "了解维基媒体技术"
+msgstr "Узнайте о технологии Викимедиа"
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
-msgstr "探索核心维基媒体技术和开源项目。"
+msgstr "Изучите основные технологии Викимедиа и проекты с открытым исходным кодом."
 
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Introduction to Wikimedia"
-msgstr "维基媒体简介"
+msgstr "Введение в Викимедиа"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn the differences between Wikipedia, Wikimedia, and MediaWiki."
-msgstr "了解维基百科（Wikipedia）、维基媒体（Wikimedia）和MediaWiki之间的区别。"
+msgstr "Узнайте о различиях между Википедией (Wikipedia), Викимедиа (Wikimedia) и Медиавики (MediaWiki)."
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
-msgstr "Wikibase和维基数据"
+msgstr "Викибаза и Викиданные"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
-msgstr "Wikibase是用于处理结构化数据的MediaWiki扩展，是维基数据的实现基础。"
+msgstr "Викибаза (Wikibase) — это расширение MediaWiki для работы со структурированными данными, и это программное обеспечение, которое поддерживает Викиданные."
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
-msgstr "[访问wikidata.org](https://www.wikidata.org/)"
+msgstr "[Посетите wikidata.org] (https://www.wikidata.org/)"
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 
 #: use-content/index.md:block 2 (header)
 msgid "[Explore featured apps](featured-apps.md)"
-msgstr "[探索特色应用](featured-apps.md)"
+msgstr ""
 
 #: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
 #: 2 (paragraph)
 msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
-msgstr "查看使用维基媒体内容和数据构建的开源应用程序和数据可视化示例。"
+msgstr ""
 
 #: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
-msgstr "跟随分步编写的教程，学习使用维基媒体内容和数据的基础知识。"
+msgstr ""
 
 #: use-content/index.md:block 6 (header)
 msgid "[Use wiki content](content.md)"
-msgstr "[使用wiki内容](content.md)"
+msgstr ""
 
 #: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
 #: (paragraph)
 msgid "Find open source libraries, get started using the API, or download content in bulk."
-msgstr "查找开源库、开始使用API或批量下载内容。"
+msgstr ""
 
 #: use-content/index.md:block 8 (header)
 msgid "[Access open data](data.md)"
-msgstr "[访问开放数据](data.md)"
+msgstr ""
 
 #: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
 #: (paragraph)
 msgid "Explore public data that you can use in research and machine learning."
-msgstr "探索可用于研究和机器学习的公共数据。"
+msgstr ""
 
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
 msgid "Use wiki content"
-msgstr "使用wiki内容"
+msgstr "Используйте вики-контент"
 
 #: use-content/content.md:block 3 (header)
 msgid "Introduction to Wikimedia projects"
-msgstr "维基媒体项目简介"
+msgstr "Знакомство с проектами Викимедиа"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
-msgstr "维基媒体内容按项目和语言组织。每个项目都有不同类型的免费内容，例如维基百科上的百科全书文章、维基共享资源上的媒体文件以及维基数据上的结构化数据。"
+msgstr "Контент Викимедиа организован по проектам и языкам. Каждый проект содержит свой тип свободного контента, например статьи энциклопедии в Википедии, медиафайлы на Викискладе и структурированные данные в Викиданных."
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+msgstr "[Узнать подробнее в Мета-вики] (https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
 
 #: use-content/content.md:block 6 (header)
 msgid "Review the terms and conditions"
-msgstr "查看条款和条件"
+msgstr ""
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr "大多数维基媒体内容都使用知识共享（Creative Commons，简称CC）许可协议进行许可，允许在注明出处的前提下免费重复使用。你可以查看任意wiki页面的底部以找到适用的许可协议。"
+msgstr ""
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+msgstr "[Узнать подробнее в Мета-вики](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
-msgstr "获取企业服务"
+msgstr ""
 
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
-msgstr "Wikimedia Enterprise提供了一套API和服务，专为对维基媒体内容和数据的大容量、商业访问而设计。"
+msgstr ""
 
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
-msgstr "[了解更多](https://enterprise.wikimedia.com)"
+msgstr "[Узнать подробнее](https://enterprise.wikimedia.com)"
 
 #: use-content/data.md:meta.title use-content/data.md:title
 #: use-content/data.md:block 1 (header)
 msgid "Access open data"
-msgstr "访问开放数据"
+msgstr "Доступ к открытым данным"
 
 #: use-content/data.md:block 3 (header)
 msgid "Use Wikimedia open data"
-msgstr "使用维基媒体开放数据"
+msgstr "Используйте открытые данные Викимедиа"
 
 #: use-content/data.md:block 4 (paragraph)
 msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
-msgstr "访问有关维基媒体项目的公开的、通过开放许可协议进行许可的数据，包括批量下载、最近更改的流和页面统计信息。"
+msgstr ""
 
 #: use-content/data.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
-msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+msgstr "[Узнать подробнее в Мета-вики](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
 
 #: use-content/data.md:block 6 (header)
 msgid "Explore structured data with Wikidata"
-msgstr "探索维基数据的结构化数据"
+msgstr ""
 
 #: use-content/data.md:block 7 (paragraph)
 msgid "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Learn how to access data from Wikidata, and follow best practices for reusing it."
-msgstr "维基数据是一个免费且开放的知识库，可供人类和机器阅读和编辑。了解如何从危机数据访问数据，并遵循重复使用数据的最佳实践。"
+msgstr ""
 
 #: use-content/data.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr "[在维基数据上了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgstr "[Узнать подробнее в Викиданных](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
 msgid "Explore featured apps"
-msgstr "探索特色应用"
+msgstr ""
 
 #: use-content/featured-apps.md:block 3 (header)
 msgid "App gallery"
-msgstr "应用程序库"
+msgstr "Галерея приложений"
 
 #: use-content/featured-apps.md:block 4 (paragraph)
 msgid "Browse example apps that demonstrate best practices for using Wikimedia APIs, including fetching wiki content, logging in, and editing pages."
-msgstr "浏览展示使用维基媒体API的最佳实践的示例应用程序，包括获取wiki内容、登录和编辑页面。"
+msgstr ""
 
 #: use-content/featured-apps.md:block 5 (unordered list)
 msgid "[Visit the gallery](https://apps-gallery.toolforge.org)"
-msgstr "[访问应用程序库](https://apps-gallery.toolforge.org)"
+msgstr ""
 
 #: use-content/featured-apps.md:block 6 (header)
 msgid "Wikipedia visualizations"
-msgstr "维基百科可视化"
+msgstr "Визуализации Википедии"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
-msgstr "“See, also”是一个应用程序库，可将来自维基百科的数据可视化。查看这个库以获得灵感并了解可用数据和API。"
+msgstr ""
 
 #: use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"
-msgstr "[访问应用程序库](https://seealso.org/)"
+msgstr ""
 
 #: use-content/featured-apps.md:block 9 (header)
 msgid "Wikidata visualizations"
-msgstr "维基数据可视化"
+msgstr "Визуализации Викиданных"
 
 #: use-content/featured-apps.md:block 10 (paragraph)
 msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
-msgstr "维基数据是一个机器可读的知识库，拥有数百万个项目。浏览此可视化列表以获得灵感并查看有关如何重用维基数据的开源示例。"
+msgstr ""
 
 #: use-content/featured-apps.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
-msgstr "[在维基数据上了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+msgstr "[Узнать подробнее в Викиданных](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
-msgstr "显示来自维基数据的信息"
+msgstr ""
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
-msgstr "使用MediaWiki API从维基数据获取和显示信息。了解维基百科条目如何与维基数据关联以及如何解析维基数据的结构。"
+msgstr ""
 
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
-msgstr "显示每日图片"
+msgstr ""
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
-msgstr "了解如何使用MediaWiki API从维基百科获取每日精选图片。本教程使用Python和Flask框架。"
+msgstr ""
 
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
 
 #: use-content/tutorials.md:block 15 (header)
 msgid "Get started querying Wikidata"
-msgstr "开始查询维基数据"
+msgstr ""
 
 #: use-content/tutorials.md:block 16 (paragraph)
 msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
-msgstr "了解如何使用SPARQL查询维基数据。本教程涵盖了维基数据的基础知识以及如何使用维基数据查询服务。"
+msgstr ""
 
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr "[了解更多](https://wdqs-tutorial.toolforge.org)"
+msgstr "[Узнать подробнее](https://wdqs-tutorial.toolforge.org)"
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
-msgstr "按位置搜索条目"
+msgstr "Искать статьи по местоположению"
 
 #: use-content/tutorials.md:block 19 (paragraph)
 msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
-msgstr "了解如何使用MediaWiki API搜索有关某位置或其附近的维基百科条目。本教程使用JavaScript、Python和Flask框架。"
+msgstr "Узнайте, как использовать MediaWiki API для поиска статей Википедии о чём-то, что находится рядом с определённым местом. В этом руководстве используются JavaScript, Python и среда Flask."
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 
