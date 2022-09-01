@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: Kaganer
+# Author: Okras
 # Author: Pacha Tchernof
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -24,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-08-29 11:16:40+0000\n"
+"PO-Revision-Date: 2022-09-01 11:20:03+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1500,7 +1501,7 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 5 (unordered list)
 msgid "[Visit the gallery](https://apps-gallery.toolforge.org)"
-msgstr ""
+msgstr "[Посетить галерею](https://apps-gallery.toolforge.org)"
 
 #: use-content/featured-apps.md:block 6 (header)
 msgid "Wikipedia visualizations"
@@ -1512,7 +1513,7 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"
-msgstr ""
+msgstr "[Посетить галерею](https://seealso.org/)"
 
 #: use-content/featured-apps.md:block 9 (header)
 msgid "Wikidata visualizations"
@@ -1540,7 +1541,7 @@ msgstr "[Узнать подробнее на mediawiki.org](https://www.mediawi
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
-msgstr ""
+msgstr "Показать изображение дня"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
