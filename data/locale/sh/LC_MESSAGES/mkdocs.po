@@ -1,0 +1,1575 @@
+# Translation of Wikimedia Developer Portal to Serbo-Croatian (srpskohrvatski / српскохрватски)
+# Exported from translatewiki.net
+#
+# Author: Vlad5250
+# --
+# Copyright (c) 2022 Wikimedia Foundation and contributors.
+# All Rights Reserved.
+#
+# This file is part of Wikimedia Developer Portal.
+# Wikimedia Developer Portal is free software: you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or (at your
+# option) any later version.
+#
+# Wikimedia Developer Portal is distributed in the hope that it will be
+# useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+# Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# Wikimedia Developer Portal.  If not, see <http://www.gnu.org/licenses/>.
+#
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2022-09-12 11:17:44+0000\n"
+"X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sh\n"
+"X-Generator: MediaWiki 1.40.0-alpha; Translate 2022-07-28\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: mkdocs.yml:site_name
+msgid "Wikimedia Developer Portal"
+msgstr "Portal za programere Wikimedije"
+
+#: mkdocs.yml:site_description
+msgid "Find technical documentation, and connect with Wikimedia developer communities."
+msgstr "Nađite tehničku dokumentaciju i povežite se sa zajednicama programera Wikimedije."
+
+#: mkdocs.yml:site_author
+msgid "Wikimedia Foundation and contributors"
+msgstr "Wikimedia Foundation i suradnici"
+
+#: mkdocs.yml:copyright
+msgid "Copyright &copy; 2022 Wikimedia Foundation and contributors"
+msgstr "Copyright &copy; 2022 Wikimedia Foundation i suradnici"
+
+#: mkdocs.yml:extra.footer_links.0
+msgid "Privacy policy"
+msgstr "Politika privatnosti"
+
+#: mkdocs.yml:extra.footer_links.1
+msgid "Terms of Use"
+msgstr "Uslovi korišćenja"
+
+#: mkdocs.yml:extra.footer_links.2
+msgid "Code: GPL-3.0-or-later"
+msgstr "Kôd: GPL-3.0-ili-kasnije"
+
+#: mkdocs.yml:extra.footer_links.3
+msgid "Content: CC-BY-SA-3.0"
+msgstr "Sadržaj: CC-BY-SA-3.0"
+
+#: mkdocs.yml:extra.footer_links.4
+msgid "About"
+msgstr "O portalu"
+
+#: mkdocs.yml:extra.footer_links.5 mkdocs.yml:navigation
+msgid "Contribute"
+msgstr "Doprinesite"
+
+#: mkdocs.yml:navigation build-tools/get-started.md:title
+#: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
+#: get-started/index.md:title
+msgid "Get started"
+msgstr "Započnite"
+
+#: mkdocs.yml:navigation use-content/index.md:meta.title
+#: use-content/index.md:title
+msgid "Use content and data"
+msgstr "Upotreba sadržaja i podataka"
+
+#: mkdocs.yml:navigation build-tools/index.md:meta.title
+#: build-tools/index.md:title
+msgid "Tools and bots"
+msgstr "Alatke i botovi"
+
+#: mkdocs.yml:navigation community/index.md:meta.title
+#: community/index.md:title
+msgid "Community"
+msgstr "Zajednica"
+
+#: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
+#: get-help/index.md:block 1 (header)
+msgid "Get help"
+msgstr "Dobijte pomoć"
+
+#: index.md:meta.title index.md:title
+msgid "Discover and build Wikimedia technology"
+msgstr "Otkrijte i izgradite Wikimedijinu tehnologiju"
+
+#: index.md:block 1 (paragraph)
+msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
+msgstr "Nađite tehničku dokumentaciju i povežite se sa zajednicom programera koja stoji iza [Wikipedije](https://www.wikipedia.org/) i drugih [Wikimedijinih projekata](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
+
+#: index.md:block 2 (paragraph)
+msgid "[Get started](get-started/){ .md-button }"
+msgstr "[Započnite](get-started/){ .md-button }"
+
+#: index.md:block 4 (header)
+msgid "[Use Wikimedia content and data](use-content/)"
+msgstr "[Upotreba sadržaja i podataka Wikimedije](use-content/)"
+
+#: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
+msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
+msgstr "Pristup člancima s Wikipedije, medijskim datotekama, strukturiranim podacima i više s javnim priložnicima i preuzimanjima."
+
+#: index.md:block 7 (header)
+msgid "[Build tools and bots](build-tools/)"
+msgstr "[Izradite alatke i botove](build-tools/)"
+
+#: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
+msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
+msgstr "Alatke i botovi olakšavaju uređivanje i održavanje Wikimedijinih projekata."
+
+#: index.md:block 10 (header)
+msgid "[Contribute to Wikimedia open source](contribute/)"
+msgstr "[Doprinesite otvorenom kodu Wikimedije](contribute/)"
+
+#: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
+msgid "Help build the Wikimedia ecosystem with open source software."
+msgstr "Pomozite u izgradnji Wikimedijinog ekosustava pomoću softvera s otvorenim kodom."
+
+#: index.md:block 13 (header)
+msgid "[Connect with the community](community/)"
+msgstr "[Povežite se sa zajednicom](community/)"
+
+#: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
+msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
+msgstr "Uključite se u Wikimedijinu tehničku zajednicu, gdje ćete pronaći prilike za podršku i učenje."
+
+#: index.md:block 16 (header)
+msgid "[Get help](get-help/)"
+msgstr "[Dobijte pomoć](get-help/)"
+
+#: index.md:block 17 (paragraph)
+msgid "Find resources to help with questions and troubleshooting."
+msgstr "Nađite resurse za pitanja i probleme"
+
+#: build-tools/index.md:block 2 (header)
+msgid "[Discover and share tools](search.md)"
+msgstr "[Otkrijte i podijelite alatke](search.md)"
+
+#: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
+#: (paragraph)
+msgid "Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata."
+msgstr "Pregledajte katalog alatki na Toolhubu, podijelite svoje alatke i pomozite u održavanju metapodataka alatki."
+
+#: build-tools/index.md:block 4 (header)
+msgid "[Get started](get-started.md)"
+msgstr "[Započnite](get-started.md)"
+
+#: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
+#: (paragraph)
+msgid "Create your first tool, learn about running a bot, and get best practices."
+msgstr "Napravite svoju prvu alatku, naučite o pokretanju bota i najbolje prakse."
+
+#: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
+#: use-content/index.md:block 4 (header)
+msgid "[Learn with tutorials](tutorials.md)"
+msgstr "[Učite uz tutoriale](tutorials.md)"
+
+#: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
+#: (paragraph)
+msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
+msgstr "Slijedite vodiče korak po korak kako biste naučili osnove interakcije s Wikimedijinim projektima."
+
+#: build-tools/index.md:block 8 (header)
+msgid "[Use APIs and data sources](apis.md)"
+msgstr "[Koristite priložnike i izvore podataka](apis.md)"
+
+#: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
+#: (paragraph)
+msgid "Explore programming interfaces for building bots and tools."
+msgstr "Istražite programska sučelja za izradu botova i alata."
+
+#: build-tools/index.md:block 10 (header)
+msgid "[Host tools on Wikimedia servers](host-tools.md)"
+msgstr "[Hostirajte alatke na Wikimedijinim poslužiteljima](host-tools.md)"
+
+#: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
+#: (paragraph)
+msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
+msgstr "Pristup uslugama u oblaku za izvođenje analitike, administriranje botova, web usluge i hosting alatki koji pomažu Wikimedijinim projektima."
+
+#: build-tools/apis.md:meta.title build-tools/apis.md:title
+#: build-tools/apis.md:block 1 (header)
+msgid "Use APIs and data sources"
+msgstr "Koristite priložnike i izvore podataka"
+
+#: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
+#: (header)
+msgid "Pywikibot"
+msgstr "Pywikibot"
+
+#: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
+#: (paragraph)
+msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
+msgstr "Pywikibot je Python biblioteka i zbirka skripti koje automatiziraju rad na Wikimedijinim projektima."
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr "[Doprinesite](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
+msgstr "[Dobijte izvorni kod](https://gerrit.wikimedia.org/g/pywikibot/core)"
+
+#: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
+#: (header)
+msgid "Browse libraries by programming language"
+msgstr "Pregledajte biblioteke prema programskom jeziku"
+
+#: build-tools/apis.md:block 7 (paragraph)
+#: get-started/browse-languages.md:block 2 (paragraph)
+#: use-content/content.md:block 10 (paragraph)
+msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
+msgstr "Biblioteke priložničkih klijenata olakšavaju pisanje koda koji je u interakciji s priložnikom. Posjetite ovaj spisak za pregledavanje popularnih biblioteka za priložnik MediaWikija prema programskom jeziku."
+
+#: build-tools/apis.md:block 8 (unordered list)
+#: get-started/browse-languages.md:block 3 (unordered list)
+#: use-content/content.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+
+#: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
+#: (header)
+msgid "Use the API"
+msgstr "Koristite priložnik"
+
+#: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
+#: (paragraph)
+msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
+msgstr "Priložnik MediaWikija daje vam programski pristup sadržaju na svakom Wikimedijinom wikiju. Možete koristiti za pretraživanje i prikaz wikistranica, za dobivanje medijskih datoteka, uređivanje stranica i upravljanje wikijima."
+
+#: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
+#: 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
+
+#: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
+#: 14 (unordered list)
+msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+msgstr "[Pokušajte pesak](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+
+#: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
+#: (header) use-content/data.md:block 9 (header)
+msgid "Download content in bulk"
+msgstr "Preuzmite sadržaj skupno"
+
+#: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
+#: (paragraph) use-content/data.md:block 10 (paragraph)
+msgid "Access free downloads of wiki content and data that you can use in research, offline reading, bot editing, and other projects."
+msgstr "Pristup besplatnim preuzimanjima wikisadržaja i podataka što možete koristiti u istraživanju, izvanmrežnom čitanju, uređivanju botova i drugim projektima."
+
+#: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
+#: 17 (unordered list) use-content/data.md:block 11 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+
+#: build-tools/apis.md:block 15 (header)
+msgid "Query wiki databases"
+msgstr "Upit za wiki baze podataka"
+
+#: build-tools/apis.md:block 16 (paragraph)
+msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
+msgstr "Wikireplike su anonimizirane verzije baza podataka koje podupiru Wikimedijini proizvodni sajtovi. Koristite Quarry za pokretanje i dijeljenje SQL upita."
+
+#: build-tools/apis.md:block 17 (unordered list)
+msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
+msgstr "[Posjetite Quarry](https://quarry.wmcloud.org/)"
+
+#: build-tools/apis.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+
+#: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
+#: 3 (header)
+msgid "Build your first tool"
+msgstr "Napravite svoju prvu alatku"
+
+#: build-tools/get-started.md:block 4 (paragraph)
+#: build-tools/tutorials.md:block 4 (paragraph)
+msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
+msgstr "Naučite kako uređivati ​​wikistranice koristeći Python i Pywikibot framework. Ovaj vam vodič pomaže da brzo počnete koristeći samo preglednik."
+
+#: build-tools/get-started.md:block 5 (unordered list)
+#: build-tools/tutorials.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+
+#: build-tools/get-started.md:block 6 (header)
+msgid "Learn about creating and running bots"
+msgstr "Naučite o stvaranju i pokretanju botova"
+
+#: build-tools/get-started.md:block 7 (paragraph)
+msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
+msgstr "Botovi pomažu u održavanju linkova i izvođenju ponavljajućih zadataka. Započnite stvarati i pokretati botove tako što ćete naučiti o najboljim primjerima iz prakse."
+
+#: build-tools/get-started.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+
+#: build-tools/get-started.md:block 9 (header)
+msgid "Best practices for open source tools"
+msgstr "Najbolje prakse za alatke s otvorenim kodom"
+
+#: build-tools/get-started.md:block 10 (paragraph)
+msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
+msgstr "Nemate iskustva u otvorenom kodu? Ovdje ćemo vam dati savjete o tome kako razviti korisne alatke i botove, uključujući odabir licence, objavljivanje koda i pisanje dokumenata."
+
+#: build-tools/get-started.md:block 11 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+
+#: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
+#: build-tools/host-tools.md:block 1 (header)
+msgid "Host tools on Wikimedia servers"
+msgstr "Hostirajte alatke na Wikimedijinim poslužiteljima"
+
+#: build-tools/host-tools.md:block 3 (header)
+msgid "Run scripts in your browser"
+msgstr "Pokrenite skripte u svom pregledniku"
+
+#: build-tools/host-tools.md:block 4 (paragraph)
+msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
+msgstr "PAWS je besplatno igralište u oblaku za stvaranje skripti i vizualizacija podataka povezanih s Wikimedijinim projektima. Prijavite se sa svojim wikmedijskim računom i napravite bilježnicu da biste započeli."
+
+#: build-tools/host-tools.md:block 5 (unordered list)
+msgid "[Visit PAWS](https://hub.paws.wmcloud.org/hub/login)"
+msgstr "[Posjetite PAWS](https://hub.paws.wmcloud.org/hub/login)"
+
+#: build-tools/host-tools.md:block 5 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
+msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
+
+#: build-tools/host-tools.md:block 6 (header)
+msgid "Learn about cloud hosting for tools"
+msgstr "Saznajte više o hostingu u oblaku za alatke"
+
+#: build-tools/host-tools.md:block 7 (paragraph)
+msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
+msgstr "Toolforge je besplatno hosting okruženje za pokretanje i upravljanje alatkama. Razvoj alatke u Toolforgeu olakšava pristup sadržaju i podacima Wikimedije, dok vam omogućuje dijeljenje vaše alatke s drugima."
+
+#: build-tools/host-tools.md:block 8 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+
+#: build-tools/search.md:meta.title build-tools/search.md:title
+#: build-tools/search.md:block 1 (header)
+msgid "Discover and share tools"
+msgstr "Otkrijte i podijelite alatke"
+
+#: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
+#: 12 (header)
+msgid "Toolhub"
+msgstr "Toolhub"
+
+#: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
+#: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
+msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
+msgstr "Toolhub je katalog alatki koje olakšavaju uređivanje i održavanje Wikimedijinih projekata. Koristite Toolhub za otkrivanje novih alatki, povezivanje s održavateljima alatki i dijeljenje spiskova vaših omiljenih alatki."
+
+#: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
+#: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
+msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
+msgstr "[Posjetite Toolhub](https://toolhub.wikimedia.org/)"
+
+#: build-tools/search.md:block 6 (header)
+msgid "Share a tool"
+msgstr "Podijelite alatku"
+
+#: build-tools/search.md:block 7 (paragraph)
+msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
+msgstr "Stavite svoju alatku na Toolhub katalog kako bi drugi mogli imati koristi od vašeg rada. Prijavite se na Toolhub sa svojim wikimedijskim računom da biste započeli."
+
+#: build-tools/search.md:block 8 (unordered list)
+msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+msgstr "[Stavite svoju alatku na Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+
+#: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
+#: build-tools/tutorials.md:block 1 (header)
+#: get-started/tutorials.md:meta.title get-started/tutorials.md:title
+#: use-content/tutorials.md:meta.title use-content/tutorials.md:title
+#: use-content/tutorials.md:block 1 (header)
+msgid "Learn with tutorials"
+msgstr "Učite uz tutoriale"
+
+#: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
+#: (header)
+msgid "Generate ideas for articles"
+msgstr "Generirajte ideje za članke"
+
+#: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
+#: 13 (paragraph)
+msgid "Learn how to use the MediaWiki API to generate ideas for new Wikipedia articles. This tutorial uses Python and the Flask framework."
+msgstr "Naučite kako koristiti priložnik MediaWikija za generisanje ideja za nove članke na Wikipediji. Ovaj vodič koristi Python i okvir Flask."
+
+#: build-tools/tutorials.md:block 8 (unordered list)
+#: use-content/tutorials.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+
+#: build-tools/tutorials.md:block 9 (header)
+msgid "Write a bot that uses Wikidata"
+msgstr "Napišite bota što koristi Wikidata"
+
+#: build-tools/tutorials.md:block 10 (paragraph)
+msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
+msgstr "Koristite Python za rukovanje velikim skupovima podataka iz Wikidata i prijenos podataka između alata u tijeku rada."
+
+#: build-tools/tutorials.md:block 11 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+msgstr "[Čitajte više na Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+
+#: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
+#: (header)
+msgid "Display holidays from Wikipedia"
+msgstr "Prikaz praznika s Wikipedije"
+
+#: build-tools/tutorials.md:block 13 (paragraph)
+#: use-content/tutorials.md:block 4 (paragraph)
+msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
+msgstr "Naučite kako koristiti priložnik MediaWikija za dohvaćanje praznika za određeni datum s Wikipedije. Ovaj vodič također pokriva korišćenje priložnika za prijavu na Wikipediji i dodavanje novih praznika. Koristi Python i okvir Flask."
+
+#: build-tools/tutorials.md:block 14 (unordered list)
+#: use-content/tutorials.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+
+#: build-tools/tutorials.md:block 15 (header)
+msgid "Add JavaScript or CSS to a wiki"
+msgstr "Dodajte JavaScript ili CSS na wiki"
+
+#: build-tools/tutorials.md:block 16 (paragraph)
+msgid "Customize MediaWiki with client-side JavaScript and CSS. Use scripts other people have created, and share your code with others."
+msgstr "Prilagodite MediaWiki s JavaScriptom i CSS-om na strani klijenta. Koristite skripte koje su drugi ljudi izradili i podijelite svoj kod s drugima."
+
+#: build-tools/tutorials.md:block 17 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+
+#: build-tools/tutorials.md:block 18 (header)
+msgid "Host a tool on Wikimedia cloud servers"
+msgstr "Hostirajte alatku na Wikimedijinim poslužiteljima u oblaku"
+
+#: build-tools/tutorials.md:block 19 (paragraph)
+msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
+msgstr "Toolforge je okruženje za besplatni hosting alatki, pokretanje i upravljanje alatima. Započnite s Toolforgeom otvaranjem računa i postavljanjem osnovne web usluge."
+
+#: build-tools/tutorials.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+
+#: community/index.md:block 2 (header)
+msgid "[Explore hackathons and events](events.md)"
+msgstr "[Istražite hackathone i događaje](events.md)"
+
+#: community/index.md:block 3 (paragraph) community/events.md:block 2
+#: (paragraph)
+msgid "Browse content from past events, or join an upcoming event."
+msgstr "Pregledajte sadržaj s prošlih događaja ili se pridružite nadolazećem događaju."
+
+#: community/index.md:block 4 (header)
+msgid "[Communicate with the tech community](communicate.md)"
+msgstr "[Komunicirajte s tehnološkom zajednicom](communicate.md)"
+
+#: community/index.md:block 5 (paragraph) community/communicate.md:block 2
+#: (paragraph)
+msgid "Understand communication channels and how to connect with Wikimedia developers."
+msgstr "Razumjeti koji su komunikacijski kanali i kako se povezati s programerima Wikimedije."
+
+#: community/index.md:block 6 (header)
+msgid "[Learn and share technical skills](grow.md)"
+msgstr "[Naučite i dijelite tehničke vještine](grow.md)"
+
+#: community/index.md:block 7 (paragraph) community/grow.md:block 2
+#: (paragraph)
+msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
+msgstr "Unaprijedite svoje vještine, ili čak pomozite drugima u učenju kroz radionice, stažiranje i mentorstvo."
+
+#: community/index.md:block 8 (header)
+msgid "[Get tech project updates](updates.md)"
+msgstr "[Primajte ažuriranja tehničkih projekata](updates.md)"
+
+#: community/index.md:block 9 (paragraph) community/updates.md:block 2
+#: (paragraph)
+msgid "Stay up to date with the latest from the Wikimedia technical community."
+msgstr "Ostanite u tijeku s najnovijim vijestima iz tehničke zajednice Wikimedije."
+
+#: community/index.md:block 10 (header)
+msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
+msgstr "[Saznajte više o tehničkim operacijama Wikimedije](tech-ops.md)"
+
+#: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
+#: (paragraph)
+msgid "Find information about the infrastructure and teams behind Wikimedia technology."
+msgstr "Nađitei nformacije o infrastrukturi i timovima iza Wikimedijine tehnologije."
+
+#: community/communicate.md:meta.title community/communicate.md:title
+#: community/communicate.md:block 1 (header)
+msgid "Communicate with the tech community"
+msgstr "Komunicirajte s tehnološkom zajednicom"
+
+#: community/communicate.md:block 3 (header) contribute/overview.md:block 3
+#: (header) get-started/new-dev.md:block 12 (header)
+msgid "Read the code of conduct"
+msgstr "Pročitajte kodeks ponašanja"
+
+#: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
+#: (paragraph) get-started/new-dev.md:block 13 (paragraph)
+msgid "The code of conduct for Wikimedia technical spaces applies to both physical and virtual environments. Learn how to foster an open and welcoming community."
+msgstr "Kodeks ponašanja za Wikimedijine tehničke prostore primjenjuje se i na fizičko, i na virtualno okruženje. Naučite kako poticati otvorenu i gostoljubivu zajednicu."
+
+#: community/communicate.md:block 5 (unordered list)
+#: contribute/overview.md:block 5 (unordered list)
+#: get-started/new-dev.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+
+#: community/communicate.md:block 6 (header) get-help/index.md:block 9
+#: (header)
+msgid "Communication channels"
+msgstr "Komunikacijski kanali"
+
+#: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
+#: (paragraph)
+msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
+msgstr "Stupite u kontakt s programerima i korisnicima MediaWikija kako biste dobili podršku i podijelili znanje."
+
+#: community/communicate.md:block 8 (unordered list) get-help/index.md:block
+#: 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+
+#: community/communicate.md:block 9 (header)
+msgid "Find code maintainers and stewards"
+msgstr "Pronađite održavatelje kodova i stjuarde"
+
+#: community/communicate.md:block 10 (paragraph)
+msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
+msgstr "Pregledajte spisak programera i timova koji održavaju osnovu MediaWikija, ključna proširenja i maske, biblioteke i drugu tehničku infrastrukturu Wikimedije."
+
+#: community/communicate.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+
+#: community/events.md:meta.title community/events.md:title
+#: community/events.md:block 1 (header)
+msgid "Explore hackathons and events"
+msgstr "Istražite hackathone i događaje"
+
+#: community/events.md:block 3 (header)
+msgid "Hackathons"
+msgstr "Hackathoni"
+
+#: community/events.md:block 4 (paragraph)
+msgid "A hackathon brings together people with different skills to work together on a common technical goal."
+msgstr "Hackathoni su događaji gdje ljudi s različitim vještinama kako bi zajedno radili na zajedničkom tehničkom cilju."
+
+#: community/events.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+
+#: community/events.md:block 6 (header)
+msgid "Wikidata events"
+msgstr "Događaji na Wikidata"
+
+#: community/events.md:block 7 (paragraph)
+msgid "Browse meetups for Wikidata editors, data reusers, and developers."
+msgstr "Pregledajte sastanke za urednike Wikidata, namijenitelje podataka i programere."
+
+#: community/events.md:block 8 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+msgstr "[Čitajte više na Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+
+#: community/events.md:block 9 (header)
+msgid "Research events"
+msgstr "Istražite događaje"
+
+#: community/events.md:block 10 (paragraph)
+msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
+msgstr "Pridružite se forumima i sastancima za znanstvenike, inženjere i učenjake koji istražuju sve aspekte Wikimedijinih projekata."
+
+#: community/events.md:block 11 (unordered list)
+msgid "[Read more](https://research.wikimedia.org/events.html)"
+msgstr "[Čitajte više](https://research.wikimedia.org/events.html)"
+
+#: community/events.md:block 12 (header)
+msgid "MediaWiki developer events"
+msgstr "Događaji za programere MediaWikija"
+
+#: community/events.md:block 13 (paragraph)
+msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
+msgstr "Pridružite se sastancima, konferencijama i sesijama kodiranja vezanim uz MediaWiki i Wikimedia kod."
+
+#: community/events.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+
+#: community/events.md:block 15 (header)
+msgid "Coolest Tool Award"
+msgstr "Nagrada za najcool alat"
+
+#: community/events.md:block 16 (paragraph)
+msgid "This annual award event celebrates volunteer developer contributions."
+msgstr "Ova godišnja dodjela nagrada slavi doprinose programera volontera."
+
+#: community/events.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+
+#: community/events.md:block 18 (header)
+msgid "Technical skills workshops"
+msgstr "Radionice tehničkih vještina"
+
+#: community/events.md:block 19 (paragraph) community/grow.md:block 7
+#: (paragraph)
+msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
+msgstr "Nađite alatke i obrazovne resurse koji će pomoći malim wikizajednicama da povećaju svoje tehničke sposobnosti i steknu nove vještine."
+
+#: community/events.md:block 20 (unordered list) community/grow.md:block 8
+#: (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+
+#: community/grow.md:meta.title community/grow.md:title
+#: community/grow.md:block 1 (header)
+msgid "Learn and share technical skills"
+msgstr "Naučite i dijelite tehničke vještine"
+
+#: community/grow.md:block 3 (header)
+msgid "Outreach and mentoring programs"
+msgstr "Outreach i mentorski programi"
+
+#: community/grow.md:block 4 (paragraph)
+msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
+msgstr "Unaprijedite svoje vještine kroz stažiranje i programe mentorstva kao što su Outreachy i Google Summer of Code."
+
+#: community/grow.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+
+#: community/grow.md:block 6 (header)
+msgid "Small wiki toolkits"
+msgstr "Alatke za male wikije"
+
+#: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
+#: (header)
+msgid "Videos and tech talks"
+msgstr "Videozapisi i razgovori o tehnologiji"
+
+#: community/grow.md:block 10 (paragraph) get-started/wikimedia-tech.md:block
+#: 7 (paragraph)
+msgid "Learn about Wikimedia technology through recorded presentations from the community."
+msgstr "Naučite više o Wikimedijinoj tehnologiji kroz snimljena izlaganja zajednice."
+
+#: community/grow.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
+msgstr "[Posjetite YouTube kanal](https://www.youtube.com/user/watchmediawiki/videos)"
+
+#: community/grow.md:block 12 (header)
+msgid "Tech ambassadors"
+msgstr "Tehnički ambasadori"
+
+#: community/grow.md:block 13 (paragraph)
+msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
+msgstr "Volontirajte svoje vještine kako biste pomogli Wikimedijancima u rješavanju tehničkih problema i povezivanju programera s lokalnim wikijima."
+
+#: community/grow.md:block 14 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+
+#: community/tech-ops.md:meta.title community/tech-ops.md:title
+msgid "Learn about Wikimedia technical operations"
+msgstr "Saznajte više o tehničkim operacijama Wikimedije"
+
+#: community/tech-ops.md:block 1 (header)
+msgid "Wikimedia technical operations"
+msgstr "Tehničke operacije Wikimedije"
+
+#: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
+#: 9 (header)
+msgid "Cloud tools and services"
+msgstr "Alatke i usluge u oblaku"
+
+#: community/tech-ops.md:block 4 (paragraph)
+#: get-started/wikimedia-tech.md:block 10 (paragraph)
+msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
+msgstr "Saznajte više o dijeljenom hostingu, podatkovnim uslugama i drugoj infrastrukturnoj podršci za tehničke doprinose Wikimedijinim projektima."
+
+#: community/tech-ops.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+
+#: community/tech-ops.md:block 6 (header)
+msgid "Performance monitoring"
+msgstr "Praćenje performansi"
+
+#: community/tech-ops.md:block 7 (paragraph)
+msgid "Monitor the current and past performance of Wikimedia sites."
+msgstr "Pratite trenutnu i prošlu izvedbu Wikimedijinih sajtova."
+
+#: community/tech-ops.md:block 8 (unordered list)
+msgid "[Read more](https://performance.wikimedia.org/)"
+msgstr "[Čitajte više](https://performance.wikimedia.org/)"
+
+#: community/tech-ops.md:block 9 (header)
+msgid "Security policies"
+msgstr "Sigurnosne politike"
+
+#: community/tech-ops.md:block 10 (paragraph)
+msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
+msgstr "Pročitajte sigurnosne politike za platformu MediaWiki i Wikimedia Foundation."
+
+#: community/tech-ops.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+
+#: community/tech-ops.md:block 12 (header)
+msgid "Software deployments"
+msgstr "Postavljanje softvera"
+
+#: community/tech-ops.md:block 13 (paragraph)
+msgid "Track software deployments to Wikimedia Foundation servers."
+msgstr "Pratite implementaciju softvera na poslužitelje Wikimedia Foundation."
+
+#: community/tech-ops.md:block 14 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
+msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
+
+#: community/tech-ops.md:block 15 (header)
+msgid "Structured data infrastructure"
+msgstr "Infrastruktura strukturiranih podataka"
+
+#: community/tech-ops.md:block 16 (paragraph)
+msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
+msgstr "Wikibase je softver s otvorenim kodom namjenjen za suradničke baze znanja i povezane otvorene podatke. Saznajte više o arhitekturi sustava softvera iza Wikidata."
+
+#: community/tech-ops.md:block 17 (unordered list)
+msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
+msgstr "[Pročitajte dokumente](https://wmde.github.io/wikidata-wikibase-architecture/)"
+
+#: community/tech-ops.md:block 18 (header)
+msgid "Technical infrastructure"
+msgstr "Tehnička infrastruktura"
+
+#: community/tech-ops.md:block 19 (paragraph)
+msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
+msgstr "Saznajte više o osnovnoj Wikimedijinoj infrastrukturi poput mreža, podatkovnih centara i bilježenja. Pregledavajte arhitektonske dijagrame."
+
+#: community/tech-ops.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+
+#: community/tech-ops.md:block 21 (header)
+msgid "Technical decision-making process"
+msgstr "Tehnički proces odlučivanja"
+
+#: community/tech-ops.md:block 22 (paragraph)
+msgid "Learn about why and how technical decisions are made, and browse decision records."
+msgstr "Saznajte zašto i kako se donose tehničke odluke i pregledajte zapise odluka."
+
+#: community/tech-ops.md:block 23 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
+
+#: community/updates.md:meta.title community/updates.md:title
+#: community/updates.md:block 1 (header)
+msgid "Get tech project updates"
+msgstr "Primajte ažuriranja tehničkih projekata"
+
+#: community/updates.md:block 3 (header)
+msgid "Tech blog"
+msgstr "Tehnički blog"
+
+#: community/updates.md:block 4 (paragraph)
+msgid "Read blog posts from the Wikimedia technical community."
+msgstr "Čitajte blogovske objave od tehničke zajednice Wikimedije."
+
+#: community/updates.md:block 5 (unordered list)
+msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
+msgstr "[Posjetite tehnički blog](https://techblog.wikimedia.org/)"
+
+#: community/updates.md:block 6 (header)
+msgid "Technical community newsletter"
+msgstr "Bilten tehničke zajednice"
+
+#: community/updates.md:block 7 (paragraph)
+msgid "Subscribe to quarterly updates on activities in the Wikimedia technical community."
+msgstr "Pretplatite se na kvartalni bilten o aktivnostima u Wikimedijinoj tehničkoj zajednici."
+
+#: community/updates.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
+
+#: community/updates.md:block 9 (header)
+msgid "Tech news"
+msgstr "Tehničke novosti"
+
+#: community/updates.md:block 10 (paragraph)
+msgid "Get weekly summaries of technical topics for Wikimedians."
+msgstr "Primajt tjedne sažetke za Wikimedijance o tehničkim temama."
+
+#: community/updates.md:block 11 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+
+#: contribute/index.md:meta.title contribute/index.md:title
+msgid "Contribute to Wikimedia open source"
+msgstr "Doprinesite otvorenom kodu Wikimedije"
+
+#: contribute/index.md:block 2 (header)
+msgid "[Learn how contributing works](overview.md)"
+msgstr "[Saznajte kako funkcionira doprinos](overview.md)"
+
+#: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
+#: (paragraph)
+msgid "Get the basics of how to contribute to MediaWiki and other Wikimedia open source projects."
+msgstr "Naučite osnove doprinosa MediaWikiju i drugim Wikimedijinim projektima s otvorenim kodom."
+
+#: contribute/index.md:block 4 (header)
+msgid "[Contribute by topic](by-topic.md)"
+msgstr "[Doprinesite po temi](by-topic.md)"
+
+#: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
+#: (paragraph)
+msgid "Find ways to contribute, and connect with others with shared interests."
+msgstr "Nađite načine za doprinose i povežite se s drugima sa zajedničkim interesima."
+
+#: contribute/index.md:block 6 (header)
+msgid "[Contribute by programming language](by-language.md)"
+msgstr "[Doprinesite prema programskom jeziku](by-language.md)"
+
+#: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
+#: (paragraph)
+msgid "Choose a project to contribute to based on programming language."
+msgstr "Odaberite kojem projektu želite doprinijeti na temelju programskog jezika."
+
+#: contribute/index.md:block 8 (header)
+msgid "[Search all projects](search.md)"
+msgstr "[Pretražite sve projekte](search.md)"
+
+#: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
+#: (paragraph)
+msgid "Search all Wikimedia open source software projects."
+msgstr "Pretražite sve Wikimedijine softverske projekte s otvorenim kodom."
+
+#: contribute/by-language.md:meta.title contribute/by-language.md:title
+msgid "Contribute by programming language"
+msgstr "Doprinesite prema programskom jeziku"
+
+#: contribute/by-language.md:block 2 (header)
+msgid "Python"
+msgstr "Python"
+
+#: contribute/by-language.md:block 6 (header)
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: contribute/by-language.md:block 7 (header)
+msgid "Codex"
+msgstr "Codex"
+
+#: contribute/by-language.md:block 8 (paragraph)
+msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
+msgstr "Codex je skup alatki za izradu korisničkih sučelja unutar Wikimedijinog sustava za dizajn rabeći Vue."
+
+#: contribute/by-language.md:block 9 (unordered list)
+msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
+msgstr "[Pročitajte dokumente](https://doc.wikimedia.org/codex/main)"
+
+#: contribute/by-language.md:block 9 (unordered list)
+msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
+msgstr "[Doprinesite](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
+
+#: contribute/by-language.md:block 9 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
+msgstr "[Dobijte izvorni kod](https://gerrit.wikimedia.org/g/design/codex/)"
+
+#: contribute/by-language.md:block 10 (header)
+msgid "Java"
+msgstr "Java"
+
+#: contribute/by-language.md:block 11 (header)
+msgid "Wikimedia Commons Android app"
+msgstr "Android prilog Ostave"
+
+#: contribute/by-language.md:block 12 (paragraph)
+msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
+msgstr "Android prilog Ostave omogućuje korisnicima prijenos slika na Ostavu sa svojih uređaja."
+
+#: contribute/by-language.md:block 13 (unordered list)
+msgid "[Read the docs](https://commons-app.github.io/)"
+msgstr "[Pročitajte dokumente](https://commons-app.github.io/)"
+
+#: contribute/by-language.md:block 13 (unordered list)
+msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+msgstr "[Doprinesite](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+
+#: contribute/by-language.md:block 13 (unordered list)
+msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
+msgstr "[Dobijte izvorni kod](https://github.com/commons-app/apps-android-commons)"
+
+#: contribute/by-language.md:block 14 (header)
+msgid "Go"
+msgstr "Go"
+
+#: contribute/by-language.md:block 15 (header)
+msgid "Blubber"
+msgstr "Blubber"
+
+#: contribute/by-language.md:block 16 (paragraph)
+msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
+msgstr "Blubber je infrastrukturna alatka koja konfigurira Docker spremnike i testira kod kao dio Wikimedijinog kontinuiranog dovoda uklapanja."
+
+#: contribute/by-language.md:block 17 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
+msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
+
+#: contribute/by-language.md:block 17 (unordered list)
+msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
+msgstr "[Doprinesite](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 17 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
+msgstr "[Dobijte izvorni kod](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
+
+#: contribute/by-language.md:block 18 (header)
+msgid "PHP"
+msgstr "PHP"
+
+#: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
+#: (header) get-started/wikimedia-tech.md:block 12 (header)
+msgid "MediaWiki and extensions"
+msgstr "MediaWiki i proširenja"
+
+#: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
+#: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
+msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
+msgstr "MediaWiki je softver koji pokreće Wikipediju, njene sestrinske projekte i tisuće wikija diljem svijeta."
+
+#: contribute/by-language.md:block 21 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
+msgstr "[Posjetite mediawiki.org](https://www.mediawiki.org/)"
+
+#: contribute/by-language.md:block 21 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+msgstr "[Doprinesite](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+
+#: contribute/by-language.md:block 21 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+msgstr "[Dobijte izvorni kod](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+
+#: contribute/by-language.md:block 22 (header)
+msgid "Ruby"
+msgstr "Ruby"
+
+#: contribute/by-language.md:block 23 (header)
+msgid "Wiki Education Dashboard"
+msgstr "Nadzorna ploča za Wikiobrazovanje"
+
+#: contribute/by-language.md:block 24 (paragraph)
+msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
+msgstr "Nadzorna ploča za Wikiobrazovanje je web prilog koji podržava zadatke, edit-a-thons i druge obrazovne projekte uređivanja. Izgrađen je s Ruby on Rails i React."
+
+#: contribute/by-language.md:block 25 (unordered list)
+msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
+msgstr "[Posjetite dashboard](https://dashboard.wikiedu.org)"
+
+#: contribute/by-language.md:block 25 (unordered list)
+msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+msgstr "[Doprinesite](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 25 (unordered list)
+msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+msgstr "[Dobijte izvorni kod](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+
+#: contribute/by-topic.md:meta.title contribute/by-topic.md:title
+#: contribute/by-topic.md:block 1 (header)
+msgid "Contribute by topic"
+msgstr "Doprinesite po temi"
+
+#: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
+#: 15 (header)
+msgid "Localization and internationalization"
+msgstr "Jezičko podešavanje"
+
+#: contribute/by-topic.md:block 7 (paragraph)
+#: get-started/wikimedia-tech.md:block 16 (paragraph)
+msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
+msgstr "Napišite kod što se može lokalizirati, dajte ga na prijavod, doprinesite tome da Wikimedijina tehnologija postane višejezična."
+
+#: contribute/by-topic.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 17 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+
+#: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
+#: 18 (header)
+msgid "Mobile apps"
+msgstr "Mobilni prilozi"
+
+#: contribute/by-topic.md:block 10 (paragraph)
+#: get-started/wikimedia-tech.md:block 19 (paragraph)
+msgid "Expand the reach of Wikimedia content by contributing to mobile apps for Wikipedia, Wikimedia Commons, and other projects."
+msgstr "Proširite doseg Wikimedijinog sadržaja doprinoseći mobilnim prilozima za Wikipediju, Ostavu i druge projekte."
+
+#: contribute/by-topic.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 20 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+
+#: contribute/by-topic.md:block 12 (header)
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: contribute/by-topic.md:block 13 (paragraph)
+msgid "Read the documentation style guide, and find good first tasks for improving documentation."
+msgstr "Pročitajte vodič za stil dokumentacije i nađite dobre prve zadatke za poboljšanje dokumentacije."
+
+#: contribute/by-topic.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
+
+#: contribute/by-topic.md:block 15 (header)
+msgid "Offline reading"
+msgstr "Offline čitanje"
+
+#: contribute/by-topic.md:block 16 (paragraph)
+msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
+msgstr "Proširite doseg slobodnog znanja pomažući ljudima da koriste Wikipediju bez pristupa internetu."
+
+#: contribute/by-topic.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+
+#: contribute/by-topic.md:block 17 (unordered list)
+msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
+msgstr "[Doprinesite](https://www.kiwix.org/en/support-us/code/)"
+
+#: contribute/by-topic.md:block 18 (header)
+msgid "Infrastructure"
+msgstr "Infrastruktura"
+
+#: contribute/by-topic.md:block 19 (paragraph)
+msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
+msgstr "Doprinesite infrastrukturi koja pokreće Wikimedijine projekte. Pomognite poboljšati učinkovitost Wikimedijinih poslužitelja i softvera."
+
+#: contribute/by-topic.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
+msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
+
+#: contribute/overview.md:meta.title contribute/overview.md:title
+#: contribute/overview.md:block 1 (header)
+msgid "Learn how contributing works"
+msgstr "Saznajte kako funkcionira doprinos"
+
+#: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
+#: (header)
+msgid "Create a developer account"
+msgstr "Otvorite programerski račun"
+
+#: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
+#: (paragraph)
+msgid "Most Wikimedia technical spaces use a developer account to identify and authorize users. Create a free account to get started as a technical contributor."
+msgstr "Većina Wikimedijinih tehničkih prostora koristi račun programera za identifikaciju i autorizaciju korisnika. Otvorite besplatni račun da biste započeli kao tehnički suradnik."
+
+#: contribute/overview.md:block 8 (unordered list)
+#: get-started/new-dev.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+
+#: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
+#: (header)
+msgid "Find projects and tasks for new contributors"
+msgstr "Nađite projekte i zadatke za nove suradnike"
+
+#: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
+#: (paragraph)
+msgid "Choose from open source projects that offer mentoring for new contributors, and find good first tasks."
+msgstr "Birajte između otvorenih projekata koji nude mentorstvo za nove suradnike i nađite dobre prve zadatke."
+
+#: contribute/overview.md:block 11 (unordered list)
+#: get-started/new-dev.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+
+#: contribute/overview.md:block 12 (header)
+msgid "Review guidelines and code conventions"
+msgstr "Pregledajte smjernice i konvencije koda"
+
+#: contribute/overview.md:block 13 (paragraph)
+msgid "Understand development policies, best practices, and code conventions for Wikimedia software."
+msgstr "Razumjeti politike razvoja, najbolje prakse i konvencije koda za Wikimedijini softver."
+
+#: contribute/overview.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+
+#: contribute/overview.md:block 15 (header)
+msgid "See your contributions"
+msgstr "Pogledajte svoje doprinose"
+
+#: contribute/overview.md:block 16 (paragraph)
+msgid "Visualize your contributions across Wikimedia's code review and task tracking tools."
+msgstr "Vizualizirajte svoje doprinose kroz alatke za pregled koda i praćenje zadataka."
+
+#: contribute/overview.md:block 17 (unordered list)
+msgid "[Visit WikiContrib](https://wikicontrib.toolforge.org/)"
+msgstr "[Posjetite WikiContrib](https://wikicontrib.toolforge.org/)"
+
+#: contribute/search.md:meta.title contribute/search.md:title
+#: contribute/search.md:block 1 (header)
+msgid "Search all projects"
+msgstr "Pretražite sve projekte"
+
+#: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
+msgid "Search codebases"
+msgstr "Pretražite baze kodova"
+
+#: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
+#: (paragraph)
+msgid "Search all Wikimedia codebases using the code search tool."
+msgstr "Pretražte sve Wikimedijine baze kodova pomoću alatke za pretragu koda."
+
+#: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
+#: (unordered list)
+msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
+msgstr "[Posjetite pretragu koda](https://codesearch.wmcloud.org/search)"
+
+#: contribute/search.md:block 6 (header)
+msgid "Browse Wikimedia open source docs"
+msgstr "Pregledajte Wikimedijine dokumente s otvorenim kodom"
+
+#: contribute/search.md:block 7 (paragraph)
+msgid "Browse auto-generated and related documentation hosted on doc.wikimedia.org."
+msgstr "Pregledajte auto-generisanu i srodnu dokumentaciju koja se nalazi na doc.wikimedia.org."
+
+#: contribute/search.md:block 8 (unordered list)
+msgid "[Browse docs](https://doc.wikimedia.org)"
+msgstr "[Pretražite dokumente](https://doc.wikimedia.org)"
+
+#: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
+#: 7 (header)
+msgid "Browse repositories"
+msgstr "Pretražite repozitorije"
+
+#: contribute/search.md:block 10 (paragraph)
+#: get-started/browse-languages.md:block 8 (paragraph)
+msgid "Explore Wikimedia codebases."
+msgstr "Istražite Wikimedijine baze kodova."
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
+msgstr "[Pretražite repozitorije na Gerrit](https://gerrit.wikimedia.org/g/)"
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
+msgstr "[Pretražite repozitorije na GitHub](https://github.com/wikimedia)"
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
+msgstr "[Pretražite repozitorije na GitLab](https://gitlab.wikimedia.org/explore)"
+
+#: contribute/search.md:block 12 (header)
+msgid "Search tools and bots"
+msgstr "Pretražite alatke i botove"
+
+#: get-help/index.md:block 2 (paragraph)
+msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
+msgstr "Budući da je tehnički ekosustav Wikimedije složen i rasporeden, podršku možete pronaći na mnogo različitih lokacija i u različitim formatima."
+
+#: get-help/index.md:block 3 (header)
+msgid "Search the docs"
+msgstr "Pretražite dokumente"
+
+#: get-help/index.md:block 4 (paragraph)
+msgid "Find technical information for Wikimedia projects."
+msgstr "Nađite tehničke informacije za Wikimedijine projekte."
+
+#: get-help/index.md:block 5 (unordered list)
+msgid "[Search across wikis](https://global-search.toolforge.org/)"
+msgstr "[Pretražujte po wikijima](https://global-search.toolforge.org/)"
+
+#: get-help/index.md:block 5 (unordered list)
+msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
+msgstr "[Pregledajte Wikimedijine dokumente s otvorenim kodom](https://doc.wikimedia.org/)"
+
+#: get-help/index.md:block 12 (header)
+msgid "Check system status"
+msgstr "Provjerite status sustava"
+
+#: get-help/index.md:block 13 (paragraph)
+msgid "Verify the overall health and performance of the wiki environment, and find out about major outages."
+msgstr "Provjerite cjelokupno zdravlje i performanse wikiokruženja, i saznajte o većim prekidima."
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
+msgstr "[Posjetite wikimediastatus.net](https://www.wikimediastatus.net/)"
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
+msgstr "[Pogledajte verzije MediaWikija koje koriste Wikimedijini wikiji](https://versions.toolforge.org/)"
+
+#: get-started/index.md:block 1 (header)
+msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
+msgstr "[Naučite više o Wikimedijinoj tehnologiji](wikimedia-tech.md)"
+
+#: get-started/index.md:block 2 (paragraph)
+msgid "Explore the open source software and technical components behind Wikimedia projects."
+msgstr "Istražite softver s otvorenom kodom i tehničke sastavnice iza Wikimedijinih projekata."
+
+#: get-started/index.md:block 3 (header)
+msgid "[Understand the development process](new-dev.md)"
+msgstr "[Razumjeti razvojni proces](new-dev.md)"
+
+#: get-started/index.md:block 4 (paragraph)
+msgid "Learn how Wikimedia software projects work and how to make technical contributions."
+msgstr "Naučite kako funkcioniraju projekti na Wikimedijinom softveru i kako dati tehničke doprinose."
+
+#: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
+#: (paragraph)
+msgid "Follow coding exercises with step-by-step guidance."
+msgstr "Slijedite vježbe kodiranja s uputama korak po korak."
+
+#: get-started/index.md:block 7 (header)
+msgid "[Browse by programming language](browse-languages.md)"
+msgstr "[Pretražujte prema programskom jeziku](browse-languages.md)"
+
+#: get-started/index.md:block 8 (paragraph)
+msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
+msgstr "Nađite klijentske biblioteke, primjerne priloge i otvorene projekte na željenim jezicima kodiranja."
+
+#: get-started/browse-languages.md:meta.title
+#: get-started/browse-languages.md:title
+msgid "Browse by programming language"
+msgstr "Pretražujte prema programskom jeziku"
+
+#: get-started/browse-languages.md:block 1 (header)
+msgid "API client libraries by language"
+msgstr "Priložničke klijentske biblioteke prema jeziku"
+
+#: get-started/browse-languages.md:block 4 (header)
+msgid "Open source projects by language"
+msgstr "Projekti s otvorenim kodom prema jeziku"
+
+#: get-started/browse-languages.md:block 5 (paragraph)
+msgid "Find Wikimedia open source projects by programming language, and start contributing code."
+msgstr "Nađite Wikimedijine projekte s otvorenim kodom prema programskom jeziku i počnite davati doprinos kodu."
+
+#: get-started/browse-languages.md:block 6 (paragraph)
+msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
+msgstr "[Pretražite projekte](../contribute/by-language.md){ .md-button }"
+
+#: get-started/new-dev.md:meta.title get-started/new-dev.md:title
+#: get-started/new-dev.md:block 1 (header)
+msgid "Understand the development process"
+msgstr "Razumjeti razvojni proces"
+
+#: get-started/new-dev.md:block 2 (paragraph)
+msgid "Learn how to make technical contributions to Wikimedia projects."
+msgstr "Naučite kako dati tehničke doprinose Wikimedijinim projektima."
+
+#: get-started/new-dev.md:block 9 (header)
+msgid "Find tickets, and track projects"
+msgstr "Nađite ulaznice i pratite projekte"
+
+#: get-started/new-dev.md:block 10 (paragraph)
+msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
+msgstr "Wikimedia koristi Phabricator za upravljanje zadacima i prijavu grešaka. Za interakciju sa zadacima, otvorite Phabricator račun."
+
+#: get-started/new-dev.md:block 11 (unordered list)
+msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
+msgstr "[Posjetite Phabricator](https://phabricator.wikimedia.org/)"
+
+#: get-started/new-dev.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+
+#: get-started/new-dev.md:block 15 (header)
+msgid "Learn how to submit code"
+msgstr "Saznajte kako poslati kod"
+
+#: get-started/new-dev.md:block 16 (paragraph)
+msgid "Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices."
+msgstr "Mnogi Wikimedijini projekti koriste Git i Gerrit za njihovi razvoj. Prije nego što pošaljete kod na pregled, upoznajte se s alatima, procesima i najboljim primjerima iz prakse."
+
+#: get-started/new-dev.md:block 17 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+
+#: get-started/tutorials.md:block 2 (header)
+msgid "Tutorials for using content and data"
+msgstr "Upute za korištenje sadržaja i podataka"
+
+#: get-started/tutorials.md:block 3 (paragraph)
+msgid "Learn the basics of using Wikimedia content and data in your project."
+msgstr "Naučite osnove korištenja Wikimedijinog sadržaja i podataka u svom projektu."
+
+#: get-started/tutorials.md:block 4 (paragraph)
+msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
+msgstr "[Pretražite upute](../use-content/tutorials.md){ .md-button }"
+
+#: get-started/tutorials.md:block 5 (header)
+msgid "Tutorials for building tools and bots"
+msgstr "Vodiči za izradu alatki i botova"
+
+#: get-started/tutorials.md:block 6 (paragraph)
+msgid "Learn the basics of writing code that interacts with Wikimedia projects."
+msgstr "Naučite osnove pisanja koda koji je u interakciji s Wikimedijinim projektima."
+
+#: get-started/tutorials.md:block 7 (paragraph)
+msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
+msgstr "[Pretražite upute](../build-tools/tutorials.md){ .md-button }"
+
+#: get-started/wikimedia-tech.md:meta.title
+#: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
+#: (header)
+msgid "Learn about Wikimedia technology"
+msgstr "Naučite više o Wikimedijinoj tehnologiji"
+
+#: get-started/wikimedia-tech.md:block 2 (paragraph)
+msgid "Explore core Wikimedia technology and open source projects."
+msgstr "Istražite temeljnu Wikimedijinu tehnologiju i otvorene projekte."
+
+#: get-started/wikimedia-tech.md:block 3 (header)
+msgid "Introduction to Wikimedia"
+msgstr "Uvod u Wikimediju"
+
+#: get-started/wikimedia-tech.md:block 4 (paragraph)
+msgid "Learn the differences between Wikipedia, Wikimedia, and MediaWiki."
+msgstr "Naučite razlike između Wikipedije, Wikimedije i MediaWikija."
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
+
+#: get-started/wikimedia-tech.md:block 21 (header)
+msgid "Wikibase and Wikidata"
+msgstr "Wikibase i Wikidata"
+
+#: get-started/wikimedia-tech.md:block 22 (paragraph)
+msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
+msgstr "Wikibase je MediaWiki proširenje namjenjeno za rad sa strukturiranim podacima. To je softver koji pokreće Wikidata."
+
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
+msgid "[Visit wikidata.org](https://www.wikidata.org/)"
+msgstr "[Posjetite wikidata.org](https://www.wikidata.org/)"
+
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+
+#: use-content/index.md:block 2 (header)
+msgid "[Explore featured apps](featured-apps.md)"
+msgstr "[Istražite istaknute priloge](featured-apps.md)"
+
+#: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
+#: 2 (paragraph)
+msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
+msgstr "Pogledajte primjere priloga s otvorenim kodom i vizualizacija podataka izgrađenih s Wikmedijinim sadržajem i podacima."
+
+#: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
+#: (paragraph)
+msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
+msgstr "Slijedite vodiče korak po korak i naučite osnove upotrebe Wikimedijinog sadržaja i podataka."
+
+#: use-content/index.md:block 6 (header)
+msgid "[Use wiki content](content.md)"
+msgstr "[Koristite wikisadržaj](content.md)"
+
+#: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
+#: (paragraph)
+msgid "Find open source libraries, get started using the API, or download content in bulk."
+msgstr "Nađite biblioteke otvorenog koda, počnite rabiti priložnik ili skupno preuzmite sadržaj."
+
+#: use-content/index.md:block 8 (header)
+msgid "[Access open data](data.md)"
+msgstr "[Pristup otvorenim podacima](data.md)"
+
+#: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
+#: (paragraph)
+msgid "Explore public data that you can use in research and machine learning."
+msgstr "Istražite javne podatke koje možete koristiti u istraživanju i strojnom učenju."
+
+#: use-content/content.md:meta.title use-content/content.md:title
+#: use-content/content.md:block 1 (header)
+msgid "Use wiki content"
+msgstr "Koristite wikisadržaj"
+
+#: use-content/content.md:block 3 (header)
+msgid "Introduction to Wikimedia projects"
+msgstr "Uvod u Wikimedijine projekte"
+
+#: use-content/content.md:block 4 (paragraph)
+msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
+msgstr "Sadržaj Wikimedije organiziran je prema projektu i jeziku. Svaki projekt sadrži drugu vrstu besplatnog sadržaja, poput enciklopedijskih članaka na Wikipediji, medijskih datoteka na Ostave i strukturiranih podataka na Wikidata."
+
+#: use-content/content.md:block 5 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+
+#: use-content/content.md:block 6 (header)
+msgid "Review the terms and conditions"
+msgstr "Pregledajte odredbe i uvjete"
+
+#: use-content/content.md:block 7 (paragraph)
+msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
+msgstr "Najveći doi Wikimedijinog sadržaja licencirana je pod licencom Creative Commons, što dopušta besplatnu ponovnu upotrebu s atribucijom. Na dnu bilo koje wikistranice možete pronaći primjenjivu licencu."
+
+#: use-content/content.md:block 8 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+
+#: use-content/content.md:block 18 (header)
+msgid "Get services for enterprise"
+msgstr "Usluge za poduzeća"
+
+#: use-content/content.md:block 19 (paragraph)
+msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
+msgstr "Wikimedia Enterprise pruža paket priložnika i usluga dizajniranih za komercijalni pristup velikom broju Wikimedijinih sadržaja i podataka."
+
+#: use-content/content.md:block 20 (unordered list)
+msgid "[Read more](https://enterprise.wikimedia.com)"
+msgstr "[Čitajte više](https://enterprise.wikimedia.com)"
+
+#: use-content/data.md:meta.title use-content/data.md:title
+#: use-content/data.md:block 1 (header)
+msgid "Access open data"
+msgstr "Pristup otvorenim podacima"
+
+#: use-content/data.md:block 3 (header)
+msgid "Use Wikimedia open data"
+msgstr "Koristite otvorene podatke Wikimedije"
+
+#: use-content/data.md:block 4 (paragraph)
+msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
+msgstr "Pristup javno dostupnim podacima s otvorenom licencom o Wikimedijinim projektima, uključujući skupna preuzimanja, tokove nedavnih promjena i statistiku stranica."
+
+#: use-content/data.md:block 5 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+msgstr "[Čitajte više na Meti](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+
+#: use-content/data.md:block 6 (header)
+msgid "Explore structured data with Wikidata"
+msgstr "Istražite strukturirane podatke pomoću Wikidata"
+
+#: use-content/data.md:block 7 (paragraph)
+msgid "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Learn how to access data from Wikidata, and follow best practices for reusing it."
+msgstr "Wikidata su baza slobodnog i otvorenog znanja koje mogu čitati i uređivati ​​i ljudi i strojevi. Naučite kako pristupiti podacima iz Wikidata, i slijedite najbolje prakse za njihovu upotrebu."
+
+#: use-content/data.md:block 8 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgstr "[Čitajte više na Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+
+#: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
+#: use-content/featured-apps.md:block 1 (header)
+msgid "Explore featured apps"
+msgstr "Istražite istaknute priloge"
+
+#: use-content/featured-apps.md:block 3 (header)
+msgid "App gallery"
+msgstr "Galerija priloga"
+
+#: use-content/featured-apps.md:block 4 (paragraph)
+msgid "Browse example apps that demonstrate best practices for using Wikimedia APIs, including fetching wiki content, logging in, and editing pages."
+msgstr "Pregledajte primjerne priloge koje pokazuju najbolju praksu za upotrebu Wikimedijinih priložnika, uključujući dohvaćanje sadržaja, prijavu i uređivanje stranica."
+
+#: use-content/featured-apps.md:block 5 (unordered list)
+msgid "[Visit the gallery](https://apps-gallery.toolforge.org)"
+msgstr "[Posjetite galeriju](https://apps-gallery.toolforge.org)"
+
+#: use-content/featured-apps.md:block 6 (header)
+msgid "Wikipedia visualizations"
+msgstr "Vizualizacije Wikipedije"
+
+#: use-content/featured-apps.md:block 7 (paragraph)
+msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
+msgstr "“See, also” je galerija priloga koje vizualiziraju podatke iz Wikipedije. Pogledajte galeriju kako biste dobili inspiraciju i saznali više o dostupnim podacima i priložnicima."
+
+#: use-content/featured-apps.md:block 8 (unordered list)
+msgid "[Visit the gallery](https://seealso.org/)"
+msgstr "[Posjetite galeriju](https://seealso.org/)"
+
+#: use-content/featured-apps.md:block 9 (header)
+msgid "Wikidata visualizations"
+msgstr "Vizualizacije Wikidata"
+
+#: use-content/featured-apps.md:block 10 (paragraph)
+msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
+msgstr "Wikidata je strojno čitljiva baza znanja s milijunima stavki. Pregledajte ovaj spisak vizualizacija da biste dobili inspiraciju i vidjeli otvorenokodne primjere upotrebe Wikidata."
+
+#: use-content/featured-apps.md:block 11 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+msgstr "[Čitajte više na Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+
+#: use-content/tutorials.md:block 6 (header)
+msgid "Display information from Wikidata"
+msgstr "Prikaz informacija iz Wikidata"
+
+#: use-content/tutorials.md:block 7 (paragraph)
+msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
+msgstr "Naučite kako da koristite priložnik MediaWikija za dohvaćanje i prikaz informacija iz Wikidata. NAučite kako su Wikipedijini članci povezani s Wikidata i kako analizirati strukture Wikidata."
+
+#: use-content/tutorials.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+
+#: use-content/tutorials.md:block 9 (header)
+msgid "Display the picture of the day"
+msgstr "Pokažite sliku dana"
+
+#: use-content/tutorials.md:block 10 (paragraph)
+msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
+msgstr "Naučite kako koristiti priložnik MediaWikija za dohvaćanje dnevno istaknute slike s Wikipedije. Ovaj vodič koristi Python i okvir Flask."
+
+#: use-content/tutorials.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+
+#: use-content/tutorials.md:block 15 (header)
+msgid "Get started querying Wikidata"
+msgstr "Počnite postavljati upite Wikidata"
+
+#: use-content/tutorials.md:block 16 (paragraph)
+msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
+msgstr "Naučite kako postavljati upite Wikidata pomoću SPARQL-a. Ovaj vodič pokriva osnove Wikidata i kako koristiti Wikidata Query Service."
+
+#: use-content/tutorials.md:block 17 (unordered list)
+msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
+msgstr "[Čitajte više](https://wdqs-tutorial.toolforge.org)"
+
+#: use-content/tutorials.md:block 18 (header)
+msgid "Search articles by location"
+msgstr "Pretražite članke prema lokaciji"
+
+#: use-content/tutorials.md:block 19 (paragraph)
+msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
+msgstr "Naučite kako koristiti priložnik MediaWIkija za pretragu Wikipedia članaka u blizini određene geografske lokacije. Ovaj vodič koristi JavaScript, Python i okvir Flask."
+
+#: use-content/tutorials.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+
