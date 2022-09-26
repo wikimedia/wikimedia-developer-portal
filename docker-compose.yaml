@@ -4,7 +4,8 @@ services:
   portal:
     build:
       context: .
-      dockerfile: .pipeline/local.Dockerfile
+      dockerfile: .pipeline/blubber.yaml
+      target: local
       args:
         LIVES_UID: ${LOCAL_UID:?run `make .env`}
         LIVES_GID: ${LOCAL_GID:?run `make .env`}
