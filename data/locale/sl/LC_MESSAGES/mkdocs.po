@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-09-26 11:17:00+0000\n"
+"PO-Revision-Date: 2022-09-29 11:17:33+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1314,7 +1314,7 @@ msgstr "Naučite se poslati kodo"
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid "Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices."
-msgstr "Številni projekti Wikimedije za razvoj uporabljajo Git in Gerrit. Preden pošljete kodo v pregled, se seznanite z orodji, postopki in najboljšimi praksami."
+msgstr "Številni projekti Wikimedie za razvoj uporabljajo Git in Gerrit. Preden pošljete kodo v pregled, se seznanite z orodji, postopki in najboljšimi praksami."
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
@@ -1437,7 +1437,7 @@ msgstr "PReglejte določila in pogoje"
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr "Večina vsebin Wikimedije je licencirana pod licenco Creative Commons, ki omogoča prosto ponovno uporabo ob navedbi avtorstva. Ustrezno licenco lahko najdete na dnu vsake vikistrani."
+msgstr "Večina vsebin Wikimedie je objavljena pod licenco Creative Commons, ki omogoča prosto ponovno uporabo ob navedbi avtorstva. Ustrezno licenco lahko najdete na dnu vsake vikistrani."
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
