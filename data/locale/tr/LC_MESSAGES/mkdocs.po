@@ -3,6 +3,7 @@
 #
 # Author: Hedda
 # Author: Melissadilara
+# Author: ToprakM
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -24,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-09-08 11:17:16+0000\n"
+"PO-Revision-Date: 2022-10-03 11:16:34+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,7 +35,7 @@ msgstr ""
 
 #: mkdocs.yml:site_name
 msgid "Wikimedia Developer Portal"
-msgstr "Wikimedia Geliştirici Portalı"
+msgstr "Wikimedia Geliştirici Portali"
 
 #: mkdocs.yml:site_description
 msgid "Find technical documentation, and connect with Wikimedia developer communities."
