@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-09-29 11:17:33+0000\n"
+"PO-Revision-Date: 2022-10-10 11:16:22+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1086,7 +1086,7 @@ msgstr "Preberite, kako deluje prispevanje"
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
 msgid "Create a developer account"
-msgstr "Ustvarite račun razvijalca"
+msgstr "Ustvari račun razvijalca"
 
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
