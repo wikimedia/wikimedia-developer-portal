@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-09-08 11:17:16+0000\n"
+"PO-Revision-Date: 2022-10-13 11:16:18+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1233,7 +1233,7 @@ msgstr "[Посетите wikimediastatus.net](https://www.wikimediastatus.net/)
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
-msgstr "[См. версии MediaWiki, используемые в вики-сайтах Викимедиа] (https://versions.toolforge.org/)"
+msgstr "[См. версии MediaWiki, используемые в вики-сайтах Викимедиа](https://versions.toolforge.org/)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
