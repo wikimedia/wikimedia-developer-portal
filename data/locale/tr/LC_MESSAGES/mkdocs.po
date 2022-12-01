@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-10-27 11:22:46+0000\n"
+"PO-Revision-Date: 2022-12-01 12:17:22+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -51,7 +51,7 @@ msgstr "Telif hakkı &copy; 2022 Wikimedia Vakfı ve katkıda bulunanlar"
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"
-msgstr "Gizlilik ilkesi"
+msgstr "Gizlilik politikası"
 
 #: mkdocs.yml:extra.footer_links.1
 msgid "Terms of Use"
