@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-10-27 11:22:46+0000\n"
+"PO-Revision-Date: 2022-12-05 12:16:06+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -732,7 +732,7 @@ msgstr "Varnostni pravilniki"
 
 #: community/tech-ops.md:block 10 (paragraph)
 msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
-msgstr "Preberite varnostne pravilnike platforme MediaWiki in fundacije Wikimedia."
+msgstr "Preberite varnostne pravilnike platforme MediaWiki in Fundacije Wikimedia."
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
@@ -744,7 +744,7 @@ msgstr "Umeščanje programja"
 
 #: community/tech-ops.md:block 13 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
-msgstr "Sledite umeščanju programja v strežnike fundacije Wikimedia."
+msgstr "Sledite umeščanju programja v strežnike Fundacije Wikimedia."
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
