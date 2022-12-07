@@ -1,8 +1,8 @@
 ---
-title: Introduction to Wikimedia
-description: Learn the differences between Wikipedia, Wikimedia, and MediaWiki.
+title: Introduction to Wikimedia technology
+description: Learn about the main technical areas where developers can contribute.
 links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem
     label: Read more on mediawiki.org
 categories:
   wikimedia-tech: 0
