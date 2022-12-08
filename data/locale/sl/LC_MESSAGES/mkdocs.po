@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-12-05 12:16:06+0000\n"
+"PO-Revision-Date: 2022-12-08 12:18:07+0000\n"
 "X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -188,7 +188,7 @@ msgstr "Raziščite programske vmesnike za ustvarjanje botov in orodij."
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr "[Gostite orodja na strežnikih Wikimedie](host-tools.md)"
+msgstr "[Gostite orodja v strežnikih Wikimedie](host-tools.md)"
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
@@ -335,7 +335,7 @@ msgstr "[Preberite več na Wikitech](https://wikitech.wikimedia.org/wiki/Help:To
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
-msgstr "Gostite orodja na strežnikih Wikimedie"
+msgstr "Gostite orodja v strežnikih Wikimedie"
 
 #: build-tools/host-tools.md:block 3 (header)
 msgid "Run scripts in your browser"
@@ -461,7 +461,7 @@ msgstr "[Preberite več na mediawiki.org](https://www.mediawiki.org/wiki/Special
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
-msgstr "Gostite orodje na oblakovnih strežnikih Wikimedie"
+msgstr "Gostite orodje v oblakovnih strežnikih Wikimedie"
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
