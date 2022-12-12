@@ -32,58 +32,16 @@ mdpo = "^1.0.3"
 langcodes = {extras = ["data"], version = "^3.3.0"}
 importlib-metadata = "^4.13.0"
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 black = "^22.10.0"
-flakehell = "^0.9.0"
 flake8 = "^3.9.2"
 flake8-blind-except = "^0.2.1"
 flake8-bugbear = "^21.11.29"
 flake8-builtins = "^1.5.3"
+flake8-comprehensions = "^3.10.1"
 flake8-docstrings = "^1.6.0"
 flake8-import-order = "^0.18.1"
 flake8-logging-format = "^0.6.0"
-flake8-comprehensions = "^3.10.1"
-
-[tool.flakehell]
-exclude = [
-    ".git",
-    "__pycache__",
-]
-format = "grouped"
-max_line_length = 79
-show_source = true
-extended_default_ignore=[]  # https://github.com/flakehell/flakehell/issues/10
-
-[tool.flakehell.plugins]
-"flake8-*" = ["+*"]
-flake8-docstrings = [
-    "+*",
-    "-D100",  # missing-docstring-in-public-module
-    "-D104",  # missing-docstring-in-public-package
-    "-D105",  # missing-docstring-in-magic-method
-    "-D400",  # first-line-should-end-with-period
-    "-D401",  # first-line-should-be-in-imperative-mood
-]
-pycodestyle = [
-    "+*",
-    "-E203",  # whitespace-before-colon
-    "-E501",  # line-too-long
-    "-W503",  # line-break-before-binary-operator
-    "-W504",  # line-break-after-binary-operator
-]
-pyflakes = ["+*"]
-pylint = [
-    "+*",
-    "-C*",     # disable all "convention" rules
-    "-E1101",  # no-member
-    "-R0201",  # could-be-function
-    "-R0901",  # too-many-ancestors
-    "-R0903",  # too-few-public-methods
-    "-R0911",  # too-many-return-statements
-    "-R0913",  # too-many-arguments
-    "-W0235",  # useless-super-delegation
-    "-W0511",  # fixme
-]
 
 [tool.isort]
 known_first_party = ["macros", "plugin"]

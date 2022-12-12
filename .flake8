@@ -1,0 +1,46 @@
+[flake8]
+exclude =
+    .git,
+    __pycache__
+format = pylint
+max_line_length = 79
+show_source = true
+select = E,F,W,C90,D,R,B,B9
+extend-ignore =
+    # disable all "convention" rules
+    C*,
+    # missing-docstring-in-public-module
+    D100,
+    # missing-docstring-in-magic-method
+    D105,
+    # first-line-should-end-with-period
+    D400,
+    # first-line-should-be-in-imperative-mood
+    D401,
+    # whitespace-before-colon
+    E203,
+    # line-too-long
+    E501,
+    # no-member
+    E1101,
+    # could-be-function
+    R201,
+    # too-many-ancestors
+    R901,
+    # too-few-public-methods
+    R903,
+    # too-many-return-statements
+    R911,
+    # too-many-arguments
+    R913,
+    # useless-super-delegation
+    W235,
+    # line-break-before-binary-operator
+    W503,
+    # line-break-after-binary-operator
+    W504,
+    # fixme
+    W511
+per-file-ignores =
+    # missing docstring in public package
+   __init__.py:  D104

@@ -60,7 +60,7 @@ test: lint
 lint:
 	docker-compose exec portal sh -c " \
 		poetry check \
-		&& poetry run flakehell lint \
+		&& poetry run flake8 \
 		&& poetry run black --check --diff . \
 	"
 .PHONY: lint
