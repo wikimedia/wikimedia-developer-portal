@@ -8,7 +8,7 @@ show_source = true
 select = E,F,W,C90,D,R,B,B9
 extend-ignore =
     # disable all "convention" rules
-    C*,
+    C,
     # missing-docstring-in-public-module
     D100,
     # missing-docstring-in-magic-method
@@ -21,8 +21,6 @@ extend-ignore =
     E203,
     # line-too-long
     E501,
-    # no-member
-    E1101,
     # could-be-function
     R201,
     # too-many-ancestors
