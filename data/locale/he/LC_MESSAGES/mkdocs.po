@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-11-24 12:16:41+0000\n"
-"X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
+"PO-Revision-Date: 2022-12-12 12:16:17+0000\n"
+"X-POT-Import-Date: 2022-12-11 17:52:25+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: he\n"
@@ -452,8 +452,8 @@ msgid "Add JavaScript or CSS to a wiki"
 msgstr "להוסיף JavaScript או CSS לוויקי"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
-msgid "Customize MediaWiki with client-side JavaScript and CSS. Use scripts other people have created, and share your code with others."
-msgstr "התאמה אישית של מדיה־ויקי באמצעות JavaScript בצד הלקוח ו־CSS. אפשר להשתמש בסקריפטים שאנשים אחרים יצרו ולשתף את הקוד שלך עם אחרים."
+msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
+msgstr ""
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -1355,16 +1355,16 @@ msgid "Explore core Wikimedia technology and open source projects."
 msgstr ""
 
 #: get-started/wikimedia-tech.md:block 3 (header)
-msgid "Introduction to Wikimedia"
-msgstr "היכרות עם ויקימדיה"
+msgid "Introduction to Wikimedia technology"
+msgstr ""
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
-msgid "Learn the differences between Wikipedia, Wikimedia, and MediaWiki."
+msgid "Learn about the main technical areas where developers can contribute."
 msgstr ""
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
-msgstr "[מידע נוסף באתר mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+msgstr ""
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
@@ -1527,7 +1527,7 @@ msgstr "[מידע נוסף באתר Wikidata](https://www.wikidata.org/wiki/Spec
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
-msgstr ""
+msgstr "הצגת מידע מוויקינתונים"
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
@@ -1539,7 +1539,7 @@ msgstr "[מידע נוסף באתר mediawiki.org](https://www.mediawiki.org/wik
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
-msgstr ""
+msgstr "הצגת תמונת היום"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."

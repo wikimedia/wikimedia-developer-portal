@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-10-27 11:22:45+0000\n"
-"X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
+"PO-Revision-Date: 2022-12-12 12:16:18+0000\n"
+"X-POT-Import-Date: 2022-12-11 17:52:25+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: mk\n"
@@ -453,8 +453,8 @@ msgid "Add JavaScript or CSS to a wiki"
 msgstr "Додајте JavaScript или CSS во вики"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
-msgid "Customize MediaWiki with client-side JavaScript and CSS. Use scripts other people have created, and share your code with others."
-msgstr "Прилагодете го МедијаВики со JavaScript и CSS од клиентска страна. Користете скрипти создадени од други и споделувајте го вашиот код со нив."
+msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
+msgstr "Прилагодете го МедијаВики со JavaScript и CSS од клиентска страна. Споделувајте кориснички скрипти и истражувајте ги алатките што ги создале другите."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -1356,16 +1356,16 @@ msgid "Explore core Wikimedia technology and open source projects."
 msgstr "Истражете го јадрното на Викимедиината технологија и отворените проекти."
 
 #: get-started/wikimedia-tech.md:block 3 (header)
-msgid "Introduction to Wikimedia"
-msgstr "Вовед во Викимедија"
+msgid "Introduction to Wikimedia technology"
+msgstr "Вовед во Викимедиината технологија"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
-msgid "Learn the differences between Wikipedia, Wikimedia, and MediaWiki."
-msgstr "Дознајте ги разликите помеѓу Википедија, Викимедија и МедијаВики."
+msgid "Learn about the main technical areas where developers can contribute."
+msgstr "Дознајте за главните технички полиња на кои можат да придонесуваат разработувачите."
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
-msgstr "[Прочитајте повеќе на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+msgstr "[Прочитајте повеќе на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"

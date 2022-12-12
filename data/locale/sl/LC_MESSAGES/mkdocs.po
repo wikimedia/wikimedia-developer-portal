@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-12-08 12:18:07+0000\n"
-"X-POT-Import-Date: 2022-06-27 18:30:22+0000\n"
+"PO-Revision-Date: 2022-12-12 12:16:18+0000\n"
+"X-POT-Import-Date: 2022-12-11 17:52:25+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sl\n"
@@ -452,8 +452,8 @@ msgid "Add JavaScript or CSS to a wiki"
 msgstr "Dodajte JavaScript ali CSS v viki"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
-msgid "Customize MediaWiki with client-side JavaScript and CSS. Use scripts other people have created, and share your code with others."
-msgstr "Prilagodite MediaWiki z JavaScriptom in CSS na strani odjemalca. Uporabite skripte, ki so jih ustvarili drugi, in delite svojo kodo z drugimi."
+msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
+msgstr "Prilagodite MediaWiki z JavaScriptom in CSS na strani odjemalca. Delite uporabniške skripte in raziščite pripomočke, ki so jih ustvarili drugi."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -1171,7 +1171,7 @@ msgstr "[Prebskajte dokumentacijo](https://doc.wikimedia.org)"
 #: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
 #: 7 (header)
 msgid "Browse repositories"
-msgstr "Brskanje po repozitorijih"
+msgstr "Brskanje po shrambah"
 
 #: contribute/search.md:block 10 (paragraph)
 #: get-started/browse-languages.md:block 8 (paragraph)
@@ -1181,7 +1181,7 @@ msgstr "Raziščite kodne zbirke Wikimedie."
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
-msgstr "[Brskajte po repozitorijih na Gerritu](https://gerrit.wikimedia.org/g/)"
+msgstr "[Brskajte po shrambah na Gerritu](https://gerrit.wikimedia.org/g/)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
@@ -1191,7 +1191,7 @@ msgstr "[Prebrskajte repozitorije v GitHubu](https://github.com/wikimedia)"
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
-msgstr "[Brskajte po repozitorijih v GitLabu](https://gitlab.wikimedia.org/explore)"
+msgstr "[Brskajte po shrambah na GitLabu](https://gitlab.wikimedia.org/explore)"
 
 #: contribute/search.md:block 12 (header)
 msgid "Search tools and bots"
@@ -1355,16 +1355,16 @@ msgid "Explore core Wikimedia technology and open source projects."
 msgstr "Raziščite osnovno tehnologijo Wikimedie in odprtokodne projekte."
 
 #: get-started/wikimedia-tech.md:block 3 (header)
-msgid "Introduction to Wikimedia"
-msgstr "Uvod v Wikimedio"
+msgid "Introduction to Wikimedia technology"
+msgstr "Uvod v tehnologijo Wikimedie"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
-msgid "Learn the differences between Wikipedia, Wikimedia, and MediaWiki."
-msgstr "Seznanite se z razlikami med Wikipedijo, Wikimedio in programjem MediaWiki."
+msgid "Learn about the main technical areas where developers can contribute."
+msgstr "Seznanite se z glavnimi tehničnimi področji, na katerih lahko prispevajo razvijalci."
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
-msgstr "[Preberite več na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Differences_between_Wikipedia,_Wikimedia,_MediaWiki,_and_wiki)"
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+msgstr "[Preberite več na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
