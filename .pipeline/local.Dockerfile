@@ -5,9 +5,9 @@ USER 0
 ENV HOME="/root"
 ENV DEBIAN_FRONTEND="noninteractive"
 RUN apt-get update && apt-get install -y "gettext" "git" "python3-dev" "python3-pip" "python3-venv" "nginx-light" && rm -rf /var/lib/apt/lists/*
-RUN python3 "-m" "pip" "install" "-U" "setuptools!=60.9.0" "wheel" "tox" "pip"
+RUN python3 "-m" "pip" "install" "-U" "setuptools!=60.9.0" && python3 "-m" "pip" "install" "-U" "wheel" "tox" "pip"
 ENV POETRY_VIRTUALENVS_PATH="/opt/lib/poetry"
-RUN python3 "-m" "pip" "install" "-U" "poetry==1.1.10"
+RUN python3 "-m" "pip" "install" "-U" "poetry==1.3.1"
 ARG LIVES_AS="somebody"
 ARG LIVES_UID=65533
 ARG LIVES_GID=65533
@@ -25,4 +25,4 @@ RUN mkdir -p "/opt/lib/poetry"
 RUN poetry "install" "--no-root"
 COPY --chown=$LIVES_UID:$LIVES_GID [".", "."]
 
-LABEL blubber.variant="local" blubber.version="0.9.0+73d3d2c"
+LABEL blubber.variant="local" blubber.version="0.9.0+2638669"
