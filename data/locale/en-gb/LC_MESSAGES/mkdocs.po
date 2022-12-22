@@ -1,10 +1,7 @@
-# Translation of Wikimedia Developer Portal to Message documentation (Message documentation)
+# Translation of Wikimedia Developer Portal to British English (British English)
 # Exported from translatewiki.net
 #
-# Author: Amire80
-# Author: BryanDavis
-# Author: Nguyenphutrong2
-# Author: Verdy p
+# Author: Reedy
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -30,9 +27,9 @@ msgstr ""
 "X-POT-Import-Date: 2022-12-11 17:52:25+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: qqq\n"
+"Language: en-GB\n"
 "X-Generator: MediaWiki 1.40.0-alpha; Translate 2022-10-21\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: mkdocs.yml:site_name
 msgid "Wikimedia Developer Portal"
@@ -52,19 +49,19 @@ msgstr ""
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"
-msgstr "Label for the link to the Wikimedia privacy policy. Displayed in the footer on every page."
+msgstr ""
 
 #: mkdocs.yml:extra.footer_links.1
 msgid "Terms of Use"
-msgstr "\"Terms of use\" link text at the bottom of every page.\n{{Identical|Terms of use}}"
+msgstr ""
 
 #: mkdocs.yml:extra.footer_links.2
 msgid "Code: GPL-3.0-or-later"
-msgstr "Link text at the bottom of every page pointing to GNU GPL 3.0 software license agreement covering developer portal source code contributions and reuse."
+msgstr ""
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-3.0"
-msgstr "Link text at the bottom of every page pointing to Creative Commons Attribution Share-alike 3.0 license agreement covering developer portal text contributions and reuse."
+msgstr ""
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -112,11 +109,6 @@ msgstr ""
 msgid "[Get started](get-started/){ .md-button }"
 msgstr ""
 
-#: index.md:block 3 (paragraph)
-#, ignored
-msgid "![](/assets/book.svg#only-light) ![](/assets/book-dark.svg#only-dark)"
-msgstr "{{Notranslate}}"
-
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
 msgstr ""
@@ -124,11 +116,6 @@ msgstr ""
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
 msgstr ""
-
-#: index.md:block 6 (paragraph)
-#, ignored
-msgid "![](/assets/chemistry.svg#only-light) ![](/assets/chemistry-dark.svg#only-dark)"
-msgstr "{{Notranslate}}"
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
@@ -138,11 +125,6 @@ msgstr ""
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
 msgstr ""
 
-#: index.md:block 9 (paragraph)
-#, ignored
-msgid "![](/assets/computer.svg#only-light) ![](/assets/computer-dark.svg#only-dark)"
-msgstr "{{Notranslate}}"
-
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
 msgstr ""
@@ -151,11 +133,6 @@ msgstr ""
 msgid "Help build the Wikimedia ecosystem with open source software."
 msgstr ""
 
-#: index.md:block 12 (paragraph)
-#, ignored
-msgid "![](/assets/world.svg#only-light) ![](/assets/world-dark.svg#only-dark)"
-msgstr "{{Notranslate}}"
-
 #: index.md:block 13 (header)
 msgid "[Connect with the community](community/)"
 msgstr ""
@@ -163,11 +140,6 @@ msgstr ""
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
 msgstr ""
-
-#: index.md:block 15 (paragraph)
-#, ignored
-msgid "![](/assets/PenAndPaper.svg#only-light) ![](/assets/PenAndPaper-dark.svg#only-dark)"
-msgstr "{{Notranslate}}"
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
@@ -311,7 +283,7 @@ msgstr ""
 
 #: build-tools/apis.md:block 16 (paragraph)
 msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
-msgstr ""
+msgstr "Wiki replicas are anonymised versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
@@ -354,7 +326,7 @@ msgstr ""
 
 #: build-tools/get-started.md:block 10 (paragraph)
 msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
-msgstr ""
+msgstr "New to open source? Get tips to help you develop successful tools and bots, including choosing a licence, publishing the code, and writing docs."
 
 #: build-tools/get-started.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
@@ -371,7 +343,7 @@ msgstr ""
 
 #: build-tools/host-tools.md:block 4 (paragraph)
 msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
-msgstr ""
+msgstr "PAWS is a free, cloud-hosted playground for creating scripts and data visualisations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub.paws.wmcloud.org/hub/login)"
@@ -953,7 +925,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 14 (header)
 msgid "Go"
-msgstr "{{Doc-important|\"Go\" doesn't mean \"to go somewhere\". It's a name of a programming language!}}\n\n\"Go\" is the name of a programming language (see “The Go Programming Language” on https://go.dev/, or “[[wikipedia:en:Go (programming language)|Go (programming language)]]” on Wikipedia)."
+msgstr ""
 
 #: contribute/by-language.md:block 15 (header)
 msgid "Blubber"
@@ -1039,12 +1011,12 @@ msgstr ""
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
-msgstr ""
+msgstr "Localisation and internationalisation"
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
-msgstr ""
+msgstr "Write code that can be localised, get your code translated, and contribute to making Wikimedia technology multilingual."
 
 #: contribute/by-topic.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
@@ -1119,7 +1091,7 @@ msgstr ""
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
 msgid "Most Wikimedia technical spaces use a developer account to identify and authorize users. Create a free account to get started as a technical contributor."
-msgstr ""
+msgstr "Most Wikimedia technical spaces use a developer account to identify and authorise users. Create a free account to get started as a technical contributor."
 
 #: contribute/overview.md:block 8 (unordered list)
 #: get-started/new-dev.md:block 8 (unordered list)
@@ -1159,7 +1131,7 @@ msgstr ""
 
 #: contribute/overview.md:block 16 (paragraph)
 msgid "Visualize your contributions across Wikimedia's code review and task tracking tools."
-msgstr ""
+msgstr "Visualise your contributions across Wikimedia's code review and task tracking tools."
 
 #: contribute/overview.md:block 17 (unordered list)
 msgid "[Visit WikiContrib](https://wikicontrib.toolforge.org/)"
@@ -1388,7 +1360,7 @@ msgstr ""
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn about the main technical areas where developers can contribute."
-msgstr "{{Tài khoản toàn cầu: nguyenphutrong1}}"
+msgstr ""
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
@@ -1417,7 +1389,7 @@ msgstr ""
 #: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
 #: 2 (paragraph)
 msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
-msgstr ""
+msgstr "See examples of open source apps and data visualisations built with Wikimedia content and data."
 
 #: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
 #: (paragraph)
@@ -1453,7 +1425,7 @@ msgstr ""
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
-msgstr ""
+msgstr "Wikimedia content is organised by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
@@ -1465,7 +1437,7 @@ msgstr ""
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr ""
+msgstr "Most Wikimedia content is licenced under a Creative Commons licence that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
@@ -1494,7 +1466,7 @@ msgstr ""
 
 #: use-content/data.md:block 4 (paragraph)
 msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
-msgstr ""
+msgstr "Access publicly-available, open-licenced data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
 
 #: use-content/data.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
@@ -1531,11 +1503,11 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 6 (header)
 msgid "Wikipedia visualizations"
-msgstr ""
+msgstr "Wikipedia visualisations"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
-msgstr ""
+msgstr "“See, also” is a gallery of apps that visualise data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
 
 #: use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"
@@ -1543,11 +1515,11 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 9 (header)
 msgid "Wikidata visualizations"
-msgstr ""
+msgstr "Wikidata visualisations"
 
 #: use-content/featured-apps.md:block 10 (paragraph)
 msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
-msgstr ""
+msgstr "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualisations to get inspired and see open source examples of how to reuse Wikidata."
 
 #: use-content/featured-apps.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"

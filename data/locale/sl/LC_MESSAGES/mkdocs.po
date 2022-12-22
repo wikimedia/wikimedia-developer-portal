@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-12-12 12:16:18+0000\n"
+"PO-Revision-Date: 2022-12-22 12:17:56+0000\n"
 "X-POT-Import-Date: 2022-12-11 17:52:25+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -611,7 +611,7 @@ msgstr "Dogodki za razvijalce MediaWiki"
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
-msgstr "Pridružite se srečanjem, konferencam in sejam kodiranja, povezanih s kodo programja MediaWiki in Wikimedie."
+msgstr "Pridružite se srečanjem, konferencam in sejam kodiranja, povezanim s kodo programja MediaWiki in Wikimedie."
 
 #: community/events.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
