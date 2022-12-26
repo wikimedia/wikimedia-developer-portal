@@ -4,6 +4,7 @@
 # Author: Diskdance
 # Author: GuoPC
 # Author: Lakejason0
+# Author: LittlePaw365
 # Author: StarrySky
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -26,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-12-12 12:16:18+0000\n"
+"PO-Revision-Date: 2022-12-26 12:20:54+0000\n"
 "X-POT-Import-Date: 2022-12-11 17:52:25+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -456,7 +457,7 @@ msgstr "向wiki添加JavaScript或CSS"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr ""
+msgstr "用客户端的JavaScript和CSS自定义MediaWiki。分享用户脚本，探索其他人创建的小工具。"
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -476,7 +477,7 @@ msgstr "[在Wikitech上了解更多](https://wikitech.wikimedia.org/wiki/Portal:
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
-msgstr "[探索黑客松与活动](events.md)"
+msgstr "[探索黑客马拉松和活动](events.md)"
 
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
@@ -570,15 +571,15 @@ msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
 msgid "Explore hackathons and events"
-msgstr "探索黑客松和活动"
+msgstr "探索黑客马拉松和活动"
 
 #: community/events.md:block 3 (header)
 msgid "Hackathons"
-msgstr "黑客松"
+msgstr "黑客马拉松"
 
 #: community/events.md:block 4 (paragraph)
 msgid "A hackathon brings together people with different skills to work together on a common technical goal."
-msgstr "黑客松将具有不同技能的人们聚集在一起，共同实现同一个技术目标。"
+msgstr "黑客马拉松将具有不同技能的人聚集在一起，为实现共同的技术目标而努力。"
 
 #: community/events.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
@@ -908,11 +909,11 @@ msgstr "Java"
 
 #: contribute/by-language.md:block 11 (header)
 msgid "Wikimedia Commons Android app"
-msgstr "维基共享资源 Android 应用程序"
+msgstr "维基共享资源Android应用"
 
 #: contribute/by-language.md:block 12 (paragraph)
 msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
-msgstr "维基共享资源 Android 应用程序允许用户将图片从他们的设备上传到维基共享资源。"
+msgstr "维基共享资源Android应用能让用户将图片从他们的设备上传到维基共享资源。"
 
 #: contribute/by-language.md:block 13 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
@@ -1359,15 +1360,15 @@ msgstr "探索核心维基媒体技术和开源项目。"
 
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Introduction to Wikimedia technology"
-msgstr ""
+msgstr "维基媒体技术简介"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn about the main technical areas where developers can contribute."
-msgstr ""
+msgstr "了解开发人员可以贡献的主要技术领域。"
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
-msgstr ""
+msgstr "[在mediawiki.org上阅读更多](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
