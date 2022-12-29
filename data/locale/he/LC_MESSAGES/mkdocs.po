@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-12-12 12:16:17+0000\n"
+"PO-Revision-Date: 2022-12-29 12:22:23+0000\n"
 "X-POT-Import-Date: 2022-12-11 17:52:25+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -453,7 +453,7 @@ msgstr "להוסיף JavaScript או CSS לוויקי"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr ""
+msgstr "התאמה אישית של מדיה־ויקי עם JavaScript ו־CSS בצד הלקוח. שיתוף סקריפטים אישיים, וחקירת גאדג'טים שאנשים אחרים יצרו."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -1290,7 +1290,7 @@ msgstr "הבנת תהליך הפיתוח"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
-msgstr ""
+msgstr "לימוד איך לעשות תרומות טכניות למיזמי ויקימדיה."
 
 #: get-started/new-dev.md:block 9 (header)
 msgid "Find tickets, and track projects"
@@ -1298,7 +1298,7 @@ msgstr "למצוא דיווחי משימות ותקלות ולעקוב אחרי 
 
 #: get-started/new-dev.md:block 10 (paragraph)
 msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
-msgstr ""
+msgstr "ויקימדיה משתמשת בפבריקטור (Phabricator) לניהול משימות ודיווח באגים. כדי להגיב על משימות, יש ליצור חשבון פבריקטור."
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
@@ -1314,7 +1314,7 @@ msgstr "ללמוד איך לשלוח קוד"
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid "Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices."
-msgstr ""
+msgstr "פרויקטים רבים של ויקימדיה משתמשים בגיט (Git) ובגריט (Gerrit) לפיתוח. לפני שליחת קוד לבדיקה, יש להכיר את הכלים, את התהליכים ואת שיטות העבודה המומלצות."
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
@@ -1326,7 +1326,7 @@ msgstr "מדריכים לשימוש בתוכן ובנתונים"
 
 #: get-started/tutorials.md:block 3 (paragraph)
 msgid "Learn the basics of using Wikimedia content and data in your project."
-msgstr ""
+msgstr "לימוד היסודות של השימוש בתוכן ובנתונים של ויקימדיה בפרויקט שלך."
 
 #: get-started/tutorials.md:block 4 (paragraph)
 msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
@@ -1338,7 +1338,7 @@ msgstr "מדיכים לבניית כלים ובוטים"
 
 #: get-started/tutorials.md:block 6 (paragraph)
 msgid "Learn the basics of writing code that interacts with Wikimedia projects."
-msgstr ""
+msgstr "לימוד היסודות של כתיבת קוד שמתקשר עם מיזמי ויקימדיה."
 
 #: get-started/tutorials.md:block 7 (paragraph)
 msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
@@ -1352,19 +1352,19 @@ msgstr "ללמוד על טכנולוגיה של ויקימדיה"
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
-msgstr ""
+msgstr "לימוד טכנולוגיית הליבה של ויקימדיה ומיזמי קוד פתוח."
 
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Introduction to Wikimedia technology"
-msgstr ""
+msgstr "מבוא לטכנולוגיית ויקימדיה"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn about the main technical areas where developers can contribute."
-msgstr ""
+msgstr "לימוד על התחומים הטכניים העיקריים שבהם מפתחים יכולים לתרום."
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
-msgstr ""
+msgstr "[לקרוא עוד באתר mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
@@ -1372,7 +1372,7 @@ msgstr "ויקיבייס וויקינתונים"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
-msgstr ""
+msgstr "Wikibase היא הרחבת מדיה־ויקי לעבודה עם נתונים מובנים, וזאת התוכנה שמניעה את ויקינתונים."
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
@@ -1389,12 +1389,12 @@ msgstr "[עיון ביישומים מומלצים](featured-apps.md)"
 #: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
 #: 2 (paragraph)
 msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
-msgstr ""
+msgstr "ר' דוגמאות של יישומי קוד פתוח והצגות חזותיות של נתונים שנבנו עם תוכן ונתונים של ויקימדיה."
 
 #: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
-msgstr ""
+msgstr "מדריכי שמראים צעד־צעד איך ללמוד את היסודות של השימוש בתוכן ובנתונים של ויקימדיה."
 
 #: use-content/index.md:block 6 (header)
 msgid "[Use wiki content](content.md)"
@@ -1403,7 +1403,7 @@ msgstr "[שימוש בתוכן ויקי](content.md)"
 #: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
 #: (paragraph)
 msgid "Find open source libraries, get started using the API, or download content in bulk."
-msgstr ""
+msgstr "מציאת ספריות קוד פתוח, התחלת השימוש ב־API או הורדת תוכן בכמות גדולה."
 
 #: use-content/index.md:block 8 (header)
 msgid "[Access open data](data.md)"
@@ -1412,7 +1412,7 @@ msgstr "[גישה לנתונים פתוחים](data.md)"
 #: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
 #: (paragraph)
 msgid "Explore public data that you can use in research and machine learning."
-msgstr ""
+msgstr "חקירת נתונים ציבוריים שאפשר להשתמש בהם במחקר ולמידת מכונה."
 
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
@@ -1425,7 +1425,7 @@ msgstr "היכרות עם מיזמ ויקימדיה"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
-msgstr ""
+msgstr "תוכן ויקימדיה מאורגן לפי מיזם ושפה. כל מיזם מארח סוג שונה של תוכן חופשי, כמו ערכים אנציקלופדיים בוויקיפדיה, קובצי מדיה בוויקישיתוף ונתונים מובנים בוויקינתונים."
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
@@ -1437,7 +1437,7 @@ msgstr "סקירת התנאים"
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr ""
+msgstr "רוב התוכן של ויקימדיה מתפרסם לפי תנאי רישיון קריאייטוב קומונז שמאפשר שימוש חוזר חופשי עם ייחוס. אפשר לבדוק את החלק התחתון של כל דף ויקי כדי למצוא את הרישיון המתאים."
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
@@ -1449,7 +1449,7 @@ msgstr "קבלת שירותים לחברות"
 
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
-msgstr ""
+msgstr "מיזם Wikimedia Enterprise מספק חבילה של ממשקי API ושירותים המיועדים לגישה מסחרית בנפח גבוה לתוכן ונתונים של ויקימדיה."
 
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
@@ -1466,7 +1466,7 @@ msgstr "שימוש בנתונים פתוחים של ויקימדיה"
 
 #: use-content/data.md:block 4 (paragraph)
 msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
-msgstr ""
+msgstr "גישה לנתונים זמינים לציבור, ברישיון פתוח על מיזמי ויקימדיה, כולל הורדות בכמות גדולה, זרמי שינויים אחרונים וסטטיסטיקות עמודים."
 
 #: use-content/data.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
@@ -1478,7 +1478,7 @@ msgstr "עיון בנתונים מבניים באמצעות ויקינתונים
 
 #: use-content/data.md:block 7 (paragraph)
 msgid "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Learn how to access data from Wikidata, and follow best practices for reusing it."
-msgstr ""
+msgstr "ויקינתונים הוא מסד ידע חופשי ופתוח שניתן לקרוא ולערוך על־ידי בני־אדם ומכונות כאחד. לימוד איך לגשת לנתונים מוויקינתונים, ולפעול לפי השיטות המומלצות לשימוש חוזר בהם."
 
 #: use-content/data.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
@@ -1495,7 +1495,7 @@ msgstr "גלריית יישומים"
 
 #: use-content/featured-apps.md:block 4 (paragraph)
 msgid "Browse example apps that demonstrate best practices for using Wikimedia APIs, including fetching wiki content, logging in, and editing pages."
-msgstr ""
+msgstr "עיון ביישומים לדוגמה המציגים שיטות עבודה מומלצות לשימוש בממשקי API של ויקימדיה, כולל אחזור תוכן ויקי, כניסה לחשבון ועריכת דפים."
 
 #: use-content/featured-apps.md:block 5 (unordered list)
 msgid "[Visit the gallery](https://apps-gallery.toolforge.org)"
@@ -1503,11 +1503,11 @@ msgstr "[ביקור בגלריה](https://apps-gallery.toolforge.org)"
 
 #: use-content/featured-apps.md:block 6 (header)
 msgid "Wikipedia visualizations"
-msgstr ""
+msgstr "הצגות חזותיות של ויקיפדיה"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
-msgstr ""
+msgstr "\"ראה, גם\" היא גלריה של יישומים הממחישים נתונים מוויקיפדיה. הגלריה נותנת השראה ומלמדת על נתונים זמינים וממשקי API."
 
 #: use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"
@@ -1515,11 +1515,11 @@ msgstr "[ביקור בגלריה](https://seealso.org/)"
 
 #: use-content/featured-apps.md:block 9 (header)
 msgid "Wikidata visualizations"
-msgstr ""
+msgstr "הצגות חזותיות של ויקינתונים"
 
 #: use-content/featured-apps.md:block 10 (paragraph)
 msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
-msgstr ""
+msgstr "ויקינתונים הוא מסד ידע קריא במכונה עם מיליוני פריטים. הרשימה הזאת של הצגות חזותיות נותנת השראה ומראה דוגמאות בקוד פתוח לשימוש חוזר בוויקינתונים."
 
 #: use-content/featured-apps.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
@@ -1531,7 +1531,7 @@ msgstr "הצגת מידע מוויקינתונים"
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
-msgstr ""
+msgstr "שימוש ב־API של מדיה־ויקי כדי לאחזר ולהציג מידע מוויקינתונים. לימוד איך ערכי ויקיפדיה משויכים לוויקינתונים ואיך לפענח מבני ויקינתונים."
 
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
@@ -1543,7 +1543,7 @@ msgstr "הצגת תמונת היום"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
-msgstr ""
+msgstr "לימוד איך להשתמש ב־API של מדיה־ויקי כדי להביא את התמונה המומלצת היומית מוויקיפדיה. המדריך הזה משתמש בפייתון ובמסגרת Flask."
 
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
