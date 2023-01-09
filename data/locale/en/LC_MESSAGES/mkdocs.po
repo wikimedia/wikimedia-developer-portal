@@ -42,7 +42,7 @@ msgid "Wikimedia Foundation and contributors"
 msgstr ""
 
 #: mkdocs.yml:copyright
-msgid "Copyright &copy; 2022 Wikimedia Foundation and contributors"
+msgid "Copyright &copy; Wikimedia Foundation and contributors"
 msgstr ""
 
 #: mkdocs.yml:extra.footer_links.0

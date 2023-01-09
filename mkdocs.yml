@@ -2,7 +2,7 @@ site_name: Wikimedia Developer Portal
 site_url: https://developer.wikimedia.org/
 site_description: Find technical documentation, and connect with Wikimedia developer communities.
 site_author: Wikimedia Foundation and contributors
-copyright: Copyright &copy; 2022 Wikimedia Foundation and contributors
+copyright: Copyright &copy; Wikimedia Foundation and contributors
 
 nav:
   - Get started:
