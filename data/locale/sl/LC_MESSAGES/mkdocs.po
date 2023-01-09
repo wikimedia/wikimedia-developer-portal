@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-12-22 12:17:56+0000\n"
+"PO-Revision-Date: 2023-01-09 12:34:34+0000\n"
 "X-POT-Import-Date: 2022-12-11 17:52:25+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1368,7 +1368,7 @@ msgstr "[Preberite več na mediawiki.org](https://www.mediawiki.org/wiki/Special
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
-msgstr "Wikibaza in Wikipodatki"
+msgstr "Wikibase in Wikipodatki"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
