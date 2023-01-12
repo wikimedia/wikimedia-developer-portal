@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-12-12 12:16:18+0000\n"
-"X-POT-Import-Date: 2022-12-11 17:52:25+0000\n"
+"PO-Revision-Date: 2023-01-12 12:19:42+0000\n"
+"X-POT-Import-Date: 2023-01-12 11:34:31+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
@@ -45,7 +45,7 @@ msgid "Wikimedia Foundation and contributors"
 msgstr ""
 
 #: mkdocs.yml:copyright
-msgid "Copyright &copy; 2022 Wikimedia Foundation and contributors"
+msgid "Copyright &copy; Wikimedia Foundation and contributors"
 msgstr ""
 
 #: mkdocs.yml:extra.footer_links.0
@@ -954,8 +954,8 @@ msgstr ""
 
 #: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
-msgid "MediaWiki and extensions"
-msgstr "MediaWiki en uitbreidingen"
+msgid "MediaWiki"
+msgstr ""
 
 #: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
