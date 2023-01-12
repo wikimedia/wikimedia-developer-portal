@@ -3,29 +3,13 @@ Wikimedia Developer Portal
 
 Static site generator for a portal to Wikimedia technical documentation.
 
-## Quick start
-
-Clone this repository, start the local development server, and update the build to preview changes.
-
-```console
-$ git clone https://gerrit.wikimedia.org/r/wikimedia/developer-portal
-$ cd developer-portal
-$ make start
-$ open http://127.0.0.1:9000/
-
-$ vim src/index.md
-$ make build
-$ open http://127.0.0.1:9000/
-```
-
-NOTE: `open` is a MacOS command to open a file, directory, or url in the
-default application for that media type. On a Linux host you can either
-manually open the URL or use a similar URL opening script like `xdg-open`,
-`sensible-browser`, `x-www-browser`, or `gnome-open`.
-
 ## Documentation
 
-This project's documentation is at https://wikitech.wikimedia.org/wiki/Developer_Portal.
+See the [project documentation](https://www.mediawiki.org/wiki/Developer_Advocacy/Developer_Portal) on mediawiki.org.
+
+## Contributing
+
+See the [contributing guide](https://www.mediawiki.org/wiki/Developer_Advocacy/Developer_Portal/Contribute) on mediawiki.org.
 
 ## License
 

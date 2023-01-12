@@ -1160,7 +1160,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
-msgid "MediaWiki and extensions"
+msgid "MediaWiki"
 msgstr ""
 
 #: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
