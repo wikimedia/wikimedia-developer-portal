@@ -24,12 +24,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-01-16 12:17:12+0000\n"
+"PO-Revision-Date: 2023-01-26 12:22:14+0000\n"
 "X-POT-Import-Date: 2023-01-12 11:34:31+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: mk\n"
-"X-Generator: MediaWiki 1.40.0-alpha; Translate 2022-10-21\n"
+"X-Generator: MediaWiki 1.40.0-alpha; Translate 2023-01-24\n"
 "Plural-Forms: nplurals=2; plural=(n == 1 || n%10 == 1) ? 0 : 1;\n"
 
 #: mkdocs.yml:site_name
@@ -1508,7 +1508,7 @@ msgstr "Нагледни претстави од Википедија"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
-msgstr "„See, also“ е галерија на прилози кои даваат нагледна претстава за податоците од Википедија. Погледајте ја галеријата за да се инспирирате и да дознаете за расположивите податоци и приложници."
+msgstr "„See, also“ е галерија на прилози кои даваат нагледна претстава за податоците од Википедија. Погледајте ја галеријата за да се инспирирате и да дознаете за расположливите податоци и приложници."
 
 #: use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"

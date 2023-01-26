@@ -23,12 +23,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-01-16 12:17:13+0000\n"
+"PO-Revision-Date: 2023-01-26 12:22:14+0000\n"
 "X-POT-Import-Date: 2023-01-12 11:34:31+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sl\n"
-"X-Generator: MediaWiki 1.40.0-alpha; Translate 2022-10-21\n"
+"X-Generator: MediaWiki 1.40.0-alpha; Translate 2023-01-24\n"
 "Plural-Forms: nplurals=4; plural=(n%100 == 1) ? 0 : ( (n%100 == 2) ? 1 : ( (n%100 == 3 || n%100 == 4) ? 2 : 3 ) );\n"
 
 #: mkdocs.yml:site_name
@@ -1449,7 +1449,7 @@ msgstr "Pridobite storitve za podjetja"
 
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
-msgstr "Wikimedia Enterprise ponuja zbirko API-jev in storitev, zasnovanih za komercialni dostop do velike količine vsebine in podatkov Wikimedie."
+msgstr "Wikimedia Enterprise ponuja nabor API-jev in storitev, zasnovanih za komercialni dostop do velike količine vsebine in podatkov Wikimedie."
 
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
