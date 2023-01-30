@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-01-26 12:22:14+0000\n"
+"PO-Revision-Date: 2023-01-30 12:16:38+0000\n"
 "X-POT-Import-Date: 2023-01-12 11:34:31+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -45,9 +45,8 @@ msgid "Wikimedia Foundation and contributors"
 msgstr "위키미디어 재단 및 기여자"
 
 #: mkdocs.yml:copyright
-#, fuzzy
 msgid "Copyright &copy; Wikimedia Foundation and contributors"
-msgstr "저작권 &copy; 2022년 위키미디어 재단 및 기여자들"
+msgstr "저작권 &copy; 위키미디어 재단 및 기여자들"
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"

@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-01-26 12:22:13+0000\n"
+"PO-Revision-Date: 2023-01-30 12:16:37+0000\n"
 "X-POT-Import-Date: 2023-01-12 11:34:31+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -45,9 +45,8 @@ msgid "Wikimedia Foundation and contributors"
 msgstr "উইকিমিডিয়া ফাউন্ডেশন ও অবদানকারীগণ"
 
 #: mkdocs.yml:copyright
-#, fuzzy
 msgid "Copyright &copy; Wikimedia Foundation and contributors"
-msgstr "কপিরাইট &copy; ২০২২ উইকিমিডিয়া ফাউন্ডেশন ও অবদানকারীগণ"
+msgstr "কপিরাইট &copy; উইকিমিডিয়া ফাউন্ডেশন ও অবদানকারীগণ"
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"
@@ -956,7 +955,7 @@ msgstr "পিএইচপি"
 #: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
 msgid "MediaWiki"
-msgstr ""
+msgstr "মিডিয়াউইকি"
 
 #: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
