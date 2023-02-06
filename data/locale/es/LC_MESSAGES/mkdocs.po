@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-01-26 12:22:13+0000\n"
+"PO-Revision-Date: 2023-02-06 12:18:30+0000\n"
 "X-POT-Import-Date: 2023-01-12 11:34:31+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -302,7 +302,7 @@ msgstr "Construye tu primera herramienta"
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
 msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
-msgstr ""
+msgstr "Aprenda cómo editar páginas wikis usando Python y el framework Pywikibot. Este tutorial te ayudará a comenzar rápidamente usando solo tu navegador."
 
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
@@ -315,7 +315,7 @@ msgstr "Aprende a crear y ejecutar de bots"
 
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
-msgstr ""
+msgstr "Los bots ayudan manteniendo la wikis al realizar tareas repetitivas. Comienza a crear y ejecutar un bot aprendiendo sobre las buenas prácticas."
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
@@ -520,7 +520,7 @@ msgstr ""
 #: community/communicate.md:meta.title community/communicate.md:title
 #: community/communicate.md:block 1 (header)
 msgid "Communicate with the tech community"
-msgstr ""
+msgstr "Comunicarse con la comunidad técnica"
 
 #: community/communicate.md:block 3 (header) contribute/overview.md:block 3
 #: (header) get-started/new-dev.md:block 12 (header)
@@ -678,7 +678,7 @@ msgstr ""
 #: community/grow.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
-msgstr ""
+msgstr "[Visita el canal de YouTube](https://www.youtube.com/user/watchmediawiki/videos)"
 
 #: community/grow.md:block 12 (header)
 msgid "Tech ambassadors"
@@ -955,7 +955,7 @@ msgstr "PHP"
 #: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
 msgid "MediaWiki"
-msgstr ""
+msgstr "MediaWiki"
 
 #: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
@@ -986,7 +986,7 @@ msgstr "Ruby"
 
 #: contribute/by-language.md:block 23 (header)
 msgid "Wiki Education Dashboard"
-msgstr ""
+msgstr "Wiki Education Dashboard"
 
 #: contribute/by-language.md:block 24 (paragraph)
 msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
@@ -1155,7 +1155,7 @@ msgstr ""
 #: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
 #: (unordered list)
 msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
-msgstr ""
+msgstr "[Visita code search](https://codesearch.wmcloud.org/search)"
 
 #: contribute/search.md:block 6 (header)
 msgid "Browse Wikimedia open source docs"
@@ -1404,7 +1404,7 @@ msgstr "[Usa contenido wiki](content.md)"
 #: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
 #: (paragraph)
 msgid "Find open source libraries, get started using the API, or download content in bulk."
-msgstr ""
+msgstr "Encuentra bibliotecas de código abierto, comienza a usar la API, o descargar contenidos en forma masiva."
 
 #: use-content/index.md:block 8 (header)
 msgid "[Access open data](data.md)"
@@ -1413,7 +1413,7 @@ msgstr "[Accede a datos abiertos](data.md)"
 #: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
 #: (paragraph)
 msgid "Explore public data that you can use in research and machine learning."
-msgstr ""
+msgstr "Explora los datos públicos que puedes usar en investigaciones y aprendizaje de máquina."
 
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
@@ -1426,7 +1426,7 @@ msgstr "Introducción a los proyectos Wikimedia"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
-msgstr ""
+msgstr "Los contenidos de Wikimedia están organizados por proyectos e idiomas. Cada proyecto almacena un tipo diferente de contenido libre, como artículos enciclopédicos en Wikipedia, archivos multimedia en Wikimedia Commons y datos estructurados en Wikidata."
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
@@ -1438,7 +1438,7 @@ msgstr "Revisa los términos y condiciones"
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr ""
+msgstr "La mayoría del contenido Wikimedia está licenciado bajo una licencia Creative Commons que permite la reutilización libre con atribución. Puedes comprobar al final de cada página en cualquier wiki para encontrar la licencia usada."
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
@@ -1450,7 +1450,7 @@ msgstr "Obtener servicios para empresas"
 
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
-msgstr ""
+msgstr "Wikimedia Enterprise es un producto comercial que ofrece un conjunto de API y servicios diseñados para un gran volumen de acceso y consulta de contenidos de Wikimedia."
 
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
