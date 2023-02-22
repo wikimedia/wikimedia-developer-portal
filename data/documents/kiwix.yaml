@@ -1,0 +1,13 @@
+---
+title: Kiwix
+description: An offline reader for people without internet access.
+links:
+  - url: https://www.kiwix.org/
+    label: Read the docs
+  - url: https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md
+    label: Contribute
+  - url: https://github.com/kiwix/
+    label: Get the source code
+categories:
+  - contribute-kotlin
+  - contribute-swift
