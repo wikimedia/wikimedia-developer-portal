@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-01-26 12:22:14+0000\n"
-"X-POT-Import-Date: 2023-01-12 11:34:31+0000\n"
+"PO-Revision-Date: 2023-03-13 12:17:07+0000\n"
+"X-POT-Import-Date: 2023-03-09 19:30:24+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: mk\n"
@@ -901,108 +901,180 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
 msgstr "[Преземете го изворниот код](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 10 (header)
+msgid "VideoCutTool"
+msgstr "Видеоуредување"
+
+#: contribute/by-language.md:block 11 (paragraph)
+msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
+msgstr "Алатка за уредување на видеа на Ризницата, изградена со React JS и Node JS."
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Read the docs](https://videocuttool.wmflabs.org)"
+msgstr "[Прочитајте ги документите](https://videocuttool.wmflabs.org)"
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+msgstr "[Учествувајте](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
+msgstr "[Преземете го изворниот код](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
+
+#: contribute/by-language.md:block 13 (header)
 msgid "Java"
 msgstr "Јава"
 
-#: contribute/by-language.md:block 11 (header)
+#: contribute/by-language.md:block 14 (header)
 msgid "Wikimedia Commons Android app"
 msgstr "Прилог на Ризницата за Андроид"
 
-#: contribute/by-language.md:block 12 (paragraph)
+#: contribute/by-language.md:block 15 (paragraph)
 msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
 msgstr "Прилогот на Ризницата за Андроид им овозможува на корисниците да подигаат слики на Ризницата од нивниот уред."
 
-#: contribute/by-language.md:block 13 (unordered list)
+#: contribute/by-language.md:block 16 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
 msgstr "[Прочитајте ги документите](https://commons-app.github.io/)"
 
-#: contribute/by-language.md:block 13 (unordered list)
+#: contribute/by-language.md:block 16 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
 msgstr "[Учествувајте](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
 
-#: contribute/by-language.md:block 13 (unordered list)
+#: contribute/by-language.md:block 16 (unordered list)
 msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
 msgstr "[Преземете го изворниот код](https://github.com/commons-app/apps-android-commons)"
 
-#: contribute/by-language.md:block 14 (header)
+#: contribute/by-language.md:block 17 (header)
+msgid "Kotlin"
+msgstr "Kotlin"
+
+#: contribute/by-language.md:block 18 (header)
+msgid "Kiwix"
+msgstr "Кивикс"
+
+#: contribute/by-language.md:block 19 (paragraph)
+msgid "An offline reader for people without internet access."
+msgstr "Вонмрежен читач за луѓе без семрежен пристап."
+
+#: contribute/by-language.md:block 20 (unordered list)
+msgid "[Read the docs](https://www.kiwix.org/)"
+msgstr "[Прочитајте ги документите](https://www.kiwix.org/)"
+
+#: contribute/by-language.md:block 20 (unordered list)
+msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
+msgstr "[Учествувајте](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 20 (unordered list)
+msgid "[Get the source code](https://github.com/kiwix/)"
+msgstr "[Преземте го изворниот код](https://github.com/kiwix/)"
+
+#: contribute/by-language.md:block 21 (header)
+msgid "Scribe"
+msgstr "Scribe"
+
+#: contribute/by-language.md:block 22 (paragraph)
+msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
+msgstr "Тастатури на Википодатоците за изучувачи на втор јазик, вклучувајќи преведување, конјугација на глаголи и прибелешки за именски родови."
+
+#: contribute/by-language.md:block 23 (unordered list)
+msgid "[Read the docs](https://github.com/scribe-org)"
+msgstr "[Прочитајте ги документите](https://github.com/scribe-org)"
+
+#: contribute/by-language.md:block 23 (unordered list)
+msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
+msgstr "[Учествувајте (Андроид)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 23 (unordered list)
+msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
+msgstr "[Учествувајте (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 23 (unordered list)
+msgid "[Get the source code](https://github.com/scribe-org)"
+msgstr "[Преземте го изворниот код](https://github.com/scribe-org)"
+
+#: contribute/by-language.md:block 24 (header)
 msgid "Go"
 msgstr "Дај"
 
-#: contribute/by-language.md:block 15 (header)
+#: contribute/by-language.md:block 25 (header)
 msgid "Blubber"
 msgstr "Blubber"
 
-#: contribute/by-language.md:block 16 (paragraph)
+#: contribute/by-language.md:block 26 (paragraph)
 msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
 msgstr "Blubber е инфраструктурна алатка која нагодува Docker-содржатели и испробува код како дел од постојаниот Викимедиин довод на вклопување."
 
-#: contribute/by-language.md:block 17 (unordered list)
+#: contribute/by-language.md:block 27 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
 msgstr "[Прочитајте повеќе на Викитехника](https://wikitech.wikimedia.org/wiki/Blubber)"
 
-#: contribute/by-language.md:block 17 (unordered list)
+#: contribute/by-language.md:block 27 (unordered list)
 msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
 msgstr "[Учествувајте](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
 
-#: contribute/by-language.md:block 17 (unordered list)
+#: contribute/by-language.md:block 27 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
 msgstr "[Преземете го изворниот код](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
 
-#: contribute/by-language.md:block 18 (header)
+#: contribute/by-language.md:block 28 (header)
 msgid "PHP"
 msgstr "PHP"
 
-#: contribute/by-language.md:block 19 (header) contribute/by-topic.md:block 3
+#: contribute/by-language.md:block 29 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
 msgid "MediaWiki"
 msgstr "МедијаВики"
 
-#: contribute/by-language.md:block 20 (paragraph) contribute/by-topic.md:block
+#: contribute/by-language.md:block 30 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
 msgstr "МедијаВики е програмската опрема на која работи Википедија, нејзините збратимени проекти и илјадници викија ширум светот."
 
-#: contribute/by-language.md:block 21 (unordered list)
+#: contribute/by-language.md:block 31 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
 msgstr "[Посетете го mediawiki.org](https://www.mediawiki.org/)"
 
-#: contribute/by-language.md:block 21 (unordered list)
+#: contribute/by-language.md:block 31 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 msgstr "[Учествувајте](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 
-#: contribute/by-language.md:block 21 (unordered list)
+#: contribute/by-language.md:block 31 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 msgstr "[Преземете го изворниот код](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
-#: contribute/by-language.md:block 22 (header)
+#: contribute/by-language.md:block 32 (header)
 msgid "Ruby"
 msgstr "Ruby"
 
-#: contribute/by-language.md:block 23 (header)
+#: contribute/by-language.md:block 33 (header)
 msgid "Wiki Education Dashboard"
 msgstr "Управувачница на Викиобразование"
 
-#: contribute/by-language.md:block 24 (paragraph)
+#: contribute/by-language.md:block 34 (paragraph)
 msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
 msgstr "Управувачницата за Викиобразование е семрежен прилог кој ги поддржува задачите, уредувачките маратони и другите уредувачки проекти во образовниот сектор. Изграден е со Ruby на Rails и React."
 
-#: contribute/by-language.md:block 25 (unordered list)
+#: contribute/by-language.md:block 35 (unordered list)
 msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
 msgstr "[Посетете ја управувачницата](https://dashboard.wikiedu.org)"
 
-#: contribute/by-language.md:block 25 (unordered list)
+#: contribute/by-language.md:block 35 (unordered list)
 msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
 msgstr "[Учествувајте](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
 
-#: contribute/by-language.md:block 25 (unordered list)
+#: contribute/by-language.md:block 35 (unordered list)
 msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 msgstr "[Преземете го изворниот код](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+
+#: contribute/by-language.md:block 36 (header)
+msgid "Swift"
+msgstr "Swift"
 
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
