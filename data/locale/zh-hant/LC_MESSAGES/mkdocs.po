@@ -1,9 +1,10 @@
-# Translation of Wikimedia Developer Portal to Finnish (suomi)
+# Translation of Wikimedia Developer Portal to Traditional Chinese (中文（繁體）)
 # Exported from translatewiki.net
 #
-# Author: MITO
-# Author: Nike
-# Author: Pyscowicz
+# Author: Kly
+# Author: Lakejason0
+# Author: Winston Sung
+# Author: 捍粵者
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -25,182 +26,182 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-03-20 12:26:51+0000\n"
+"PO-Revision-Date: 2023-03-20 12:26:53+0000\n"
 "X-POT-Import-Date: 2023-03-09 19:30:24+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fi\n"
+"Language: zh-Hant\n"
 "X-Generator: MediaWiki 1.41.0-alpha; Translate 2023-01-24\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: mkdocs.yml:site_name
 msgid "Wikimedia Developer Portal"
-msgstr "Wikimedian kehittäjäportaali"
+msgstr "維基媒體開發人員平台"
 
 #: mkdocs.yml:site_description
 msgid "Find technical documentation, and connect with Wikimedia developer communities."
-msgstr "Löydä tekninen dokumentaatio ja ota yhteyttä Wikimedian kehittäjäyhteisöihin."
+msgstr "尋找技術文件，並與維基媒體開發者社群聯繫。"
 
 #: mkdocs.yml:site_author
 msgid "Wikimedia Foundation and contributors"
-msgstr "Wikimedia-säätiö ja muokkaajat"
+msgstr "維基媒體基金會與貢獻者"
 
 #: mkdocs.yml:copyright
 msgid "Copyright &copy; Wikimedia Foundation and contributors"
-msgstr "Tekijänoikeudet kuuluvat &copy; Wikimedia-säätiölle ja muokkaajille"
+msgstr "Copyright &copy; 維基媒體基金會與貢獻者"
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"
-msgstr "Tietosuojakäytäntö"
+msgstr "隱私權政策"
 
 #: mkdocs.yml:extra.footer_links.1
 msgid "Terms of Use"
-msgstr "Käyttöehdot"
+msgstr "使用條款"
 
 #: mkdocs.yml:extra.footer_links.2
 msgid "Code: GPL-3.0-or-later"
-msgstr "Koodi: GPL-3.0 tai uudempi"
+msgstr ""
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-3.0"
-msgstr "Sisältö: CC-BY-SA-3.0"
+msgstr ""
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
-msgstr "Tietoja"
+msgstr "關於"
 
 #: mkdocs.yml:extra.footer_links.5 mkdocs.yml:navigation
 msgid "Contribute"
-msgstr "Muokkaa"
+msgstr "貢獻"
 
 #: mkdocs.yml:navigation build-tools/get-started.md:title
 #: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
 #: get-started/index.md:title
 msgid "Get started"
-msgstr "Aloita"
+msgstr "入門"
 
 #: mkdocs.yml:navigation use-content/index.md:meta.title
 #: use-content/index.md:title
 msgid "Use content and data"
-msgstr "Käytä sisältöä ja dataa"
+msgstr "使用內容和資料"
 
 #: mkdocs.yml:navigation build-tools/index.md:meta.title
 #: build-tools/index.md:title
 msgid "Tools and bots"
-msgstr "Työkalut ja botit"
+msgstr "工具與機器人"
 
 #: mkdocs.yml:navigation community/index.md:meta.title
 #: community/index.md:title
 msgid "Community"
-msgstr "Yhteisö"
+msgstr "社群"
 
 #: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
 #: get-help/index.md:block 1 (header)
 msgid "Get help"
-msgstr "Apua"
+msgstr "取得協助"
 
 #: index.md:meta.title index.md:title
 msgid "Discover and build Wikimedia technology"
-msgstr "Tutustu ja rakenna Wikimedia-tekniikkaa"
+msgstr "探索和構建維基媒體技術"
 
 #: index.md:block 1 (paragraph)
 msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
-msgstr "Etsi teknisiä dokumentaatioita ja ota yhteyttä [Wikipedian](https://www.wikipedia.org/) ja muiden [Wikimedia-projektien](https://wikimediafoundation.org/our-work/wikimedia-projects/) kehittäjäyhteisöihin."
+msgstr ""
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
-msgstr "[Aloita](get-started/){ .md-button }"
+msgstr ""
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
-msgstr "[Käytä Wikimedian sisältöä ja dataa](use-content/)"
+msgstr ""
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
-msgstr "Käytä Wikipedian artikkeleita, mediatiedostoja, strukturoitua dataa ja paljon muuta julkisten ohjelmointirajapintojen ja latausten avulla."
+msgstr ""
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
-msgstr "[Rakenna työkaluja ja botteja](build-tools/)"
+msgstr ""
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
-msgstr "Työkalut ja botit helpottavat muokkaamista ja ylläpitoa Wikimedian projekteissa."
+msgstr "可以更容易地編輯和維護維基媒體計劃的工具和機器人。"
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
-msgstr "[Osallistu Wikimedian avoimeen lähdekoodiin](contribute/)"
+msgstr ""
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
-msgstr "Auta rakentamaan Wikimedian ekosysteemiä avoimen lähdekoodin ohjelmistolla."
+msgstr "使用開放原始碼軟體來協助打造維基媒體生態系統。"
 
 #: index.md:block 13 (header)
 msgid "[Connect with the community](community/)"
-msgstr "[Ole osa yhteisöä](community/)"
+msgstr "[與社群聯繫](community/)"
 
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
-msgstr "Liity Wikimedian tekniseen yhteisöön ja löydä mahdollisuuksia tukeen ja oppimiseen."
+msgstr "加入維基媒體的技術社群，來尋找支援與學習的機會。"
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
-msgstr "[Apua](get-help/)"
+msgstr ""
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
-msgstr "Etsi resursseja kysymyksiin ja vianetsintään."
+msgstr "尋找資源來協助解決問題和故障排除。"
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
-msgstr "[Tutustu ja jaa työkaluja](search.md)"
+msgstr ""
 
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
 msgid "Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata."
-msgstr "Selaa Toolhubin työkaluluetteloa, jaa työkalujasi sekä auta ylläpitämään niiden metatietoja."
+msgstr "瀏覽 Toolhub 上的工具目錄、分享您的工具，並幫助維護工具的詮釋資料。"
 
 #: build-tools/index.md:block 4 (header)
 msgid "[Get started](get-started.md)"
-msgstr "[Aloita](get-started.md)"
+msgstr ""
 
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
 msgid "Create your first tool, learn about running a bot, and get best practices."
-msgstr "Luo ensimmäinen työkalusi, opi botin ylläpitämisestä ja hanki parhaat käytännöt."
+msgstr ""
 
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr "[Opi opetusohjelmien avulla](tutorials.md)"
+msgstr ""
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
-msgstr "Seuraa vaihe-vaihteelta-oppaita oppiaksesi vuorovaikutuksen perusteet Wikimedian projekteissa."
+msgstr ""
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
-msgstr "[Käytä ohjelmointirajapintoja ja tietolähteitä](apis.md)"
+msgstr "[使用 API 和資料來源](apis.md)"
 
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
-msgstr "Tutustu ohjelmointirajapintoihin bottien ja työkalujen kehittämiseksi."
+msgstr ""
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr "[Isännöi työkaluja Wikimedian palvelimilla](host-tools.md)"
+msgstr ""
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
 msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
-msgstr "Käytä pilvipalveluita analytiikan suorittamiseen, bottien hallintaan, verkkopalveluiden käyttämiseen sekä isäntätyökaluihin, jotka auttavat Wikimedian projekteja."
+msgstr ""
 
 #: build-tools/apis.md:meta.title build-tools/apis.md:title
 #: build-tools/apis.md:block 1 (header)
 msgid "Use APIs and data sources"
-msgstr "Käytä ohjelmointirajapintoja ja tietolähteitä"
+msgstr "使用 API 和資料來源"
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
@@ -210,167 +211,167 @@ msgstr "Pywikibot"
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
 msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
-msgstr "Pywikibot on Python-kirjasto ja kokoelma komentokieliä, jotka automatisoivat työskentelyä Wikimedian projekteissa."
+msgstr "Pywikibot 是在維基媒體專案上自動運作的 Python 函式庫與腳本集合。"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr ""
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
-msgstr "[Osallistu](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr ""
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
-msgstr "[Hanki lähdekoodi](https://gerrit.wikimedia.org/g/pywikibot/core)"
+msgstr "[取得開放原始碼](https://gerrit.wikimedia.org/g/pywikibot/core)"
 
 #: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
 #: (header)
 msgid "Browse libraries by programming language"
-msgstr "Selaa kirjastoja ohjelmointikielen mukaan"
+msgstr ""
 
 #: build-tools/apis.md:block 7 (paragraph)
 #: get-started/browse-languages.md:block 2 (paragraph)
 #: use-content/content.md:block 10 (paragraph)
 msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
-msgstr "API-asiakaskirjastojen avulla on helpompi kirjoittaa koodia, joka on vuorovaikutuksessa API:n kanssa. Vieraile tässä luettelossa selataksesi MediaWikin ohjelmointirajapintojen (API) suosittuja kirjastoja ohjelmointikielen mukaan."
+msgstr ""
 
 #: build-tools/apis.md:block 8 (unordered list)
 #: get-started/browse-languages.md:block 3 (unordered list)
 #: use-content/content.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+msgstr ""
 
 #: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
 #: (header)
 msgid "Use the API"
-msgstr "Käytä ohjelmointirajapintaa"
+msgstr "使用 API"
 
 #: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
 #: (paragraph)
 msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
-msgstr "MediaWikin API antaa sinulle ohjelmallisen pääsyn minkä tahansa Wikimedian wikin sisältöön. Sen avulla voit etsiä, näyttää ja muokata wikin sivuja, hankkia mediatiedostoja sekä hallinnoida wikejä."
+msgstr ""
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
+msgstr ""
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
-msgstr "[Kokeile hiekkalaatikkoa](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+msgstr ""
 
 #: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
 #: (header) use-content/data.md:block 9 (header)
 msgid "Download content in bulk"
-msgstr "Lataa sisältöä joukkona"
+msgstr "批量下載內容"
 
 #: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
 #: (paragraph) use-content/data.md:block 10 (paragraph)
 msgid "Access free downloads of wiki content and data that you can use in research, offline reading, bot editing, and other projects."
-msgstr "Käytä ilmaisia wikisisällön- ja datan latauksia, joita voit käyttää tutkimuksissa, lukemisessa offline-tilassa, bottien muokkaamisessa ja muissa projekteissa."
+msgstr "存取免費下載的 wiki 內容和資料，您可以在研究、離線閱讀、機器人編輯，和其他計劃中使用。"
 
 #: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
 #: 17 (unordered list) use-content/data.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
 
 #: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
-msgstr "Tee kysely wikin tietokannoista"
+msgstr "查詢 wiki 資料庫"
 
 #: build-tools/apis.md:block 16 (paragraph)
 msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
-msgstr "Wikin kopiot ovat anonymisoituja versioita tietokannoista, jotka tukevat Wikimedian tuotantosivustoja. Käytä Quarry:a SQL-kyselyjen suorittamiseen ja jakamiseen."
+msgstr ""
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
-msgstr "[Vieraile Quarryssa](https://quarry.wmcloud.org/)"
+msgstr ""
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+msgstr ""
 
 #: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
 #: 3 (header)
 msgid "Build your first tool"
-msgstr "Rakenna ensimmäinen työkalusi"
+msgstr "打造您的第一個工具"
 
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
 msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
-msgstr "Opi muokkaamaan sivuja Pythonilla ja Pywikibot-kehyksellä. Tämän opetusohjelman avulla pääset nopeasti alkuun vain selainta käyttämällä."
+msgstr ""
 
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr ""
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
-msgstr "Lue bottien luomisesta ja ylläpidosta"
+msgstr ""
 
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
-msgstr "Botit auttavat ylläpitämään wikejä suorittamalla toistuvia tehtäviä. Aloita bottien luominen ja käyttäminen lukemalla käytäntöjä."
+msgstr ""
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr ""
 
 #: build-tools/get-started.md:block 9 (header)
 msgid "Best practices for open source tools"
-msgstr "Avoimen lähdekoodin työkalujen parhaat käytännöt"
+msgstr ""
 
 #: build-tools/get-started.md:block 10 (paragraph)
 msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
-msgstr "Avoimen lähdekoodin uusi käyttäjä? Hanki vinkkejä, joiden avulla voit kehittää onnistuneita työkaluja ja botteja, valita oikea lisenssi, julkaista koodia sekä kirjoittaa asiakirjoja."
+msgstr ""
 
 #: build-tools/get-started.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+msgstr ""
 
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
-msgstr "Isännöi työkaluja Wikimedian palvelimilla"
+msgstr "維基媒體伺服器上的代管工具"
 
 #: build-tools/host-tools.md:block 3 (header)
 msgid "Run scripts in your browser"
-msgstr "Suorita komentosarjat selaimessasi"
+msgstr ""
 
 #: build-tools/host-tools.md:block 4 (paragraph)
 msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
-msgstr "PAWS on ilmainen, pilvessä isännöity alusta Wikimedian projekteihin liittyvien skriptien ja datavisualisaatioiden luomiseen. Kirjaudu Wikimedia-tililläsi ja aloita luomalla muistikirja."
+msgstr ""
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub.paws.wmcloud.org/hub/login)"
-msgstr "[Vieraile sivustolla](https://hub.paws.wmcloud.org/hub/login)"
+msgstr ""
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/PAWS)"
+msgstr ""
 
 #: build-tools/host-tools.md:block 6 (header)
 msgid "Learn about cloud hosting for tools"
-msgstr "Lisätietoja pilvipalveluista työkaluille"
+msgstr ""
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
-msgstr "Toolforge on ilmainen isännöintiympäristö työkalujen käyttämiseen ja hallintaan. Työkalun  kehittäminen Toolforgessa helpottaa Wikimedian sisällön ja tietojen käyttöä sekä sen jakamista muiden kanssa."
+msgstr ""
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+msgstr ""
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
 msgid "Discover and share tools"
-msgstr "Löydä ja jaa työkaluja"
+msgstr ""
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
@@ -380,24 +381,24 @@ msgstr "Toolhub"
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
 msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
-msgstr "Toolhub on luettelo työkaluista, jotka helpottavat Wikimedian projektien muokkaamista sekä ylläpitämistä. Käytä Toolhubia löytääksesi uusia työkaluja, ollaksesi yhteydessä niiden ylläpitäjiin ja jakaaksesi luetteloita suosikkityökaluistasi."
+msgstr "Toolhub 是一個工具目錄，可以更輕鬆地編輯和維護維基媒體計劃。使用 Toolhub 來發現新工具、與工具維護者聯繫，並分享您最喜愛的工具清單。"
 
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
 msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
-msgstr "[Vieraile Toolhubissa](https://toolhub.wikimedia.org/)"
+msgstr ""
 
 #: build-tools/search.md:block 6 (header)
 msgid "Share a tool"
-msgstr "Jaa työkalu"
+msgstr "分享工具"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
-msgstr "Lisää työkalusi Toolhubin luetteloon, jotta muut voivat hyötyä työstäsi ja kehittää sitä. Aloita kirjautumalla sisään Wikimedia-tunnuksellasi."
+msgstr ""
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
-msgstr "[Lisää työkalu Toolhubiin](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+msgstr ""
 
 #: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
 #: build-tools/tutorials.md:block 1 (header)
@@ -405,473 +406,473 @@ msgstr "[Lisää työkalu Toolhubiin](https://toolhub.wikimedia.org/add-or-remov
 #: use-content/tutorials.md:meta.title use-content/tutorials.md:title
 #: use-content/tutorials.md:block 1 (header)
 msgid "Learn with tutorials"
-msgstr "Opi opetusohjelmien avulla"
+msgstr "以教程來學習"
 
 #: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
 #: (header)
 msgid "Generate ideas for articles"
-msgstr "Luo ideoita artikkeleita varten"
+msgstr ""
 
 #: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
 #: 13 (paragraph)
 msgid "Learn how to use the MediaWiki API to generate ideas for new Wikipedia articles. This tutorial uses Python and the Flask framework."
-msgstr "Opi käyttämään MediaWikin ohjelmointirajapintaa uusien Wikipedia-artikkelien ideoimiseksi. Tämä opetusohjelma käyttää Python- ja Flask-kehystä."
+msgstr ""
 
 #: build-tools/tutorials.md:block 8 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 
 #: build-tools/tutorials.md:block 9 (header)
 msgid "Write a bot that uses Wikidata"
-msgstr "Kirjoita Wikidataa käyttävä botti"
+msgstr "編寫一個使用維基數據的機器人"
 
 #: build-tools/tutorials.md:block 10 (paragraph)
 msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
-msgstr "Pythonilla voit käsitellä suuria tietojoukkoja Wikidatasta ja siirtää tietoja työkalun sekä työnkulkusi välillä."
+msgstr "使用 Python 處理來自維基數據的大量資料集，並在您的工作流裡的工具之間傳輸資料。"
 
 #: build-tools/tutorials.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
-msgstr "[Lue lisää Wikidatassa](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+msgstr "[在維基數據了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
 
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
 msgid "Display holidays from Wikipedia"
-msgstr "Näytä vapaapäivät Wikipediasta"
+msgstr ""
 
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
-msgstr "Opi käyttämään MediaWikin ohjelmointirajapintaa tietyn päivämäärän juhlapäivien hakemiseen Wikipediasta. Tämä opas kattaa myös API:n käyttämistä kirjautuessa Wikipediaan sekä uusien juhlapäivien lisäämiseen. Tämä opas käyttää Python- ja Flask-kehystä."
+msgstr ""
 
 #: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+msgstr ""
 
 #: build-tools/tutorials.md:block 15 (header)
 msgid "Add JavaScript or CSS to a wiki"
-msgstr "Lisää JavaScript tai CSS wikiisi"
+msgstr "增加 JavaScript 或 CSS 到 wiki"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr "Mukauta MediaWikiä JavaScriptillä ja CSS:llä. Jaa käyttäjien skriptejä ja tutki muiden ihmisten luomia pienoisohjelmia."
+msgstr ""
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+msgstr ""
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
-msgstr "Isännöi työkaluja Wikimedian palvelimilla"
+msgstr ""
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
-msgstr "Toolforge on ilmainen isännöintiympäristö työkalujen käyttämiseen ja hallintaan. Aloita Toolforgen käyttö luomalla käyttäjätili ja määrittämällä perusverkkopalvelu."
+msgstr ""
 
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgstr ""
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
-msgstr "[Tutustu tapahtumiin](events.md)"
+msgstr ""
 
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
 msgid "Browse content from past events, or join an upcoming event."
-msgstr "Selaa menneiden tapahtumien sisältöjä tai liity tulevaan tapahtumaan."
+msgstr ""
 
 #: community/index.md:block 4 (header)
 msgid "[Communicate with the tech community](communicate.md)"
-msgstr "[Kommunikoi teknisen yhteisön kanssa](communicate.md)"
+msgstr ""
 
 #: community/index.md:block 5 (paragraph) community/communicate.md:block 2
 #: (paragraph)
 msgid "Understand communication channels and how to connect with Wikimedia developers."
-msgstr "Ymmärrä viestintäkanavia ja yhteydenpitoa Wikimedian kehittäjiin."
+msgstr ""
 
 #: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
-msgstr "[Opi ja jaa teknisiä taitoja](grow.md)"
+msgstr ""
 
 #: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
-msgstr "Kasvata taitojasi tai auta muita oppimaan työpajoista, harjoittelupaikoista ja mentorointimahdollisuuksista."
+msgstr ""
 
 #: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
-msgstr "[Hanki teknisten projektien päivitykset](updates.md)"
+msgstr ""
 
 #: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
 msgid "Stay up to date with the latest from the Wikimedia technical community."
-msgstr "Pysy ajan tasalla Wikimedian teknisen yhteisön viimeisimmistä uutisista."
+msgstr ""
 
 #: community/index.md:block 10 (header)
 msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
-msgstr "[Lue Wikimedian teknisistä toiminnoista](tech-ops.md)"
+msgstr ""
 
 #: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
 #: (paragraph)
 msgid "Find information about the infrastructure and teams behind Wikimedia technology."
-msgstr "Löydä tietoa Wikimedian teknologian taustalla olevasta infrastruktuurista ja tiimeistä."
+msgstr ""
 
 #: community/communicate.md:meta.title community/communicate.md:title
 #: community/communicate.md:block 1 (header)
 msgid "Communicate with the tech community"
-msgstr "Kommunikoi teknisen yhteisön kanssa"
+msgstr ""
 
 #: community/communicate.md:block 3 (header) contribute/overview.md:block 3
 #: (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
-msgstr "Lue käytännesäännöt"
+msgstr ""
 
 #: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
 #: (paragraph) get-started/new-dev.md:block 13 (paragraph)
 msgid "The code of conduct for Wikimedia technical spaces applies to both physical and virtual environments. Learn how to foster an open and welcoming community."
-msgstr "Wikimedian teknisten tilojen käytännesäännöt koskevat sekä fyysisiä että virtuaalisia ympäristöjä. Opi edistämään avointa ja vieraanvaraista yhteisöä."
+msgstr ""
 
 #: community/communicate.md:block 5 (unordered list)
 #: contribute/overview.md:block 5 (unordered list)
 #: get-started/new-dev.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+msgstr ""
 
 #: community/communicate.md:block 6 (header) get-help/index.md:block 9
 #: (header)
 msgid "Communication channels"
-msgstr "Viestintäkanavat"
+msgstr ""
 
 #: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
 #: (paragraph)
 msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
-msgstr "Ota yhteyttä kehittäjiin ja MediaWikin käyttäjiin saadaksesi tukea ja jakaaksesi tietoa."
+msgstr ""
 
 #: community/communicate.md:block 8 (unordered list) get-help/index.md:block
 #: 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr ""
 
 #: community/communicate.md:block 9 (header)
 msgid "Find code maintainers and stewards"
-msgstr "Etsi koodin ylläpitäjät ja ylivalvojat"
+msgstr ""
 
 #: community/communicate.md:block 10 (paragraph)
 msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
-msgstr "Selaa luetteloa kehittäjistä ja tiimeistä, jotka ylläpitävät MediaWikin ydinkomponentteja, laajennuksia ja ulkonäköteemoja, kirjastoja ja muuta Wikimedian teknistä infrastruktuuria."
+msgstr ""
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+msgstr ""
 
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
 msgid "Explore hackathons and events"
-msgstr "Tutustu tapahtumiin"
+msgstr ""
 
 #: community/events.md:block 3 (header)
 msgid "Hackathons"
-msgstr "Hachathons"
+msgstr "駭客松"
 
 #: community/events.md:block 4 (paragraph)
 msgid "A hackathon brings together people with different skills to work together on a common technical goal."
-msgstr "Hackathon (ohjelmointitapahtumat) kokoaa yhteen erilaisia taitoja omaavia ihmisiä työskentelemään yhdessä yhteisen teknisen tavoitteen eteen."
+msgstr "駭客松是讓具有不同技能的人聚集在一起，為共同的技術目標努力。"
 
 #: community/events.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+msgstr ""
 
 #: community/events.md:block 6 (header)
 msgid "Wikidata events"
-msgstr "Wikidatan tapahtumat"
+msgstr ""
 
 #: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
-msgstr "Selaa tapaamisia Wikidatan muokkaajille, tietojen uudelleenkäyttäjille sekä kehittäjille."
+msgstr ""
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
-msgstr "[Lue lisää Wikidatassa](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+msgstr ""
 
 #: community/events.md:block 9 (header)
 msgid "Research events"
-msgstr "Tutkimustapahtumat"
+msgstr ""
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
-msgstr "Liity foorumeihin ja tapaamisiin tutkijoille, insinööreille ja tiedemiehille, jotka tutkivat kaikkia Wikimedian projektien näkökulmia."
+msgstr ""
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
-msgstr "[Lue lisää](https://research.wikimedia.org/events.html)"
+msgstr ""
 
 #: community/events.md:block 12 (header)
 msgid "MediaWiki developer events"
-msgstr "MediaWikin kehittäjätapahtumat"
+msgstr ""
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
-msgstr "Liity MediaWikin ja Wikimedia-koodiin liittyviin kokouksiin, konferensseihin ja koodaushetkiin."
+msgstr ""
 
 #: community/events.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+msgstr ""
 
 #: community/events.md:block 15 (header)
 msgid "Coolest Tool Award"
-msgstr "Tyylikkäin työkalu-palkinto"
+msgstr "最酷工具獎"
 
 #: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
-msgstr "Tämä vuosittainen palkintotapahtuma juhlistaa vapaaehtoisten kehittäjien panoksia."
+msgstr "這個年度頒獎活動旨在表揚志工開發者的貢獻。"
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+msgstr ""
 
 #: community/events.md:block 18 (header)
 msgid "Technical skills workshops"
-msgstr "Teknisten taitojen työpajat"
+msgstr ""
 
 #: community/events.md:block 19 (paragraph) community/grow.md:block 7
 #: (paragraph)
 msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
-msgstr "Löydä työkaluja ja koulutusresursseja, jotka auttavat pieniä wikiyhteisöjä kasvattamaan teknistä kapasiteettiaan ja oppimaan uusia taitoja."
+msgstr ""
 
 #: community/events.md:block 20 (unordered list) community/grow.md:block 8
 #: (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+msgstr ""
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
 msgid "Learn and share technical skills"
-msgstr "Opi ja jaa teknisiä taitoja"
+msgstr ""
 
 #: community/grow.md:block 3 (header)
 msgid "Outreach and mentoring programs"
-msgstr "Lähetys- ja mentorointiohjelmat"
+msgstr ""
 
 #: community/grow.md:block 4 (paragraph)
 msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
-msgstr "Kasvata taitojasi harjoittelupaikkojen ja mentorointiohjelmien (kuten Outreachyn ja Google Summer of Coden) avulla."
+msgstr ""
 
 #: community/grow.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+msgstr ""
 
 #: community/grow.md:block 6 (header)
 msgid "Small wiki toolkits"
-msgstr "Pienten wikien työkalut"
+msgstr ""
 
 #: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
 msgid "Videos and tech talks"
-msgstr "Videot ja tekniset keskustelut"
+msgstr ""
 
 #: community/grow.md:block 10 (paragraph) get-started/wikimedia-tech.md:block
 #: 7 (paragraph)
 msgid "Learn about Wikimedia technology through recorded presentations from the community."
-msgstr "Opi Wikimedian tekniikasta yhteisön tallentamien esitysten avulla."
+msgstr ""
 
 #: community/grow.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
-msgstr "[Vieraile YouTube-kanavalla](https://www.youtube.com/user/watchmediawiki/videos)"
+msgstr ""
 
 #: community/grow.md:block 12 (header)
 msgid "Tech ambassadors"
-msgstr "Tekniset lähettiläät"
+msgstr ""
 
 #: community/grow.md:block 13 (paragraph)
 msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
-msgstr "Kasvata taitojasi vapaaehtoisena auttaaksesi wikimedialaisia ratkaisemaan teknisiä ongelmia ja yhdistämään kehittäjät paikallisiin wikeihin."
+msgstr ""
 
 #: community/grow.md:block 14 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+msgstr ""
 
 #: community/tech-ops.md:meta.title community/tech-ops.md:title
 msgid "Learn about Wikimedia technical operations"
-msgstr "Opi Wikimedian teknisistä toiminnoista"
+msgstr ""
 
 #: community/tech-ops.md:block 1 (header)
 msgid "Wikimedia technical operations"
-msgstr "Wikimedian tekniset toiminnot"
+msgstr ""
 
 #: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
 #: 9 (header)
 msgid "Cloud tools and services"
-msgstr "Pilvityökalut ja palvelut"
+msgstr "雲端工具和服務"
 
 #: community/tech-ops.md:block 4 (paragraph)
 #: get-started/wikimedia-tech.md:block 10 (paragraph)
 msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
-msgstr "Opi jaetusta isännöinnistä, datapalveluista ja muusta infrastruktuurin tuesta Wikimedian projekteihin liittyvää teknistä tukea varten."
+msgstr ""
 
 #: community/tech-ops.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+msgstr ""
 
 #: community/tech-ops.md:block 6 (header)
 msgid "Performance monitoring"
-msgstr "Suorituskyvyn tarkkaileminen"
+msgstr ""
 
 #: community/tech-ops.md:block 7 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
-msgstr "Tarkkaile Wikimedia-sivustojen nykyistä ja aiempaa suorituskykyä."
+msgstr ""
 
 #: community/tech-ops.md:block 8 (unordered list)
 msgid "[Read more](https://performance.wikimedia.org/)"
-msgstr "[Lue lisää](https://performance.wikimedia.org/)"
+msgstr ""
 
 #: community/tech-ops.md:block 9 (header)
 msgid "Security policies"
-msgstr "Tietoturvakäytännöt"
+msgstr ""
 
 #: community/tech-ops.md:block 10 (paragraph)
 msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
-msgstr "Lue MediaWiki-alustan ja Wikimedia-säätiön tietoturvakäytännöt."
+msgstr ""
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+msgstr ""
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
-msgstr "Ohjelmistojen käyttöönotot"
+msgstr ""
 
 #: community/tech-ops.md:block 13 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
-msgstr "Seuraa ohjelmistojen käyttöönottoja Wikimedia-säätiön palvelimille."
+msgstr ""
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Deployments)"
+msgstr ""
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
-msgstr "Strukturoitu datainfrastruktuuri"
+msgstr ""
 
 #: community/tech-ops.md:block 16 (paragraph)
 msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
-msgstr "Wikibase on avoimen lähdekoodin ohjelmisto yhteistyötietokantoihin ja linkitetylle avoimelle datalle. Opi Wikidatan taustalla olevan ohjelmiston järjestelmän arkkitehtuurista."
+msgstr ""
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
-msgstr "[Lue asiakirjat](https://wmde.github.io/wikidata-wikibase-architecture/)"
+msgstr ""
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
-msgstr "Tekninen infrastruktuuri"
+msgstr ""
 
 #: community/tech-ops.md:block 19 (paragraph)
 msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
-msgstr "Opi olennaisesta Wikimedian infrastruktuurista, kuten tietoverkoista, datakeskuksista, lokikirjauksista ja selaa arkkitehtuurikaavioita."
+msgstr ""
 
 #: community/tech-ops.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+msgstr ""
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Technical decision-making process"
-msgstr "Tekninen päätöksentekoprosessi"
+msgstr ""
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about why and how technical decisions are made, and browse decision records."
-msgstr "Opi miksi ja miten päätöksiä tehdään ja selaa päätösten tietueita."
+msgstr ""
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
+msgstr ""
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
 msgid "Get tech project updates"
-msgstr "Hanki teknisten projektien päivitykset"
+msgstr ""
 
 #: community/updates.md:block 3 (header)
 msgid "Tech blog"
-msgstr "Tekninen blogi"
+msgstr "技術部落格"
 
 #: community/updates.md:block 4 (paragraph)
 msgid "Read blog posts from the Wikimedia technical community."
-msgstr "Lue Wikimedian teknisen yhteisön blogikirjoituksia."
+msgstr ""
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr "[Vieraile blogissa](https://techblog.wikimedia.org/)"
+msgstr ""
 
 #: community/updates.md:block 6 (header)
 msgid "Technical community newsletter"
-msgstr "Teknisen yhteisön uutiskirje"
+msgstr "技術社群通訊"
 
 #: community/updates.md:block 7 (paragraph)
 msgid "Subscribe to quarterly updates on activities in the Wikimedia technical community."
-msgstr "Tilaa neljännesvuosittaiset päivitykset Wikimedian teknisen yhteisön toiminnasta."
+msgstr ""
 
 #: community/updates.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
+msgstr ""
 
 #: community/updates.md:block 9 (header)
 msgid "Tech news"
-msgstr "Tekniikkauutiset"
+msgstr "技術新聞"
 
 #: community/updates.md:block 10 (paragraph)
 msgid "Get weekly summaries of technical topics for Wikimedians."
-msgstr "Hanki viikoittaiset yhteenvedot teknisistä aiheista wikimedialaisille."
+msgstr ""
 
 #: community/updates.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+msgstr ""
 
 #: contribute/index.md:meta.title contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
-msgstr "Osallistu Wikimedian avoimeen lähdekoodiin"
+msgstr "為維基媒體的開放來源做出貢獻"
 
 #: contribute/index.md:block 2 (header)
 msgid "[Learn how contributing works](overview.md)"
-msgstr "[Lue osallistumisen tavoista](overview.md)"
+msgstr ""
 
 #: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
 #: (paragraph)
 msgid "Get the basics of how to contribute to MediaWiki and other Wikimedia open source projects."
-msgstr "Opi perusteet osallistumisesta MediaWikiin ja muihin Wikimedian avoimen lähdekoodin projekteihin."
+msgstr ""
 
 #: contribute/index.md:block 4 (header)
 msgid "[Contribute by topic](by-topic.md)"
-msgstr "[Osallistu aiheittain](by-topic.md)"
+msgstr ""
 
 #: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
 #: (paragraph)
 msgid "Find ways to contribute, and connect with others with shared interests."
-msgstr "Löydä osallistumistapoja ja ole yhteydessä muihin, joilla on samoja mielenkiinnonkohteita."
+msgstr "尋找貢獻的方法，與有共同興趣的人聯繫。"
 
 #: contribute/index.md:block 6 (header)
 msgid "[Contribute by programming language](by-language.md)"
-msgstr "[Osallistu ohjelmointikielittäin](by-language.md)"
+msgstr ""
 
 #: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
 #: (paragraph)
 msgid "Choose a project to contribute to based on programming language."
-msgstr "Valitse projekti, johon osallistut ohjelmointikielen perusteella."
+msgstr "根據程式語言選擇要貢獻的計劃。"
 
 #: contribute/index.md:block 8 (header)
 msgid "[Search all projects](search.md)"
-msgstr "[Hae kaikista projekteista](search.md)"
+msgstr ""
 
 #: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
 #: (paragraph)
 msgid "Search all Wikimedia open source software projects."
-msgstr "Hae kaikista Wikimedian avoimen lähdekoodin projekteista."
+msgstr ""
 
 #: contribute/by-language.md:meta.title contribute/by-language.md:title
 msgid "Contribute by programming language"
-msgstr "Osallistu ohjelmointikielen perusteella"
+msgstr "按程式語言貢獻"
 
 #: contribute/by-language.md:block 2 (header)
 msgid "Python"
@@ -883,35 +884,35 @@ msgstr "JavaScript"
 
 #: contribute/by-language.md:block 7 (header)
 msgid "Codex"
-msgstr "Codex"
+msgstr ""
 
 #: contribute/by-language.md:block 8 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
-msgstr "Codex on sarja työkaluja käyttöliittymien rakentamiseen Wikimedia Design Systemissä Vuen avulla."
+msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
-msgstr "[Lue asiakirjat](https://doc.wikimedia.org/codex/main)"
+msgstr "[閱讀文件]（https://doc.wikimedia.org/codex/main）"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
-msgstr "[Osallistu](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
+msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
-msgstr "[Hanki lähdekoodi](https://gerrit.wikimedia.org/g/design/codex/)"
+msgstr ""
 
 #: contribute/by-language.md:block 10 (header)
 msgid "VideoCutTool"
-msgstr ""
+msgstr "VideoCutTool"
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
-msgstr ""
+msgstr "一個在維基共享資源上編輯影片的工具，使用 React JS 和 Node JS 打造。"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://videocuttool.wmflabs.org)"
-msgstr ""
+msgstr "[閱讀文件]（https://videocuttool.wmflabs.org）"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
@@ -927,31 +928,31 @@ msgstr "Java"
 
 #: contribute/by-language.md:block 14 (header)
 msgid "Wikimedia Commons Android app"
-msgstr "Wikimedia Commonsin Android-sovellus"
+msgstr "維基共享資源 Android 應用程式"
 
 #: contribute/by-language.md:block 15 (paragraph)
 msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
-msgstr "Wikimedia Commonsin Android-sovelluksen avulla käyttäjät voivat ladata kuvia laitteestaan Wikimedia Commonsiin."
+msgstr "維基共享資源 Android 應用程式能讓使用者從他們的裝置來上傳圖片到維基共享資源。"
 
 #: contribute/by-language.md:block 16 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
-msgstr "[Lue ohjeet](https://commons-app.github.io/)"
+msgstr "[閱讀文件]（https://commons-app.github.io/）"
 
 #: contribute/by-language.md:block 16 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
-msgstr "[Osallistu](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+msgstr ""
 
 #: contribute/by-language.md:block 16 (unordered list)
 msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
-msgstr "[Hanki lähdekoodi](https://github.com/commons-app/apps-android-commons)"
+msgstr ""
 
 #: contribute/by-language.md:block 17 (header)
 msgid "Kotlin"
-msgstr ""
+msgstr "Kotlin"
 
 #: contribute/by-language.md:block 18 (header)
 msgid "Kiwix"
-msgstr ""
+msgstr "Kiwix"
 
 #: contribute/by-language.md:block 19 (paragraph)
 msgid "An offline reader for people without internet access."
@@ -963,11 +964,11 @@ msgstr ""
 
 #: contribute/by-language.md:block 20 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[貢獻](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 20 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
-msgstr "[Hanki lähdekoodi](https://github.com/kiwix/)"
+msgstr "[取得原始碼](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 21 (header)
 msgid "Scribe"
@@ -983,19 +984,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[貢獻（Android）](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[貢獻（iOS）](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr "[Hanki lähdekoodi](https://github.com/scribe-org)"
+msgstr "[取得原始碼](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 24 (header)
 msgid "Go"
-msgstr "Siirry"
+msgstr "Go"
 
 #: contribute/by-language.md:block 25 (header)
 msgid "Blubber"
@@ -1003,19 +1004,19 @@ msgstr "Blubber"
 
 #: contribute/by-language.md:block 26 (paragraph)
 msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
-msgstr "Blubber on infrastruktuurityökalu, joka määrittää Docker-sarjat ja testaa koodia osana Wikimedian jatkuvaa integrointiprosessia."
+msgstr ""
 
 #: contribute/by-language.md:block 27 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Blubber)"
+msgstr ""
 
 #: contribute/by-language.md:block 27 (unordered list)
 msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
-msgstr "[Osallistu](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
+msgstr ""
 
 #: contribute/by-language.md:block 27 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
-msgstr "[Hanki lähdekoodi](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
+msgstr ""
 
 #: contribute/by-language.md:block 28 (header)
 msgid "PHP"
@@ -1029,25 +1030,25 @@ msgstr "MediaWiki"
 #: contribute/by-language.md:block 30 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
-msgstr "MediaWiki on Wikipediaa, sen sisarprojekteja sekä tuhansia kaikkialla maailmassa olevia wikejä ohjaava ohjelmisto."
+msgstr ""
 
 #: contribute/by-language.md:block 31 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
-msgstr "[Vieraile MediaWiki.orgissa](https://www.mediawiki.org/)"
+msgstr ""
 
 #: contribute/by-language.md:block 31 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
-msgstr "[Osallistu](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+msgstr ""
 
 #: contribute/by-language.md:block 31 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
-msgstr "[Hanki lähdekoodi](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+msgstr ""
 
 #: contribute/by-language.md:block 32 (header)
 msgid "Ruby"
@@ -1055,595 +1056,595 @@ msgstr "Ruby"
 
 #: contribute/by-language.md:block 33 (header)
 msgid "Wiki Education Dashboard"
-msgstr "Wiki-opetuksen hallintapaneeli"
+msgstr ""
 
 #: contribute/by-language.md:block 34 (paragraph)
 msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
-msgstr "Wiki-opetuksen hallintapaneeli (Wiki Education Dashboard) on verkkosovellus, joka tukee Wikipedian koulutustehtäviä ja muita muokattavia projekteja, jotka on rakennettu Ruby on Rails ja Reactin avulla."
+msgstr ""
 
 #: contribute/by-language.md:block 35 (unordered list)
 msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
-msgstr "[Vieraile sivustolla](https://dashboard.wikiedu.org)"
+msgstr ""
 
 #: contribute/by-language.md:block 35 (unordered list)
 msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
-msgstr "[Osallistu](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+msgstr ""
 
 #: contribute/by-language.md:block 35 (unordered list)
 msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
-msgstr "[Hanki lähdekoodi](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+msgstr ""
 
 #: contribute/by-language.md:block 36 (header)
 msgid "Swift"
-msgstr ""
+msgstr "Swift"
 
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
 msgid "Contribute by topic"
-msgstr "Osallistu aiheittain"
+msgstr "按主題貢獻"
 
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
-msgstr "Lokalisointi ja kansainvälistyminen"
+msgstr ""
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
-msgstr "Kirjoita koodia, joka voidaan lokalisoida, käännä koodiasi ja auta tekemään Wikimedia-teknologiasta monikielistä."
+msgstr ""
 
 #: contribute/by-topic.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+msgstr ""
 
 #: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
 #: 18 (header)
 msgid "Mobile apps"
-msgstr "Mobiilisovellukset"
+msgstr "行動應用程式"
 
 #: contribute/by-topic.md:block 10 (paragraph)
 #: get-started/wikimedia-tech.md:block 19 (paragraph)
 msgid "Expand the reach of Wikimedia content by contributing to mobile apps for Wikipedia, Wikimedia Commons, and other projects."
-msgstr "Laajenna Wikimedia-sisällön kattavuutta osallistumalla Wikipedian, Wikimedia Commonsin ja muiden projektien mobiilisovelluksiin."
+msgstr ""
 
 #: contribute/by-topic.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 20 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+msgstr ""
 
 #: contribute/by-topic.md:block 12 (header)
 msgid "Documentation"
-msgstr "Ohjeet"
+msgstr "文件"
 
 #: contribute/by-topic.md:block 13 (paragraph)
 msgid "Read the documentation style guide, and find good first tasks for improving documentation."
-msgstr "Lue oppaan tyyliopas ja löydä hyviä ensimmäisiä tehtäviä oppaan parantamiseksi."
+msgstr ""
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
+msgstr ""
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
-msgstr "Offline-lukeminen"
+msgstr ""
 
 #: contribute/by-topic.md:block 16 (paragraph)
 msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
-msgstr "Laajenna ilmaisen tiedon ulottuvuutta auttamalla ihmisiä käyttämään Wikipediaa ilman verkkoyhteyttä."
+msgstr ""
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+msgstr ""
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
-msgstr "[Osallistu](https://www.kiwix.org/en/support-us/code/)"
+msgstr ""
 
 #: contribute/by-topic.md:block 18 (header)
 msgid "Infrastructure"
-msgstr "Infrastruktuuri"
+msgstr ""
 
 #: contribute/by-topic.md:block 19 (paragraph)
 msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
-msgstr "Osallistu Wikimedian projekteja ohjaavaan infrastruktuuriin. Auta parantamaan Wikimedian palvelinten ja ohjelmistojen suorituskykyä ja tehokkuutta."
+msgstr ""
 
 #: contribute/by-topic.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Get_involved)"
+msgstr ""
 
 #: contribute/overview.md:meta.title contribute/overview.md:title
 #: contribute/overview.md:block 1 (header)
 msgid "Learn how contributing works"
-msgstr "Lue osallistumisen tavoista"
+msgstr ""
 
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
 msgid "Create a developer account"
-msgstr "Luo kehittäjätili"
+msgstr ""
 
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
 msgid "Most Wikimedia technical spaces use a developer account to identify and authorize users. Create a free account to get started as a technical contributor."
-msgstr "Useimmat Wikimedian tekniset tilat käyttävät kehittäjätiliä käyttäjien tunnistamiseen ja valtuutukseen. Luo ilmainen tili aloittaaksesi teknisenä avustajana."
+msgstr ""
 
 #: contribute/overview.md:block 8 (unordered list)
 #: get-started/new-dev.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
-msgstr "[Lue lisää MediWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+msgstr ""
 
 #: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
 #: (header)
 msgid "Find projects and tasks for new contributors"
-msgstr "Löydä projekteja ja tehtäviä uusille osallistujille"
+msgstr ""
 
 #: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
 #: (paragraph)
 msgid "Choose from open source projects that offer mentoring for new contributors, and find good first tasks."
-msgstr "Valitse uusille osallistujille mentorointia tarjoavia avoimen lähdekoodin projekteja, ja löydä hyviä ensimmäisiä tehtäviä."
+msgstr ""
 
 #: contribute/overview.md:block 11 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr ""
 
 #: contribute/overview.md:block 12 (header)
 msgid "Review guidelines and code conventions"
-msgstr "Tarkista ohjeet ja koodikäytännöt"
+msgstr ""
 
 #: contribute/overview.md:block 13 (paragraph)
 msgid "Understand development policies, best practices, and code conventions for Wikimedia software."
-msgstr "Ymmärrä Wikimedian ohjelmistojen kehityspolitiikkaa ja käytäntöjä."
+msgstr ""
 
 #: contribute/overview.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+msgstr ""
 
 #: contribute/overview.md:block 15 (header)
 msgid "See your contributions"
-msgstr "Katso muokkauksesi"
+msgstr "查看您的貢獻"
 
 #: contribute/overview.md:block 16 (paragraph)
 msgid "Visualize your contributions across Wikimedia's code review and task tracking tools."
-msgstr "Visualisoi muokkauksesi Wikimedian koodintarkistus- ja tehtävien seurantatyökaluilla."
+msgstr ""
 
 #: contribute/overview.md:block 17 (unordered list)
 msgid "[Visit WikiContrib](https://wikicontrib.toolforge.org/)"
-msgstr "[Vieraile sivustolla](https://wikicontrib.toolforge.org/)"
+msgstr ""
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
 msgid "Search all projects"
-msgstr "Hae kaikista projekteista"
+msgstr ""
 
 #: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
 msgid "Search codebases"
-msgstr "Hae tietokannoista"
+msgstr ""
 
 #: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
 #: (paragraph)
 msgid "Search all Wikimedia codebases using the code search tool."
-msgstr "Hae kaikista Wikimedian tietokannoista käyttämällä hakutyökalua."
+msgstr ""
 
 #: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
 #: (unordered list)
 msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
-msgstr "[Vieraile koodihakutyökalussa](https://codesearch.wmcloud.org/search)"
+msgstr ""
 
 #: contribute/search.md:block 6 (header)
 msgid "Browse Wikimedia open source docs"
-msgstr "Selaa Wikimedian avoimen lähdekoodin ohjeita"
+msgstr "瀏覽維基媒體開放原始碼文件"
 
 #: contribute/search.md:block 7 (paragraph)
 msgid "Browse auto-generated and related documentation hosted on doc.wikimedia.org."
-msgstr "Selaa automaattisesti luotuja ja siihen liittyviä ohjeita, joita ylläpidetään osoitteessa doc.wikimedia.org"
+msgstr ""
 
 #: contribute/search.md:block 8 (unordered list)
 msgid "[Browse docs](https://doc.wikimedia.org)"
-msgstr "[Selaa ohjeita](https://doc.wikimedia.org)"
+msgstr ""
 
 #: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
 #: 7 (header)
 msgid "Browse repositories"
-msgstr "Selaa arkistoja"
+msgstr ""
 
 #: contribute/search.md:block 10 (paragraph)
 #: get-started/browse-languages.md:block 8 (paragraph)
 msgid "Explore Wikimedia codebases."
-msgstr "Tutustu Wikimedian kooditietokantoihin."
+msgstr ""
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
-msgstr "[Selaa arkistoja Gerritissä](https://gerrit.wikimedia.org/g/)"
+msgstr ""
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
-msgstr "[Selaa arkistoja GitHubissa](https://github.com/wikimedia)"
+msgstr ""
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
-msgstr "[Selaa arkistoja GitLabissa](https://gitlab.wikimedia.org/explore)"
+msgstr ""
 
 #: contribute/search.md:block 12 (header)
 msgid "Search tools and bots"
-msgstr "Hae työkaluja ja botteja"
+msgstr ""
 
 #: get-help/index.md:block 2 (paragraph)
 msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
-msgstr "Koska Wikimedian tekninen ekosysteemi on monimutkainen ja hajautunut, voit löytää apua monista eri paikoista."
+msgstr ""
 
 #: get-help/index.md:block 3 (header)
 msgid "Search the docs"
-msgstr "Hae ohjeista"
+msgstr "搜尋文件"
 
 #: get-help/index.md:block 4 (paragraph)
 msgid "Find technical information for Wikimedia projects."
-msgstr "Etsi teknistä tietoa Wikimedian projekteista"
+msgstr ""
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Search across wikis](https://global-search.toolforge.org/)"
-msgstr "[Hae kaikista wikeistä](https://global-search.toolforge.org/)"
+msgstr ""
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
-msgstr "[Selaa Wikimedian avoimen lähdekoodin ohjeita](https://doc.wikimedia.org/)"
+msgstr ""
 
 #: get-help/index.md:block 12 (header)
 msgid "Check system status"
-msgstr "Tarkasta järjestelmän tila"
+msgstr ""
 
 #: get-help/index.md:block 13 (paragraph)
 msgid "Verify the overall health and performance of the wiki environment, and find out about major outages."
-msgstr "Tarkista wikiympäristön yleinen kunto sekä suorituskyky ja ota selvää suurista katkoksista."
+msgstr ""
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
-msgstr "[Vieraile sivustolla](https://www.wikimediastatus.net/)"
+msgstr ""
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
-msgstr "[Katso Wikimedian wikien käyttämät MediaWiki-versiot](https://versions.toolforge.org/)"
+msgstr ""
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
-msgstr "[Lue lisää Wikimedian teknologiasta](wikimedia-tech.md)"
+msgstr ""
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
-msgstr "Tutustu avoimen lähdekoodin ohjelmistoihin ja teknisiin komponentteihin Wikimedia-projektien takana."
+msgstr ""
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
-msgstr "[Ymmärrä kehitysprosessia](new-dev.md)"
+msgstr ""
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
-msgstr "Opi kuinka Wikimedian ohjelmistoprojektit toimivat ja kuinka tehdä teknisiä muokkauksia."
+msgstr ""
 
 #: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
 #: (paragraph)
 msgid "Follow coding exercises with step-by-step guidance."
-msgstr "Seuraa koodausharjoituksia vaiheittaisten ohjeiden avulla."
+msgstr ""
 
 #: get-started/index.md:block 7 (header)
 msgid "[Browse by programming language](browse-languages.md)"
-msgstr "[Selaa ohjelmointikielen perusteella](browse-languages.md)"
+msgstr ""
 
 #: get-started/index.md:block 8 (paragraph)
 msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
-msgstr "Etsi kirjastoja, sovelluksia, avoimen lähdekoodin projekteja haluamillasi ohjelmointikielillä."
+msgstr ""
 
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
 msgid "Browse by programming language"
-msgstr "Selaa ohjelmointikielen perusteella"
+msgstr ""
 
 #: get-started/browse-languages.md:block 1 (header)
 msgid "API client libraries by language"
-msgstr "API-asiakaskirjastot kielen mukaan"
+msgstr ""
 
 #: get-started/browse-languages.md:block 4 (header)
 msgid "Open source projects by language"
-msgstr "Avoimen lähdekoodin projektit kielen mukaan"
+msgstr ""
 
 #: get-started/browse-languages.md:block 5 (paragraph)
 msgid "Find Wikimedia open source projects by programming language, and start contributing code."
-msgstr "Etsi Wikimedian avoimen lähdekoodin projekteja ohjelmointikielen perusteella ja aloita koodin muokkaaminen."
+msgstr ""
 
 #: get-started/browse-languages.md:block 6 (paragraph)
 msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
-msgstr "[Selaa projekteja](../contribute/by-language.md){ .md-button }"
+msgstr ""
 
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr "Ymmärrä kehitysprosessia"
+msgstr ""
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
-msgstr "Opi tekemään teknisiä muokkauksia Wikimedian projekteihin."
+msgstr ""
 
 #: get-started/new-dev.md:block 9 (header)
 msgid "Find tickets, and track projects"
-msgstr "Etsi lippuja ja seuraa projekteja"
+msgstr ""
 
 #: get-started/new-dev.md:block 10 (paragraph)
 msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
-msgstr "Wikimedia käyttää Phabricatoria tehtävienhallintaan ja virheiden raportointiin. Voit osallistua tehtäviin luomalla Phabricator-käyttäjätilin."
+msgstr ""
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
-msgstr "[Vieraile Phabricatorissa](https://phabricator.wikimedia.org/)"
+msgstr ""
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+msgstr ""
 
 #: get-started/new-dev.md:block 15 (header)
 msgid "Learn how to submit code"
-msgstr "Opi lähettämään koodia"
+msgstr ""
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid "Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices."
-msgstr "Monet Wikimedian projektit käyttävät Gitiä ja Gerritiä kehittämiseen. Ennen kuin lähetät koodin tarkastettavaksi, tutustu työkaluihin, prosesseihin ja käytäntöihin."
+msgstr ""
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr ""
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
-msgstr "Ohjeet sisällön ja datan käyttämiseen"
+msgstr ""
 
 #: get-started/tutorials.md:block 3 (paragraph)
 msgid "Learn the basics of using Wikimedia content and data in your project."
-msgstr "Opi Wikimedian sisällön ja datan käytön perusteet projektissasi."
+msgstr ""
 
 #: get-started/tutorials.md:block 4 (paragraph)
 msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
-msgstr "[Selaa ohjeita](../use-content/tutorials.md){ .md-button }"
+msgstr ""
 
 #: get-started/tutorials.md:block 5 (header)
 msgid "Tutorials for building tools and bots"
-msgstr "Ohjeet työkalujen ja bottien kehittämiseen"
+msgstr ""
 
 #: get-started/tutorials.md:block 6 (paragraph)
 msgid "Learn the basics of writing code that interacts with Wikimedia projects."
-msgstr "Opi Wikimedian projektien kanssa vuorovaikutuksessa olevan koodin kirjoittamisen perusteet."
+msgstr ""
 
 #: get-started/tutorials.md:block 7 (paragraph)
 msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
-msgstr "[Selaa ohjeita](../build-tools/tutorials.md){ .md-button }"
+msgstr ""
 
 #: get-started/wikimedia-tech.md:meta.title
 #: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
 #: (header)
 msgid "Learn about Wikimedia technology"
-msgstr "Lue lisää Wikimedian teknologiasta"
+msgstr ""
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
-msgstr "Tutustu Wikimedian ydinteknologiaan ja avoimen lähdekoodin projeteihin."
+msgstr ""
 
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Introduction to Wikimedia technology"
-msgstr "Johdatus Wikimedian käyttämään teknologiaan"
+msgstr "維基媒體技術簡介"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn about the main technical areas where developers can contribute."
-msgstr "Tutustu tärkeimpiin teknisiin alueisiin, joihin kehittäjät voivat osallistua."
+msgstr "了解關於開發人員可貢獻的主要技術領域。"
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
-msgstr "[Lue lisää mediawiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+msgstr ""
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
-msgstr "Wikibase ja Wikidata"
+msgstr "Wikibase 和維基數據"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
-msgstr "Wikibase on MediaWiki-laajennus työskentelemiseen strukturoidun datan kanssa ja se on Wikidataa käyttävä ohjelmisto."
+msgstr "Wikibase 是用於處理結構化資料的 MediaWiki 擴充，是提供支援維基數據的軟體。"
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
-msgstr "[Vieraile Wikidata.orgissa](https://www.wikidata.org/)"
+msgstr "[參訪 wikidata.org]（https://www.wikidata.org/）"
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+msgstr ""
 
 #: use-content/index.md:block 2 (header)
 msgid "[Explore featured apps](featured-apps.md)"
-msgstr "[Tutustu suositeltuihin sovelluksiin](featured-apps.md)"
+msgstr "[探索精選應用程式](featured-apps.md)"
 
 #: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
 #: 2 (paragraph)
 msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
-msgstr "Katso esimerkkejä avoimen lähdekoodin sovelluksista ja datavisualisoinneista, jotka on rakennettu Wikimedian sisällöllä ja tiedoilla."
+msgstr "查看以維基媒體內容和資料構建的開放原始碼應用程式與資料視覺化範例。"
 
 #: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
-msgstr "Noudata vaiheittaisia ohjeita oppiaksesi Wikimedian sisällön ja datan käyttämisen perusteet."
+msgstr "依照逐步指南來學習使用維基媒體內容與資料的基礎知識。"
 
 #: use-content/index.md:block 6 (header)
 msgid "[Use wiki content](content.md)"
-msgstr "[Käytä wikin sisältöä](content.md)"
+msgstr ""
 
 #: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
 #: (paragraph)
 msgid "Find open source libraries, get started using the API, or download content in bulk."
-msgstr "Etsi avoimen lähdekoodin kirjastoja, aloita ohjelmointirajapinnan käyttö tai lataa sisältöä."
+msgstr "尋找開放原始碼庫、開始使用 API，或是批量下載內容。"
 
 #: use-content/index.md:block 8 (header)
 msgid "[Access open data](data.md)"
-msgstr "[Käytä avointa dataa](data.md)"
+msgstr "[存取開放資料](data.md)"
 
 #: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
 #: (paragraph)
 msgid "Explore public data that you can use in research and machine learning."
-msgstr "Tutustu julkiseen dataan, jota voit käyttää tutkimuksessa ja koneoppimisessa."
+msgstr "探索您可以用於研究和機器學習的公用資料。"
 
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
 msgid "Use wiki content"
-msgstr "Käytä wikin sisältöä"
+msgstr ""
 
 #: use-content/content.md:block 3 (header)
 msgid "Introduction to Wikimedia projects"
-msgstr "Johdatus Wikimedian projekteihin"
+msgstr ""
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
-msgstr "Wikimedian sisältöä on järjestetty projektin ja kielen mukaan. Jokainen projekti isännöi erityyppistä ilmaista sisältöä, kuten tietosanakirja-artikkeleita Wikipediassa, mediatiedostoja Wikimedia Commonsissa ja jäsenneltyä dataa Wikidatassa."
+msgstr ""
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+msgstr ""
 
 #: use-content/content.md:block 6 (header)
 msgid "Review the terms and conditions"
-msgstr "Tutustu käyttöehtoihin"
+msgstr ""
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr "Suurin osa Wikimedian sisällöstä on lisensoitu lisenssillä Creative Commons, joka sallii ilmaisen uudelleenkäytön ja tekijänoikeudet. Voit tarkistaa lisenssin minkä tahansa wikin alaosasta."
+msgstr ""
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+msgstr ""
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
-msgstr "Hanki palveluita yrityksille"
+msgstr ""
 
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
-msgstr "Wikimedia Enterprise tarjoaa sarjan ohjelmointirajapintoja ja palveluita, jotka on suunniteltu suuren volyymin kaupalliseen pääsyyn Wikimedian sisältöön ja dataan."
+msgstr ""
 
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
-msgstr "[Lue lisää](https://enterprise.wikimedia.com)"
+msgstr ""
 
 #: use-content/data.md:meta.title use-content/data.md:title
 #: use-content/data.md:block 1 (header)
 msgid "Access open data"
-msgstr "Käytä avointa dataa"
+msgstr "存取開放資料"
 
 #: use-content/data.md:block 3 (header)
 msgid "Use Wikimedia open data"
-msgstr "Käytä Wikimedian avointa dataa"
+msgstr ""
 
 #: use-content/data.md:block 4 (paragraph)
 msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
-msgstr "Käytä julkisesti saatavilla olevia, avoimesti lisensoituja tietoja Wikimedian projekteista, joukkolatauksista, viimeaikaisten muutosten virroista ja tilastoista."
+msgstr "存取有關維基媒體計劃的公開可用、開放許可的資料，包括批量下載、近期變更的串流，和頁面統計內容。"
 
 #: use-content/data.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
 
 #: use-content/data.md:block 6 (header)
 msgid "Explore structured data with Wikidata"
-msgstr "Tutustu jäsenneltyyn dataan Wikidatan avulla"
+msgstr "使用維基數據探索結構化資料"
 
 #: use-content/data.md:block 7 (paragraph)
 msgid "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Learn how to access data from Wikidata, and follow best practices for reusing it."
-msgstr "Wikidata on ilmainen avoin tietokanta, jota sekä ihmiset että koneet voivat lukea ja muokata. Opi käyttämään Wikidatan tietoja ja lue käytäntöjä niiden uudelleenkäyttämiseksi."
+msgstr "維基數據是一個免費開放的知識庫，可供人類和機器閱讀與編輯。了解如何從維基數據存取資料，並遵循重複使用的最佳實踐。"
 
 #: use-content/data.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr "[Lue lisää Wikidatassa](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgstr "[在維基數據了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
 msgid "Explore featured apps"
-msgstr "Tutustu suositeltuihin sovelluksiin"
+msgstr "探索精選應用程式"
 
 #: use-content/featured-apps.md:block 3 (header)
 msgid "App gallery"
-msgstr "Sovellusgalleria"
+msgstr "應用程式圖庫"
 
 #: use-content/featured-apps.md:block 4 (paragraph)
 msgid "Browse example apps that demonstrate best practices for using Wikimedia APIs, including fetching wiki content, logging in, and editing pages."
-msgstr "Selaa esimerkkisovelluksia, jotka esittelevät käytäntöjä Wikimedian ohjelmointirajapintojen käyttämiseen, sisällön hakemiseen, sisäänkirjautumiseen ja sivujen muokkaamiseen."
+msgstr "瀏覽展示出使用維基媒體 API 之最佳實踐的範例應用程式，包括取得 wiki 內容、登入，和編輯頁面。"
 
 #: use-content/featured-apps.md:block 5 (unordered list)
 msgid "[Visit the gallery](https://apps-gallery.toolforge.org)"
-msgstr "[Vieraile galleriassa](https://apps-gallery.toolforge.org)"
+msgstr "[參訪圖庫](https://apps-gallery.toolforge.org)"
 
 #: use-content/featured-apps.md:block 6 (header)
 msgid "Wikipedia visualizations"
-msgstr "Wikipedian visualisoinnit"
+msgstr "維基百科視覺化"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
-msgstr "\"Katso myös\" on galleria sovelluksista, jotka visualisoivat Wikipedian tietoja. Tutustu galleriaan saadaksesi inspiraatiota ja oppiaksesi saatavilla olevasta datasta ja ohjelmointirajapinnoista."
+msgstr "「See, also」是一個視覺化來自維基百科資料的應用程式圖庫。查看圖庫以獲取靈感，並了解可用的資料和 API。"
 
 #: use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"
-msgstr "[Vieraile galleriassa](https://seealso.org/)"
+msgstr "[參訪圖庫](https://seealso.org/)"
 
 #: use-content/featured-apps.md:block 9 (header)
 msgid "Wikidata visualizations"
-msgstr "Wikidatan visualisoinnit"
+msgstr "維基數據視覺化"
 
 #: use-content/featured-apps.md:block 10 (paragraph)
 msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
-msgstr "Wikidata on koneellisesti luettava miljoonien kohteiden tietokanta. Selaa tätä visualisointiluetteloa saadaksesi inspiraatiota ja katso avoimen lähdekoodin esimerkkejä Wikidatan uudelleenkäytöstä."
+msgstr "維基數據是一個包含數百萬個項目、機器可讀的知識庫。瀏覽此視覺化清單來獲取靈感，並查看如何重複使用維基數據的開放原始碼範例。"
 
 #: use-content/featured-apps.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
-msgstr "[Lue lisää Wikidatassa](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+msgstr ""
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
-msgstr "Näytä tietoja Wikidatasta"
+msgstr ""
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
-msgstr "Käytä MediaWiki API:a tietojen hakemiseen ja näyttämiseen Wikidatasta. Opi, kuinka Wikipedian artikkelit liittyvät Wikidataan ja kuinka Wikidata-rakenteita jäsennetään."
+msgstr ""
 
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+msgstr ""
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
-msgstr "Näytä päivän kuva"
+msgstr "顯示每日圖片"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
-msgstr "Opi käyttämään MediaWiki API:a päivittäisten kuvien hakemiseen Wikipediasta. Tämä opetusohjelma käyttää Python- ja Flask-kehystä."
+msgstr "了解如何使用 MediaWiki API 來從維基百科取得每日精選圖片。此教程使用 Python 和 Flask 框架。"
 
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
 
 #: use-content/tutorials.md:block 15 (header)
 msgid "Get started querying Wikidata"
-msgstr "Aloita kyselyjen tekeminen Wikidatasta"
+msgstr "開始查詢維基數據"
 
 #: use-content/tutorials.md:block 16 (paragraph)
 msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
-msgstr "Opi tekemään Wikidata-kyselyjä SPARQL:in avulla. Tämä opetusohjelma kattaa Wikidatan ja sen kyselypalvelun käytön perusteet."
+msgstr ""
 
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr "[Lue lisää](https://wdqs-tutorial.toolforge.org)"
+msgstr ""
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
-msgstr "Hae artikkeleja sijainnin mukaan"
+msgstr "按位置搜尋條目"
 
 #: use-content/tutorials.md:block 19 (paragraph)
 msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
-msgstr "Opi käyttämään MediaWiki API:a Wikipedia-artikkelin etsimiseen tietyn sijainnin mukaan. Tämä opetusohjelma käyttää JavaScriptiä, Pythonia ja Flask-kehyksiä."
+msgstr "了解如何使用 MediaWiki API 來搜尋位於特定位置周遭的維基百科條目。此教程使用 JavaScript、Python 和 Flask 框架。"
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr "[Lue lisää MediaWiki.orgissa](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+msgstr ""
 
