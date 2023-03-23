@@ -26,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-03-20 12:26:53+0000\n"
+"PO-Revision-Date: 2023-03-23 12:23:47+0000\n"
 "X-POT-Import-Date: 2023-03-09 19:30:24+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -60,11 +60,11 @@ msgstr "使用條款"
 
 #: mkdocs.yml:extra.footer_links.2
 msgid "Code: GPL-3.0-or-later"
-msgstr ""
+msgstr "程式碼：GPL-3.0-or-later"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-3.0"
-msgstr ""
+msgstr "內容：CC-BY-SA-3.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -106,23 +106,23 @@ msgstr "探索和構建維基媒體技術"
 
 #: index.md:block 1 (paragraph)
 msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
-msgstr ""
+msgstr "查找技術文件，並與[維基百科](https://www.wikipedia.org/)和其他[維基媒體計劃](https://wikimediafoundation.org/our-work/wikimedia-projects/)背後的開發者社群聯繫."
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
-msgstr ""
+msgstr "[入門](get-started/){ .md-button }"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
-msgstr ""
+msgstr "[使用維基媒體內容與資料](use-content/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
-msgstr ""
+msgstr "以公用 API 和下載來存取來自維基百科的條目、媒體檔案、結構化資料等其他內容。"
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
-msgstr ""
+msgstr "[構建工具和機器人](build-tools/)"
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
@@ -130,7 +130,7 @@ msgstr "可以更容易地編輯和維護維基媒體計劃的工具和機器人
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
-msgstr ""
+msgstr "[貢獻維基媒體的開放原始碼](contribute/)"
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
@@ -146,7 +146,7 @@ msgstr "加入維基媒體的技術社群，來尋找支援與學習的機會。
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
-msgstr ""
+msgstr "[取得幫助](get-help/)"
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
@@ -154,7 +154,7 @@ msgstr "尋找資源來協助解決問題和故障排除。"
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
-msgstr ""
+msgstr "[探索與分享工具](search.md)"
 
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
@@ -163,22 +163,22 @@ msgstr "瀏覽 Toolhub 上的工具目錄、分享您的工具，並幫助維護
 
 #: build-tools/index.md:block 4 (header)
 msgid "[Get started](get-started.md)"
-msgstr ""
+msgstr "[入門](get-started.md)"
 
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
 msgid "Create your first tool, learn about running a bot, and get best practices."
-msgstr ""
+msgstr "建立您的第一個工具，了解如何運作機器人並獲得最佳實踐。"
 
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr ""
+msgstr "[與教程學習](tutorials.md)"
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
-msgstr ""
+msgstr "依照逐步進行的指南來學習與維基媒體計劃互動的基礎知識。"
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
@@ -187,16 +187,16 @@ msgstr "[使用 API 和資料來源](apis.md)"
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
-msgstr ""
+msgstr "探索用於構建機器人和工具的應用程式介面。"
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr ""
+msgstr "[在維基媒體伺服器上代管工具](host-tools.md)"
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
 msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
-msgstr ""
+msgstr "存取用於執行分析、管理機器人、運作網路服務、協助維基媒體計劃的代管工具等等雲端服務。"
 
 #: build-tools/apis.md:meta.title build-tools/apis.md:title
 #: build-tools/apis.md:block 1 (header)
@@ -216,12 +216,12 @@ msgstr "Pywikibot 是在維基媒體專案上自動運作的 Python 函式庫與
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
-msgstr ""
+msgstr "[貢獻](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -243,7 +243,7 @@ msgstr ""
 #: get-started/browse-languages.md:block 3 (unordered list)
 #: use-content/content.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
 
 #: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
 #: (header)
@@ -258,12 +258,12 @@ msgstr ""
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
-msgstr ""
+msgstr "[嘗試沙盒](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
 
 #: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
 #: (header) use-content/data.md:block 9 (header)
@@ -290,11 +290,11 @@ msgstr ""
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
-msgstr ""
+msgstr "[參訪 Quarry](https://quarry.wmcloud.org/)"
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
-msgstr ""
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
 
 #: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
 #: 3 (header)
@@ -304,28 +304,28 @@ msgstr "打造您的第一個工具"
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
 msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
-msgstr ""
+msgstr "了解如何使用 Python 和 Pywikibot 框架來編輯 wiki 頁面。此教程能幫助您僅使用瀏覽器來快速入門。"
 
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
-msgstr ""
+msgstr "了解關於建立和運作機器人。"
 
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
-msgstr ""
+msgstr "機器人能透過重複性任務來幫助維護 wiki。藉由了解最佳實踐來開始建立和運作機器人。"
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
 
 #: build-tools/get-started.md:block 9 (header)
 msgid "Best practices for open source tools"
-msgstr ""
+msgstr "開放原始碼工具的最佳實踐"
 
 #: build-tools/get-started.md:block 10 (paragraph)
 msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
@@ -333,45 +333,45 @@ msgstr ""
 
 #: build-tools/get-started.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
 
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
-msgstr "維基媒體伺服器上的代管工具"
+msgstr "維基媒體伺服器上代管工具"
 
 #: build-tools/host-tools.md:block 3 (header)
 msgid "Run scripts in your browser"
-msgstr ""
+msgstr "在您的瀏覽器裡執行腳本"
 
 #: build-tools/host-tools.md:block 4 (paragraph)
 msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
-msgstr ""
+msgstr "PAWS 是一個免費、在雲端上代管，能用來建立與維基媒體計劃相關的腳本和資料視覺化的體驗環境。以您的維基媒體帳號登入，並建立一個記事本來開始使用。"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub.paws.wmcloud.org/hub/login)"
-msgstr ""
+msgstr "[參訪 PAWS](https://hub.paws.wmcloud.org/hub/login)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/PAWS)"
 
 #: build-tools/host-tools.md:block 6 (header)
 msgid "Learn about cloud hosting for tools"
-msgstr ""
+msgstr "了解關於工具的雲端代管"
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
-msgstr ""
+msgstr "Toolforge 是一個用於運作和管理工具的免費代管環境。在 Toolforge 裡開發工具可以更輕鬆地存取維基媒體內容和資料，並與其他人分享您的工具。"
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
 msgid "Discover and share tools"
-msgstr ""
+msgstr "探索和分享工具"
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
@@ -386,7 +386,7 @@ msgstr "Toolhub 是一個工具目錄，可以更輕鬆地編輯和維護維基�
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
 msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
-msgstr ""
+msgstr "[參訪 Toolhub](https://toolhub.wikimedia.org/)"
 
 #: build-tools/search.md:block 6 (header)
 msgid "Share a tool"
@@ -394,11 +394,11 @@ msgstr "分享工具"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
-msgstr ""
+msgstr "將您的工具新增到 Toolhub 目錄裡，以讓其他人獲得幫助，並以您的成品為基礎來構建。使用您的維基媒體帳號登入 Toolhub 來開始使用。"
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
-msgstr ""
+msgstr "[新增工具到 Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
 
 #: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
 #: build-tools/tutorials.md:block 1 (header)
@@ -438,17 +438,17 @@ msgstr "[在維基數據了解更多](https://www.wikidata.org/wiki/Special:MyLa
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
 msgid "Display holidays from Wikipedia"
-msgstr ""
+msgstr "顯示來自維基百科的假期"
 
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
-msgstr ""
+msgstr "了解如何使用 MediaWiki API 從維基百科取得指定日期的假期。此教程還介紹如何使用 API 登入維基百科並添加新假期。此教程使用 Python 和 Flask 框架。"
 
 #: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
 
 #: build-tools/tutorials.md:block 15 (header)
 msgid "Add JavaScript or CSS to a wiki"
@@ -456,15 +456,15 @@ msgstr "增加 JavaScript 或 CSS 到 wiki"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr ""
+msgstr "以客戶端 JavaScript 和 CSS 自定義 MediaWiki。分享使用者腳本，探索其他人建立的小工具。"
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
-msgstr ""
+msgstr "在維基媒體雲端伺服器上代管工具"
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
@@ -472,34 +472,34 @@ msgstr ""
 
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
-msgstr ""
+msgstr "[探索駭客松與活動](events.md)"
 
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
 msgid "Browse content from past events, or join an upcoming event."
-msgstr ""
+msgstr "瀏覽過去活動的內容，或加入即將舉辦的活動。"
 
 #: community/index.md:block 4 (header)
 msgid "[Communicate with the tech community](communicate.md)"
-msgstr ""
+msgstr "[與技術社群聯繫](communicate.md)"
 
 #: community/index.md:block 5 (paragraph) community/communicate.md:block 2
 #: (paragraph)
 msgid "Understand communication channels and how to connect with Wikimedia developers."
-msgstr ""
+msgstr "了解交流渠道以及如何與維基媒體開發者聯繫。"
 
 #: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
-msgstr ""
+msgstr "[學習和分享技術技能](grow.md)"
 
 #: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
-msgstr ""
+msgstr "透過研討會、實作和指導機會來提高您的技能，或幫助他人學習。"
 
 #: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
@@ -508,26 +508,26 @@ msgstr ""
 #: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
 msgid "Stay up to date with the latest from the Wikimedia technical community."
-msgstr ""
+msgstr "即時掌握來自維基媒體技術社群的最新消息。"
 
 #: community/index.md:block 10 (header)
 msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
-msgstr ""
+msgstr "[了解維基媒體技術運作](tech-ops.md)"
 
 #: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
 #: (paragraph)
 msgid "Find information about the infrastructure and teams behind Wikimedia technology."
-msgstr ""
+msgstr "查找關於維基媒體技術背後的基礎架構與團隊的資訊。"
 
 #: community/communicate.md:meta.title community/communicate.md:title
 #: community/communicate.md:block 1 (header)
 msgid "Communicate with the tech community"
-msgstr ""
+msgstr "與技術社群交流"
 
 #: community/communicate.md:block 3 (header) contribute/overview.md:block 3
 #: (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
-msgstr ""
+msgstr "閱讀行為準則"
 
 #: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
 #: (paragraph) get-started/new-dev.md:block 13 (paragraph)
@@ -538,39 +538,39 @@ msgstr ""
 #: contribute/overview.md:block 5 (unordered list)
 #: get-started/new-dev.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
 
 #: community/communicate.md:block 6 (header) get-help/index.md:block 9
 #: (header)
 msgid "Communication channels"
-msgstr ""
+msgstr "交流渠道"
 
 #: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
 #: (paragraph)
 msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
-msgstr ""
+msgstr "與開發人員和 MediaWiki 使用者聯繫來取得支援和分享知識。"
 
 #: community/communicate.md:block 8 (unordered list) get-help/index.md:block
 #: 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
 
 #: community/communicate.md:block 9 (header)
 msgid "Find code maintainers and stewards"
-msgstr ""
+msgstr "尋找程式碼維護者和管理員"
 
 #: community/communicate.md:block 10 (paragraph)
 msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
-msgstr ""
+msgstr "瀏覽負責維護核心 MediaWiki 元件、重大擴充功能與外觀、函式庫，和其他維基媒體技術基礎架構的開發人員和團隊清單。"
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
 msgid "Explore hackathons and events"
-msgstr ""
+msgstr "探索駭客松和活動"
 
 #: community/events.md:block 3 (header)
 msgid "Hackathons"
@@ -582,43 +582,43 @@ msgstr "駭客松是讓具有不同技能的人聚集在一起，為共同的技
 
 #: community/events.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
 
 #: community/events.md:block 6 (header)
 msgid "Wikidata events"
-msgstr ""
+msgstr "維基數據活動"
 
 #: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
-msgstr ""
+msgstr "瀏覽維基數據的編輯者、資料重複利用者，和開發人員的聚會。"
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
-msgstr ""
+msgstr "[在維基數據了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
 
 #: community/events.md:block 9 (header)
 msgid "Research events"
-msgstr ""
+msgstr "研究活動"
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
-msgstr ""
+msgstr "加入探索各方面維基媒體計劃的科學家、工程師，和學者的論壇和聚會。"
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
-msgstr ""
+msgstr "[了解更多](https://research.wikimedia.org/events.html)"
 
 #: community/events.md:block 12 (header)
 msgid "MediaWiki developer events"
-msgstr ""
+msgstr "MediaWiki 開發者活動"
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
-msgstr ""
+msgstr "加入與 MediaWiki 和維基媒體程式碼相關的會議、討論會，和程式碼集會。"
 
 #: community/events.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
 
 #: community/events.md:block 15 (header)
 msgid "Coolest Tool Award"
@@ -630,11 +630,11 @@ msgstr "這個年度頒獎活動旨在表揚志工開發者的貢獻。"
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
-msgstr ""
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
 
 #: community/events.md:block 18 (header)
 msgid "Technical skills workshops"
-msgstr ""
+msgstr "技術技能研討會"
 
 #: community/events.md:block 19 (paragraph) community/grow.md:block 7
 #: (paragraph)
@@ -644,47 +644,47 @@ msgstr ""
 #: community/events.md:block 20 (unordered list) community/grow.md:block 8
 #: (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr ""
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
 msgid "Learn and share technical skills"
-msgstr ""
+msgstr "學習和分享技術技能"
 
 #: community/grow.md:block 3 (header)
 msgid "Outreach and mentoring programs"
-msgstr ""
+msgstr "拓廣和指導計劃"
 
 #: community/grow.md:block 4 (paragraph)
 msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
-msgstr ""
+msgstr "透過像是 Outreachy 和 Google 夏日程式碼大賽等實作和指導計劃來提升您的技能。"
 
 #: community/grow.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 
 #: community/grow.md:block 6 (header)
 msgid "Small wiki toolkits"
-msgstr ""
+msgstr "小型 wiki 工具包"
 
 #: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
 msgid "Videos and tech talks"
-msgstr ""
+msgstr "影片與技術對談"
 
 #: community/grow.md:block 10 (paragraph) get-started/wikimedia-tech.md:block
 #: 7 (paragraph)
 msgid "Learn about Wikimedia technology through recorded presentations from the community."
-msgstr ""
+msgstr "透過社群錄製的演示來了解維基媒體技術。"
 
 #: community/grow.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
-msgstr ""
+msgstr "[參訪 YouTube 頻道](https://www.youtube.com/user/watchmediawiki/videos)"
 
 #: community/grow.md:block 12 (header)
 msgid "Tech ambassadors"
-msgstr ""
+msgstr "技術大使"
 
 #: community/grow.md:block 13 (paragraph)
 msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
@@ -696,11 +696,11 @@ msgstr ""
 
 #: community/tech-ops.md:meta.title community/tech-ops.md:title
 msgid "Learn about Wikimedia technical operations"
-msgstr ""
+msgstr "了解維基媒體技術操作"
 
 #: community/tech-ops.md:block 1 (header)
 msgid "Wikimedia technical operations"
-msgstr ""
+msgstr "維基媒體技術操作"
 
 #: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
 #: 9 (header)
@@ -710,52 +710,52 @@ msgstr "雲端工具和服務"
 #: community/tech-ops.md:block 4 (paragraph)
 #: get-started/wikimedia-tech.md:block 10 (paragraph)
 msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
-msgstr ""
+msgstr "了解共享主機、資料服務，和其他對維基媒體計劃技術貢獻的基礎架構支援。"
 
 #: community/tech-ops.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
 
 #: community/tech-ops.md:block 6 (header)
 msgid "Performance monitoring"
-msgstr ""
+msgstr "效能監控"
 
 #: community/tech-ops.md:block 7 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
-msgstr ""
+msgstr "監控維基媒體網站當下與之前的效能。"
 
 #: community/tech-ops.md:block 8 (unordered list)
 msgid "[Read more](https://performance.wikimedia.org/)"
-msgstr ""
+msgstr "[了解更多](https://performance.wikimedia.org/)"
 
 #: community/tech-ops.md:block 9 (header)
 msgid "Security policies"
-msgstr ""
+msgstr "安全政策"
 
 #: community/tech-ops.md:block 10 (paragraph)
 msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
-msgstr ""
+msgstr "閱讀 MediaWiki 平台與維基媒體基金會的安全政策。"
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
-msgstr ""
+msgstr "軟體部署"
 
 #: community/tech-ops.md:block 13 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
-msgstr ""
+msgstr "追蹤維基媒體基金會伺服器的軟體部署。"
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Deployments)"
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
-msgstr ""
+msgstr "結構化資料基礎架構"
 
 #: community/tech-ops.md:block 16 (paragraph)
 msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
@@ -763,36 +763,36 @@ msgstr ""
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
-msgstr ""
+msgstr "[閱讀文件](https://wmde.github.io/wikidata-wikibase-architecture/)"
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
-msgstr ""
+msgstr "技術基礎架構"
 
 #: community/tech-ops.md:block 19 (paragraph)
 msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
-msgstr ""
+msgstr "了解基本的維基媒體基礎架構，像是網路、資料中心、日誌紀錄，並瀏覽架構圖。"
 
 #: community/tech-ops.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Technical decision-making process"
-msgstr ""
+msgstr "技術決策過程"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about why and how technical decisions are made, and browse decision records."
-msgstr ""
+msgstr "了解為何與如何做出技術決策，並瀏覽決策紀錄。"
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
 msgid "Get tech project updates"
-msgstr ""
+msgstr "取得技術計劃更新"
 
 #: community/updates.md:block 3 (header)
 msgid "Tech blog"
@@ -800,11 +800,11 @@ msgstr "技術部落格"
 
 #: community/updates.md:block 4 (paragraph)
 msgid "Read blog posts from the Wikimedia technical community."
-msgstr ""
+msgstr "閱讀來自維基媒體技術社群的部落格文章。"
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr ""
+msgstr "[參訪技術部落格](https://techblog.wikimedia.org/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Technical community newsletter"
@@ -812,11 +812,11 @@ msgstr "技術社群通訊"
 
 #: community/updates.md:block 7 (paragraph)
 msgid "Subscribe to quarterly updates on activities in the Wikimedia technical community."
-msgstr ""
+msgstr "訂閱在維基媒體技術社群上活動的每季更新。"
 
 #: community/updates.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
 
 #: community/updates.md:block 9 (header)
 msgid "Tech news"
@@ -824,11 +824,11 @@ msgstr "技術新聞"
 
 #: community/updates.md:block 10 (paragraph)
 msgid "Get weekly summaries of technical topics for Wikimedians."
-msgstr ""
+msgstr "取得維基媒體人的每週技術主題摘要。"
 
 #: community/updates.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
-msgstr ""
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 
 #: contribute/index.md:meta.title contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
@@ -845,7 +845,7 @@ msgstr ""
 
 #: contribute/index.md:block 4 (header)
 msgid "[Contribute by topic](by-topic.md)"
-msgstr ""
+msgstr "[按主題貢獻](by-topic.md)"
 
 #: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
 #: (paragraph)
@@ -854,7 +854,7 @@ msgstr "尋找貢獻的方法，與有共同興趣的人聯繫。"
 
 #: contribute/index.md:block 6 (header)
 msgid "[Contribute by programming language](by-language.md)"
-msgstr ""
+msgstr "[按程式語言貢獻](by-language.md)"
 
 #: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
 #: (paragraph)
@@ -868,7 +868,7 @@ msgstr ""
 #: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
 #: (paragraph)
 msgid "Search all Wikimedia open source software projects."
-msgstr ""
+msgstr "搜尋所有維基媒體的開放原始碼軟體計劃。"
 
 #: contribute/by-language.md:meta.title contribute/by-language.md:title
 msgid "Contribute by programming language"
@@ -884,23 +884,23 @@ msgstr "JavaScript"
 
 #: contribute/by-language.md:block 7 (header)
 msgid "Codex"
-msgstr ""
+msgstr "Codex"
 
 #: contribute/by-language.md:block 8 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
-msgstr ""
+msgstr "Codex 是一個以使用 Vue 的維基媒體設計系統來構建使用者介面的工具包。"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
-msgstr "[閱讀文件]（https://doc.wikimedia.org/codex/main）"
+msgstr "[閱讀文件](https://doc.wikimedia.org/codex/main)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
-msgstr ""
+msgstr "[貢獻](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
-msgstr ""
+msgstr "[取得開放原始碼](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 10 (header)
 msgid "VideoCutTool"
@@ -912,15 +912,15 @@ msgstr "一個在維基共享資源上編輯影片的工具，使用 React JS �
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://videocuttool.wmflabs.org)"
-msgstr "[閱讀文件]（https://videocuttool.wmflabs.org）"
+msgstr "[閱讀文件](https://videocuttool.wmflabs.org)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr ""
+msgstr "[貢獻](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
-msgstr ""
+msgstr "[取得開放原始碼](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "Java"
@@ -936,15 +936,15 @@ msgstr "維基共享資源 Android 應用程式能讓使用者從他們的裝置
 
 #: contribute/by-language.md:block 16 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
-msgstr "[閱讀文件]（https://commons-app.github.io/）"
+msgstr "[閱讀文件](https://commons-app.github.io/)"
 
 #: contribute/by-language.md:block 16 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
-msgstr ""
+msgstr "[貢獻](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
 
 #: contribute/by-language.md:block 16 (unordered list)
 msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
-msgstr ""
+msgstr "[取得開放原始碼](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 17 (header)
 msgid "Kotlin"
@@ -956,11 +956,11 @@ msgstr "Kiwix"
 
 #: contribute/by-language.md:block 19 (paragraph)
 msgid "An offline reader for people without internet access."
-msgstr ""
+msgstr "為沒有網際網路可使用的人們提供的離線閱讀器。"
 
 #: contribute/by-language.md:block 20 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr ""
+msgstr "[閱讀文件](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 20 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
@@ -972,7 +972,7 @@ msgstr "[取得原始碼](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 21 (header)
 msgid "Scribe"
-msgstr ""
+msgstr "Scribe"
 
 #: contribute/by-language.md:block 22 (paragraph)
 msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
@@ -980,7 +980,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Read the docs](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[閱讀文件](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
@@ -1004,19 +1004,19 @@ msgstr "Blubber"
 
 #: contribute/by-language.md:block 26 (paragraph)
 msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
-msgstr ""
+msgstr "Blubber 是一種基礎架構工具，可組態 Docker 容器並測試程式碼，來作為維基媒體持續整合管道的一部分。"
 
 #: contribute/by-language.md:block 27 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Blubber)"
 
 #: contribute/by-language.md:block 27 (unordered list)
 msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[貢獻](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 27 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
-msgstr ""
+msgstr "[取得原始碼](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
 
 #: contribute/by-language.md:block 28 (header)
 msgid "PHP"
@@ -1030,25 +1030,25 @@ msgstr "MediaWiki"
 #: contribute/by-language.md:block 30 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
-msgstr ""
+msgstr "MediaWiki 是運作維基百科與其相關的姊妹計劃，以及全世界數以千計 wiki 的軟體。"
 
 #: contribute/by-language.md:block 31 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
-msgstr ""
+msgstr "[參訪 mediawiki.org](https://www.mediawiki.org/)"
 
 #: contribute/by-language.md:block 31 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
-msgstr ""
+msgstr "[貢獻](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 
 #: contribute/by-language.md:block 31 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
-msgstr ""
+msgstr "[取得開放原始碼](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
 #: contribute/by-language.md:block 32 (header)
 msgid "Ruby"
@@ -1068,11 +1068,11 @@ msgstr ""
 
 #: contribute/by-language.md:block 35 (unordered list)
 msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[貢獻](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 35 (unordered list)
 msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
-msgstr ""
+msgstr "[取得原始碼](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-language.md:block 36 (header)
 msgid "Swift"
@@ -1086,17 +1086,17 @@ msgstr "按主題貢獻"
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
-msgstr ""
+msgstr "本地化和國際化"
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
-msgstr ""
+msgstr "編寫可以本地化的代碼，翻譯您的代碼，以及對維基媒體技術的多語言化做出貢獻。"
 
 #: contribute/by-topic.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
 
 #: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
 #: 18 (header)
@@ -1106,12 +1106,12 @@ msgstr "行動應用程式"
 #: contribute/by-topic.md:block 10 (paragraph)
 #: get-started/wikimedia-tech.md:block 19 (paragraph)
 msgid "Expand the reach of Wikimedia content by contributing to mobile apps for Wikipedia, Wikimedia Commons, and other projects."
-msgstr ""
+msgstr "透過對維基百科、維基媒體共享資源，和其他計劃相關行動應用程序的貢獻，來擴大維基媒體內容的範圍。"
 
 #: contribute/by-topic.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 20 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
-msgstr ""
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
 
 #: contribute/by-topic.md:block 12 (header)
 msgid "Documentation"
@@ -1119,39 +1119,39 @@ msgstr "文件"
 
 #: contribute/by-topic.md:block 13 (paragraph)
 msgid "Read the documentation style guide, and find good first tasks for improving documentation."
-msgstr ""
+msgstr "閱讀文件的風格指南，並找出改善文件的首要任務。"
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
-msgstr ""
+msgstr "離線閱讀"
 
 #: contribute/by-topic.md:block 16 (paragraph)
 msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
-msgstr ""
+msgstr "藉由幫助人們在沒有網際網路的情況下能使用維基百科，來增長免費知識的範圍。"
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-msgstr ""
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
-msgstr ""
+msgstr "[貢獻](https://www.kiwix.org/en/support-us/code/)"
 
 #: contribute/by-topic.md:block 18 (header)
 msgid "Infrastructure"
-msgstr ""
+msgstr "基礎架構"
 
 #: contribute/by-topic.md:block 19 (paragraph)
 msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
-msgstr ""
+msgstr "為支援維基媒體計劃的基礎架構做出貢獻。協助增進維基媒體伺服器和軟體的性能與效率。"
 
 #: contribute/by-topic.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Get_involved)"
 
 #: contribute/overview.md:meta.title contribute/overview.md:title
 #: contribute/overview.md:block 1 (header)
@@ -1161,7 +1161,7 @@ msgstr ""
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
 msgid "Create a developer account"
-msgstr ""
+msgstr "建立開發者帳號"
 
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
@@ -1171,7 +1171,7 @@ msgstr ""
 #: contribute/overview.md:block 8 (unordered list)
 #: get-started/new-dev.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
 
 #: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
 #: (header)
@@ -1186,19 +1186,19 @@ msgstr ""
 #: contribute/overview.md:block 11 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
 
 #: contribute/overview.md:block 12 (header)
 msgid "Review guidelines and code conventions"
-msgstr ""
+msgstr "查看指南和程式碼慣例"
 
 #: contribute/overview.md:block 13 (paragraph)
 msgid "Understand development policies, best practices, and code conventions for Wikimedia software."
-msgstr ""
+msgstr "了解維基媒體軟體的開發方針、最佳實踐，以及程式碼慣例。"
 
 #: contribute/overview.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
 
 #: contribute/overview.md:block 15 (header)
 msgid "See your contributions"
@@ -1219,17 +1219,17 @@ msgstr ""
 
 #: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
 msgid "Search codebases"
-msgstr ""
+msgstr "搜尋代碼庫"
 
 #: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
 #: (paragraph)
 msgid "Search all Wikimedia codebases using the code search tool."
-msgstr ""
+msgstr "使用程式碼搜尋工具來搜尋所有維基媒體代碼庫。"
 
 #: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
 #: (unordered list)
 msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
-msgstr ""
+msgstr "[參訪程式碼搜尋](https://codesearch.wmcloud.org/search)"
 
 #: contribute/search.md:block 6 (header)
 msgid "Browse Wikimedia open source docs"
@@ -1237,11 +1237,11 @@ msgstr "瀏覽維基媒體開放原始碼文件"
 
 #: contribute/search.md:block 7 (paragraph)
 msgid "Browse auto-generated and related documentation hosted on doc.wikimedia.org."
-msgstr ""
+msgstr "瀏覽在 doc.wikimedia.org 上代管的自動產生相關文件。"
 
 #: contribute/search.md:block 8 (unordered list)
 msgid "[Browse docs](https://doc.wikimedia.org)"
-msgstr ""
+msgstr "[瀏覽文件](https://doc.wikimedia.org)"
 
 #: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
 #: 7 (header)
@@ -1251,7 +1251,7 @@ msgstr ""
 #: contribute/search.md:block 10 (paragraph)
 #: get-started/browse-languages.md:block 8 (paragraph)
 msgid "Explore Wikimedia codebases."
-msgstr ""
+msgstr "探索維基媒體代碼庫。"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
@@ -1270,7 +1270,7 @@ msgstr ""
 
 #: contribute/search.md:block 12 (header)
 msgid "Search tools and bots"
-msgstr ""
+msgstr "搜尋工具和機器人"
 
 #: get-help/index.md:block 2 (paragraph)
 msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
@@ -1282,47 +1282,47 @@ msgstr "搜尋文件"
 
 #: get-help/index.md:block 4 (paragraph)
 msgid "Find technical information for Wikimedia projects."
-msgstr ""
+msgstr "查找維基媒體計劃的技術資訊。"
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Search across wikis](https://global-search.toolforge.org/)"
-msgstr ""
+msgstr "[在各 wiki 搜尋](https://global-search.toolforge.org/)"
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
-msgstr ""
+msgstr "[瀏覽維基媒體開放原始碼文件](https://doc.wikimedia.org/)"
 
 #: get-help/index.md:block 12 (header)
 msgid "Check system status"
-msgstr ""
+msgstr "檢查系統狀態"
 
 #: get-help/index.md:block 13 (paragraph)
 msgid "Verify the overall health and performance of the wiki environment, and find out about major outages."
-msgstr ""
+msgstr "驗證 wiki 環境的整體健康狀況和效能，並了解重大服務中斷情況。"
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
-msgstr ""
+msgstr "[參訪 wikimediastatus.net](https://www.wikimediastatus.net/)"
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
-msgstr ""
+msgstr "[查看維基媒體 wiki 使用的 MediaWiki 版本](https://versions.toolforge.org/)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
-msgstr ""
+msgstr "[了解維基媒體技術](wikimedia-tech.md)"
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
-msgstr ""
+msgstr "探索維基媒體計劃背後的開放原始碼軟體和技術元件。"
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
-msgstr ""
+msgstr "[了解開發過程](new-dev.md)"
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
-msgstr ""
+msgstr "了解維基媒體軟體計劃如何運作，以及如何做出技術貢獻。"
 
 #: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
 #: (paragraph)
@@ -1331,7 +1331,7 @@ msgstr ""
 
 #: get-started/index.md:block 7 (header)
 msgid "[Browse by programming language](browse-languages.md)"
-msgstr ""
+msgstr "[按程式語言瀏覽](browse-languages.md)"
 
 #: get-started/index.md:block 8 (paragraph)
 msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
@@ -1340,7 +1340,7 @@ msgstr ""
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
 msgid "Browse by programming language"
-msgstr ""
+msgstr "按程式語言瀏覽"
 
 #: get-started/browse-languages.md:block 1 (header)
 msgid "API client libraries by language"
@@ -1361,11 +1361,11 @@ msgstr ""
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr ""
+msgstr "了解開發過程"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
-msgstr ""
+msgstr "了解如何為維基媒體計劃做出技術貢獻。"
 
 #: get-started/new-dev.md:block 9 (header)
 msgid "Find tickets, and track projects"
@@ -1373,31 +1373,31 @@ msgstr ""
 
 #: get-started/new-dev.md:block 10 (paragraph)
 msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
-msgstr ""
+msgstr "維基媒體使用 Phabricator 進行任務管理和程式錯誤報告。要與任務互動，請建立一個 Phabricator 帳號。"
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
-msgstr ""
+msgstr "[參訪 Phabricator](https://phabricator.wikimedia.org/)"
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
 
 #: get-started/new-dev.md:block 15 (header)
 msgid "Learn how to submit code"
-msgstr ""
+msgstr "了解如何提交程式碼"
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid "Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices."
-msgstr ""
+msgstr "許多維基媒體計劃使用 Git 和 Gerrit 進行開發。在您要提交程式碼來進行檢閱之前，請先熟悉工具、流程，和最佳實踐。"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
-msgstr ""
+msgstr "使用內容和資料的教程"
 
 #: get-started/tutorials.md:block 3 (paragraph)
 msgid "Learn the basics of using Wikimedia content and data in your project."
@@ -1405,25 +1405,25 @@ msgstr ""
 
 #: get-started/tutorials.md:block 4 (paragraph)
 msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
-msgstr ""
+msgstr "[瀏覽教程](../use-content/tutorials.md){ .md-button }"
 
 #: get-started/tutorials.md:block 5 (header)
 msgid "Tutorials for building tools and bots"
-msgstr ""
+msgstr "構建工具和機器人的教程"
 
 #: get-started/tutorials.md:block 6 (paragraph)
 msgid "Learn the basics of writing code that interacts with Wikimedia projects."
-msgstr ""
+msgstr "了解編寫與維基媒體計劃互動的程式碼的基礎知識。"
 
 #: get-started/tutorials.md:block 7 (paragraph)
 msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
-msgstr ""
+msgstr "[瀏覽教程](../build-tools/tutorials.md){ .md-button }"
 
 #: get-started/wikimedia-tech.md:meta.title
 #: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
 #: (header)
 msgid "Learn about Wikimedia technology"
-msgstr ""
+msgstr "了解維基媒體技術"
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
@@ -1439,7 +1439,7 @@ msgstr "了解關於開發人員可貢獻的主要技術領域。"
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
@@ -1451,11 +1451,11 @@ msgstr "Wikibase 是用於處理結構化資料的 MediaWiki 擴充，是提供�
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
-msgstr "[參訪 wikidata.org]（https://www.wikidata.org/）"
+msgstr "[參訪 wikidata.org](https://www.wikidata.org/)"
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 
 #: use-content/index.md:block 2 (header)
 msgid "[Explore featured apps](featured-apps.md)"
@@ -1473,7 +1473,7 @@ msgstr "依照逐步指南來學習使用維基媒體內容與資料的基礎知
 
 #: use-content/index.md:block 6 (header)
 msgid "[Use wiki content](content.md)"
-msgstr ""
+msgstr "[使用 wiki 內容](content.md)"
 
 #: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
 #: (paragraph)
@@ -1492,11 +1492,11 @@ msgstr "探索您可以用於研究和機器學習的公用資料。"
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
 msgid "Use wiki content"
-msgstr ""
+msgstr "使用 wiki 內容"
 
 #: use-content/content.md:block 3 (header)
 msgid "Introduction to Wikimedia projects"
-msgstr ""
+msgstr "維基媒體計劃介紹"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
@@ -1504,7 +1504,7 @@ msgstr ""
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
-msgstr ""
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
 
 #: use-content/content.md:block 6 (header)
 msgid "Review the terms and conditions"
@@ -1516,11 +1516,11 @@ msgstr ""
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
-msgstr ""
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
-msgstr ""
+msgstr "取得企業服務"
 
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
@@ -1528,7 +1528,7 @@ msgstr ""
 
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more](https://enterprise.wikimedia.com)"
-msgstr ""
+msgstr "[了解更多](https://enterprise.wikimedia.com)"
 
 #: use-content/data.md:meta.title use-content/data.md:title
 #: use-content/data.md:block 1 (header)
@@ -1537,7 +1537,7 @@ msgstr "存取開放資料"
 
 #: use-content/data.md:block 3 (header)
 msgid "Use Wikimedia open data"
-msgstr ""
+msgstr "使用維基媒體的開放資料"
 
 #: use-content/data.md:block 4 (paragraph)
 msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
@@ -1598,11 +1598,11 @@ msgstr "維基數據是一個包含數百萬個項目、機器可讀的知識庫
 
 #: use-content/featured-apps.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
-msgstr ""
+msgstr "[在維基數據了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
-msgstr ""
+msgstr "顯示來自維基數據的資訊"
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
@@ -1610,7 +1610,7 @@ msgstr ""
 
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
@@ -1630,11 +1630,11 @@ msgstr "開始查詢維基數據"
 
 #: use-content/tutorials.md:block 16 (paragraph)
 msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
-msgstr ""
+msgstr "了解如何使用 SPARQL 查詢維基數據。此教程涵蓋維基數據的基礎知識，和如何使用維基數據查詢服務。"
 
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr ""
+msgstr "[了解更多](https://wdqs-tutorial.toolforge.org)"
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
@@ -1646,5 +1646,5 @@ msgstr "了解如何使用 MediaWiki API 來搜尋位於特定位置周遭的維
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr ""
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 
