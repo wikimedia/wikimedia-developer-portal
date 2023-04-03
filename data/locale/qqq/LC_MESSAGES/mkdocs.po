@@ -3,6 +3,7 @@
 #
 # Author: Amire80
 # Author: BryanDavis
+# Author: MRidhaAJ
 # Author: Nguyenphutrong2
 # Author: Verdy p
 # --
@@ -26,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-03-16 12:19:19+0000\n"
+"PO-Revision-Date: 2023-04-03 11:28:50+0000\n"
 "X-POT-Import-Date: 2023-03-09 19:30:24+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,7 +41,7 @@ msgstr ""
 
 #: mkdocs.yml:site_description
 msgid "Find technical documentation, and connect with Wikimedia developer communities."
-msgstr ""
+msgstr "A description for Wikimedia developer portal"
 
 #: mkdocs.yml:site_author
 msgid "Wikimedia Foundation and contributors"

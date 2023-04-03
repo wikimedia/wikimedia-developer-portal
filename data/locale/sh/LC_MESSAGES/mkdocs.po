@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-03-16 12:19:19+0000\n"
+"PO-Revision-Date: 2023-04-03 11:28:51+0000\n"
 "X-POT-Import-Date: 2023-03-09 19:30:24+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -453,7 +453,7 @@ msgstr "Dodajte JavaScript ili CSS na wiki"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr ""
+msgstr "Prilagodite MediaWiki s JavaScriptom i CSS-om na strani klijenta. Podijelite korisničke skripte i istražite spravice koje su drugi ljudi izradili."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -901,11 +901,11 @@ msgstr "[Dobijte izvorni kod](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 10 (header)
 msgid "VideoCutTool"
-msgstr ""
+msgstr "Videouređivanje"
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
-msgstr ""
+msgstr "Alat za uređivanje videozapisa na Vikimedijinoj ostavi, izgrađen pomoću React JS i Node JS."
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://videocuttool.wmflabs.org)"
