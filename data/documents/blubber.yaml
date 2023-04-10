@@ -4,9 +4,9 @@ description: Blubber is an infrastructure tool that configures Docker containers
 links:
   - url: https://wikitech.wikimedia.org/wiki/Blubber
     label: Read more on Wikitech
-  - url: https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md
+  - url: https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md
     label: Contribute
-  - url: https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/
+  - url: https://gitlab.wikimedia.org/repos/releng/blubber/
     label: Get the source code
 categories:
   - contribute-go
