@@ -26,8 +26,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-03-27 11:14:54+0000\n"
-"X-POT-Import-Date: 2023-03-09 19:30:24+0000\n"
+"PO-Revision-Date: 2023-04-13 11:22:45+0000\n"
+"X-POT-Import-Date: 2023-04-11 13:56:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hant\n"
@@ -1011,12 +1011,12 @@ msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
 msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Blubber)"
 
 #: contribute/by-language.md:block 27 (unordered list)
-msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
-msgstr "[貢獻](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
+msgid "[Contribute](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
+msgstr "[貢獻](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 27 (unordered list)
-msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
-msgstr "[取得原始碼](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
+msgstr "[取得原始碼](https://gitlab.wikimedia.org/repos/releng/blubber/)"
 
 #: contribute/by-language.md:block 28 (header)
 msgid "PHP"

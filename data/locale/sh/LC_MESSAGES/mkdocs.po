@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-04-03 11:28:51+0000\n"
-"X-POT-Import-Date: 2023-03-09 19:30:24+0000\n"
+"PO-Revision-Date: 2023-04-13 11:22:45+0000\n"
+"X-POT-Import-Date: 2023-04-11 13:56:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sh\n"
@@ -53,7 +53,7 @@ msgstr "Politika privatnosti"
 
 #: mkdocs.yml:extra.footer_links.1
 msgid "Terms of Use"
-msgstr "Uslovi korišćenja"
+msgstr "Uslovi korištenja"
 
 #: mkdocs.yml:extra.footer_links.2
 msgid "Code: GPL-3.0-or-later"
@@ -909,15 +909,15 @@ msgstr "Alat za uređivanje videozapisa na Vikimedijinoj ostavi, izgrađen pomo�
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://videocuttool.wmflabs.org)"
-msgstr ""
+msgstr "[Pročitajte dokumente](https://videocuttool.wmflabs.org)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr ""
+msgstr "[Doprinesite](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
-msgstr ""
+msgstr "[Dobijte izvorni kod](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "Java"
@@ -945,51 +945,51 @@ msgstr "[Dobijte izvorni kod](https://github.com/commons-app/apps-android-common
 
 #: contribute/by-language.md:block 17 (header)
 msgid "Kotlin"
-msgstr ""
+msgstr "Kotlin"
 
 #: contribute/by-language.md:block 18 (header)
 msgid "Kiwix"
-msgstr ""
+msgstr "Kiwix"
 
 #: contribute/by-language.md:block 19 (paragraph)
 msgid "An offline reader for people without internet access."
-msgstr ""
+msgstr "Izvanmrežni čitač za osobe bez pristupa internetu."
 
 #: contribute/by-language.md:block 20 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr ""
+msgstr "[Pročitajte dokumente](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 20 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Doprinesite](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 20 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
-msgstr ""
+msgstr "[Dobijte izvorni kod](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 21 (header)
 msgid "Scribe"
-msgstr ""
+msgstr "Scribe"
 
 #: contribute/by-language.md:block 22 (paragraph)
 msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
-msgstr ""
+msgstr "Tipkovnice na Wikipodacima za učenike drugog jezika, uključujući prijevod, konjugaciju glagola i pribilješke o rodu imenica."
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Read the docs](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[Pročitajte dokumente](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Doprinesite (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Doprinesite (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[Dobijte izvorni kod](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 24 (header)
 msgid "Go"
@@ -1008,12 +1008,12 @@ msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
 msgstr "[Čitajte više na Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
 
 #: contribute/by-language.md:block 27 (unordered list)
-msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
-msgstr "[Doprinesite](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
+msgid "[Contribute](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
+msgstr "[Doprinesite](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 27 (unordered list)
-msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
-msgstr "[Dobijte izvorni kod](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
+msgstr "[Dobijte izvorni kod](https://gerrit.wikimedia.org/repos/releng/blubber/)"
 
 #: contribute/by-language.md:block 28 (header)
 msgid "PHP"
@@ -1022,7 +1022,7 @@ msgstr "PHP"
 #: contribute/by-language.md:block 29 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
 msgid "MediaWiki"
-msgstr ""
+msgstr "MediaWiki"
 
 #: contribute/by-language.md:block 30 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
@@ -1073,7 +1073,7 @@ msgstr "[Dobijte izvorni kod](https://github.com/WikiEducationFoundation/WikiEdu
 
 #: contribute/by-language.md:block 36 (header)
 msgid "Swift"
-msgstr ""
+msgstr "Swift"
 
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
@@ -1428,15 +1428,15 @@ msgstr "Istražite temeljnu Wikimedijinu tehnologiju i otvorene projekte."
 
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Introduction to Wikimedia technology"
-msgstr ""
+msgstr "Uvod u Wikimedijinu tehnologiju"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn about the main technical areas where developers can contribute."
-msgstr ""
+msgstr "Saznajte više o glavnim tehničkim područjima na kojima programeri mogu doprinijeti."
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
-msgstr ""
+msgstr "[Čitajte više na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"

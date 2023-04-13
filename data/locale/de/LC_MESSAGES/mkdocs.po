@@ -27,8 +27,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-03-16 12:19:18+0000\n"
-"X-POT-Import-Date: 2023-03-09 19:30:24+0000\n"
+"PO-Revision-Date: 2023-04-13 11:22:43+0000\n"
+"X-POT-Import-Date: 2023-04-11 13:56:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: de\n"
@@ -1012,12 +1012,12 @@ msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
 msgstr "[Weiterlesen auf Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)[](https://wikitech.wikimedia.org/wiki/Blubber)"
 
 #: contribute/by-language.md:block 27 (unordered list)
-msgid "[Contribute](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
-msgstr "[Beitragen](https://gerrit.wikimedia.org/g/blubber/+/master/CONTRIBUTING.md)"
+msgid "[Contribute](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
+msgstr ""
 
 #: contribute/by-language.md:block 27 (unordered list)
-msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
-msgstr "[Quelltext herunterladen](https://gerrit.wikimedia.org/r/plugins/gitiles/blubber/)"
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
+msgstr ""
 
 #: contribute/by-language.md:block 28 (header)
 msgid "PHP"
