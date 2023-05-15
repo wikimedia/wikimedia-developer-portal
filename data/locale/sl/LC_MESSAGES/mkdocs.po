@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-04-27 11:20:28+0000\n"
+"PO-Revision-Date: 2023-05-15 11:15:52+0000\n"
 "X-POT-Import-Date: 2023-04-11 13:56:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -359,7 +359,7 @@ msgstr "Seznanite se z gostovanjem orodij v oblaku"
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
-msgstr "Toolforge je brezplačno gostiteljsko okolje za izvajanje in upravljanje orodij. Razvijanje orodij v Toolforge podpira dostop do vsebine in podatkov Wikimedie ter deljenje vaših orodij z drugimi."
+msgstr "Toolforge je prosto gostiteljsko okolje za izvajanje in upravljanje orodij. Razvijanje orodij v Toolforge podpira dostop do vsebine in podatkov Wikimedie ter deljenje vaših orodij z drugimi."
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
@@ -465,7 +465,7 @@ msgstr "Gostite orodje v oblakovnih strežnikih Wikimedie"
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
-msgstr "Toolforge je brezplačno gostiteljsko okolje za izvajanje in upravljanje orodij. Začnite uporabljati Toolforge tako, da ustvarite račun in nastavite osnovno spletno storitev."
+msgstr "Toolforge je prosto gostiteljsko okolje za izvajanje in upravljanje orodij. Začnite uporabljati Toolforge tako, da si ustvarite račun in nastavite osnovno spletno storitev."
 
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
