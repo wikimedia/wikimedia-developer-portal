@@ -58,7 +58,7 @@ msgid "Code: GPL-3.0-or-later"
 msgstr ""
 
 #: mkdocs.yml:extra.footer_links.3
-msgid "Content: CC-BY-SA-3.0"
+msgid "Content: CC-BY-SA-4.0"
 msgstr ""
 
 #: mkdocs.yml:extra.footer_links.4
@@ -1821,7 +1821,7 @@ msgstr ""
 #: use-content/content.md:block 8 (unordered list)
 msgid ""
 "[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+"Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
 msgstr ""
 
 #: use-content/content.md:block 18 (header)
