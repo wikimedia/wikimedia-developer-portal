@@ -1820,7 +1820,7 @@ msgstr ""
 
 #: use-content/content.md:block 8 (unordered list)
 msgid ""
-"[Read more on Meta-"
+"[Read more on the Wikimedia Foundation Governance "
 "Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
 msgstr ""
 
