@@ -73,6 +73,7 @@ variants:
           poetry install
           && ls -alh
           && poetry run mkdocs --verbose build
+          && git diff --no-ext-diff --compact-summary --exit-code data/locale/en/LC_MESSAGES/mkdocs.po
 
   production:
     base: docker-registry.wikimedia.org/bullseye:latest

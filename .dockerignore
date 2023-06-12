@@ -3,11 +3,8 @@
 
 # Conditionally include things we know we want in the container
 !.flake8
-# Copy .git/refs/heads/* into the container
+# T299804: Copy the full .git directory into the container
 !.git
-.git/*
-!.git/HEAD
-!.git/refs/heads/*
 !.pipeline
 !COPYING
 !contrib

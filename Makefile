@@ -54,7 +54,8 @@ tail:  ## Tail logs from the docker-compose stack
 	docker-compose logs -f
 .PHONY: tail
 
-test: lint
+test: lint build
+	docker-compose exec portal git diff --no-ext-diff --compact-summary --exit-code data/locale/en/LC_MESSAGES/mkdocs.po
 .PHONY: test
 
 lint:

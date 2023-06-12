@@ -5,8 +5,13 @@ pipelines:
       - name: lint
         build: lint
         run:
-          env:
+          env: &env-settings
             PIPELINE_RUNNING: '1'
+
+      - name: test
+        build: build
+        run:
+          env: *env-settings
 
   publish:
     blubberfile: blubber.yaml
