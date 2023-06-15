@@ -25,8 +25,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-04-27 11:20:27+0000\n"
-"X-POT-Import-Date: 2023-04-11 13:56:34+0000\n"
+"PO-Revision-Date: 2023-06-15 11:42:43+0000\n"
+"X-POT-Import-Date: 2023-06-13 06:00:45+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fi\n"
@@ -62,8 +62,8 @@ msgid "Code: GPL-3.0-or-later"
 msgstr "Koodi: GPL-3.0 tai uudempi"
 
 #: mkdocs.yml:extra.footer_links.3
-msgid "Content: CC-BY-SA-3.0"
-msgstr "Sisältö: CC-BY-SA-3.0"
+msgid "Content: CC-BY-SA-4.0"
+msgstr ""
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -1514,8 +1514,8 @@ msgid "Most Wikimedia content is licensed under a Creative Commons license that 
 msgstr "Suurin osa Wikimedian sisällöstä on lisensoitu lisenssillä Creative Commons, joka sallii ilmaisen uudelleenkäytön ja tekijänoikeudet. Voit tarkistaa lisenssin minkä tahansa wikin alaosasta."
 
 #: use-content/content.md:block 8 (unordered list)
-msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
-msgstr "[Lue lisää Meta-Wikissä](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
+msgstr ""
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"

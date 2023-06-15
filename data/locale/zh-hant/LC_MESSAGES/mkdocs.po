@@ -26,8 +26,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-04-27 11:20:29+0000\n"
-"X-POT-Import-Date: 2023-04-11 13:56:34+0000\n"
+"PO-Revision-Date: 2023-06-15 11:42:48+0000\n"
+"X-POT-Import-Date: 2023-06-13 06:00:45+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hant\n"
@@ -63,8 +63,8 @@ msgid "Code: GPL-3.0-or-later"
 msgstr "程式碼：GPL-3.0 或後續版本"
 
 #: mkdocs.yml:extra.footer_links.3
-msgid "Content: CC-BY-SA-3.0"
-msgstr "內容：CC-BY-SA-3.0"
+msgid "Content: CC-BY-SA-4.0"
+msgstr "內容：CC-BY-SA-4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -1515,8 +1515,8 @@ msgid "Most Wikimedia content is licensed under a Creative Commons license that 
 msgstr "多數維基媒體內容是基於創用 CC 授權條款來獲得許可，允許在姓名標示的條件下免費重複使用。您可以查看任何 wiki 頁面的底部，來找出合適的授權條款。"
 
 #: use-content/content.md:block 8 (unordered list)
-msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
-msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
+msgstr "[在維基媒體基金會治理 Wiki 上閱讀更多內容](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"

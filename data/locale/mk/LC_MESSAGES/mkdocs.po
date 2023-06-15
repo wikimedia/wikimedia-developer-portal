@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-04-27 11:20:28+0000\n"
-"X-POT-Import-Date: 2023-04-11 13:56:34+0000\n"
+"PO-Revision-Date: 2023-06-15 11:42:45+0000\n"
+"X-POT-Import-Date: 2023-06-13 06:00:45+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: mk\n"
@@ -61,8 +61,8 @@ msgid "Code: GPL-3.0-or-later"
 msgstr "Код: ОЈЛ-3.0-или-понова"
 
 #: mkdocs.yml:extra.footer_links.3
-msgid "Content: CC-BY-SA-3.0"
-msgstr "Содржина: CC-BY-SA-3.0"
+msgid "Content: CC-BY-SA-4.0"
+msgstr "Содржина: CC-BY-SA-4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -1513,8 +1513,8 @@ msgid "Most Wikimedia content is licensed under a Creative Commons license that 
 msgstr "Најголемиот дле од Викимедиината содржина е лиценцирана со Криејтив комонс, што овозможува слободно користење со припишување. На дното од секоја викистраница ќе ја најдете применливата лиценца."
 
 #: use-content/content.md:block 8 (unordered list)
-msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
-msgstr "[Прочитајте повеќе на Мета](https://meta.wikimedia.org/wiki/Special:MyLanguage/Developer_app_guidelines)"
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
+msgstr "[Прочирајте повеќе на Викито за управување на Фондацијата Викимедија](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
