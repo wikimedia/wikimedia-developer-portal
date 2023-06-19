@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-06-15 11:42:42+0000\n"
+"PO-Revision-Date: 2023-06-19 11:16:12+0000\n"
 "X-POT-Import-Date: 2023-06-13 06:00:45+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -62,7 +62,7 @@ msgstr "কোড: জিপিএল-৩.০-বা-পরবর্তী"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr ""
+msgstr "বিষয়বস্তু: সিসি-বাই-এসএ-৪.০"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
