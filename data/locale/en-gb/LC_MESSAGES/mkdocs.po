@@ -23,12 +23,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-06-15 11:42:42+0000\n"
+"PO-Revision-Date: 2023-07-06 11:27:00+0000\n"
 "X-POT-Import-Date: 2023-06-13 06:00:45+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: en-GB\n"
-"X-Generator: MediaWiki 1.41.0-alpha; Translate 2023-04-26\n"
+"X-Generator: MediaWiki 1.41.0-alpha; Translate 2023-07-10\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: mkdocs.yml:site_name
