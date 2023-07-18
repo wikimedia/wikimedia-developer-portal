@@ -1,0 +1,12 @@
+---
+title: SignIt Firefox Extension
+description: A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online.
+links:
+  - url: https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt
+    label: Read the docs
+  - url: https://github.com/lingua-libre/SignIt/blob/master/README.md
+    label: Contribute
+  - url: https://github.com/lingua-libre/SignIt
+    label: Get the source code
+categories:
+  - contribute-javascript
