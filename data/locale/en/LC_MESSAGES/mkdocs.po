@@ -423,7 +423,7 @@ msgid ""
 msgstr ""
 
 #: build-tools/host-tools.md:block 5 (unordered list)
-msgid "[Visit PAWS](https://hub.paws.wmcloud.org/hub/login)"
+msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
 msgstr ""
 
 #: build-tools/host-tools.md:block 5 (unordered list)

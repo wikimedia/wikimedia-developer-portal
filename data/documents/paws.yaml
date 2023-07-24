@@ -2,7 +2,7 @@
 title: Run scripts in your browser
 description: PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started.
 links:
-  - url: https://hub.paws.wmcloud.org/hub/login
+  - url: https://hub-paws.wmcloud.org/
     label: Visit PAWS
   - url: https://wikitech.wikimedia.org/wiki/PAWS
     label: Read more on Wikitech
