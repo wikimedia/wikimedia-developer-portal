@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-07-27 11:24:47+0000\n"
+"PO-Revision-Date: 2023-07-31 11:25:09+0000\n"
 "X-POT-Import-Date: 2023-07-26 13:02:57+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -348,7 +348,7 @@ msgstr "PAWS е слободно, облачно вдомено игралишт
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[Посетете го PAWS](https://hub-paws.wmcloud.org/)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -902,23 +902,23 @@ msgstr "[Преземете го изворниот код](https://gerrit.wikim
 
 #: contribute/by-language.md:block 10 (header)
 msgid "SignIt Firefox Extension"
-msgstr ""
+msgstr "Додаток SignIt за Firefox"
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
-msgstr ""
+msgstr "Додаток за прелистувачи кој преведува зборови во видеа со знаковен јазик, за да можете да учите знаковен јазик додека читате."
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr ""
+msgstr "[Прочитајте ги документите](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
-msgstr ""
+msgstr "[Учествувајте](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
-msgstr ""
+msgstr "[Преземете го изворниот код](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "VideoCutTool"
