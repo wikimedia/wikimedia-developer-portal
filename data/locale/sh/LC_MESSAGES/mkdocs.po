@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-07-27 11:24:47+0000\n"
+"PO-Revision-Date: 2023-08-21 11:20:45+0000\n"
 "X-POT-Import-Date: 2023-07-26 13:02:57+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -61,7 +61,7 @@ msgstr "Kôd: GPL-3.0-ili-kasnije"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr ""
+msgstr "Sadržaj: CC-BY-SA-4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -347,7 +347,7 @@ msgstr "PAWS je besplatno igralište u oblaku za stvaranje skripti i vizualizaci
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[Posjetite PAWS](https://hub.paws.wmcloud.org/)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -901,23 +901,23 @@ msgstr "[Dobijte izvorni kod](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 10 (header)
 msgid "SignIt Firefox Extension"
-msgstr ""
+msgstr "SignIt za Firefox dodatak"
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
-msgstr ""
+msgstr "Dodatak za preglednike koji prevodi riječi u videozapise na znakovnom jeziku, tako da možete učiti znakovni jezik dok čitate."
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr ""
+msgstr "[Pročitajte dokumente](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
-msgstr ""
+msgstr "[Doprinesite](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
-msgstr ""
+msgstr "[Dobijte izvorni kod](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "VideoCutTool"
@@ -1533,7 +1533,7 @@ msgstr "Najveći doi Wikimedijinog sadržaja licencirana je pod licencom Creativ
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
-msgstr ""
+msgstr "[Čitajte više na Vikiju upravljanja Fondacije Wikimedia](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
