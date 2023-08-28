@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Serbo-Croatian (srpskohrvatski / српскохрватски)
 # Exported from translatewiki.net
 #
+# Author: BryanDavis
 # Author: Vlad5250
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -23,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-08-21 11:20:45+0000\n"
+"PO-Revision-Date: 2023-08-28 11:32:28+0000\n"
 "X-POT-Import-Date: 2023-07-26 13:02:57+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -347,7 +348,7 @@ msgstr "PAWS je besplatno igralište u oblaku za stvaranje skripti i vizualizaci
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr "[Posjetite PAWS](https://hub.paws.wmcloud.org/)"
+msgstr "[Posjetite PAWS](https://hub-paws.wmcloud.org/)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
