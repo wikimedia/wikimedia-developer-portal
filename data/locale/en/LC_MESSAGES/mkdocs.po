@@ -443,8 +443,7 @@ msgstr ""
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid ""
-"[Read more on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+"[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
 msgstr ""
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
@@ -581,7 +580,7 @@ msgstr ""
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid ""
 "[Read more on "
-"Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+"Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
 msgstr ""
 
 #: community/index.md:block 2 (header)
