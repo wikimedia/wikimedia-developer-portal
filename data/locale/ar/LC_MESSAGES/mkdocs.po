@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-07-27 11:24:45+0000\n"
-"X-POT-Import-Date: 2023-07-26 13:02:57+0000\n"
+"PO-Revision-Date: 2023-09-14 11:28:10+0000\n"
+"X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ar\n"
@@ -363,8 +363,8 @@ msgid "Toolforge is a free hosting environment for running and managing tools. D
 msgstr "تولفورج هي بيئة استضافة مجانية لتشغيل الأدوات وإدارتها. يسهل تطوير أداة في تولفورج الوصول إلى محتوى وبيانات ويكيميديا ومشاركة أداتك مع الآخرين."
 
 #: build-tools/host-tools.md:block 8 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr "[اقرأ المزيد على ويكي تقنية] (https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+msgstr "[اقرأ المزيد على ويكي تقنية] (https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
@@ -469,7 +469,7 @@ msgid "Toolforge is a free hosting environment for running and managing tools. G
 msgstr ""
 
 #: build-tools/tutorials.md:block 20 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
 msgstr ""
 
 #: community/index.md:block 2 (header)

@@ -25,8 +25,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-07-27 11:24:46+0000\n"
-"X-POT-Import-Date: 2023-07-26 13:02:57+0000\n"
+"PO-Revision-Date: 2023-09-14 11:28:12+0000\n"
+"X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fi\n"
@@ -364,8 +364,8 @@ msgid "Toolforge is a free hosting environment for running and managing tools. D
 msgstr "Toolforge on ilmainen isännöintiympäristö työkalujen käyttämiseen ja hallintaan. Työkalun  kehittäminen Toolforgessa helpottaa Wikimedian sisällön ja tietojen käyttöä sekä sen jakamista muiden kanssa."
 
 #: build-tools/host-tools.md:block 8 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
@@ -470,8 +470,8 @@ msgid "Toolforge is a free hosting environment for running and managing tools. G
 msgstr "Toolforge on ilmainen isännöintiympäristö työkalujen käyttämiseen ja hallintaan. Aloita Toolforgen käyttö luomalla käyttäjätili ja määrittämällä perusverkkopalvelu."
 
 #: build-tools/tutorials.md:block 20 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
-msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
+msgstr "[Lue lisää Wikitechissä](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"

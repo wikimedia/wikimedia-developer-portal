@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-07-31 11:25:09+0000\n"
-"X-POT-Import-Date: 2023-07-26 13:02:57+0000\n"
+"PO-Revision-Date: 2023-09-14 11:28:13+0000\n"
+"X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: mk\n"
@@ -363,8 +363,8 @@ msgid "Toolforge is a free hosting environment for running and managing tools. D
 msgstr "Toolforge е слободна вдомувачка средина за работа и управување со алатки. Разработката на алатка во Toolforge го олеснува пристапот до Викимедиините содржини и податоци, притоа овозможувајќи го споделувањето на вашата алатка со другите."
 
 #: build-tools/host-tools.md:block 8 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr "[Прочитајте повеќе на Викитехника](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+msgstr "[Прочитајте повеќе на Викитехника](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
@@ -469,8 +469,8 @@ msgid "Toolforge is a free hosting environment for running and managing tools. G
 msgstr "Toolforge е околина за слободно вдомување на алатки, работа и раководство со нив. Земете учество на Toolforge со тоа што ќе направите сметка и ќе поставите основна семрежна служба."
 
 #: build-tools/tutorials.md:block 20 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
-msgstr "[Прочитајте повеќе на Викитехника](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
+msgstr "[Прочитајте повеќе на Викитехника](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"

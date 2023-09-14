@@ -26,8 +26,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-07-27 11:24:48+0000\n"
-"X-POT-Import-Date: 2023-07-26 13:02:57+0000\n"
+"PO-Revision-Date: 2023-09-14 11:28:15+0000\n"
+"X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hant\n"
@@ -365,8 +365,8 @@ msgid "Toolforge is a free hosting environment for running and managing tools. D
 msgstr "Toolforge 是一個用於運作和管理工具的免費代管環境。在 Toolforge 裡開發工具可以更輕鬆地存取維基媒體內容和資料，並與其他人分享您的工具。"
 
 #: build-tools/host-tools.md:block 8 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
-msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
@@ -471,8 +471,8 @@ msgid "Toolforge is a free hosting environment for running and managing tools. G
 msgstr "Toolforge 是一個用於運作和管理工具的免費代管環境。透過建立帳號並設定基本網路服務來開始使用 Toolforge。"
 
 #: build-tools/tutorials.md:block 20 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
-msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"

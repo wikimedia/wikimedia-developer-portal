@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-07-31 11:25:08+0000\n"
-"X-POT-Import-Date: 2023-07-26 13:02:57+0000\n"
+"PO-Revision-Date: 2023-09-14 11:28:11+0000\n"
+"X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
@@ -363,7 +363,7 @@ msgid "Toolforge is a free hosting environment for running and managing tools. D
 msgstr ""
 
 #: build-tools/host-tools.md:block 8 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
 msgstr ""
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
@@ -469,7 +469,7 @@ msgid "Toolforge is a free hosting environment for running and managing tools. G
 msgstr ""
 
 #: build-tools/tutorials.md:block 20 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Portal:Toolforge/Quickstart)"
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
 msgstr ""
 
 #: community/index.md:block 2 (header)
