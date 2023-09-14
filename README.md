@@ -5,11 +5,11 @@ Static site generator for a portal to Wikimedia technical documentation.
 
 ## Documentation
 
-See the [project documentation](https://www.mediawiki.org/wiki/Developer_Advocacy/Developer_Portal) on mediawiki.org.
+See the [project documentation](https://www.mediawiki.org/wiki/Developer_Portal) on mediawiki.org.
 
 ## Contributing
 
-See the [contributing guide](https://www.mediawiki.org/wiki/Developer_Advocacy/Developer_Portal/Contribute) on mediawiki.org.
+See the [contributing guide](https://www.mediawiki.org/wiki/Developer_Portal/Contribute) on mediawiki.org.
 
 ## License
 

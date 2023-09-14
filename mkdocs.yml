@@ -93,9 +93,9 @@ extra:
     - label: "Content: CC-BY-SA-4.0"
       href: https://creativecommons.org/licenses/by-sa/4.0/
     - label: About
-      href: https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal
+      href: https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Portal
     - label: Contribute
-      href: https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Advocacy/Developer_Portal/Contribute
+      href: https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_Portal/Contribute
 
 markdown_extensions:
   - meta
