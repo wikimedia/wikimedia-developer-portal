@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-09-14 11:28:13+0000\n"
+"PO-Revision-Date: 2023-09-25 11:22:28+0000\n"
 "X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -469,7 +469,6 @@ msgid "Toolforge is a free hosting environment for running and managing tools. G
 msgstr ""
 
 #: build-tools/tutorials.md:block 20 (unordered list)
-#, fuzzy
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
 msgstr "[Liest méi op Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
 

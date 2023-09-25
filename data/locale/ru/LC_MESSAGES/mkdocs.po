@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-09-14 11:28:14+0000\n"
+"PO-Revision-Date: 2023-09-25 11:22:29+0000\n"
 "X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -63,7 +63,7 @@ msgstr "Код: GPL-3.0 или новее"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr ""
+msgstr "Содержимое: CC-BY-SA-4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -349,7 +349,7 @@ msgstr "PAWS — это бесплатная облачная площадка �
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[Посетить PAWS](https://hub-paws.wmcloud.org/)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -903,7 +903,7 @@ msgstr "[Получите исходный код](https://gerrit.wikimedia.org/
 
 #: contribute/by-language.md:block 10 (header)
 msgid "SignIt Firefox Extension"
-msgstr ""
+msgstr "Расширение SignIt для Firefox"
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
@@ -911,7 +911,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr ""
+msgstr "[Читать документацию](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
@@ -919,7 +919,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
-msgstr ""
+msgstr "[Получить исходный код](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "VideoCutTool"
@@ -927,7 +927,7 @@ msgstr "VideoCutTool"
 
 #: contribute/by-language.md:block 14 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
-msgstr ""
+msgstr "Инструмент для редактирования видео на Викискладе, созданный с помощью React JS и Node JS."
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://videocuttool.wmflabs.org)"
@@ -935,7 +935,7 @@ msgstr "[Читать документацию](https://videocuttool.wmflabs.org
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr ""
+msgstr "[Внести вклад](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
@@ -979,7 +979,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr ""
+msgstr "[Читать документацию](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
@@ -987,7 +987,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
-msgstr ""
+msgstr "[Получить исходный код](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 24 (header)
 msgid "Scribe"
@@ -999,7 +999,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Read the docs](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[Читать документацию](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
@@ -1011,7 +1011,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[Получить исходный код](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 27 (header)
 msgid "Go"
@@ -1035,7 +1035,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
-msgstr ""
+msgstr "[Получить исходный код](https://gitlab.wikimedia.org/repos/releng/blobber/)"
 
 #: contribute/by-language.md:block 31 (header)
 msgid "PHP"
@@ -1450,7 +1450,7 @@ msgstr "Изучите основные технологии Викимедиа 
 
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Introduction to Wikimedia technology"
-msgstr ""
+msgstr "Введение в технологию Викимедиа"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn about the main technical areas where developers can contribute."
