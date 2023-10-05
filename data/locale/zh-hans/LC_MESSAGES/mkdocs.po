@@ -7,6 +7,7 @@
 # Author: Lakejason0
 # Author: LittlePaw365
 # Author: StarrySky
+# Author: Xyb
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -28,7 +29,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-09-14 11:28:15+0000\n"
+"PO-Revision-Date: 2023-10-05 11:24:40+0000\n"
 "X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -66,7 +67,7 @@ msgstr "代码：GPL 3.0或更高版本"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr ""
+msgstr "内容：CC-BY-SA-4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -80,7 +81,7 @@ msgstr "贡献"
 #: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
 #: get-started/index.md:title
 msgid "Get started"
-msgstr "入门"
+msgstr "开始使用"
 
 #: mkdocs.yml:navigation use-content/index.md:meta.title
 #: use-content/index.md:title
@@ -112,7 +113,7 @@ msgstr "寻找技术文档，与[维基百科](https://www.wikipedia.org/)和其
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
-msgstr "[开始](get-started/){ .md-button }"
+msgstr "[开始使用](get-started/){ .md-button }"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
@@ -165,7 +166,7 @@ msgstr "浏览Toolhub上的工具目录，分享自己的工具，帮助维护�
 
 #: build-tools/index.md:block 4 (header)
 msgid "[Get started](get-started.md)"
-msgstr "[开始](get-started.md)"
+msgstr "[开始使用](get-started.md)"
 
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
@@ -352,7 +353,7 @@ msgstr "PAWS是一个免费的云托管代码实验工具（Playground），用�
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[访问 PAWS](https://hub-paws.wmcloud.org/)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -906,23 +907,23 @@ msgstr "[获取源代码](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 10 (header)
 msgid "SignIt Firefox Extension"
-msgstr ""
+msgstr "SignIt 火狐扩展"
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
-msgstr ""
+msgstr "一个网络浏览器扩展，可将单词翻译成手语视频，以便您可以在在线阅读的同时学习手语。"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr ""
+msgstr "[阅读文档](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
-msgstr ""
+msgstr "[贡献](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
-msgstr ""
+msgstr "[获取源代码](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "VideoCutTool"
@@ -930,19 +931,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 14 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
-msgstr ""
+msgstr "一个在 Wikimedia Commons 上编辑视频的工具，使用 React JS 和 Node JS 构建。"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://videocuttool.wmflabs.org)"
-msgstr ""
+msgstr "[阅读文档](https://videocuttool.wmflabs.org)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr ""
+msgstr "[贡献](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
-msgstr ""
+msgstr "[获取源代码](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
 
 #: contribute/by-language.md:block 16 (header)
 msgid "Java"
@@ -970,51 +971,51 @@ msgstr "[获取源代码](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 20 (header)
 msgid "Kotlin"
-msgstr ""
+msgstr "Kotlin"
 
 #: contribute/by-language.md:block 21 (header)
 msgid "Kiwix"
-msgstr ""
+msgstr "Kiwix"
 
 #: contribute/by-language.md:block 22 (paragraph)
 msgid "An offline reader for people without internet access."
-msgstr ""
+msgstr "适合无法访问互联网的人的离线阅读器。"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr ""
+msgstr "[阅读文档](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[贡献](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
-msgstr ""
+msgstr "[获取源码](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 24 (header)
 msgid "Scribe"
-msgstr ""
+msgstr "Scribe"
 
 #: contribute/by-language.md:block 25 (paragraph)
 msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
-msgstr ""
+msgstr "面向第二语言学习者的基于维基数据的键盘，包括翻译、动词变形和名词性别注释。"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Read the docs](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[阅读文档](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[贡献 (安卓)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[贡献 (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[获取源代码](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 27 (header)
 msgid "Go"
@@ -1047,7 +1048,7 @@ msgstr "PHP"
 #: contribute/by-language.md:block 32 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
 msgid "MediaWiki"
-msgstr ""
+msgstr "MediaWiki"
 
 #: contribute/by-language.md:block 33 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
@@ -1098,7 +1099,7 @@ msgstr "[获取源代码](https://github.com/WikiEducationFoundation/WikiEduDash
 
 #: contribute/by-language.md:block 39 (header)
 msgid "Swift"
-msgstr ""
+msgstr "Swift"
 
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
@@ -1538,7 +1539,7 @@ msgstr "大多数维基媒体内容都使用知识共享（Creative Commons，�
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
-msgstr ""
+msgstr "[阅读维基媒体基金会治理wiki上的更多内容](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
 
 #: use-content/content.md:block 18 (header)
 msgid "Get services for enterprise"
