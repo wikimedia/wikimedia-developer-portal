@@ -30,7 +30,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-10-12 11:26:23+0000\n"
+"PO-Revision-Date: 2023-10-16 11:26:22+0000\n"
 "X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -158,7 +158,7 @@ msgstr "質問や問題解決に役立つリソースを探しましょう"
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
-msgstr "[ツールの発見と共有]（search.md）"
+msgstr "[ツールの発見と共有](search.md)"
 
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
@@ -294,7 +294,7 @@ msgstr "ウィキのレプリカとは、ウィキメディアの実稼働サイ
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
-msgstr "[Quarry を使ってみる]（https://quarry.wmcloud.org/）"
+msgstr "[Quarry を使ってみる](https://quarry.wmcloud.org/)"
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
@@ -498,7 +498,7 @@ msgstr "どのような連絡手段があり、ウィキメディアの開発者
 
 #: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
-msgstr "[技能の習得と共有]（grow.md）"
+msgstr "[技能の習得と共有](grow.md)"
 
 #: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
@@ -507,7 +507,7 @@ msgstr "ワークショップやインターンシップ、メンターの機会
 
 #: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
-msgstr "[技術プロジェクトの最新情報を取得]（updates.md）"
+msgstr "[技術プロジェクトの最新情報を取得](updates.md)"
 
 #: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
@@ -684,7 +684,7 @@ msgstr "ウィキメディアの技術について、コミュニティによる
 #: community/grow.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
-msgstr "[YouTube チャンネルにアクセス][https://www.youtube.com/user/watchmediawiki/videos リンク]"
+msgstr "[YouTube チャンネルにアクセス](https://www.youtube.com/user/watchmediawiki/videos)"
 
 #: community/grow.md:block 12 (header)
 msgid "Tech ambassadors"
@@ -767,7 +767,7 @@ msgstr "ウィキベースは、共同作業型の知識ベースとリンクト
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
-msgstr "[解説文書を読む]（https://wmde.github.io/wikidata-wikibase-architecture/）"
+msgstr "[解説文書を読む](https://wmde.github.io/wikidata-wikibase-architecture/)"
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
@@ -808,7 +808,7 @@ msgstr "ウィキメディア技術コミュニティのブログ投稿を閲覧
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr "[技術ブログにアクセス]（https://techblog.wikimedia.org/）"
+msgstr "[技術ブログにアクセス](https://techblog.wikimedia.org/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Technical community newsletter"
@@ -840,7 +840,7 @@ msgstr "ウィキメディアのオープンソースに貢献"
 
 #: contribute/index.md:block 2 (header)
 msgid "[Learn how contributing works](overview.md)"
-msgstr "[貢献の仕組みを学ぶ]（overview.md）"
+msgstr "[貢献の仕組みを学ぶ](overview.md)"
 
 #: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
 #: (paragraph)
@@ -849,7 +849,7 @@ msgstr "MediaWikiその他、ウィキメディアのオープンソース・プ
 
 #: contribute/index.md:block 4 (header)
 msgid "[Contribute by topic](by-topic.md)"
-msgstr "[トピック別の投稿]（by-topic.md）"
+msgstr "[トピック別の投稿](by-topic.md)"
 
 #: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
 #: (paragraph)
@@ -858,7 +858,7 @@ msgstr "貢献する方法を探し、関心が共通する他の利用者とつ
 
 #: contribute/index.md:block 6 (header)
 msgid "[Contribute by programming language](by-language.md)"
-msgstr "[プログラミング言語による貢献]（by-language.md）"
+msgstr "[プログラミング言語による貢献](by-language.md)"
 
 #: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
 #: (paragraph)
@@ -867,7 +867,7 @@ msgstr "プログラム言語ごとに、貢献するプロジェクトを選択
 
 #: contribute/index.md:block 8 (header)
 msgid "[Search all projects](search.md)"
-msgstr "[すべてのプロジェクトを検索]（search.md）"
+msgstr "[すべてのプロジェクトを検索](search.md)"
 
 #: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
 #: (paragraph)

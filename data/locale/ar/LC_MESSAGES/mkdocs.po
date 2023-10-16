@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: Asma
+# Author: Shirayuki
 # Author: أيوب
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -24,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-10-12 11:26:21+0000\n"
+"PO-Revision-Date: 2023-10-16 11:26:21+0000\n"
 "X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -152,7 +153,7 @@ msgstr "ابحث عن الموارد للمساعدة في الأسئلة واس
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
-msgstr "[اكتشاف الأدوات ومشاركتها] (search.md)"
+msgstr "[اكتشاف الأدوات ومشاركتها](search.md)"
 
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
@@ -214,17 +215,17 @@ msgstr "بيويكيبوت هي مكتبة لغة بايثون ومجموعة م
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
-msgstr "[اقرأ المزيد على mediawiki.org] (https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
-msgstr "[ساهم] (https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr "[ساهم](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
-msgstr "[احصل على شفرة المصدر] (https://gerrit.wikimedia.org/g/pywikibot/core)"
+msgstr "[احصل على شفرة المصدر](https://gerrit.wikimedia.org/g/pywikibot/core)"
 
 #: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
 #: (header)
@@ -241,7 +242,7 @@ msgstr "تسهل مكتبات API كتابة التعليمات البرمجية
 #: get-started/browse-languages.md:block 3 (unordered list)
 #: use-content/content.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
-msgstr "[اقرأ المزيد على mediawiki.org] (https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
 #: (header)
@@ -256,7 +257,7 @@ msgstr "تمنحك واجهة برمجة تطبيقات ميدياويكي وص�
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
-msgstr "[اقرأ المزيد على mediawiki.org] (https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -292,7 +293,7 @@ msgstr "[زيارة Quarry] (https://quarry.wmcloud.org/)"
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
-msgstr "[اقرأ المزيد على ميتاويكي] (https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+msgstr "[اقرأ المزيد على ميتاويكي](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
 
 #: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
 #: 3 (header)
@@ -307,7 +308,7 @@ msgstr "تعرف على كيفية تحرير صفحات ويكي باستخدا
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
-msgstr "[اقرأ المزيد على mediawiki.org] (https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
@@ -319,7 +320,7 @@ msgstr "تساعد البوتات في الحفاظ على مواقع الويك
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
-msgstr "[اقرأ المزيد على mediawiki.org] (https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
 
 #: build-tools/get-started.md:block 9 (header)
 msgid "Best practices for open source tools"
@@ -364,7 +365,7 @@ msgstr "تولفورج هي بيئة استضافة مجانية لتشغيل ا
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
-msgstr "[اقرأ المزيد على ويكي تقنية] (https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+msgstr "[اقرأ المزيد على ويكي تقنية](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
