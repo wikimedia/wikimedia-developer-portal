@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Arabic (العربية)
 # Exported from translatewiki.net
 #
+# Author: AKlapper
 # Author: Asma
 # Author: Shirayuki
 # Author: أيوب
@@ -25,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-10-16 11:26:21+0000\n"
+"PO-Revision-Date: 2023-10-19 11:25:29+0000\n"
 "X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -113,7 +114,7 @@ msgstr "[ابدء](get-started/){ .md-button }"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
-msgstr "[استخدام محتوى وبيانات ويكيميديا] (use-content/)"
+msgstr "[استخدام محتوى وبيانات ويكيميديا](use-content/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
@@ -129,7 +130,7 @@ msgstr "الأدوات والبوتات تجعل من السهل تحرير وص
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
-msgstr "[ساهم في ويكيميديا مفتوح المصدر] (contribute/)"
+msgstr "[ساهم في ويكيميديا مفتوح المصدر](contribute/)"
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
@@ -137,7 +138,7 @@ msgstr "ساعد في بناء نظام ويكيميديا البيئي باست
 
 #: index.md:block 13 (header)
 msgid "[Connect with the community](community/)"
-msgstr "[تواصل مع المجتمع] (community/)"
+msgstr "[تواصل مع المجتمع](community/)"
 
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
@@ -145,7 +146,7 @@ msgstr "انخرط في مجتمع ويكيميديا التقني، وابحث 
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
-msgstr "[الحصول على مساعدة] (get-help/)"
+msgstr "[الحصول على مساعدة](get-help/)"
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
@@ -172,7 +173,7 @@ msgstr "قم بإنشاء أداتك الأولى، وتعرف على كيفية
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr "[تعلم باستخدام البرامج التعليمية] (tutorials.md)"
+msgstr "[تعلم باستخدام البرامج التعليمية](tutorials.md)"
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
