@@ -1083,12 +1083,12 @@ msgid ""
 msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
-msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
+msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
 msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid ""
-"[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
+"[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
 msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
