@@ -1207,7 +1207,7 @@ msgid ""
 msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
-msgid "[Read the docs](https://github.com/scribe-org)"
+msgid "[Get the source code](https://github.com/scribe-org)"
 msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
@@ -1220,10 +1220,6 @@ msgstr ""
 msgid ""
 "[Contribute (iOS)](https://github.com/scribe-org/Scribe-"
 "iOS/blob/main/CONTRIBUTING.md)"
-msgstr ""
-
-#: contribute/by-language.md:block 26 (unordered list)
-msgid "[Get the source code](https://github.com/scribe-org)"
 msgstr ""
 
 #: contribute/by-language.md:block 27 (header)
