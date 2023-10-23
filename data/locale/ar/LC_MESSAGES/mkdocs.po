@@ -26,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-10-19 11:25:29+0000\n"
+"PO-Revision-Date: 2023-10-23 11:27:32+0000\n"
 "X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -122,7 +122,7 @@ msgstr "يمكنك الوصول إلى المقالات من ويكيبيديا 
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
-msgstr "[إنشاء أدوات وبوتات] (build-tools/)"
+msgstr "[إنشاء أدوات وبوتات](build-tools/)"
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
@@ -163,7 +163,7 @@ msgstr "تصفح قائمة الأدوات على Toolhub، وشارك أدوا�
 
 #: build-tools/index.md:block 4 (header)
 msgid "[Get started](get-started.md)"
-msgstr "[ابدء] (get-started.md)"
+msgstr "[ابدء](get-started.md)"
 
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
@@ -182,7 +182,7 @@ msgstr "اتبع الإرشادات خطوة بخطوة لتتعلم أساسي�
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
-msgstr "[استخدام واجهات برمجة التطبيقات ومصادر البيانات] (apis.md)"
+msgstr "[استخدام واجهات برمجة التطبيقات ومصادر البيانات](apis.md)"
 
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
@@ -191,7 +191,7 @@ msgstr "استكشف واجهات البرمجة لبناء البوتات وا�
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr "[أدوات المضيف على خوادم ويكيميديا] (host-tools.md)"
+msgstr "[أدوات المضيف على خوادم ويكيميديا](host-tools.md)"
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
@@ -263,7 +263,7 @@ msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/w
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
-msgstr "[جرب في الملعب] (https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+msgstr "[جرب في الملعب](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
 
 #: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
 #: (header) use-content/data.md:block 9 (header)
@@ -278,7 +278,7 @@ msgstr "قم بالوصول إلى التنزيلات المجانية لمحت�
 #: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
 #: 17 (unordered list) use-content/data.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
-msgstr "[اقرأ المزيد على ميتاويكي] (https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[اقرأ المزيد على ميتاويكي](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
 
 #: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
@@ -290,7 +290,7 @@ msgstr "نسخ ويكي هي نسخ مجهولة المصدر من قواعد ا
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
-msgstr "[زيارة Quarry] (https://quarry.wmcloud.org/)"
+msgstr "[زيارة Quarry](https://quarry.wmcloud.org/)"
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
@@ -333,7 +333,7 @@ msgstr "جديد لفتح مصدر؟ احصل على نصائح لمساعدتك
 
 #: build-tools/get-started.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
-msgstr "[اقرأ المزيد على ويكي تقنية] (https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+msgstr "[اقرأ المزيد على ويكي تقنية](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
 
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
@@ -354,7 +354,7 @@ msgstr ""
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
-msgstr "[اقرأ المزيد على Wikitech] (https://wikitech.wikimedia.org/wiki/PAWS)"
+msgstr "[اقرأ المزيد على Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
 
 #: build-tools/host-tools.md:block 6 (header)
 msgid "Learn about cloud hosting for tools"
@@ -386,7 +386,7 @@ msgstr "تولهيب عبارة عن قائمة بالأدوات التي تسه
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
 msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
-msgstr "[زيارة Toolhub] (https://toolhub.wikimedia.org/)"
+msgstr "[زيارة Toolhub](https://toolhub.wikimedia.org/)"
 
 #: build-tools/search.md:block 6 (header)
 msgid "Share a tool"
@@ -398,7 +398,7 @@ msgstr "أضف أداتك إلى قائمة Toolhub حتى يتمكن الآخر
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
-msgstr "[إضافة أداةً إلى Toolhub] (https://toolhub.wikimedia.org/add-or-remove-tools؟tab=tool-create)"
+msgstr "[إضافة أداةً إلى Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools؟tab=tool-create)"
 
 #: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
 #: build-tools/tutorials.md:block 1 (header)
@@ -421,7 +421,7 @@ msgstr "تعرف على كيفية استخدام ميدياويكي API لتو�
 #: build-tools/tutorials.md:block 8 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
-msgstr "[اقرأ المزيد على mediawiki.org] (https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 
 #: build-tools/tutorials.md:block 9 (header)
 msgid "Write a bot that uses Wikidata"
@@ -433,7 +433,7 @@ msgstr "استخدم بايثون للتعامل مع مجموعات البيا�
 
 #: build-tools/tutorials.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
-msgstr "[اقرأ المزيد على ويكي بيانات] (https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+msgstr "[اقرأ المزيد على ويكي بيانات](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
 
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
