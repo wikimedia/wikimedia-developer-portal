@@ -26,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-10-12 11:26:25+0000\n"
+"PO-Revision-Date: 2023-10-26 11:25:28+0000\n"
 "X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -126,7 +126,7 @@ msgstr "[構建工具和機器人](build-tools/)"
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
-msgstr "可以更容易地編輯和維護維基媒體計劃的工具和機器人。"
+msgstr "可以更容易地編輯和維護維基媒體專案的工具和機器人。"
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
@@ -868,7 +868,7 @@ msgstr "[搜尋所有計劃](search.md)"
 #: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
 #: (paragraph)
 msgid "Search all Wikimedia open source software projects."
-msgstr "搜尋所有維基媒體的開放原始碼軟體計劃。"
+msgstr "搜尋所有維基媒體的開放原始碼軟體專案。"
 
 #: contribute/by-language.md:meta.title contribute/by-language.md:title
 msgid "Contribute by programming language"
@@ -1167,7 +1167,7 @@ msgstr "基礎架構"
 
 #: contribute/by-topic.md:block 19 (paragraph)
 msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
-msgstr "為支援維基媒體計劃的基礎架構做出貢獻。協助增進維基媒體伺服器和軟體的性能與效率。"
+msgstr "為支援維基媒體專案的基礎架構做出貢獻。協助增進維基媒體伺服器和軟體的性能與效率。"
 
 #: contribute/by-topic.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
@@ -1302,7 +1302,7 @@ msgstr "搜尋文件"
 
 #: get-help/index.md:block 4 (paragraph)
 msgid "Find technical information for Wikimedia projects."
-msgstr "查找維基媒體計劃的技術資訊。"
+msgstr "查找維基媒體專案的技術資訊。"
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Search across wikis](https://global-search.toolforge.org/)"
@@ -1334,7 +1334,7 @@ msgstr "[了解維基媒體技術](wikimedia-tech.md)"
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
-msgstr "探索維基媒體計劃背後的開放原始碼軟體和技術元件。"
+msgstr "探索維基媒體專案背後的開放原始碼軟體和技術元件。"
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
@@ -1342,7 +1342,7 @@ msgstr "[了解開發過程](new-dev.md)"
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
-msgstr "了解維基媒體軟體計劃如何運作，以及如何做出技術貢獻。"
+msgstr "了解維基媒體軟體專案如何運作，以及如何做出技術貢獻。"
 
 #: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
 #: (paragraph)
@@ -1385,7 +1385,7 @@ msgstr "了解開發過程"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
-msgstr "了解如何為維基媒體計劃做出技術貢獻。"
+msgstr "了解如何為維基媒體專案做出技術貢獻。"
 
 #: get-started/new-dev.md:block 9 (header)
 msgid "Find tickets, and track projects"
@@ -1421,7 +1421,7 @@ msgstr "使用內容和資料的教程"
 
 #: get-started/tutorials.md:block 3 (paragraph)
 msgid "Learn the basics of using Wikimedia content and data in your project."
-msgstr "了解在您計劃裡使用的維基媒體內容、資料的基礎知識。"
+msgstr "了解如何在您的專案裡使用維基媒體內容、資料的基礎知識。"
 
 #: get-started/tutorials.md:block 4 (paragraph)
 msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
@@ -1433,7 +1433,7 @@ msgstr "構建工具和機器人的教程"
 
 #: get-started/tutorials.md:block 6 (paragraph)
 msgid "Learn the basics of writing code that interacts with Wikimedia projects."
-msgstr "了解編寫與維基媒體計劃互動的程式碼的基礎知識。"
+msgstr "了解編寫與維基媒體專案互動的程式碼的基礎知識。"
 
 #: get-started/tutorials.md:block 7 (paragraph)
 msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
@@ -1447,7 +1447,7 @@ msgstr "了解維基媒體技術"
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
-msgstr "探索維基媒體核心技術和開放原始碼計劃。"
+msgstr "探索維基媒體核心技術和開放原始碼專案。"
 
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Introduction to Wikimedia technology"
@@ -1516,7 +1516,7 @@ msgstr "使用 wiki 內容"
 
 #: use-content/content.md:block 3 (header)
 msgid "Introduction to Wikimedia projects"
-msgstr "維基媒體計劃介紹"
+msgstr "維基媒體專案簡介"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
