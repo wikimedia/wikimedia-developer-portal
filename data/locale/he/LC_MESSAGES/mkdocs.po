@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-10-12 11:26:22+0000\n"
-"X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
+"PO-Revision-Date: 2023-10-30 12:25:09+0000\n"
+"X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: he\n"
@@ -889,12 +889,12 @@ msgid "Codex is a toolkit for building user interfaces within the Wikimedia Desi
 msgstr "קודקס (Codex) הוא ערכת כלים לבניית ממשקי משתמש בתוך מערכת העיצוב של ויקימדיה באמצעות Vue."
 
 #: contribute/by-language.md:block 9 (unordered list)
-msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
-msgstr "[קריאת תיעוד](https://doc.wikimedia.org/codex/main)"
+msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
+msgstr "[קריאת תיעוד](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 9 (unordered list)
-msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
-msgstr "[תרומה](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
+msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+msgstr "[תרומה](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
@@ -997,8 +997,8 @@ msgid "Wikidata-based keyboards for second language learners, including translat
 msgstr "מקלדות מבוססות ויקינתונים ללומדי שפה שנייה, כולל תרגום, הטיית פעלים ותיוג מין דקדוקי לשמות עצם."
 
 #: contribute/by-language.md:block 26 (unordered list)
-msgid "[Read the docs](https://github.com/scribe-org)"
-msgstr "[לקריאת התיעוד](https://github.com/scribe-org)"
+msgid "[Get the source code](https://github.com/scribe-org)"
+msgstr "[קבלת קוד המקור](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
@@ -1007,10 +1007,6 @@ msgstr "[התנדבות (אנדרואיד)](https://github.com/scribe-org/Scribe
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 msgstr "[התנדבות (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-
-#: contribute/by-language.md:block 26 (unordered list)
-msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr "[קבלת קוד המקור](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 27 (header)
 msgid "Go"

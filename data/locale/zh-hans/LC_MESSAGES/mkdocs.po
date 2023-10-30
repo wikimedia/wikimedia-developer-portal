@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: Diskdance
+# Author: Googology
 # Author: GuoPC
 # Author: Hehua
 # Author: Lakejason0
@@ -29,8 +30,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-10-12 11:26:24+0000\n"
-"X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
+"PO-Revision-Date: 2023-10-30 12:25:11+0000\n"
+"X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hans\n"
@@ -894,12 +895,12 @@ msgid "Codex is a toolkit for building user interfaces within the Wikimedia Desi
 msgstr "Codex是一个使用Vue的在维基媒体设计系统中构建用户界面的工具包。"
 
 #: contribute/by-language.md:block 9 (unordered list)
-msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
-msgstr "[阅读文档](https://doc.wikimedia.org/codex/main)"
+msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
+msgstr "[阅读文档](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 9 (unordered list)
-msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
-msgstr "[贡献](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
+msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+msgstr "[贡献](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
@@ -1002,8 +1003,8 @@ msgid "Wikidata-based keyboards for second language learners, including translat
 msgstr "面向第二语言学习者的基于维基数据的键盘，包括翻译、动词变形和名词性别注释。"
 
 #: contribute/by-language.md:block 26 (unordered list)
-msgid "[Read the docs](https://github.com/scribe-org)"
-msgstr "[阅读文档](https://github.com/scribe-org)"
+msgid "[Get the source code](https://github.com/scribe-org)"
+msgstr "[获取源代码](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
@@ -1012,10 +1013,6 @@ msgstr "[贡献 (安卓)](https://github.com/scribe-org/Scribe-Android/blob/main
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 msgstr "[贡献 (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-
-#: contribute/by-language.md:block 26 (unordered list)
-msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr "[获取源代码](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 27 (header)
 msgid "Go"

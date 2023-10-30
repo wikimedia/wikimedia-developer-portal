@@ -26,8 +26,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-10-26 11:25:28+0000\n"
-"X-POT-Import-Date: 2023-09-12 10:28:15+0000\n"
+"PO-Revision-Date: 2023-10-30 12:25:11+0000\n"
+"X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hant\n"
@@ -891,12 +891,12 @@ msgid "Codex is a toolkit for building user interfaces within the Wikimedia Desi
 msgstr "Codex 是一個以使用 Vue 的維基媒體設計系統來構建使用者介面的工具包。"
 
 #: contribute/by-language.md:block 9 (unordered list)
-msgid "[Read the docs](https://doc.wikimedia.org/codex/main)"
-msgstr "[閱讀文件](https://doc.wikimedia.org/codex/main)"
+msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
+msgstr "[閱讀文件](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 9 (unordered list)
-msgid "[Contribute](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
-msgstr "[貢獻](https://doc.wikimedia.org/codex/main/contributing/guidelines.html)"
+msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+msgstr "[貢獻](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
@@ -999,8 +999,8 @@ msgid "Wikidata-based keyboards for second language learners, including translat
 msgstr "針對第二語言學習者的基於維基數據鍵盤輸入，包括翻譯、動詞變化、和名詞性別註解。"
 
 #: contribute/by-language.md:block 26 (unordered list)
-msgid "[Read the docs](https://github.com/scribe-org)"
-msgstr "[閱讀文件](https://github.com/scribe-org)"
+msgid "[Get the source code](https://github.com/scribe-org)"
+msgstr "[取得原始碼](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
@@ -1009,10 +1009,6 @@ msgstr "[貢獻（Android）](https://github.com/scribe-org/Scribe-Android/blob/
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 msgstr "[貢獻（iOS）](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-
-#: contribute/by-language.md:block 26 (unordered list)
-msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr "[取得原始碼](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 27 (header)
 msgid "Go"
