@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Bangla (বাংলা)
 # Exported from translatewiki.net
 #
+# Author: Borhan
 # Author: আফতাবুজ্জামান
 # Author: মোঃ মারুফ হাসান24
 # --
@@ -24,12 +25,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-10-30 12:25:08+0000\n"
+"PO-Revision-Date: 2023-11-02 12:24:09+0000\n"
 "X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
-"X-Generator: MediaWiki 1.42.0-alpha; Translate 2023-07-10\n"
+"X-Generator: MediaWiki 1.42.0-alpha; Translate 2023-10-26\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: mkdocs.yml:site_name
@@ -890,11 +891,11 @@ msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
-msgstr ""
+msgstr "[বিবরণগুলি পড়ুন](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
-msgstr ""
+msgstr "[অবদান](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
