@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-11-02 12:24:11+0000\n"
+"PO-Revision-Date: 2023-11-30 12:24:02+0000\n"
 "X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -262,7 +262,7 @@ msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLa
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
-msgstr "[Probeer de zandbak uit](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+msgstr "[Probeer de sandbox uit](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
 
 #: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
 #: (header) use-content/data.md:block 9 (header)
