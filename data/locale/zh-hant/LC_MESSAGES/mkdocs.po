@@ -26,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-12-07 12:43:03+0000\n"
+"PO-Revision-Date: 2023-12-21 12:21:52+0000\n"
 "X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -892,7 +892,7 @@ msgstr "Codex 是一個以使用 Vue 的維基媒體設計系統來構建使用�
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
-msgstr "[閱讀文件](https://doc.wikimedia.org/codex/latest)"
+msgstr "[閱讀說明文件](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
