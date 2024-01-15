@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Simplified Chinese (中文（简体）)
 # Exported from translatewiki.net
 #
+# Author: Anterdc99
 # Author: Diskdance
 # Author: Googology
 # Author: GuoPC
@@ -31,7 +32,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-12-07 12:43:03+0000\n"
+"PO-Revision-Date: 2024-01-15 12:23:22+0000\n"
 "X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -929,7 +930,7 @@ msgstr "[获取源代码](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "VideoCutTool"
-msgstr ""
+msgstr "VideoCutTool"
 
 #: contribute/by-language.md:block 14 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
