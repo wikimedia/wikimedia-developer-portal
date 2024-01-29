@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-01-25 12:24:07+0000\n"
+"PO-Revision-Date: 2024-01-29 12:24:03+0000\n"
 "X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1047,7 +1047,7 @@ msgstr "МедијаВики"
 #: contribute/by-language.md:block 33 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
-msgstr "МедијаВики е програмската опрема на која работи Википедија, нејзините збратимени проекти и илјадници викија ширум светот."
+msgstr "МедијаВики е програмската опрема на која работи Википедија, нејзините братски проекти и илјадници викија ширум светот."
 
 #: contribute/by-language.md:block 34 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
