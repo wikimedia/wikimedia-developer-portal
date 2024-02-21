@@ -308,7 +308,7 @@ msgstr ""
 #: 14 (unordered list)
 msgid ""
 "[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
 msgstr ""
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
@@ -777,21 +777,19 @@ msgid ""
 msgstr ""
 
 #: community/events.md:block 18 (header)
-msgid "Technical skills workshops"
+msgid "Language community meetings"
 msgstr ""
 
-#: community/events.md:block 19 (paragraph) community/grow.md:block 7
-#: (paragraph)
+#: community/events.md:block 19 (paragraph)
 msgid ""
-"Find tools and educational resources to help small wiki communities grow "
-"their technical capacity and learn new skills."
+"Discuss language-related technical updates and challenges with Wikimedians "
+"from various language communities."
 msgstr ""
 
-#: community/events.md:block 20 (unordered list) community/grow.md:block 8
-#: (unordered list)
+#: community/events.md:block 20 (unordered list)
 msgid ""
-"[Read more on Meta-"
-"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+"[Read more on "
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 msgstr ""
 
 #: community/grow.md:meta.title community/grow.md:title
@@ -817,6 +815,18 @@ msgstr ""
 
 #: community/grow.md:block 6 (header)
 msgid "Small wiki toolkits"
+msgstr ""
+
+#: community/grow.md:block 7 (paragraph)
+msgid ""
+"Find tools and educational resources to help small wiki communities grow "
+"their technical capacity and learn new skills."
+msgstr ""
+
+#: community/grow.md:block 8 (unordered list)
+msgid ""
+"[Read more on Meta-"
+"Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 msgstr ""
 
 #: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
@@ -1394,10 +1404,6 @@ msgstr ""
 msgid ""
 "[Read more on Meta-"
 "Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-msgstr ""
-
-#: contribute/by-topic.md:block 17 (unordered list)
-msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
 msgstr ""
 
 #: contribute/by-topic.md:block 18 (header)

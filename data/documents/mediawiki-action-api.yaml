@@ -2,7 +2,7 @@
 title: Use the API
 description: The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis.
 links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page
     label: Read more on mediawiki.org
   - url: https://www.mediawiki.org/wiki/Special:ApiSandbox
     label: Try the sandbox
