@@ -1,0 +1,12 @@
+---
+title: mwbot
+description: A framework for writing bots and tools in Rust.
+links:
+  - url: https://docs.rs/mwbot/latest/mwbot/
+    label: Read the docs
+  - url: https://www.mediawiki.org/wiki/Mwbot-rs#Contributing
+    label: Contribute
+  - url: https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot
+    label: Get the source code
+categories:
+  - contribute-rust

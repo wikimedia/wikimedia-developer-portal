@@ -18,4 +18,6 @@ Choose a project to contribute to based on programming language.
 
 {{ category.render( "contribute-ruby", 2 ) }}
 
+{{ category.render( "contribute-rust", 2) }}
+
 {{ category.render( "contribute-swift", 2 ) }}

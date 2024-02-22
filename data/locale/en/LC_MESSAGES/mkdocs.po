@@ -1328,6 +1328,31 @@ msgid ""
 msgstr ""
 
 #: contribute/by-language.md:block 39 (header)
+msgid "Rust"
+msgstr ""
+
+#: contribute/by-language.md:block 40 (header)
+msgid "mwbot"
+msgstr ""
+
+#: contribute/by-language.md:block 41 (paragraph)
+msgid "A framework for writing bots and tools in Rust."
+msgstr ""
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
+msgstr ""
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+msgstr ""
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid ""
+"[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+msgstr ""
+
+#: contribute/by-language.md:block 43 (header)
 msgid "Swift"
 msgstr ""
 
