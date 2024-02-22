@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: Fitoschido
+# Author: Reedy
 # Author: Superzerocool
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -24,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-01-25 12:24:06+0000\n"
+"PO-Revision-Date: 2024-02-22 12:22:26+0000\n"
 "X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1464,7 +1465,7 @@ msgstr "Wikibase y Wikidata"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
-msgstr "Wikibase es una extensión de Mediawiki que se usa para trabajar con datos estructurados, y es el software que hace funcionar Wikidata."
+msgstr "Wikibase es una extensión de MediaWiki que se usa para trabajar con datos estructurados, y es el software que hace funcionar Wikidata."
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
@@ -1635,7 +1636,7 @@ msgstr "Mostrar la imagen del día"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
-msgstr "Aprenda a usar la API de Mediawiki para obtener la imagen destacada del día desde Wikipedia. Este tutorial usa Python y el framework Flask."
+msgstr "Aprenda a usar la API de MediaWiki para obtener la imagen destacada del día desde Wikipedia. Este tutorial usa Python y el framework Flask."
 
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
@@ -1659,7 +1660,7 @@ msgstr "Buscar artículos por ubicación"
 
 #: use-content/tutorials.md:block 19 (paragraph)
 msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
-msgstr "Aprende a usar la API de Mediawiki para buscar artículos de Wikipedia cercanos a una ubicación específica. Este tutorial usa JavaScript, Python y el framework Flask."
+msgstr "Aprende a usar la API de MediaWiki para buscar artículos de Wikipedia cercanos a una ubicación específica. Este tutorial usa JavaScript, Python y el framework Flask."
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
