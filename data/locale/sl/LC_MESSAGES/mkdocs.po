@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-01-25 12:24:08+0000\n"
-"X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
+"PO-Revision-Date: 2024-02-26 12:21:52+0000\n"
+"X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sl\n"
@@ -118,7 +118,7 @@ msgstr "[Uporabljajte vsebino in podatke Wikimedie](use-content/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
-msgstr "Dostopajte do člankov iz Wikipedije, predstavnostnih datotek, strukturiranih podatkov in drugega z javnimi API-ji in prenosi."
+msgstr "Dostopajte do člankov Wikipedije, predstavnostnih datotek, strukturiranih podatkov in drugega z javnimi API-ji in prenosi."
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
@@ -257,8 +257,8 @@ msgstr "API MediaWiki vam omogoča programski dostop do vsebine v katerem koli v
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
-msgstr "[Preberite več na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
+msgstr "[Preberite si več na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -633,18 +633,16 @@ msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLangua
 msgstr "[Preberite več na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
 
 #: community/events.md:block 18 (header)
-msgid "Technical skills workshops"
-msgstr "Delavnice tehničnih spretnosti"
+msgid "Language community meetings"
+msgstr "Srečanja jezikovne skupnosti"
 
-#: community/events.md:block 19 (paragraph) community/grow.md:block 7
-#: (paragraph)
-msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
-msgstr "Poiščite orodja in izobraževalne vire za pomoč majhnim vikiskupnostim pri izboljševaju njihove tehnične zmožnosti in učenju novih spretnosti."
+#: community/events.md:block 19 (paragraph)
+msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
+msgstr "Razpravljajte o tehničnih posodobitvah in izzivih v zvezi z jezikom z Wikimedijci iz različnih jezikovnih skupnosti."
 
-#: community/events.md:block 20 (unordered list) community/grow.md:block 8
-#: (unordered list)
-msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr "[Preberite več na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+#: community/events.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
+msgstr "[Preberite si več na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -666,6 +664,14 @@ msgstr "[Preberite več na mediawiki.org](https://www.mediawiki.org/wiki/Special
 #: community/grow.md:block 6 (header)
 msgid "Small wiki toolkits"
 msgstr "Kompleti orodij za majhne vikije"
+
+#: community/grow.md:block 7 (paragraph)
+msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
+msgstr "Poiščite orodja in izobraževalne vire za pomoč majhnim vikiskupnostim pri izboljševaju njihove tehnične zmožnosti in učenju novih spretnosti."
+
+#: community/grow.md:block 8 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+msgstr "[Preberite več na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 
 #: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
@@ -1091,6 +1097,30 @@ msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduD
 msgstr "[Pridobite izvorno kodo](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-language.md:block 39 (header)
+msgid "Rust"
+msgstr "Rust"
+
+#: contribute/by-language.md:block 40 (header)
+msgid "mwbot"
+msgstr "mwbot"
+
+#: contribute/by-language.md:block 41 (paragraph)
+msgid "A framework for writing bots and tools in Rust."
+msgstr "Ogrodje za pisanje botov in orodij v Rustu."
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
+msgstr "[Preberite dokumente](https://docs.rs/mwbot/latest/mwbot/)"
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+msgstr "[Prispevajte](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+msgstr "[Pridobite izvorno kodo](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+
+#: contribute/by-language.md:block 43 (header)
 msgid "Swift"
 msgstr "Swift"
 
@@ -1147,15 +1177,11 @@ msgstr "Nepovezano branje"
 
 #: contribute/by-topic.md:block 16 (paragraph)
 msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
-msgstr "Razširite doseg brezplačnega znanja tako, da pomagate ljudem uporabljati Wikipedijo brez dostopa do interneta."
+msgstr "Razširite doseg prostega znanja tako, da pomagate ljudem uporabljati Wikipedijo brez dostopa do interneta."
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 msgstr "[Preberite več na Meta-Wikii](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-
-#: contribute/by-topic.md:block 17 (unordered list)
-msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
-msgstr "[Prispevajte](https://www.kiwix.org/en/support-us/code/)"
 
 #: contribute/by-topic.md:block 18 (header)
 msgid "Infrastructure"

@@ -26,8 +26,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-01-25 12:24:09+0000\n"
-"X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
+"PO-Revision-Date: 2024-02-26 12:21:53+0000\n"
+"X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hant\n"
@@ -260,8 +260,8 @@ msgstr "MediaWiki API 讓您能以程式化方式存取任何維基媒體 wiki �
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
-msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
+msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -636,18 +636,16 @@ msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLangua
 msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
 
 #: community/events.md:block 18 (header)
-msgid "Technical skills workshops"
-msgstr "技術技能研討會"
+msgid "Language community meetings"
+msgstr "語言社群會議"
 
-#: community/events.md:block 19 (paragraph) community/grow.md:block 7
-#: (paragraph)
-msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
-msgstr "尋找工具和教育資源來幫助小型 wiki 社群提升他們的技術能力和學習新技能。"
+#: community/events.md:block 19 (paragraph)
+msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
+msgstr "與來自不同語言社群的維基人，一起討論與語言相關的技術更新與挑戰。"
 
-#: community/events.md:block 20 (unordered list) community/grow.md:block 8
-#: (unordered list)
-msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+#: community/events.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
+msgstr "[在 mediawiki.org 上了解更多資訊](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -669,6 +667,14 @@ msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Speci
 #: community/grow.md:block 6 (header)
 msgid "Small wiki toolkits"
 msgstr "小型 wiki 工具包"
+
+#: community/grow.md:block 7 (paragraph)
+msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
+msgstr "尋找工具和教育資源來幫助小型 wiki 社群提升他們的技術能力和學習新技能。"
+
+#: community/grow.md:block 8 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 
 #: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
@@ -891,7 +897,7 @@ msgstr "Codex"
 
 #: contribute/by-language.md:block 8 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
-msgstr "Codex 是一個以使用 Vue 的維基媒體設計系統來構建使用者介面的工具包。"
+msgstr "Codex 是一個以使用 Vue 的維基媒體設計體系來組建使用者介面的工具包。"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
@@ -1094,6 +1100,30 @@ msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduD
 msgstr "[取得原始碼](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-language.md:block 39 (header)
+msgid "Rust"
+msgstr "Rust"
+
+#: contribute/by-language.md:block 40 (header)
+msgid "mwbot"
+msgstr "mwbot"
+
+#: contribute/by-language.md:block 41 (paragraph)
+msgid "A framework for writing bots and tools in Rust."
+msgstr "用於在 Rust 上撰寫機器人與工具的框架。"
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
+msgstr "[閱讀文件](https://docs.rs/mwbot/latest/mwbot/)"
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+msgstr "[貢獻](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+msgstr "[取得原始碼](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+
+#: contribute/by-language.md:block 43 (header)
 msgid "Swift"
 msgstr "Swift"
 
@@ -1155,10 +1185,6 @@ msgstr "藉由幫助人們在沒有網際網路的情況下能使用維基百科
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-
-#: contribute/by-topic.md:block 17 (unordered list)
-msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
-msgstr "[貢獻](https://www.kiwix.org/en/support-us/code/)"
 
 #: contribute/by-topic.md:block 18 (header)
 msgid "Infrastructure"

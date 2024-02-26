@@ -25,8 +25,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-01-25 12:24:07+0000\n"
-"X-POT-Import-Date: 2023-10-26 19:20:39+0000\n"
+"PO-Revision-Date: 2024-02-26 12:21:52+0000\n"
+"X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
@@ -259,8 +259,8 @@ msgstr ""
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
-msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API)"
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
+msgstr ""
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -635,18 +635,16 @@ msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLangua
 msgstr "[Lees meer op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
 
 #: community/events.md:block 18 (header)
-msgid "Technical skills workshops"
+msgid "Language community meetings"
 msgstr ""
 
-#: community/events.md:block 19 (paragraph) community/grow.md:block 7
-#: (paragraph)
-msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
+#: community/events.md:block 19 (paragraph)
+msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
 msgstr ""
 
-#: community/events.md:block 20 (unordered list) community/grow.md:block 8
-#: (unordered list)
-msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr "[Lees meer op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+#: community/events.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
+msgstr ""
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -668,6 +666,14 @@ msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLa
 #: community/grow.md:block 6 (header)
 msgid "Small wiki toolkits"
 msgstr ""
+
+#: community/grow.md:block 7 (paragraph)
+msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
+msgstr ""
+
+#: community/grow.md:block 8 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
+msgstr "[Lees meer op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
 
 #: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
@@ -1093,6 +1099,30 @@ msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduD
 msgstr ""
 
 #: contribute/by-language.md:block 39 (header)
+msgid "Rust"
+msgstr ""
+
+#: contribute/by-language.md:block 40 (header)
+msgid "mwbot"
+msgstr ""
+
+#: contribute/by-language.md:block 41 (paragraph)
+msgid "A framework for writing bots and tools in Rust."
+msgstr ""
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
+msgstr ""
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+msgstr ""
+
+#: contribute/by-language.md:block 42 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+msgstr ""
+
+#: contribute/by-language.md:block 43 (header)
 msgid "Swift"
 msgstr ""
 
@@ -1154,10 +1184,6 @@ msgstr "Vergroot het bereik van vrije kennis door mensen helpen Wikipedia te geb
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 msgstr "[Lees meer op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-
-#: contribute/by-topic.md:block 17 (unordered list)
-msgid "[Contribute](https://www.kiwix.org/en/support-us/code/)"
-msgstr "[Bijdragen](https://www.kiwix.org/en/support-us/code/)"
 
 #: contribute/by-topic.md:block 18 (header)
 msgid "Infrastructure"
