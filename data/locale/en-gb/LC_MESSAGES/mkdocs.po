@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-02-26 12:21:50+0000\n"
+"PO-Revision-Date: 2024-02-29 12:20:51+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -205,6 +205,7 @@ msgstr ""
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
+#, optional
 msgid "Pywikibot"
 msgstr ""
 
@@ -375,6 +376,7 @@ msgstr ""
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
+#, optional
 msgid "Toolhub"
 msgstr ""
 
@@ -881,14 +883,17 @@ msgid "Contribute by programming language"
 msgstr ""
 
 #: contribute/by-language.md:block 2 (header)
+#, optional
 msgid "Python"
 msgstr ""
 
 #: contribute/by-language.md:block 6 (header)
+#, optional
 msgid "JavaScript"
 msgstr ""
 
 #: contribute/by-language.md:block 7 (header)
+#, optional
 msgid "Codex"
 msgstr ""
 
@@ -929,6 +934,7 @@ msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
 msgstr ""
 
 #: contribute/by-language.md:block 13 (header)
+#, optional
 msgid "VideoCutTool"
 msgstr ""
 
@@ -949,6 +955,7 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutT
 msgstr ""
 
 #: contribute/by-language.md:block 16 (header)
+#, optional
 msgid "Java"
 msgstr ""
 
@@ -973,6 +980,7 @@ msgid "[Get the source code](https://github.com/commons-app/apps-android-commons
 msgstr ""
 
 #: contribute/by-language.md:block 20 (header)
+#, optional
 msgid "Kotlin"
 msgstr ""
 
@@ -997,6 +1005,7 @@ msgid "[Get the source code](https://github.com/kiwix/)"
 msgstr ""
 
 #: contribute/by-language.md:block 24 (header)
+#, optional
 msgid "Scribe"
 msgstr ""
 
@@ -1017,10 +1026,12 @@ msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CON
 msgstr ""
 
 #: contribute/by-language.md:block 27 (header)
+#, optional
 msgid "Go"
 msgstr ""
 
 #: contribute/by-language.md:block 28 (header)
+#, optional
 msgid "Blubber"
 msgstr ""
 
@@ -1041,11 +1052,13 @@ msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)
 msgstr ""
 
 #: contribute/by-language.md:block 31 (header)
+#, optional
 msgid "PHP"
 msgstr ""
 
 #: contribute/by-language.md:block 32 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
+#, optional
 msgid "MediaWiki"
 msgstr ""
 
@@ -1073,6 +1086,7 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/medi
 msgstr ""
 
 #: contribute/by-language.md:block 35 (header)
+#, optional
 msgid "Ruby"
 msgstr ""
 
@@ -1097,10 +1111,12 @@ msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduD
 msgstr ""
 
 #: contribute/by-language.md:block 39 (header)
+#, optional
 msgid "Rust"
 msgstr ""
 
 #: contribute/by-language.md:block 40 (header)
+#, optional
 msgid "mwbot"
 msgstr ""
 
@@ -1121,6 +1137,7 @@ msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 msgstr ""
 
 #: contribute/by-language.md:block 43 (header)
+#, optional
 msgid "Swift"
 msgstr ""
 

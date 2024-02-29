@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-02-26 12:21:51+0000\n"
+"PO-Revision-Date: 2024-02-29 12:20:53+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -206,8 +206,9 @@ msgstr "Користете приложници и податочни извор
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
+#, optional
 msgid "Pywikibot"
-msgstr "Pywikibot"
+msgstr ""
 
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
@@ -376,8 +377,9 @@ msgstr "Откривајте и споделувајте алатки"
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
+#, optional
 msgid "Toolhub"
-msgstr "Toolhub"
+msgstr ""
 
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
@@ -882,16 +884,19 @@ msgid "Contribute by programming language"
 msgstr "Учествувајте по програмски јазик"
 
 #: contribute/by-language.md:block 2 (header)
+#, optional
 msgid "Python"
-msgstr "Python"
+msgstr ""
 
 #: contribute/by-language.md:block 6 (header)
+#, optional
 msgid "JavaScript"
-msgstr "JavaScript"
+msgstr ""
 
 #: contribute/by-language.md:block 7 (header)
+#, optional
 msgid "Codex"
-msgstr "Codex"
+msgstr ""
 
 #: contribute/by-language.md:block 8 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
@@ -930,6 +935,7 @@ msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
 msgstr "[Преземете го изворниот код](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 13 (header)
+#, optional
 msgid "VideoCutTool"
 msgstr "Видеоуредување"
 
@@ -950,6 +956,7 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutT
 msgstr "[Преземете го изворниот код](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
 
 #: contribute/by-language.md:block 16 (header)
+#, optional
 msgid "Java"
 msgstr "Јава"
 
@@ -974,8 +981,9 @@ msgid "[Get the source code](https://github.com/commons-app/apps-android-commons
 msgstr "[Преземете го изворниот код](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 20 (header)
+#, optional
 msgid "Kotlin"
-msgstr "Kotlin"
+msgstr ""
 
 #: contribute/by-language.md:block 21 (header)
 msgid "Kiwix"
@@ -998,8 +1006,9 @@ msgid "[Get the source code](https://github.com/kiwix/)"
 msgstr "[Преземте го изворниот код](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 24 (header)
+#, optional
 msgid "Scribe"
-msgstr "Scribe"
+msgstr ""
 
 #: contribute/by-language.md:block 25 (paragraph)
 msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
@@ -1018,12 +1027,14 @@ msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CON
 msgstr "[Учествувајте (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 27 (header)
+#, optional
 msgid "Go"
-msgstr "Дај"
+msgstr ""
 
 #: contribute/by-language.md:block 28 (header)
+#, optional
 msgid "Blubber"
-msgstr "Blubber"
+msgstr ""
 
 #: contribute/by-language.md:block 29 (paragraph)
 msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
@@ -1042,11 +1053,13 @@ msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)
 msgstr "[Преземете го изворниот код](https://gitlab.wikimedia.org/repos/releng/blubber/)"
 
 #: contribute/by-language.md:block 31 (header)
+#, optional
 msgid "PHP"
-msgstr "PHP"
+msgstr ""
 
 #: contribute/by-language.md:block 32 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
+#, optional
 msgid "MediaWiki"
 msgstr "МедијаВики"
 
@@ -1074,6 +1087,7 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/medi
 msgstr "[Преземете го изворниот код](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
 #: contribute/by-language.md:block 35 (header)
+#, optional
 msgid "Ruby"
 msgstr "Ruby"
 
@@ -1098,12 +1112,14 @@ msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduD
 msgstr "[Преземете го изворниот код](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-language.md:block 39 (header)
+#, optional
 msgid "Rust"
-msgstr "Rust"
+msgstr ""
 
 #: contribute/by-language.md:block 40 (header)
+#, optional
 msgid "mwbot"
-msgstr "mwbot"
+msgstr ""
 
 #: contribute/by-language.md:block 41 (paragraph)
 msgid "A framework for writing bots and tools in Rust."
@@ -1122,6 +1138,7 @@ msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 msgstr "[Преземте го изворниот код](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 
 #: contribute/by-language.md:block 43 (header)
+#, optional
 msgid "Swift"
 msgstr "Swift"
 

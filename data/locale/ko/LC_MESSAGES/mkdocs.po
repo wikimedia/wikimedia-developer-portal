@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-02-26 12:21:51+0000\n"
+"PO-Revision-Date: 2024-02-29 12:20:52+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -208,8 +208,9 @@ msgstr "API 및 데이터 소스 사용"
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
+#, optional
 msgid "Pywikibot"
-msgstr "Pywikibot"
+msgstr ""
 
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
@@ -378,6 +379,7 @@ msgstr "도구 확인 및 공유"
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
+#, optional
 msgid "Toolhub"
 msgstr "툴허브"
 
@@ -884,14 +886,17 @@ msgid "Contribute by programming language"
 msgstr "프로그래밍 언어별 기여"
 
 #: contribute/by-language.md:block 2 (header)
+#, optional
 msgid "Python"
 msgstr "파이썬"
 
 #: contribute/by-language.md:block 6 (header)
+#, optional
 msgid "JavaScript"
 msgstr "자바스크립트"
 
 #: contribute/by-language.md:block 7 (header)
+#, optional
 msgid "Codex"
 msgstr ""
 
@@ -932,6 +937,7 @@ msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
 msgstr ""
 
 #: contribute/by-language.md:block 13 (header)
+#, optional
 msgid "VideoCutTool"
 msgstr ""
 
@@ -952,6 +958,7 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutT
 msgstr ""
 
 #: contribute/by-language.md:block 16 (header)
+#, optional
 msgid "Java"
 msgstr "자바"
 
@@ -976,6 +983,7 @@ msgid "[Get the source code](https://github.com/commons-app/apps-android-commons
 msgstr "[소스 코드 가져오기](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 20 (header)
+#, optional
 msgid "Kotlin"
 msgstr ""
 
@@ -1000,6 +1008,7 @@ msgid "[Get the source code](https://github.com/kiwix/)"
 msgstr ""
 
 #: contribute/by-language.md:block 24 (header)
+#, optional
 msgid "Scribe"
 msgstr ""
 
@@ -1020,10 +1029,12 @@ msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CON
 msgstr ""
 
 #: contribute/by-language.md:block 27 (header)
+#, optional
 msgid "Go"
-msgstr "Go"
+msgstr ""
 
 #: contribute/by-language.md:block 28 (header)
+#, optional
 msgid "Blubber"
 msgstr ""
 
@@ -1044,11 +1055,13 @@ msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)
 msgstr ""
 
 #: contribute/by-language.md:block 31 (header)
+#, optional
 msgid "PHP"
-msgstr "PHP"
+msgstr ""
 
 #: contribute/by-language.md:block 32 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
+#, optional
 msgid "MediaWiki"
 msgstr "미디어위키"
 
@@ -1076,6 +1089,7 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/medi
 msgstr "[소스 코드 가져오기](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
 #: contribute/by-language.md:block 35 (header)
+#, optional
 msgid "Ruby"
 msgstr "루비"
 
@@ -1100,10 +1114,12 @@ msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduD
 msgstr "[소스 코드 가져오기](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-language.md:block 39 (header)
+#, optional
 msgid "Rust"
 msgstr ""
 
 #: contribute/by-language.md:block 40 (header)
+#, optional
 msgid "mwbot"
 msgstr ""
 
@@ -1124,6 +1140,7 @@ msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 msgstr ""
 
 #: contribute/by-language.md:block 43 (header)
+#, optional
 msgid "Swift"
 msgstr ""
 

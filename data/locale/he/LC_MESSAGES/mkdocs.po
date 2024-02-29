@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-02-26 12:21:51+0000\n"
+"PO-Revision-Date: 2024-02-29 12:20:52+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -132,7 +132,7 @@ msgstr "כלים ובוטים מקלים על עריכה ותחזוקה של מ�
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
-msgstr "[תרומה לקוד פתוח של ויקימדיה](contribute/)"
+msgstr "[לתרום לקוד פתוח של ויקימדיה](contribute/)"
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
@@ -207,8 +207,9 @@ msgstr "שימוש ב־API־ים ובמקורות מידע"
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
+#, optional
 msgid "Pywikibot"
-msgstr "Pywikibot"
+msgstr ""
 
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
@@ -223,7 +224,7 @@ msgstr "מידע נוסף באתר mediawiki.org](https://www.mediawiki.org/wiki
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
-msgstr "[תרומה](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr "[לתרום](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -260,7 +261,7 @@ msgstr "ה־API של מדיה־ויקי נותן לך גישת תכנות לתו
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
-msgstr ""
+msgstr "[מידע נוסף באתר mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -377,8 +378,9 @@ msgstr "גילוי ושיתוף כלים"
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
+#, optional
 msgid "Toolhub"
-msgstr "Toolhub"
+msgstr ""
 
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
@@ -636,15 +638,15 @@ msgstr "[מידע נוסף באתר Meta-Wiki](https://meta.wikimedia.org/wiki/S
 
 #: community/events.md:block 18 (header)
 msgid "Language community meetings"
-msgstr ""
+msgstr "מפגשי קהילת השפות"
 
 #: community/events.md:block 19 (paragraph)
 msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
-msgstr ""
+msgstr "דיון בעדכונים ובאתגרים טכניים הקשורים לשפה עם ויקימדים מקהילות שפה שונות."
 
 #: community/events.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
-msgstr ""
+msgstr "[מידע נוסף באתר mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -771,7 +773,7 @@ msgstr "ויקיבייס (Wikibase) היא תוכנת קוד פתוח למאגר
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
-msgstr "[קריאת תיעוד](https://wmde.github.io/wikidata-wikibase-architecture/)"
+msgstr "[תיעוד](https://wmde.github.io/wikidata-wikibase-architecture/)"
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
@@ -853,7 +855,7 @@ msgstr "קבלת דברים בסייסיים על איך לתרום למדיה־
 
 #: contribute/index.md:block 4 (header)
 msgid "[Contribute by topic](by-topic.md)"
-msgstr "[תרומה לפי נושא](by-topic.md)"
+msgstr "[לתרום לפי נושא](by-topic.md)"
 
 #: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
 #: (paragraph)
@@ -862,7 +864,7 @@ msgstr "מציאת דרכים לתרום ולהתחבר לאחרים שיש לה
 
 #: contribute/index.md:block 6 (header)
 msgid "[Contribute by programming language](by-language.md)"
-msgstr "[תרומה לפי שפת תכנות](by-language.md)"
+msgstr "[לתרום לפי שפת תכנות](by-language.md)"
 
 #: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
 #: (paragraph)
@@ -883,14 +885,17 @@ msgid "Contribute by programming language"
 msgstr "תרומה לפי שפת תכנות"
 
 #: contribute/by-language.md:block 2 (header)
+#, optional
 msgid "Python"
 msgstr "פייתון"
 
 #: contribute/by-language.md:block 6 (header)
+#, optional
 msgid "JavaScript"
-msgstr "JavaScript"
+msgstr ""
 
 #: contribute/by-language.md:block 7 (header)
+#, optional
 msgid "Codex"
 msgstr "קודקס"
 
@@ -900,11 +905,11 @@ msgstr "קודקס (Codex) הוא ערכת כלים לבניית ממשקי מש
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
-msgstr "[קריאת תיעוד](https://doc.wikimedia.org/codex/latest)"
+msgstr "[תיעוד](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
-msgstr "[תרומה](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+msgstr "[לתרום](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
@@ -924,15 +929,16 @@ msgstr "[תיעוד](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
-msgstr "[תרומה](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
+msgstr "[לתרום](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
 msgstr "[קבלת קוד המקור](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 13 (header)
+#, optional
 msgid "VideoCutTool"
-msgstr "VideoCutTool"
+msgstr ""
 
 #: contribute/by-language.md:block 14 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
@@ -940,17 +946,18 @@ msgstr "כלי לעריכת סרטונים בוויקישיתוף, נבנה עם
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://videocuttool.wmflabs.org)"
-msgstr "[לקריאת התיעוד](https://videocuttool.wmflabs.org)"
+msgstr "[תיעוד](https://videocuttool.wmflabs.org)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr "[התנדבות](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+msgstr "[לתרום](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
 msgstr "[קבלת קוד המקור](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
 
 #: contribute/by-language.md:block 16 (header)
+#, optional
 msgid "Java"
 msgstr "ג'אווה"
 
@@ -964,19 +971,20 @@ msgstr "יישום ויקישיתוף לאנדרואיד מאפשר למשתמש
 
 #: contribute/by-language.md:block 19 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
-msgstr "[קריאת תיעוד](https://commons-app.github.io/)"
+msgstr "[תיעוד](https://commons-app.github.io/)"
 
 #: contribute/by-language.md:block 19 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
-msgstr "[תרומה](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+msgstr "[לתרום](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
 
 #: contribute/by-language.md:block 19 (unordered list)
 msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
 msgstr "[קבלת קוד המקור](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 20 (header)
+#, optional
 msgid "Kotlin"
-msgstr "Kotlin"
+msgstr ""
 
 #: contribute/by-language.md:block 21 (header)
 msgid "Kiwix"
@@ -988,19 +996,20 @@ msgstr "תוכנית קריאה לאנשים ללא חיבור לאינטרנט.
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr "[לקריאת התיעוד](https://www.kiwix.org/)"
+msgstr "[תיעוד](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
-msgstr "[התנדבות](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
+msgstr "[לתרום](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
 msgstr "[קבלת קוד המקור](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 24 (header)
+#, optional
 msgid "Scribe"
-msgstr "Scribe"
+msgstr ""
 
 #: contribute/by-language.md:block 25 (paragraph)
 msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
@@ -1012,17 +1021,19 @@ msgstr "[קבלת קוד המקור](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
-msgstr "[התנדבות (אנדרואיד)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
+msgstr "[לתרום (אנדרואיד)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-msgstr "[התנדבות (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
+msgstr "[לתרום (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 27 (header)
+#, optional
 msgid "Go"
 msgstr "גו"
 
 #: contribute/by-language.md:block 28 (header)
+#, optional
 msgid "Blubber"
 msgstr "בלאבר"
 
@@ -1036,18 +1047,20 @@ msgstr "[מידע נוסף באתר Wikitech](https://wikitech.wikimedia.org/wik
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Contribute](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
-msgstr "[תרומה](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
+msgstr "[לתרום](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
 msgstr "[קבלת קוד המקור](https://gitlab.wikimedia.org/repos/releng/blubber/)"
 
 #: contribute/by-language.md:block 31 (header)
+#, optional
 msgid "PHP"
-msgstr "PHP"
+msgstr ""
 
 #: contribute/by-language.md:block 32 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
+#, optional
 msgid "MediaWiki"
 msgstr "מדיה־ויקי"
 
@@ -1066,7 +1079,7 @@ msgstr "[ביקור ב־mediawiki.org](https://www.mediawiki.org/)"
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
-msgstr "[תרומה](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+msgstr "[לתרום](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 
 #: contribute/by-language.md:block 34 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
@@ -1075,6 +1088,7 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/medi
 msgstr "[קבלת קוד המקור](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
 #: contribute/by-language.md:block 35 (header)
+#, optional
 msgid "Ruby"
 msgstr "רובי"
 
@@ -1092,44 +1106,47 @@ msgstr "[ביקור בלוח בקרה](https://dashboard.wikiedu.org)"
 
 #: contribute/by-language.md:block 38 (unordered list)
 msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
-msgstr "[תרומה](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+msgstr "[לתרום](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 38 (unordered list)
 msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 msgstr "[קבלת קוד המקור](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-language.md:block 39 (header)
+#, optional
 msgid "Rust"
-msgstr ""
+msgstr "ראסט"
 
 #: contribute/by-language.md:block 40 (header)
+#, optional
 msgid "mwbot"
 msgstr ""
 
 #: contribute/by-language.md:block 41 (paragraph)
 msgid "A framework for writing bots and tools in Rust."
-msgstr ""
+msgstr "מסגרת לכתיבת בוטים וכלים בשפת ראסט."
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
-msgstr ""
+msgstr "[תיעוד](https://docs.rs/mwbot/latest/mwbot/)"
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
-msgstr ""
+msgstr "[לתרום](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
-msgstr ""
+msgstr "[קבלת קוד המקור](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 
 #: contribute/by-language.md:block 43 (header)
+#, optional
 msgid "Swift"
-msgstr "Swift"
+msgstr "סוויפט"
 
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
 msgid "Contribute by topic"
-msgstr "תרומה לפי נושא"
+msgstr "לתרום לפי נושא"
 
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)

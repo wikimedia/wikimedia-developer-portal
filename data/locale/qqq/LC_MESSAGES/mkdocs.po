@@ -27,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-02-26 12:21:52+0000\n"
+"PO-Revision-Date: 2024-02-29 12:20:53+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -234,8 +234,9 @@ msgstr ""
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
+#, optional
 msgid "Pywikibot"
-msgstr ""
+msgstr "{{Optional}}"
 
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
@@ -404,8 +405,9 @@ msgstr ""
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
+#, optional
 msgid "Toolhub"
-msgstr ""
+msgstr "{{Optional}}"
 
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
@@ -910,16 +912,19 @@ msgid "Contribute by programming language"
 msgstr ""
 
 #: contribute/by-language.md:block 2 (header)
+#, optional
 msgid "Python"
-msgstr ""
+msgstr "{{Optional}}\n\"Python\" is a name of a programming language. See [[:w:en:Python (programming language)]]."
 
 #: contribute/by-language.md:block 6 (header)
+#, optional
 msgid "JavaScript"
-msgstr ""
+msgstr "{{Optional}}\n\"JavaScript\" is a name of a programming language. See [[:w:en:JavaScript]]."
 
 #: contribute/by-language.md:block 7 (header)
+#, optional
 msgid "Codex"
-msgstr ""
+msgstr "{{Optional}}\n\"Codex\" is a name of a design system. See [[:mw:Codex]]."
 
 #: contribute/by-language.md:block 8 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
@@ -958,8 +963,9 @@ msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
 msgstr ""
 
 #: contribute/by-language.md:block 13 (header)
+#, optional
 msgid "VideoCutTool"
-msgstr ""
+msgstr "{{Optional}}"
 
 #: contribute/by-language.md:block 14 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
@@ -978,8 +984,9 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutT
 msgstr ""
 
 #: contribute/by-language.md:block 16 (header)
+#, optional
 msgid "Java"
-msgstr ""
+msgstr "{{Optional}}\nJava is a name of a programming language. See [[:w:en:Java (programming language)]]."
 
 #: contribute/by-language.md:block 17 (header)
 msgid "Wikimedia Commons Android app"
@@ -1002,8 +1009,9 @@ msgid "[Get the source code](https://github.com/commons-app/apps-android-commons
 msgstr ""
 
 #: contribute/by-language.md:block 20 (header)
+#, optional
 msgid "Kotlin"
-msgstr ""
+msgstr "{{Optional}}\nKotlin is a programming language. See [[:w:en:Kotlin (programming language)]]."
 
 #: contribute/by-language.md:block 21 (header)
 msgid "Kiwix"
@@ -1026,8 +1034,9 @@ msgid "[Get the source code](https://github.com/kiwix/)"
 msgstr ""
 
 #: contribute/by-language.md:block 24 (header)
+#, optional
 msgid "Scribe"
-msgstr ""
+msgstr "{{Optional}}\n\nScribe is a name of software project. See https://github.com/scribe-org"
 
 #: contribute/by-language.md:block 25 (paragraph)
 msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
@@ -1046,12 +1055,14 @@ msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CON
 msgstr ""
 
 #: contribute/by-language.md:block 27 (header)
+#, optional
 msgid "Go"
-msgstr "{{Doc-important|\"Go\" doesn't mean \"to go somewhere\". It's a name of a programming language!}}\n\n\"Go\" is the name of a programming language (see “The Go Programming Language” on https://go.dev/, or “[[wikipedia:en:Go (programming language)|Go (programming language)]]” on Wikipedia)."
+msgstr "{{Doc-important|\"Go\" doesn't mean \"to go somewhere\". It's a name of a programming language!}}\n{{optional}}\n\n\"Go\" is the name of a programming language (see “The Go Programming Language” on https://go.dev/, or “[[wikipedia:en:Go (programming language)|Go (programming language)]]” on Wikipedia)."
 
 #: contribute/by-language.md:block 28 (header)
+#, optional
 msgid "Blubber"
-msgstr ""
+msgstr "{{Optional}}\n\n\"Blubber\" is a name of a programmers' tool. See https://wikitech.wikimedia.org/wiki/Blubber"
 
 #: contribute/by-language.md:block 29 (paragraph)
 msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
@@ -1070,13 +1081,15 @@ msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)
 msgstr ""
 
 #: contribute/by-language.md:block 31 (header)
+#, optional
 msgid "PHP"
-msgstr ""
+msgstr "{{Optional}}\n\nPHP is a programming language. See [[:w:en:PHP]]."
 
 #: contribute/by-language.md:block 32 (header) contribute/by-topic.md:block 3
 #: (header) get-started/wikimedia-tech.md:block 12 (header)
+#, optional
 msgid "MediaWiki"
-msgstr ""
+msgstr "{{Optional}}"
 
 #: contribute/by-language.md:block 33 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
@@ -1102,8 +1115,9 @@ msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/medi
 msgstr ""
 
 #: contribute/by-language.md:block 35 (header)
+#, optional
 msgid "Ruby"
-msgstr ""
+msgstr "{{Optional}}\n\n\"Ruby\" is a name of a programming language. See [[:w:en:Ruby (programming language)]]."
 
 #: contribute/by-language.md:block 36 (header)
 msgid "Wiki Education Dashboard"
@@ -1126,12 +1140,14 @@ msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduD
 msgstr ""
 
 #: contribute/by-language.md:block 39 (header)
+#, optional
 msgid "Rust"
-msgstr ""
+msgstr "{{Optional}}\n\"Rust\" is a name of a programming language, see [[:w:en:Rust (programming language)]]."
 
 #: contribute/by-language.md:block 40 (header)
+#, optional
 msgid "mwbot"
-msgstr ""
+msgstr "{{Optional}}\n\n\"mwbot\" is a name of a bot framework. See [[:mw:mwbot-rs]]."
 
 #: contribute/by-language.md:block 41 (paragraph)
 msgid "A framework for writing bots and tools in Rust."
@@ -1150,8 +1166,9 @@ msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 msgstr ""
 
 #: contribute/by-language.md:block 43 (header)
+#, optional
 msgid "Swift"
-msgstr ""
+msgstr "{{Optional}}\n\"Swift\" is a name of a programming language. See [[:w:en:Swift (programming language)]]."
 
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
