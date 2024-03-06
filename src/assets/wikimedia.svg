@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 253 249.5"><style id="style2" type="text/css">.st0{display:none}.st1{display:inline;fill:#fff}</style><path id="path23" d="M137 198.3c40.5-5.8 68.5-43.3 62.7-83.8-2.6-18-11.7-34.3-25.5-46l-37.3 37.3z" style="fill:#fff;fill-opacity:1"/><path id="path25" d="M116.1 198.3v-92.5L78.8 68.5C47.6 94.9 43.6 141.6 70 172.8c11.7 13.9 28.1 22.9 46.1 25.5" style="fill:#fff;fill-opacity:1"/><path id="path27" d="M190.9 60.7c35.5 35.5 35.5 93.1 0 128.6s-93.1 35.5-128.6 0-35.5-93 0-128.5q2.25-2.25 4.5-4.2L46 35.8c-1.5 1.4-3 2.8-4.5 4.3-11 11-19.7 23.9-25.8 38.2-19.1 45.1-8.9 97.2 25.8 131.8 11 11 23.9 19.7 38.2 25.8 45.1 19.1 97.2 8.9 131.8-25.8 11-11 19.7-23.9 25.8-38.2 19.1-45.1 8.9-97.2-25.8-131.8-1.5-1.5-3-2.9-4.5-4.3l-20.8 20.8c1.7 1.2 3.2 2.6 4.7 4.1" style="fill:#fff;fill-opacity:1"/><g id="g53"><g id="g51"><g id="g49"><defs id="defs30"><circle id="SVGID_3_" cx="126.6" cy="41.6" r="37.5"/></defs><clipPath id="SVGID_1_"><use xlink:href="#SVGID_3_" id="use32" style="overflow:visible"/></clipPath><g id="g47" style="clip-path:url(#SVGID_1_)"><path id="rect35" d="M57.5 66.6h121.4v12.5H57.5z" style="fill:#750787"/><path id="rect37" d="M57.5 54.1h121.4v12.5H57.5z" style="fill:#004dff"/><path id="rect39" d="M57.6 41.6H179v12.5H57.6z" style="fill:#008026"/><path id="rect41" d="M57.4 29.1h121.4v12.5H57.4z" style="fill:#ffed00"/><path id="rect43" d="M57.5 16.6h121.4v12.5H57.5z" style="fill:#ff8c00"/><path id="rect45" d="M57.5 4.1h121.4v12.5H57.5z" style="fill:#e40303"/></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="154.38px" height="154.38px" viewBox="0 0 154.38 154.38" enable-background="new 0 0 154.38 154.38" xml:space="preserve">
+<g>
+	<path id="circle9_2_" fill="#FFFFFF" d="M77.189,0c14.212,0,25.73,11.515,25.73,25.732c0,14.204-11.519,25.729-25.73,25.729
+		S51.46,39.937,51.46,25.732C51.46,11.515,62.977,0,77.189,0z"/>
+	<path id="path11_2_" fill="#FFFFFF" d="M129.139,20.094L114.55,34.681c11.796,10.375,19.252,25.576,19.252,42.508
+		c0,31.264-25.353,56.604-56.614,56.604c-31.262,0-56.601-25.341-56.601-56.604c0-16.929,7.437-32.133,19.229-42.508L25.251,20.094
+		C9.731,34.215,0,54.566,0,77.19c0,42.639,34.561,77.189,77.189,77.189c42.641,0,77.191-34.552,77.191-77.189
+		C154.38,54.567,144.644,34.215,129.139,20.094z"/>
+	<g id="g13_2_">
+		<path id="path15_2_" fill="#FFFFFF" d="M107.255,41.979L82.333,66.898v56.306c23.155-2.559,41.176-22.177,41.176-46.024
+			C123.509,63.09,117.191,50.472,107.255,41.979z"/>
+		<path id="path17_2_" fill="#FFFFFF" d="M72.041,66.898L47.113,41.979c-9.929,8.493-16.241,21.111-16.241,35.202
+			c0,23.847,18.011,43.475,41.169,46.024V66.898L72.041,66.898z"/>
+	</g>
+</g>
+</svg>
