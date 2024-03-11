@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-02-29 12:20:52+0000\n"
+"PO-Revision-Date: 2024-03-11 12:21:07+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -42,7 +42,7 @@ msgstr "위키미디어 개발자 포털"
 
 #: mkdocs.yml:site_description
 msgid "Find technical documentation, and connect with Wikimedia developer communities."
-msgstr "기술 문서를 찾고 위키미디어 개발자 커뮤니티와 연결해."
+msgstr ""
 
 #: mkdocs.yml:site_author
 msgid "Wikimedia Foundation and contributors"
@@ -66,7 +66,7 @@ msgstr "코드: GPL-3.0 이상"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr "내용: CC-BY-SA-4.0"
+msgstr ""
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
