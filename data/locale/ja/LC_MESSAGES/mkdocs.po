@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: Afaz
+# Author: Chqaz
 # Author: MathXplore
 # Author: Omotecho
 # Author: Shirayuki
@@ -30,7 +31,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-02-29 12:20:52+0000\n"
+"PO-Revision-Date: 2024-03-25 12:21:50+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -71,7 +72,7 @@ msgstr "コード: GPL3.0以降"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr ""
+msgstr "コンテンツ: CC-BY-SA-4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -266,7 +267,7 @@ msgstr "MediaWiki APIを利用することにより、あらゆるウィキメ�
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -358,7 +359,7 @@ msgstr "PAWSは、ウィキメディアプロジェクトに関連するデー�
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[PAWSにアクセス](https://hub-paws.wmcloud.org/)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -643,7 +644,7 @@ msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:My
 
 #: community/events.md:block 18 (header)
 msgid "Language community meetings"
-msgstr ""
+msgstr "言語コミュニティのミーティング"
 
 #: community/events.md:block 19 (paragraph)
 msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
@@ -651,7 +652,7 @@ msgstr ""
 
 #: community/events.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
-msgstr ""
+msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -910,7 +911,7 @@ msgstr "Codex というツールキットは、ウィキメディア設計シス
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
-msgstr ""
+msgstr "[解説文書を読む](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
