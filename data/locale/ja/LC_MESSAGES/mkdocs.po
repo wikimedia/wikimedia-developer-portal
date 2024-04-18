@@ -31,7 +31,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-04-11 12:23:47+0000\n"
+"PO-Revision-Date: 2024-04-18 12:24:04+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1353,7 +1353,7 @@ msgstr ""
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Search across wikis](https://global-search.toolforge.org/)"
-msgstr ""
+msgstr "[複数のウィキを一括検索](https://global-search.toolforge.org/)"
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
