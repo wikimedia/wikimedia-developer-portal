@@ -11,6 +11,7 @@
 # Author: StarrySky
 # Author: Winston Sung
 # Author: Xyb
+# Author: 沈澄心
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -32,12 +33,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-04-11 12:23:49+0000\n"
+"PO-Revision-Date: 2024-04-25 12:22:29+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hans\n"
-"X-Generator: MediaWiki 1.43.0-alpha; Translate 2024-01-22\n"
+"X-Generator: MediaWiki 1.43.0-alpha; Translate 2024-04-24\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: Wikimedia Developer Portal\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
@@ -268,7 +269,7 @@ msgstr "MediaWiki API使你能以编程方式访问任何维基媒体的wiki。�
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
-msgstr ""
+msgstr "[在mediawiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -645,15 +646,15 @@ msgstr "[在元维基上了解更多](https://meta.wikimedia.org/wiki/Special:My
 
 #: community/events.md:block 18 (header)
 msgid "Language community meetings"
-msgstr ""
+msgstr "语言社区会议"
 
 #: community/events.md:block 19 (paragraph)
 msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
-msgstr ""
+msgstr "与来自不同语言社区的维基人一起讨论与语言相关的技术更新和挑战。"
 
 #: community/events.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
-msgstr ""
+msgstr "[在mediawiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -1131,19 +1132,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 41 (paragraph)
 msgid "A framework for writing bots and tools in Rust."
-msgstr ""
+msgstr "用Rust编写机器人和工具的框架。"
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
-msgstr ""
+msgstr "[阅读文档](https://docs.rs/mwbot/latest/mwbot/)"
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
-msgstr ""
+msgstr "[贡献](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
-msgstr ""
+msgstr "[获取源代码](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 
 #: contribute/by-language.md:block 43 (header)
 #, optional

@@ -6,6 +6,7 @@
 # Author: Crazy1880
 # Author: Justman10000
 # Author: TMg
+# Author: TomatoCake
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -27,12 +28,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-04-11 12:23:46+0000\n"
+"PO-Revision-Date: 2024-04-25 12:22:26+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: de\n"
-"X-Generator: MediaWiki 1.43.0-alpha; Translate 2024-01-22\n"
+"X-Generator: MediaWiki 1.43.0-alpha; Translate 2024-04-24\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: Wikimedia Developer Portal\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
@@ -68,7 +69,7 @@ msgstr "Code: GPL-3.0-or-later"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr ""
+msgstr "Inhalt: CC-BY-SA-4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -216,7 +217,7 @@ msgstr ""
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
 msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
-msgstr ""
+msgstr "Pywikibot ist eine Python-Bibliothek und Sammlung von Skripten, die die Arbeit an Wikimedia-Projekten automatisieren."
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -236,7 +237,7 @@ msgstr "[Den Quelltext erhalten](https://gerrit.wikimedia.org/g/pywikibot/core)"
 #: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
 #: (header)
 msgid "Browse libraries by programming language"
-msgstr ""
+msgstr "Bibliotheken nach Programmiersprache durchsuchen"
 
 #: build-tools/apis.md:block 7 (paragraph)
 #: get-started/browse-languages.md:block 2 (paragraph)
@@ -355,7 +356,7 @@ msgstr ""
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[PAWS besuchen](https://hub.paws.wmcloud.org/)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -509,7 +510,7 @@ msgstr ""
 
 #: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
-msgstr ""
+msgstr "[Technische Projektupdates erhalten](updates.md)"
 
 #: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
@@ -628,7 +629,7 @@ msgstr "[Weiterlesen auf mediawiki.org](https://www.mediawiki.org/wiki/Special:M
 
 #: community/events.md:block 15 (header)
 msgid "Coolest Tool Award"
-msgstr ""
+msgstr "Auszeichnung für das coolste Werkzeug"
 
 #: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
@@ -648,7 +649,7 @@ msgstr ""
 
 #: community/events.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
-msgstr ""
+msgstr "[Erfahre mehr auf mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -804,7 +805,7 @@ msgstr "[Weiterlesen auf mediawiki.org](https://www.mediawiki.org/wiki/Special:M
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
 msgid "Get tech project updates"
-msgstr ""
+msgstr "Technische Projektupdates erhalten"
 
 #: community/updates.md:block 3 (header)
 msgid "Tech blog"
@@ -907,7 +908,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
-msgstr ""
+msgstr "[Die Dokumentation lesen](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 9 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
@@ -919,7 +920,7 @@ msgstr "[Quelltext herunterladen](https://gerrit.wikimedia.org/g/pywikibot/core)
 
 #: contribute/by-language.md:block 10 (header)
 msgid "SignIt Firefox Extension"
-msgstr ""
+msgstr "SignIt Firefox-Erweiterung"
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
@@ -948,7 +949,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://videocuttool.wmflabs.org)"
-msgstr ""
+msgstr "[Die Dokumentation lesen](https://videocuttool.wmflabs.org)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
@@ -990,7 +991,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 21 (header)
 msgid "Kiwix"
-msgstr ""
+msgstr "Kiwix"
 
 #: contribute/by-language.md:block 22 (paragraph)
 msgid "An offline reader for people without internet access."
@@ -998,7 +999,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr ""
+msgstr "[Die Dokumentation lesen](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
@@ -1006,7 +1007,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 23 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
-msgstr ""
+msgstr "[Quellcode abrufen](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 24 (header)
 #, optional
@@ -1019,7 +1020,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[Quellcode abrufen](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
@@ -1053,7 +1054,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
-msgstr ""
+msgstr "[Quellcode abrufen](https://gitlab.wikimedia.org/repos/releng/blubber/)"
 
 #: contribute/by-language.md:block 31 (header)
 #, optional
@@ -1130,7 +1131,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
-msgstr ""
+msgstr "[Die Dokumentation lesen](https://docs.rs/mwbot/latest/mwbot/)"
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
@@ -1138,7 +1139,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
-msgstr ""
+msgstr "[Quellcode abrufen](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 
 #: contribute/by-language.md:block 43 (header)
 #, optional
@@ -1153,7 +1154,7 @@ msgstr "Nach Thema beitragen"
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
-msgstr ""
+msgstr "Lokalisierung und Internationalisierung"
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
@@ -1403,7 +1404,7 @@ msgstr ""
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
 msgid "Browse by programming language"
-msgstr ""
+msgstr "Nach Programmiersprache durchsuchen"
 
 #: get-started/browse-languages.md:block 1 (header)
 msgid "API client libraries by language"
@@ -1424,7 +1425,7 @@ msgstr ""
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr ""
+msgstr "Den Entwicklungsprozess verstehen"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
@@ -1536,7 +1537,7 @@ msgstr ""
 
 #: use-content/index.md:block 6 (header)
 msgid "[Use wiki content](content.md)"
-msgstr ""
+msgstr "[Wiki-Inhalte verwenden](content.md)"
 
 #: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
 #: (paragraph)
@@ -1555,7 +1556,7 @@ msgstr ""
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
 msgid "Use wiki content"
-msgstr ""
+msgstr "Wiki-Inhalte verwenden"
 
 #: use-content/content.md:block 3 (header)
 msgid "Introduction to Wikimedia projects"
@@ -1665,7 +1666,7 @@ msgstr "[Weiterlesen auf Wikidata](https://www.wikidata.org/wiki/Special:MyLangu
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
-msgstr ""
+msgstr "Informationen aus Wikidata anzeigen"
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
