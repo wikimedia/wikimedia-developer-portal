@@ -3,6 +3,7 @@
 #
 # Author: Dr1t jg
 # Author: Ellif
+# Author: Suleiman the Magnificent Television
 # Author: Ykhwong
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -25,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-04-25 12:22:27+0000\n"
+"PO-Revision-Date: 2024-05-20 12:19:16+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -42,7 +43,7 @@ msgstr "위키미디어 개발자 포털"
 
 #: mkdocs.yml:site_description
 msgid "Find technical documentation, and connect with Wikimedia developer communities."
-msgstr ""
+msgstr "기술 문서를 찾아, 위키미디어 개발자 커뮤니티와 연결하십시오."
 
 #: mkdocs.yml:site_author
 msgid "Wikimedia Foundation and contributors"
@@ -145,7 +146,7 @@ msgstr "[공동체에 연결](community/)"
 
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
-msgstr ""
+msgstr "위키미디어 기술 커뮤니티에 참여하고 지원과 학습의 기회를 찾아보세요."
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
@@ -153,7 +154,7 @@ msgstr "[도움 얻기](get-help/)"
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
-msgstr ""
+msgstr "질문과 문제 해결에 도움이 되는 자료를 찾아보세요."
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
@@ -181,7 +182,7 @@ msgstr "[튜토리얼로 배우기](tutorials.md)"
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
-msgstr ""
+msgstr "위키미디어 프로젝트와 상호작용하는 기본을 배우기 위해 단계별 가이드들을 따르십시오."
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
