@@ -26,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-04-25 12:22:27+0000\n"
+"PO-Revision-Date: 2024-05-23 12:24:45+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -639,15 +639,15 @@ msgstr "[Lire davantage sur Méta-Wiki](https://meta.wikimedia.org/wiki/Special:
 
 #: community/events.md:block 18 (header)
 msgid "Language community meetings"
-msgstr ""
+msgstr "Réunions de la communauté linguistique"
 
 #: community/events.md:block 19 (paragraph)
 msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
-msgstr ""
+msgstr "Discuter des mises à jour techniques et des défis liés aux langues avec des Wikimédiens des différentes communautés linguistiques."
 
 #: community/events.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
-msgstr ""
+msgstr "[Lire plus sur mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -1125,19 +1125,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 41 (paragraph)
 msgid "A framework for writing bots and tools in Rust."
-msgstr ""
+msgstr "Un cadre pour écrire des robots et des outils en Rust."
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
-msgstr ""
+msgstr "[Lire les docs](https://docs.rs/mwbot/latest/mwbot/)"
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
-msgstr ""
+msgstr "[Contribuer](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
-msgstr ""
+msgstr "[Récupérer le code source](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 
 #: contribute/by-language.md:block 43 (header)
 #, optional
