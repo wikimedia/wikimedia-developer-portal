@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-04-25 12:22:28+0000\n"
+"PO-Revision-Date: 2024-07-04 12:21:44+0000\n"
 "X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1124,7 +1124,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 41 (paragraph)
 msgid "A framework for writing bots and tools in Rust."
-msgstr ""
+msgstr "Фреймворк для написания ботов и инструментов на Rust."
 
 #: contribute/by-language.md:block 42 (unordered list)
 msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
