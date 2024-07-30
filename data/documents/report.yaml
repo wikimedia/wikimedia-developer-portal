@@ -1,0 +1,10 @@
+---
+title: Bugs and feature requests
+description: Report bugs and request new features in Wikimedia software.
+links:
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug
+    label: Learn how to report a bug
+  - url: https://phabricator.wikimedia.org
+    label: Visit Wikimedia's task tracker
+categories:
+  help: 5

@@ -1623,6 +1623,24 @@ msgid ""
 "wikis](https://versions.toolforge.org/)"
 msgstr ""
 
+#: get-help/index.md:block 15 (header)
+msgid "Bugs and feature requests"
+msgstr ""
+
+#: get-help/index.md:block 16 (paragraph)
+msgid "Report bugs and request new features in Wikimedia software."
+msgstr ""
+
+#: get-help/index.md:block 17 (unordered list)
+msgid ""
+"[Learn how to report a "
+"bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+msgstr ""
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
+msgstr ""
+
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
 msgstr ""
