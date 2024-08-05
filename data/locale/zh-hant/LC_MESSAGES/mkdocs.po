@@ -27,8 +27,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-07-11 12:24:28+0000\n"
-"X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
+"PO-Revision-Date: 2024-08-05 12:19:51+0000\n"
+"X-POT-Import-Date: 2024-08-02 18:30:46+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hant\n"
@@ -1370,6 +1370,22 @@ msgstr "[參訪 wikimediastatus.net](https://www.wikimediastatus.net/)"
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
 msgstr "[查看維基媒體 wiki 使用的 MediaWiki 版本](https://versions.toolforge.org/)"
+
+#: get-help/index.md:block 15 (header)
+msgid "Bugs and feature requests"
+msgstr "程式錯誤與功能請求"
+
+#: get-help/index.md:block 16 (paragraph)
+msgid "Report bugs and request new features in Wikimedia software."
+msgstr "報告在維基媒體軟體上的程式錯誤，與請求新的功能。"
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+msgstr "[了解如何報告程式錯誤](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
+msgstr "[參訪維基媒體的任務追蹤系統](https://phabricator.wikimedia.org)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"

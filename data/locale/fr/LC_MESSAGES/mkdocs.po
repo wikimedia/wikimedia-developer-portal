@@ -4,6 +4,7 @@
 # Author: Gomoko
 # Author: Hecatonchire
 # Author: I'm mender
+# Author: Méthodes Bulebe Hangi
 # Author: Verdy p
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -26,8 +27,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-07-11 12:24:25+0000\n"
-"X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
+"PO-Revision-Date: 2024-08-05 12:19:49+0000\n"
+"X-POT-Import-Date: 2024-08-02 18:30:46+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
@@ -1369,6 +1370,22 @@ msgstr "[Visitez WikimediaStatus.net](https://www.wikimediastatus.net/)"
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
 msgstr "[Voir les versions de MediaWiki utilisées par les wikis de Wikimedia](https://versions.toolforge.org/)"
+
+#: get-help/index.md:block 15 (header)
+msgid "Bugs and feature requests"
+msgstr "rapports d’anomalies et de demandes de fonctionnalités"
+
+#: get-help/index.md:block 16 (paragraph)
+msgid "Report bugs and request new features in Wikimedia software."
+msgstr "Rapport des bogues"
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+msgstr "[Apprenez à signaler un bug] (https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
+msgstr "[contactez les fonctionnaires de Wikimedia](https://phabricator.wikimedia.org)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"

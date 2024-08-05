@@ -6,6 +6,7 @@
 # Author: Googology
 # Author: GuoPC
 # Author: Hehua
+# Author: Huajing
 # Author: Lakejason0
 # Author: LittlePaw365
 # Author: StarrySky
@@ -33,8 +34,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-07-11 12:24:28+0000\n"
-"X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
+"PO-Revision-Date: 2024-08-05 12:19:51+0000\n"
+"X-POT-Import-Date: 2024-08-02 18:30:46+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hans\n"
@@ -1376,6 +1377,22 @@ msgstr "[访问wikimediastatus.net](https://www.wikimediastatus.net/)"
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
 msgstr "[参见维基媒体wiki使用的MediaWiki版本](https://versions.toolforge.org/)"
+
+#: get-help/index.md:block 15 (header)
+msgid "Bugs and feature requests"
+msgstr "问题报告和功能请求"
+
+#: get-help/index.md:block 16 (paragraph)
+msgid "Report bugs and request new features in Wikimedia software."
+msgstr "报告维基媒体软件中的问题，以及请求在维基媒体软件中添加新功能。"
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+msgstr "[了解如何报告问题](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
+msgstr "[访问维基媒体的任务追踪器](https://phabricator.wikimedia.org)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"

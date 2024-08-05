@@ -24,8 +24,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-07-11 12:24:26+0000\n"
-"X-POT-Import-Date: 2024-02-22 17:38:36+0000\n"
+"PO-Revision-Date: 2024-08-05 12:19:49+0000\n"
+"X-POT-Import-Date: 2024-08-02 18:30:46+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lb\n"
@@ -1366,6 +1366,22 @@ msgstr "[Gitt op wikimediastatus.net](https://www.wikimediastatus.net/)"
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
+msgstr ""
+
+#: get-help/index.md:block 15 (header)
+msgid "Bugs and feature requests"
+msgstr ""
+
+#: get-help/index.md:block 16 (paragraph)
+msgid "Report bugs and request new features in Wikimedia software."
+msgstr ""
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+msgstr ""
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
 msgstr ""
 
 #: get-started/index.md:block 1 (header)
