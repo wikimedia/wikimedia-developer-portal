@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-08-05 12:19:49+0000\n"
+"PO-Revision-Date: 2024-08-12 12:20:28+0000\n"
 "X-POT-Import-Date: 2024-08-02 18:30:46+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1659,7 +1659,7 @@ msgstr "הצגות חזותיות של ויקיפדיה"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
-msgstr "\"ראה, גם\" היא גלריה של יישומים הממחישים נתונים מוויקיפדיה. הגלריה נותנת השראה ומלמדת על נתונים זמינים וממשקי API."
+msgstr "\"See, also\" (\"ר' גם\") היא גלריה של יישומים הממחישים נתונים מוויקיפדיה. הגלריה נותנת השראה ומלמדת על נתונים זמינים וממשקי API."
 
 #: use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"
