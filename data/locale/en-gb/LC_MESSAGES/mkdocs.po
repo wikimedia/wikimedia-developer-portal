@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to British English (British English)
 # Exported from translatewiki.net
 #
+# Author: Piano1forte2
 # Author: Reedy
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -23,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-08-05 12:19:48+0000\n"
+"PO-Revision-Date: 2024-08-19 12:21:22+0000\n"
 "X-POT-Import-Date: 2024-08-02 18:30:46+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -383,7 +384,7 @@ msgstr ""
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
 msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
-msgstr ""
+msgstr "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favourite tools."
 
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
@@ -458,7 +459,7 @@ msgstr ""
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr ""
+msgstr "Customise MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
