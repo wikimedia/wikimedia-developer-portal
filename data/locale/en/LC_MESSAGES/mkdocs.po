@@ -1718,15 +1718,20 @@ msgstr ""
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid ""
-"Many Wikimedia projects use Git and Gerrit for development. Before you "
-"submit code for review, get familiar with the tools, processes, and best "
-"practices."
+"Wikimedia uses Gerrit and GitLab for code review. Before you submit code, "
+"get familiar with the tools, processes, and best practices."
 msgstr ""
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid ""
-"[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+"[Read more about "
+"Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr ""
+
+#: get-started/new-dev.md:block 17 (unordered list)
+msgid ""
+"[Read more about "
+"GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
 msgstr ""
 
 #: get-started/tutorials.md:block 2 (header)
