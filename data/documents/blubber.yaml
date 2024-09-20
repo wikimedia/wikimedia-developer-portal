@@ -2,9 +2,9 @@
 title: Blubber
 description: Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline.
 links:
-  - url: https://wikitech.wikimedia.org/wiki/Blubber
-    label: Read more on Wikitech
-  - url: https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md
+  - url: https://doc.wikimedia.org/releng/blubber/
+    label: Read the docs
+  - url: https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html
     label: Contribute
   - url: https://gitlab.wikimedia.org/repos/releng/blubber/
     label: Get the source code

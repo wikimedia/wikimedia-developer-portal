@@ -1231,12 +1231,12 @@ msgid ""
 msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
+msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
 msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid ""
-"[Contribute](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
+"[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
 msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
