@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-08-05 12:19:50+0000\n"
-"X-POT-Import-Date: 2024-08-02 18:30:46+0000\n"
+"PO-Revision-Date: 2024-09-23 12:20:17+0000\n"
+"X-POT-Import-Date: 2024-09-23 05:20:17+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sl\n"
@@ -663,42 +663,30 @@ msgstr "Izboljšujte svoje spretnosti s pripravništvom in mentorskimi programi,
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 msgstr "[Preberite več na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 
-#: community/grow.md:block 6 (header)
-msgid "Small wiki toolkits"
-msgstr "Kompleti orodij za majhne vikije"
-
-#: community/grow.md:block 7 (paragraph)
-msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
-msgstr "Poiščite orodja in izobraževalne vire za pomoč majhnim vikiskupnostim pri izboljševaju njihove tehnične zmožnosti in učenju novih spretnosti."
-
-#: community/grow.md:block 8 (unordered list)
-msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr "[Preberite več na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-
-#: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
+#: community/grow.md:block 6 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
 msgid "Videos and tech talks"
 msgstr "Videoposnetki in pogovori o tehniki"
 
-#: community/grow.md:block 10 (paragraph) get-started/wikimedia-tech.md:block
-#: 7 (paragraph)
+#: community/grow.md:block 7 (paragraph) get-started/wikimedia-tech.md:block 7
+#: (paragraph)
 msgid "Learn about Wikimedia technology through recorded presentations from the community."
 msgstr "Spoznajte tehnologijo Wikimedie prek posnetih predstavitev skupnosti."
 
-#: community/grow.md:block 11 (unordered list)
+#: community/grow.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
 msgstr "[Obiščite YouTube kanal](https://www.youtube.com/user/watchmediawiki/videos)"
 
-#: community/grow.md:block 12 (header)
+#: community/grow.md:block 9 (header)
 msgid "Tech ambassadors"
 msgstr "Tehnićni ambasadorji"
 
-#: community/grow.md:block 13 (paragraph)
+#: community/grow.md:block 10 (paragraph)
 msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
 msgstr "Prostovoljno ponudite svoje spretnosti, da pomagate Wikimedijcem pri odpravljanju tehničnih težav in povezovanju razvijalcev z lokalnimi vikiji."
 
-#: community/grow.md:block 14 (unordered list)
+#: community/grow.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 msgstr "[Preberite več na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 
@@ -1040,12 +1028,12 @@ msgid "Blubber is an infrastructure tool that configures Docker containers and t
 msgstr "Blubber je infrastrukturno orodje, ki konfigurira vsebnike Docker in preizkuša kodo kot del neprekinjenega integracijskega cevovoda Wikimedie."
 
 #: contribute/by-language.md:block 30 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
-msgstr "[Preberite več na Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
+msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
+msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
-msgid "[Contribute](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
-msgstr "[Prispevajte](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
+msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
+msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"

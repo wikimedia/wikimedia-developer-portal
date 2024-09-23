@@ -31,8 +31,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-08-05 12:19:49+0000\n"
-"X-POT-Import-Date: 2024-08-02 18:30:46+0000\n"
+"PO-Revision-Date: 2024-09-23 12:20:15+0000\n"
+"X-POT-Import-Date: 2024-09-23 05:20:17+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ja\n"
@@ -671,42 +671,30 @@ msgstr "スキルを磨く場として、アウトリーチー（Outreachy）や
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 
-#: community/grow.md:block 6 (header)
-msgid "Small wiki toolkits"
-msgstr "小規模ウィキ向けのツールキット"
-
-#: community/grow.md:block 7 (paragraph)
-msgid "Find tools and educational resources to help small wiki communities grow their technical capacity and learn new skills."
-msgstr "小規模なウィキのコミュニティが技能の向上や新しいスキルの習得ができるよう、役に立つツールや教材を見つけてご支援ください。"
-
-#: community/grow.md:block 8 (unordered list)
-msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Small_wiki_toolkits)"
-
-#: community/grow.md:block 9 (header) get-started/wikimedia-tech.md:block 6
+#: community/grow.md:block 6 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
 msgid "Videos and tech talks"
 msgstr "動画と技術系の講演"
 
-#: community/grow.md:block 10 (paragraph) get-started/wikimedia-tech.md:block
-#: 7 (paragraph)
+#: community/grow.md:block 7 (paragraph) get-started/wikimedia-tech.md:block 7
+#: (paragraph)
 msgid "Learn about Wikimedia technology through recorded presentations from the community."
 msgstr "ウィキメディアの技術について、コミュニティによる発表の録画を見て学びましょう。"
 
-#: community/grow.md:block 11 (unordered list)
+#: community/grow.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
 msgstr "[YouTube チャンネルにアクセス](https://www.youtube.com/user/watchmediawiki/videos)"
 
-#: community/grow.md:block 12 (header)
+#: community/grow.md:block 9 (header)
 msgid "Tech ambassadors"
 msgstr "技術大使"
 
-#: community/grow.md:block 13 (paragraph)
+#: community/grow.md:block 10 (paragraph)
 msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
 msgstr "皆さんのスキルを提供してウィキメディアンが技術上の問題解決を助け、ローカルのウィキと開発者同士をつないでください。"
 
-#: community/grow.md:block 14 (unordered list)
+#: community/grow.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 msgstr "[詳細 (メタ・ウィキ)](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 
@@ -1048,11 +1036,11 @@ msgid "Blubber is an infrastructure tool that configures Docker containers and t
 msgstr "Blubber はインフラストラクチャ用ツールで、Docker コンテナの定義と、ウィキメディアの継続的統合パイプラインの一環としてコードをテストします。"
 
 #: contribute/by-language.md:block 30 (unordered list)
-msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Blubber)"
-msgstr "[詳細 (Wikitech)](https://wikitech.wikimedia.org/wiki/Blubber)"
+msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
+msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
-msgid "[Contribute](https://gitlab.wikimedia.org/repos/releng/blubber/-/blob/main/CONTRIBUTING.md)"
+msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
 msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
