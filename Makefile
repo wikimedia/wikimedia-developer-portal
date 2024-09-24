@@ -19,6 +19,8 @@
 this := $(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))
 PROJECT_DIR := $(dir $(this))
 PIPELINE_DIR := $(PROJECT_DIR)/.pipeline
+# Prefer Compose v2, but allow override on hosts that only have v1
+COMPOSE ?= docker compose
 
 help:
 	@echo "Make targets:"
@@ -30,34 +32,34 @@ help:
 # FIXME: reenable dockerfile rebuild after blubber is fixed
 # start: .env  ## Start the docker-compose stack
 start: .env  ## Start the docker-compose stack
-	docker-compose up --build --detach
+	$(COMPOSE) up --build --detach
 .PHONY: start
 
 stop:  ## Stop the docker-compose stack
-	docker-compose stop
+	$(COMPOSE) stop
 .PHONY: stop
 
 restart: stop start  ## Restart the docker-compose stack
 .PHONY: restart
 
 status:  ## Show status of the docker-compose stack
-	docker-compose ps
+	$(COMPOSE) ps
 .PHONY: status
 
 shell:  ## Get an interactive shell inside the container
-	docker-compose exec portal /bin/bash
+	$(COMPOSE) exec portal /bin/bash
 .PHONY: shell
 
 tail:  ## Tail logs from the docker-compose stack
-	docker-compose logs -f
+	$(COMPOSE) logs -f
 .PHONY: tail
 
 test: lint build
-	docker-compose exec portal git diff --no-ext-diff --compact-summary --exit-code data/locale/en/LC_MESSAGES/mkdocs.po
+	$(COMPOSE) exec portal git diff --no-ext-diff --compact-summary --exit-code data/locale/en/LC_MESSAGES/mkdocs.po
 .PHONY: test
 
 lint:
-	docker-compose exec portal sh -c " \
+	$(COMPOSE) exec portal sh -c " \
 		poetry check \
 		&& poetry run flake8 \
 		&& poetry run black --check --diff . \
@@ -65,13 +67,13 @@ lint:
 .PHONY: lint
 
 build:  ## Build static site
-	docker-compose exec portal poetry run mkdocs --verbose build
+	$(COMPOSE) exec portal poetry run mkdocs --verbose build
 .PHONY: build
 docs: build
 .PHONY: docs
 
 format-code:  ## Reformat Python files
-	docker-compose exec portal poetry run black .
+	$(COMPOSE) exec portal poetry run black .
 .PHONY: format-code
 
 clean:  ## Clean up Docker images and containers
