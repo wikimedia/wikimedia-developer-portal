@@ -29,8 +29,6 @@ help:
 		awk 'BEGIN {FS = ":.*?## "}; {printf "%-20s %s\n", $$1, $$2}'
 .PHONY: help
 
-# FIXME: reenable dockerfile rebuild after blubber is fixed
-# start: .env  ## Start the docker-compose stack
 start: .env  ## Start the docker-compose stack
 	DOCKER_DEFAULT_PLATFORM=linux/amd64 $(COMPOSE) up --build --detach
 .PHONY: start
