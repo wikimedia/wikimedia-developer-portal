@@ -241,7 +241,7 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
             lo = langcodes.Language.get(lang)
             config["extra"]["alternate"].append(
                 {
-                    "name": lo.display_name(lang).capitalize(),  # Autonym
+                    "name": lo.display_name(lang).title(),  # Autonym
                     "link": "/{}/".format(lang),
                     "lang": lang,
                 }
