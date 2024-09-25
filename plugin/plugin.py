@@ -255,8 +255,7 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
         for lang in self.po_files.keys():
             if lang in LUNR_LANGS:
                 search_langs.append(lang)
-        config["plugins"]["search"].config["lang"] = search_langs
-
+        config["plugins"]["material/search"].config["lang"] = search_langs
         return config
 
     def on_files(self, files, config):
@@ -535,7 +534,7 @@ class TranslatePlugin(mkdocs.plugins.BasePlugin):
             )
 
         # Fire post-build event for search plugin
-        config["plugins"]["search"].on_post_build(config)
+        config["plugins"]["material/search"].on_post_build(config=config)
 
     def update_nav_paths_for_lang(self, lang):
         """Update paths in config nav for this language."""
