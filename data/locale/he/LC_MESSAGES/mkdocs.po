@@ -25,8 +25,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-09-23 12:20:15+0000\n"
-"X-POT-Import-Date: 2024-09-23 05:20:17+0000\n"
+"PO-Revision-Date: 2024-09-26 12:24:38+0000\n"
+"X-POT-Import-Date: 2024-09-24 06:10:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: he\n"
@@ -1031,11 +1031,11 @@ msgstr "בלאבר (Blubber) הוא כלי תשתיתי שמגדיר מכלי ד
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
-msgstr ""
+msgstr "[תיעוד](https://doc.wikimedia.org/releng/blubber/)"
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
-msgstr ""
+msgstr "[לתרום](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
@@ -1453,12 +1453,16 @@ msgid "Learn how to submit code"
 msgstr "ללמוד איך לשלוח קוד"
 
 #: get-started/new-dev.md:block 16 (paragraph)
-msgid "Many Wikimedia projects use Git and Gerrit for development. Before you submit code for review, get familiar with the tools, processes, and best practices."
-msgstr "פרויקטים רבים של ויקימדיה משתמשים בגיט (Git) ובגריט (Gerrit) לפיתוח. לפני שליחת קוד לבדיקה, יש להכיר את הכלים, את התהליכים ואת שיטות העבודה המומלצות."
+msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
+msgstr "ויקימדיה משתמשת בגריט (Gerrit) ובגיטלאב (GitLab) לסקירת קוד. לפני שליחת קוד לבדיקה, יש להכיר את הכלים, את התהליכים ואת שיטות העבודה המומלצות."
 
 #: get-started/new-dev.md:block 17 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[מידע נוסף באתר mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[מידע נוסף על גריט](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+
+#: get-started/new-dev.md:block 17 (unordered list)
+msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
+msgstr "[מידע נוסף על גיטלאה](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
