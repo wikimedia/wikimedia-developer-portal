@@ -23,7 +23,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-09-26 12:24:40+0000\n"
+"PO-Revision-Date: 2024-10-03 12:19:57+0000\n"
 "X-POT-Import-Date: 2024-09-24 06:10:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1451,18 +1451,16 @@ msgid "Learn how to submit code"
 msgstr "Naučite se poslati kodo"
 
 #: get-started/new-dev.md:block 16 (paragraph)
-#, fuzzy
 msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
-msgstr "Številni projekti Wikimedie za razvoj uporabljajo Git in Gerrit. Preden pošljete kodo v pregled, se seznanite z orodji, postopki in najboljšimi praksami."
+msgstr "Wikimedia za pregledovanje kode uporablja Gerrit in GitLab. Preden pošljete kodo v pregled, se seznanite z orodji, postopki in najboljšimi praksami."
 
 #: get-started/new-dev.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[Preberite več na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Več o Gerritu](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
-msgstr ""
+msgstr "[Več o GitLabu](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
