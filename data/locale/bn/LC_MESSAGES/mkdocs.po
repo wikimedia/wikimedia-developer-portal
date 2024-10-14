@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: Borhan
+# Author: San1joy23
 # Author: আফতাবুজ্জামান
 # Author: মোঃ মারুফ হাসান24
 # --
@@ -25,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-09-26 12:24:37+0000\n"
+"PO-Revision-Date: 2024-10-14 12:20:56+0000\n"
 "X-POT-Import-Date: 2024-09-24 06:10:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1031,11 +1032,11 @@ msgstr ""
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
-msgstr ""
+msgstr "[নথি পড়ুন] (আইডি1)"
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
-msgstr ""
+msgstr "[অবদান দিন](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
@@ -1454,15 +1455,15 @@ msgstr "কীভাবে কোড জমা দিতে হয় শিখ�
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
-msgstr ""
+msgstr "উইকিমিডিয়া কোড পর্যালোচনার জন্য Gerrit এবং GitLab ব্যবহার করে। আপনি কোড জমা দেওয়ার আগে, সরঞ্জাম, প্রক্রিয়া এবং সর্বোত্তম অনুশীলনের সাথে পরিচিত হন।"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr ""
+msgstr "[গেরিট সম্পর্কে আরও পড়ুন](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
-msgstr ""
+msgstr "[গিটল্যাব সম্পর্কে আরও পড়ুন](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
