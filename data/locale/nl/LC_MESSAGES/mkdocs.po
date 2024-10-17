@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-09-26 12:24:40+0000\n"
+"PO-Revision-Date: 2024-10-17 12:21:28+0000\n"
 "X-POT-Import-Date: 2024-09-24 06:10:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1457,9 +1457,8 @@ msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code,
 msgstr ""
 
 #: get-started/new-dev.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Meer lezen over Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
