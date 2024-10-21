@@ -4,6 +4,7 @@
 # Author: Gomoko
 # Author: Hecatonchire
 # Author: I'm mender
+# Author: Mahabarata
 # Author: Méthodes Bulebe Hangi
 # Author: Terio legale
 # Author: Verdy p
@@ -28,7 +29,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-09-26 12:24:38+0000\n"
+"PO-Revision-Date: 2024-10-21 12:20:40+0000\n"
 "X-POT-Import-Date: 2024-09-24 06:10:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1034,11 +1035,11 @@ msgstr "Blubber est un outil d’infrastructure qui configure les conteneurs Doc
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
-msgstr ""
+msgstr "[Lire la documentation](https://doc.wikimedia.org/releng/blubber/)"
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
-msgstr ""
+msgstr "[Contribuer](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
@@ -1460,13 +1461,12 @@ msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code,
 msgstr "Wikimedia utilise Gerrit et GitLab pour la révision du code. Avant de soumettre du code, familiarisez-vous avec les outils, les processus et les meilleures pratiques."
 
 #: get-started/new-dev.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[Lire davantage sur MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[En savoir plus sur Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
-msgstr ""
+msgstr "[En savoir plus sur GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"

@@ -34,7 +34,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-09-26 12:24:41+0000\n"
+"PO-Revision-Date: 2024-10-21 12:20:45+0000\n"
 "X-POT-Import-Date: 2024-09-24 06:10:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1040,11 +1040,11 @@ msgstr "Blubber是一种基础设施工具，可配置Docker容器并测试代�
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
-msgstr ""
+msgstr "[阅读文档](https://doc.wikimedia.org/releng/blubber/)"
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
-msgstr ""
+msgstr "[贡献](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
 
 #: contribute/by-language.md:block 30 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
@@ -1462,18 +1462,16 @@ msgid "Learn how to submit code"
 msgstr "了解如何提交代码"
 
 #: get-started/new-dev.md:block 16 (paragraph)
-#, fuzzy
 msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
-msgstr "许多维基媒体项目使用Git和Gerrit进行开发。在提交代码以供审核之前，建议熟悉相关工具、流程和最佳实践。"
+msgstr "维基媒体使用Git和Gerrit来审核代码。在提交代码以供审核之前，建议熟悉相关工具、流程和最佳实践。"
 
 #: get-started/new-dev.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[在MediaWiki.org上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[了解有关Gerrit的更多信息](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
-msgstr ""
+msgstr "[了解有关GitLab的更多信息](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
