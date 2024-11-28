@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-10-24 12:22:46+0000\n"
+"PO-Revision-Date: 2024-11-28 12:18:55+0000\n"
 "X-POT-Import-Date: 2024-09-24 06:10:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1453,18 +1453,16 @@ msgid "Learn how to submit code"
 msgstr "Узнайте, как отправить код"
 
 #: get-started/new-dev.md:block 16 (paragraph)
-#, fuzzy
 msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
-msgstr "Многие проекты Викимедиа используют для разработки Git и Gerrit. Прежде чем отправлять код на проверку, ознакомьтесь с инструментами, процессами и рекомендациями."
+msgstr "Wikimedia использует Gerrit и GitLab для проверки кода.\nПрежде чем отправлять код на проверку, ознакомьтесь с инструментами, процессами и рекомендациями."
 
 #: get-started/new-dev.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[Читайте далее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Узнайте подробнее о Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
-msgstr ""
+msgstr "[Узнайте подробнее о GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
