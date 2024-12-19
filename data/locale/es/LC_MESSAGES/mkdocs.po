@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Spanish (español)
 # Exported from translatewiki.net
 #
+# Author: Dgstranz
 # Author: Fitoschido
 # Author: Reedy
 # Author: Superzerocool
@@ -25,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-10-24 12:22:45+0000\n"
+"PO-Revision-Date: 2024-12-19 12:20:41+0000\n"
 "X-POT-Import-Date: 2024-09-24 06:10:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -385,7 +386,7 @@ msgstr ""
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
 msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
-msgstr ""
+msgstr "Toolhub es un catálogo de herramientas que facilita la edición y el mantenimiento de proyectos Wikimedia. Utiliza Toolhub para descubrir nuevas herramientas, conectar con los encargados de su mantenimiento y compartir listas de tus herramientas favoritas."
 
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
@@ -741,7 +742,7 @@ msgstr "[Lea más en mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLan
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
-msgstr ""
+msgstr "Despliegues de software"
 
 #: community/tech-ops.md:block 13 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
