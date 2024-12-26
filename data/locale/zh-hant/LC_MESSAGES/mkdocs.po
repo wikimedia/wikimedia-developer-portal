@@ -27,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2024-10-24 12:22:47+0000\n"
+"PO-Revision-Date: 2024-12-26 12:17:47+0000\n"
 "X-POT-Import-Date: 2024-09-24 06:10:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -177,7 +177,7 @@ msgstr "建立您的第一個工具，了解如何運作機器人並獲得最佳
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr "[與教程學習](tutorials.md)"
+msgstr "[透過教學學習](tutorials.md)"
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
@@ -309,7 +309,7 @@ msgstr "打造您的第一個工具"
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
 msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
-msgstr "了解如何使用 Python 和 Pywikibot 框架來編輯 wiki 頁面。此教程能幫助您僅使用瀏覽器來快速入門。"
+msgstr "了解如何使用 Python 和 Pywikibot 框架來編輯 wiki 頁面。此教學能幫助您僅使用瀏覽器來快速入門。"
 
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
@@ -412,7 +412,7 @@ msgstr "[新增工具到 Toolhub](https://toolhub.wikimedia.org/add-or-remove-to
 #: use-content/tutorials.md:meta.title use-content/tutorials.md:title
 #: use-content/tutorials.md:block 1 (header)
 msgid "Learn with tutorials"
-msgstr "以教程來學習"
+msgstr "透過教學學習"
 
 #: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
 #: (header)
@@ -422,7 +422,7 @@ msgstr "為條目提供主意"
 #: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
 #: 13 (paragraph)
 msgid "Learn how to use the MediaWiki API to generate ideas for new Wikipedia articles. This tutorial uses Python and the Flask framework."
-msgstr "了解如何使用 MediaWiki API 為新的維基百科條目提供主意。此教程使用 Python 和 Flask 框架。"
+msgstr "了解如何使用 MediaWiki API 為新的維基百科條目提供主意。此教學使用 Python 和 Flask 框架。"
 
 #: build-tools/tutorials.md:block 8 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
@@ -449,7 +449,7 @@ msgstr "顯示來自維基百科的假期"
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
-msgstr "了解如何使用 MediaWiki API 從維基百科取得指定日期的假期。此教程還介紹如何使用 API 登入維基百科並添加新假期。此教程使用 Python 和 Flask 框架。"
+msgstr "了解如何使用 MediaWiki API 從維基百科取得指定日期的假期。此教學還介紹如何使用 API 登入維基百科並新增假期。此教學使用 Python 和 Flask 框架。"
 
 #: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
@@ -1468,7 +1468,7 @@ msgstr "[了解更多關於 GitLab](https://www.mediawiki.org/wiki/Special:MyLan
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
-msgstr "使用內容和資料的教程"
+msgstr "使用內容和資料的教學"
 
 #: get-started/tutorials.md:block 3 (paragraph)
 msgid "Learn the basics of using Wikimedia content and data in your project."
@@ -1476,11 +1476,11 @@ msgstr "了解如何在您的專案裡使用維基媒體內容、資料的基礎
 
 #: get-started/tutorials.md:block 4 (paragraph)
 msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
-msgstr "[瀏覽教程](../use-content/tutorials.md){ .md-button }"
+msgstr "[瀏覽教學](../use-content/tutorials.md){ .md-button }"
 
 #: get-started/tutorials.md:block 5 (header)
 msgid "Tutorials for building tools and bots"
-msgstr "構建工具和機器人的教程"
+msgstr "構建工具和機器人的教學"
 
 #: get-started/tutorials.md:block 6 (paragraph)
 msgid "Learn the basics of writing code that interacts with Wikimedia projects."
@@ -1488,7 +1488,7 @@ msgstr "了解編寫與維基媒體專案互動的程式碼的基礎知識。"
 
 #: get-started/tutorials.md:block 7 (paragraph)
 msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
-msgstr "[瀏覽教程](../build-tools/tutorials.md){ .md-button }"
+msgstr "[瀏覽教學](../build-tools/tutorials.md){ .md-button }"
 
 #: get-started/wikimedia-tech.md:meta.title
 #: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
@@ -1689,7 +1689,7 @@ msgstr "顯示每日圖片"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
-msgstr "了解如何使用 MediaWiki API 來從維基百科取得每日精選圖片。此教程使用 Python 和 Flask 框架。"
+msgstr "了解如何使用 MediaWiki API 來從維基百科取得每日精選圖片。此教學使用 Python 和 Flask 框架。"
 
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
@@ -1701,7 +1701,7 @@ msgstr "開始查詢維基數據"
 
 #: use-content/tutorials.md:block 16 (paragraph)
 msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
-msgstr "了解如何使用 SPARQL 查詢維基數據。此教程涵蓋維基數據的基礎知識，和如何使用維基數據查詢服務。"
+msgstr "了解如何使用 SPARQL 查詢維基數據。此教學涵蓋維基數據的基礎知識，和如何使用維基數據查詢服務。"
 
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
@@ -1713,7 +1713,7 @@ msgstr "按位置搜尋條目"
 
 #: use-content/tutorials.md:block 19 (paragraph)
 msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
-msgstr "了解如何使用 MediaWiki API 來搜尋位於特定位置周遭的維基百科條目。此教程使用 JavaScript、Python 和 Flask 框架。"
+msgstr "了解如何使用 MediaWiki API 來搜尋位於特定位置周遭的維基百科條目。此教學使用 JavaScript、Python 和 Flask 框架。"
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
