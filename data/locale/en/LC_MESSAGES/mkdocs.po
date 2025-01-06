@@ -1501,7 +1501,7 @@ msgid ""
 msgstr ""
 
 #: contribute/overview.md:block 17 (unordered list)
-msgid "[Visit WikiContrib](https://wikicontrib.toolforge.org/)"
+msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
 msgstr ""
 
 #: contribute/search.md:meta.title contribute/search.md:title
