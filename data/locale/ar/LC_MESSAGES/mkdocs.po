@@ -3,6 +3,7 @@
 #
 # Author: AKlapper
 # Author: Asma
+# Author: Mohanad
 # Author: Shirayuki
 # Author: أيوب
 # Author: إزبيكييل
@@ -27,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-01-16 12:18:49+0000\n"
+"PO-Revision-Date: 2025-01-27 12:17:17+0000\n"
 "X-POT-Import-Date: 2025-01-15 06:37:49+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -263,7 +264,7 @@ msgstr "تمنحك واجهة برمجة تطبيقات ميدياويكي وص�
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
-msgstr ""
+msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -355,7 +356,7 @@ msgstr "PAWS هو ملعب مجاني مستضاف على السحابة لإن�
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[زيارة PAWS] (https://hub.paws.wmcloud.org/hub/login)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -454,11 +455,11 @@ msgstr ""
 #: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
-msgstr ""
+msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
 
 #: build-tools/tutorials.md:block 15 (header)
 msgid "Add JavaScript or CSS to a wiki"
-msgstr ""
+msgstr "إضافة جافا سكريبت أو سي أس أس لويكي ما"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
@@ -466,11 +467,11 @@ msgstr ""
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
-msgstr ""
+msgstr "[اقرأ المزيد على mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
-msgstr ""
+msgstr "استضافة أداة على خوادم ويكيميديا السحابية"
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
@@ -482,25 +483,25 @@ msgstr ""
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
-msgstr ""
+msgstr "[استكشف الهاكثونات والفعاليات](events.md)"
 
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
 msgid "Browse content from past events, or join an upcoming event."
-msgstr ""
+msgstr "تصفّح محتوى الفعاليات الماضية، أو انضم إلى فعالية قادمة."
 
 #: community/index.md:block 4 (header)
 msgid "[Communicate with the tech community](communicate.md)"
-msgstr ""
+msgstr "[تواصل مع مجتمع التقنية](communicate.md)"
 
 #: community/index.md:block 5 (paragraph) community/communicate.md:block 2
 #: (paragraph)
 msgid "Understand communication channels and how to connect with Wikimedia developers."
-msgstr ""
+msgstr "استوعب قنوات الاتصال وكيفية التواصل مع مطوّري ويكيميديا."
 
 #: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
-msgstr ""
+msgstr "[تعلّم وتبادل المهارات التقنيّة](grow.md)"
 
 #: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
@@ -592,7 +593,7 @@ msgstr ""
 
 #: community/events.md:block 6 (header)
 msgid "Wikidata events"
-msgstr ""
+msgstr "فعاليات ويكي بيانات"
 
 #: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
@@ -616,7 +617,7 @@ msgstr ""
 
 #: community/events.md:block 12 (header)
 msgid "MediaWiki developer events"
-msgstr ""
+msgstr "فاليات مطوري ميدياويكي"
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
@@ -640,7 +641,7 @@ msgstr ""
 
 #: community/events.md:block 18 (header)
 msgid "Language community meetings"
-msgstr ""
+msgstr "جلسات مجتمع اللغات"
 
 #: community/events.md:block 19 (paragraph)
 msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."

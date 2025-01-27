@@ -8,6 +8,7 @@
 # Author: Méthodes Bulebe Hangi
 # Author: Terio legale
 # Author: Verdy p
+# Author: Wladek92
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -29,7 +30,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-01-16 12:18:50+0000\n"
+"PO-Revision-Date: 2025-01-27 12:17:18+0000\n"
 "X-POT-Import-Date: 2025-01-15 06:37:49+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1262,9 +1263,8 @@ msgid "Visualize your contributions across Wikimedia's code review and task trac
 msgstr "Visualisez vos contributions au travers des outils pour le passage en revue du code de Wikimedia et le suivi des tâches."
 
 #: contribute/overview.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
-msgstr "[Visiter WikiContrib](https://wikicontrib.toolforge.org/)"
+msgstr "[Visiter Tech Contribs](https://techcontribs.toolforge.org/)"
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
