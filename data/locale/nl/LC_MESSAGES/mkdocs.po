@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-01-16 12:18:51+0000\n"
+"PO-Revision-Date: 2025-01-30 12:17:49+0000\n"
 "X-POT-Import-Date: 2025-01-15 06:37:49+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1258,9 +1258,8 @@ msgid "Visualize your contributions across Wikimedia's code review and task trac
 msgstr ""
 
 #: contribute/overview.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
-msgstr "[WikiContrib bezoeken](https://wikicontrib.toolforge.org/)"
+msgstr "[Tech Contribs bezoeken](https://techcontribs.toolforge.org/)"
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
