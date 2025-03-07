@@ -19,3 +19,7 @@ Find open source libraries, get started using the API, or download content in bu
 ## [Access open data](data.md)
 
 Explore public data that you can use in research and machine learning.
+
+## [High-volume and commercial access](bot-traffic.md)
+
+Review policies and options for sustainable access to Wikimedia infrastructure.

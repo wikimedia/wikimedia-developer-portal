@@ -91,7 +91,8 @@ msgid "Community"
 msgstr ""
 
 #: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
-#: get-help/index.md:block 1 (header)
+#: get-help/index.md:block 1 (header) use-content/bot-traffic.md:block 15
+#: (header)
 msgid "Get help"
 msgstr ""
 
@@ -1861,6 +1862,104 @@ msgstr ""
 msgid "Explore public data that you can use in research and machine learning."
 msgstr ""
 
+#: use-content/index.md:block 10 (header)
+msgid "[High-volume and commercial access](bot-traffic.md)"
+msgstr ""
+
+#: use-content/index.md:block 11 (paragraph)
+msgid ""
+"Review policies and options for sustainable access to Wikimedia "
+"infrastructure."
+msgstr ""
+
+#: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
+#: use-content/bot-traffic.md:block 1 (header)
+msgid "High-volume and commercial access"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 2 (paragraph)
+msgid ""
+"High-volume, commercial, and bot access to Wikimedia infrastructure must "
+"comply with the following policies to avoid harming Wikipedia and other "
+"Wikimedia projects. To prevent your access from being restricted, ensure "
+"that you follow these policies."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 3 (header)
+msgid "Review the terms of use"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 4 (paragraph)
+msgid ""
+"Learn about the services that the Wikimedia Foundation provides and how you "
+"can comply with the terms of use."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 5 (unordered list)
+msgid ""
+"[Read more on the Wikimedia Foundation Governance "
+"Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 6 (header)
+msgid "Review the API policy"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 7 (paragraph)
+msgid ""
+"Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 8 (unordered list)
+msgid ""
+"[Read more on the Wikimedia Foundation Governance "
+"Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
+#: (header)
+msgid "Get services for enterprise"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 10 (paragraph)
+#: use-content/content.md:block 19 (paragraph)
+msgid ""
+"Wikimedia Enterprise provides a suite of APIs and services designed for "
+"high-volume, commercial access to Wikimedia content and data."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 11 (unordered list)
+#: use-content/content.md:block 20 (unordered list)
+msgid ""
+"[Read more on Wikimedia "
+"Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 12 (header)
+msgid "Partner with us"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 13 (paragraph)
+msgid ""
+"Contact the Wikimedia Foundation to explore options for technical "
+"partnerships."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 14 (unordered list)
+msgid ""
+"[Read more on "
+"Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 16 (paragraph)
+msgid "Ask questions about bot traffic and high-volume access."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 17 (unordered list)
+msgid ""
+"[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
+msgstr ""
+
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
 msgid "Use wiki content"
@@ -1898,20 +1997,6 @@ msgstr ""
 msgid ""
 "[Read more on the Wikimedia Foundation Governance "
 "Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
-msgstr ""
-
-#: use-content/content.md:block 18 (header)
-msgid "Get services for enterprise"
-msgstr ""
-
-#: use-content/content.md:block 19 (paragraph)
-msgid ""
-"Wikimedia Enterprise provides a suite of APIs and services designed for "
-"high-volume, commercial access to Wikimedia content and data."
-msgstr ""
-
-#: use-content/content.md:block 20 (unordered list)
-msgid "[Read more](https://enterprise.wikimedia.com)"
 msgstr ""
 
 #: use-content/data.md:meta.title use-content/data.md:title

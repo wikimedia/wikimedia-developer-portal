@@ -1,0 +1,8 @@
+---
+title: Get help
+description: Ask questions about bot traffic and high-volume access.
+links:
+  - url: https://wikitech.wikimedia.org/wiki/Bot_traffic
+    label: Read more on Wikitech
+categories:
+  bot-traffic: 5

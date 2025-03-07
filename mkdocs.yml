@@ -17,6 +17,7 @@ nav:
     - Learn with tutorials: use-content/tutorials.md
     - Use wiki content: use-content/content.md
     - Access open data: use-content/data.md
+    - High-volume and commercial access: use-content/bot-traffic.md
   - Tools and bots:
     - Tools and bots: build-tools/index.md
     - Discover and share tools: build-tools/search.md

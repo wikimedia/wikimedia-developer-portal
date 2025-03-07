@@ -1,0 +1,8 @@
+---
+title: Review the API policy
+description: Learn how to use Wikimedia APIs responsibly and prevent access restrictions.
+links:
+  - url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines
+    label: Read more on the Wikimedia Foundation Governance Wiki
+categories:
+  bot-traffic: 2
