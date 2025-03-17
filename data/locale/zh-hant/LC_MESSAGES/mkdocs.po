@@ -5,6 +5,7 @@
 # Author: Kly
 # Author: Lakejason0
 # Author: Winston Sung
+# Author: 列维劳德
 # Author: 捍粵者
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -27,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-03-13 12:21:11+0000\n"
+"PO-Revision-Date: 2025-03-17 12:19:24+0000\n"
 "X-POT-Import-Date: 2025-01-15 06:37:49+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1260,9 +1261,8 @@ msgid "Visualize your contributions across Wikimedia's code review and task trac
 msgstr "在維基媒體的程式碼審查和任務跟踪工具中可視覺化您的貢獻。"
 
 #: contribute/overview.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
-msgstr "[參訪 WikiContrib](https://wikicontrib.toolforge.org/)"
+msgstr "[造訪 Tech Contribs](https://techcontribs.toolforge.org/)"
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
