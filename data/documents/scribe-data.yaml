@@ -1,0 +1,10 @@
+---
+title: Scribe-Data
+description: Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata.
+links:
+  - url: https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md
+    label: Contribute
+  - url: https://github.com/scribe-org/Scribe-Data
+    label: Get the source code
+categories:
+  contribute-python: 1
