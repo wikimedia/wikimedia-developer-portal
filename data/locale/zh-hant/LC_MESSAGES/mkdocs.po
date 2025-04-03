@@ -28,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-03-27 12:21:02+0000\n"
+"PO-Revision-Date: 2025-04-03 12:20:33+0000\n"
 "X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -888,15 +888,15 @@ msgstr ""
 
 #: contribute/by-language.md:block 7 (paragraph)
 msgid "Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata."
-msgstr ""
+msgstr "Scribe-Data 是一個從維基數據擷取和格式化語言資料的命令列介面。"
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Contribute](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[貢獻](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org/Scribe-Data)"
-msgstr ""
+msgstr "[取得原始碼](https://github.com/scribe-org/Scribe-Data)"
 
 #: contribute/by-language.md:block 9 (header)
 #, optional
@@ -1581,44 +1581,44 @@ msgstr "探索您可以用於研究和機器學習的公用資料。"
 
 #: use-content/index.md:block 10 (header)
 msgid "[High-volume and commercial access](bot-traffic.md)"
-msgstr ""
+msgstr "[高容量與商業存取](bot-traffic.md)"
 
 #: use-content/index.md:block 11 (paragraph)
 msgid "Review policies and options for sustainable access to Wikimedia infrastructure."
-msgstr ""
+msgstr "查看可持續存取維基媒體基礎設施的政策與選項。"
 
 #: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
 #: use-content/bot-traffic.md:block 1 (header)
 msgid "High-volume and commercial access"
-msgstr ""
+msgstr "高容量與商業存取"
 
 #: use-content/bot-traffic.md:block 2 (paragraph)
 msgid "High-volume, commercial, and bot access to Wikimedia infrastructure must comply with the following policies to avoid harming Wikipedia and other Wikimedia projects. To prevent your access from being restricted, ensure that you follow these policies."
-msgstr ""
+msgstr "對維基媒體基礎設施進行高容量、商業與機器人存取，必須遵守以下政策，以避免損害維基百科和其他維基媒體專案。為避免您的存取受到限制，請確保遵守這些政策。"
 
 #: use-content/bot-traffic.md:block 3 (header)
 msgid "Review the terms of use"
-msgstr ""
+msgstr "查看使用條款"
 
 #: use-content/bot-traffic.md:block 4 (paragraph)
 msgid "Learn about the services that the Wikimedia Foundation provides and how you can comply with the terms of use."
-msgstr ""
+msgstr "了解維基媒體基金會提供的服務，以及如何遵守使用條款。"
 
 #: use-content/bot-traffic.md:block 5 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
-msgstr ""
+msgstr "[在維基媒體基金會治理 Wiki 上了解更多](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
 
 #: use-content/bot-traffic.md:block 6 (header)
 msgid "Review the API policy"
-msgstr ""
+msgstr "查看 API 政策"
 
 #: use-content/bot-traffic.md:block 7 (paragraph)
 msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
-msgstr ""
+msgstr "了解如何恰當地使用維基媒體 API，並避免存取方面的限制。"
 
 #: use-content/bot-traffic.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
-msgstr ""
+msgstr "[在維基媒體基金會治理 Wiki 上了解更多](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
 
 #: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
 #: (header)
@@ -1637,23 +1637,23 @@ msgstr "[了解更多](https://enterprise.wikimedia.com)"
 
 #: use-content/bot-traffic.md:block 12 (header)
 msgid "Partner with us"
-msgstr ""
+msgstr "與我們合作"
 
 #: use-content/bot-traffic.md:block 13 (paragraph)
 msgid "Contact the Wikimedia Foundation to explore options for technical partnerships."
-msgstr ""
+msgstr "聯絡維基媒體基金會，探索技術合作的選擇。"
 
 #: use-content/bot-traffic.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
 
 #: use-content/bot-traffic.md:block 16 (paragraph)
 msgid "Ask questions about bot traffic and high-volume access."
-msgstr ""
+msgstr "詢問有關機器人流量和高容量存取問題。"
 
 #: use-content/bot-traffic.md:block 17 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
-msgstr ""
+msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
 
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
@@ -1682,7 +1682,7 @@ msgstr "多數維基媒體內容是基於創用 CC 授權條款來獲得許可�
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
-msgstr "[在維基媒體基金會治理 Wiki 上閱讀更多內容](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
+msgstr "[在維基媒體基金會治理 Wiki 上了解更多](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
 
 #: use-content/data.md:meta.title use-content/data.md:title
 #: use-content/data.md:block 1 (header)
