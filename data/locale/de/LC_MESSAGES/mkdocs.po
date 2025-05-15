@@ -4,6 +4,7 @@
 # Author: Ameisenigel
 # Author: Brettchenweber
 # Author: Crazy1880
+# Author: Hogweard
 # Author: Justman10000
 # Author: TMg
 # Author: TomatoCake
@@ -28,7 +29,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-05-08 12:24:23+0000\n"
+"PO-Revision-Date: 2025-05-15 12:22:20+0000\n"
 "X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -213,7 +214,7 @@ msgstr "APIs und Datenquellen benutzen"
 #: (header)
 #, optional
 msgid "Pywikibot"
-msgstr ""
+msgstr "Pywikibot"
 
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
@@ -834,7 +835,7 @@ msgstr "[Weiterlesen auf dem Meta-Wiki](https://meta.wikimedia.org/wiki/Special:
 
 #: contribute/index.md:meta.title contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
-msgstr ""
+msgstr "Geteo to Wikimedie opnum willsprynge"
 
 #: contribute/index.md:block 2 (header)
 msgid "[Learn how contributing works](overview.md)"
