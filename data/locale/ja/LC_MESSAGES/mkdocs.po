@@ -31,7 +31,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-05-08 12:24:24+0000\n"
+"PO-Revision-Date: 2025-06-02 12:27:16+0000\n"
 "X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -572,7 +572,7 @@ msgstr "コードのメンテナーや管理者を探す"
 
 #: community/communicate.md:block 10 (paragraph)
 msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
-msgstr "MediaWikiのコア部分や、拡張機能・スキン、ライブラリなどWikimediaの技術インフラを維持管理している、チームや開発者の一覧を閲覧することができます。"
+msgstr "MediaWiki のコア コンポーネントや、拡張機能、外装、ライブラリなどウィキメディアの技術インフラを維持管理している、チームや開発者の一覧を閲覧できます。"
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
