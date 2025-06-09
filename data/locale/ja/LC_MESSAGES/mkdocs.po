@@ -31,7 +31,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-06-02 12:27:16+0000\n"
+"PO-Revision-Date: 2025-06-09 12:23:19+0000\n"
 "X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -392,7 +392,7 @@ msgstr ""
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
 msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
-msgstr "Toolhubは、ウィキメディアプロジェクトの編集作業や保守作業を簡便にするためのツールを収集するカタログのようなものです。Toolhubでは、新たなツールを探したり、ツールのメンテナーに連絡したり、あなたの一押しのツールの一覧を共有したりすることができます。"
+msgstr "Toolhub は、ウィキメディアのプロジェクト群の編集や保守を容易にするツールを集めたカタログです。Toolhub を使用して新しいツールを見つけたり、ツールのメンテナーとつながったり、お気に入りのツールの一覧を共有したりできます。"
 
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)

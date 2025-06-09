@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to French (français)
 # Exported from translatewiki.net
 #
+# Author: Derugon
 # Author: Gomoko
 # Author: Hecatonchire
 # Author: I'm mender
@@ -30,7 +31,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-05-08 12:24:23+0000\n"
+"PO-Revision-Date: 2025-06-09 12:23:18+0000\n"
 "X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -890,15 +891,15 @@ msgstr ""
 
 #: contribute/by-language.md:block 7 (paragraph)
 msgid "Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata."
-msgstr ""
+msgstr "Scribe-Data est une interface en ligne de commande permettant d’extraire et de formater les données linguistiques de Wikidata."
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Contribute](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Contribuer](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org/Scribe-Data)"
-msgstr ""
+msgstr "[Obtenir le code source](https://github.com/scribe-org/Scribe-Data)"
 
 #: contribute/by-language.md:block 9 (header)
 #, optional
@@ -1583,44 +1584,44 @@ msgstr "Explorez des données publiques que vous pouvez utiliser dans la recherc
 
 #: use-content/index.md:block 10 (header)
 msgid "[High-volume and commercial access](bot-traffic.md)"
-msgstr ""
+msgstr "[Accès à grand volume et commercial](bot-traffic.md)"
 
 #: use-content/index.md:block 11 (paragraph)
 msgid "Review policies and options for sustainable access to Wikimedia infrastructure."
-msgstr ""
+msgstr "Examiner les politiques et les options pour un accès durable à l’infrastructure Wikimédia."
 
 #: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
 #: use-content/bot-traffic.md:block 1 (header)
 msgid "High-volume and commercial access"
-msgstr ""
+msgstr "Accès à grand volume et commercial"
 
 #: use-content/bot-traffic.md:block 2 (paragraph)
 msgid "High-volume, commercial, and bot access to Wikimedia infrastructure must comply with the following policies to avoid harming Wikipedia and other Wikimedia projects. To prevent your access from being restricted, ensure that you follow these policies."
-msgstr ""
+msgstr "L’accès à l’infrastructure Wikimedia, à grand volume, commercial ou via des robots, doit respecter les règles suivantes afin de ne pas nuire à la Wikipédia et aux autres projets Wikimédia. Pour éviter toute restriction d’accès, assurez-vous de respecter ces règles."
 
 #: use-content/bot-traffic.md:block 3 (header)
 msgid "Review the terms of use"
-msgstr ""
+msgstr "Consulter les conditions d’utilisation"
 
 #: use-content/bot-traffic.md:block 4 (paragraph)
 msgid "Learn about the services that the Wikimedia Foundation provides and how you can comply with the terms of use."
-msgstr ""
+msgstr "Découvrez les services fournis par la Fondation Wikimédia et comment vous pouvez en respecter les conditions d’utilisation."
 
 #: use-content/bot-traffic.md:block 5 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
-msgstr ""
+msgstr "[Lire davantage sur le wiki de la gouvernance de la Fondation Wikimédia](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
 
 #: use-content/bot-traffic.md:block 6 (header)
 msgid "Review the API policy"
-msgstr ""
+msgstr "Consulter la politique de l’API"
 
 #: use-content/bot-traffic.md:block 7 (paragraph)
 msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
-msgstr ""
+msgstr "Apprenez à utiliser les API Wikimédia de manière responsable et à éviter les restrictions d’accès."
 
 #: use-content/bot-traffic.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
-msgstr ""
+msgstr "[Lire davantage sur le wiki de la gouvernance de la Fondation Wikimédia](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
 
 #: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
 #: (header)
@@ -1635,27 +1636,27 @@ msgstr "Wikimedia Entreprise fournit une suite d’API et de services conçus po
 #: use-content/bot-traffic.md:block 11 (unordered list)
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more on Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
-msgstr "[Lire davantage](https://enterprise.wikimedia.com)"
+msgstr "[Lire davantage sur Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
 
 #: use-content/bot-traffic.md:block 12 (header)
 msgid "Partner with us"
-msgstr ""
+msgstr "Devenir notre partenaire"
 
 #: use-content/bot-traffic.md:block 13 (paragraph)
 msgid "Contact the Wikimedia Foundation to explore options for technical partnerships."
-msgstr ""
+msgstr "Contactez la Fondation Wikimédia pour explorer les options de partenariats techniques."
 
 #: use-content/bot-traffic.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
-msgstr ""
+msgstr "[Lire davantage sur Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
 
 #: use-content/bot-traffic.md:block 16 (paragraph)
 msgid "Ask questions about bot traffic and high-volume access."
-msgstr ""
+msgstr "Posez des questions sur le trafic des robots et l’accès à grand volume."
 
 #: use-content/bot-traffic.md:block 17 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
-msgstr ""
+msgstr "[Lire davantage sur Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
 
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
