@@ -3,6 +3,7 @@
 #
 # Author: Eduardoaddad
 # Author: Felipe L. Ewald
+# Author: Fúlvio
 # Author: Juan90264
 # Author: Re demz
 # --
@@ -26,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-05-08 12:24:25+0000\n"
+"PO-Revision-Date: 2025-06-12 12:45:53+0000\n"
 "X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -50,9 +51,8 @@ msgid "Wikimedia Foundation and contributors"
 msgstr "Fundação Wikimedia e colaboradores"
 
 #: mkdocs.yml:copyright
-#, fuzzy
 msgid "Copyright &copy; Wikimedia Foundation and contributors"
-msgstr "Copyright &copy; 2022 Fundação Wikimedia e colaboradores"
+msgstr "Copyright &copy; Fundação Wikimedia e colaboradores"
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"
@@ -115,11 +115,11 @@ msgstr "Encontre documentação técnica e conecte-se com a comunidade de desenv
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
-msgstr ""
+msgstr "[Começar](get-started/){ .md-button }"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
-msgstr ""
+msgstr "[Use conteúdos e dados da Wikimedia](use-content/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
@@ -127,7 +127,7 @@ msgstr "Acesse artigos da Wikipédia, arquivos de mídia, dados estruturados e m
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
-msgstr ""
+msgstr "[Crie ferramentas e bots](build-tools/)"
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
@@ -135,7 +135,7 @@ msgstr "Ferramentas e bots facilitam a edição e a manutenção de projetos da 
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
-msgstr ""
+msgstr "[Contribua com o código aberto da Wikimedia](contribute/)"
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
@@ -143,7 +143,7 @@ msgstr "Ajude a construir o ecossistema Wikimedia com software de código aberto
 
 #: index.md:block 13 (header)
 msgid "[Connect with the community](community/)"
-msgstr ""
+msgstr "[Conecte-se com a comunidade](community/)"
 
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
@@ -151,7 +151,7 @@ msgstr "Envolva-se com a comunidade técnica da Wikimedia e encontre oportunidad
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
-msgstr ""
+msgstr "[Obtenha ajuda](get-help/)"
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
@@ -159,7 +159,7 @@ msgstr "Encontre recursos para ajudar com perguntas e solução de problemas."
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
-msgstr ""
+msgstr "[Descubra e compartilhe ferramentas](search.md)"
 
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
@@ -168,7 +168,7 @@ msgstr "Navegue pelo catálogo de ferramentas no Toolhub, compartilhe suas ferra
 
 #: build-tools/index.md:block 4 (header)
 msgid "[Get started](get-started.md)"
-msgstr ""
+msgstr "[Começar](get-started.md)"
 
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
@@ -178,7 +178,7 @@ msgstr "Crie sua primeira ferramenta, aprenda sobre como executar um bot e obten
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr ""
+msgstr "[Aprenda com tutoriais](tutorials.md)"
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
@@ -187,7 +187,7 @@ msgstr "Siga os guias passo a passo para aprender os fundamentos da interação 
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
-msgstr ""
+msgstr "[Use APIs e fontes de dados](apis.md)"
 
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
@@ -196,7 +196,7 @@ msgstr "Explore interfaces de programação para criar bots e ferramentas."
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr ""
+msgstr "[Hospedar ferramentas nos servidores da Wikimedia](host-tools.md)"
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
