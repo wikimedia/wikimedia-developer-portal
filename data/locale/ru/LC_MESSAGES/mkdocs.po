@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Russian (русский)
 # Exported from translatewiki.net
 #
+# Author: Engineer56
 # Author: Kaganer
 # Author: Okras
 # Author: Pacha Tchernof
@@ -25,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-05-08 12:24:26+0000\n"
+"PO-Revision-Date: 2025-06-30 12:24:33+0000\n"
 "X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -210,7 +211,7 @@ msgstr "Используйте API и источники данных"
 #: (header)
 #, optional
 msgid "Pywikibot"
-msgstr ""
+msgstr "Pywikibot"
 
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
@@ -262,7 +263,7 @@ msgstr "API MediaWiki предоставляет вам программный �
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
-msgstr ""
+msgstr "[Подробнее читайте на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -381,7 +382,7 @@ msgstr "Находите и делитесь инструментами"
 #: 12 (header)
 #, optional
 msgid "Toolhub"
-msgstr ""
+msgstr "Toolhub"
 
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
@@ -461,7 +462,7 @@ msgstr "Добавьте в вики JavaScript или CSS"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr ""
+msgstr "Настройте MediaWiki с помощью клиентского JavaScript и CSS. Делитесь пользовательскими скриптами и изучайте гаджеты, созданные другими людьми."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -876,12 +877,12 @@ msgstr "Возможности участия по языкам программ
 #: contribute/by-language.md:block 2 (header)
 #, optional
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: contribute/by-language.md:block 6 (header)
 #, optional
 msgid "Scribe-Data"
-msgstr ""
+msgstr "Scribe-Data"
 
 #: contribute/by-language.md:block 7 (paragraph)
 msgid "Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata."
@@ -898,12 +899,12 @@ msgstr ""
 #: contribute/by-language.md:block 9 (header)
 #, optional
 msgid "JavaScript"
-msgstr ""
+msgstr "JavaScript"
 
 #: contribute/by-language.md:block 10 (header)
 #, optional
 msgid "Codex"
-msgstr ""
+msgstr "Codex"
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
@@ -944,7 +945,7 @@ msgstr "[Получить исходный код](https://github.com/lingua-lib
 #: contribute/by-language.md:block 16 (header)
 #, optional
 msgid "VideoCutTool"
-msgstr ""
+msgstr "VideoCutTool"
 
 #: contribute/by-language.md:block 17 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
@@ -965,7 +966,7 @@ msgstr "[Получить исходный код](https://gerrit.wikimedia.org/
 #: contribute/by-language.md:block 19 (header)
 #, optional
 msgid "Java"
-msgstr ""
+msgstr "Java"
 
 #: contribute/by-language.md:block 20 (header)
 msgid "Wikimedia Commons Android app"
@@ -990,7 +991,7 @@ msgstr "[Получите исходный код](https://github.com/commons-ap
 #: contribute/by-language.md:block 23 (header)
 #, optional
 msgid "Kotlin"
-msgstr ""
+msgstr "Kotlin"
 
 #: contribute/by-language.md:block 24 (header)
 msgid "Kiwix"
@@ -1276,9 +1277,8 @@ msgid "Visualize your contributions across Wikimedia's code review and task trac
 msgstr "Визуализируйте свой вклад в инструменты проверки кода и отслеживания задач Викимедиа."
 
 #: contribute/overview.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
-msgstr "[Посетите WikiContrib](https://wikicontrib.toolforge.org/)"
+msgstr "[Посетите Tech Contribs](https://techcontribs.toolforge.org/)"
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
@@ -1382,15 +1382,15 @@ msgstr ""
 
 #: get-help/index.md:block 16 (paragraph)
 msgid "Report bugs and request new features in Wikimedia software."
-msgstr ""
+msgstr "Сообщайте об ошибках и запрашивайте новые функции в программном обеспечении Wikimedia."
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
-msgstr ""
+msgstr "[Узнайте, как сообщить об ошибке](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
-msgstr ""
+msgstr "[Посетите трекер задач Wikimedia](https://phabricator.wikimedia.org)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
@@ -1523,11 +1523,11 @@ msgstr "Введение в технологию Викимедиа"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn about the main technical areas where developers can contribute."
-msgstr ""
+msgstr "Узнайте об основных технических областях, в которых разработчики могут внести свой вклад."
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
-msgstr ""
+msgstr "[Подробнее на mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"

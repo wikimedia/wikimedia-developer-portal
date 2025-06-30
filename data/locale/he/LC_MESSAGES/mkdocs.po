@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-05-08 12:24:24+0000\n"
+"PO-Revision-Date: 2025-06-30 12:24:32+0000\n"
 "X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1578,7 +1578,7 @@ msgstr "חקירת נתונים ציבוריים שאפשר להשתמש בהם 
 
 #: use-content/index.md:block 10 (header)
 msgid "[High-volume and commercial access](bot-traffic.md)"
-msgstr ""
+msgstr "[גישה מסחרית ולנפח תעבורה משמעותי](bot-traffic.md)"
 
 #: use-content/index.md:block 11 (paragraph)
 msgid "Review policies and options for sustainable access to Wikimedia infrastructure."
@@ -1587,7 +1587,7 @@ msgstr ""
 #: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
 #: use-content/bot-traffic.md:block 1 (header)
 msgid "High-volume and commercial access"
-msgstr ""
+msgstr "גישה מסחרית ולנפח תעבורה משמעותי"
 
 #: use-content/bot-traffic.md:block 2 (paragraph)
 msgid "High-volume, commercial, and bot access to Wikimedia infrastructure must comply with the following policies to avoid harming Wikipedia and other Wikimedia projects. To prevent your access from being restricted, ensure that you follow these policies."
@@ -1599,11 +1599,11 @@ msgstr ""
 
 #: use-content/bot-traffic.md:block 4 (paragraph)
 msgid "Learn about the services that the Wikimedia Foundation provides and how you can comply with the terms of use."
-msgstr ""
+msgstr "מידע נוסף על השירותים שקרן ויקימדיה מספקת ואיך אפשר לעמוד בתנאי השימוש."
 
 #: use-content/bot-traffic.md:block 5 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
-msgstr ""
+msgstr "[מידע נוסף בוויקי ניהול הוועד המנהל](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
 
 #: use-content/bot-traffic.md:block 6 (header)
 msgid "Review the API policy"
@@ -1611,11 +1611,11 @@ msgstr ""
 
 #: use-content/bot-traffic.md:block 7 (paragraph)
 msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
-msgstr ""
+msgstr "מידע על שימוש אחראי בנקודות ה־API של ויקימדיה ולהימנע מהגבלות גישה."
 
 #: use-content/bot-traffic.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
-msgstr ""
+msgstr "[מידע נוסף בוויקי ניהול הוועד המנהל](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
 
 #: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
 #: (header)
@@ -1642,7 +1642,7 @@ msgstr ""
 
 #: use-content/bot-traffic.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
-msgstr ""
+msgstr "[מידע נוסף באתר Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
 
 #: use-content/bot-traffic.md:block 16 (paragraph)
 msgid "Ask questions about bot traffic and high-volume access."
@@ -1650,7 +1650,7 @@ msgstr ""
 
 #: use-content/bot-traffic.md:block 17 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
-msgstr ""
+msgstr "[מידע נוסף באתר Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
 
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
