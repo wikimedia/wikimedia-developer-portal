@@ -1,7 +1,7 @@
 # syntax=docker-registry.wikimedia.org/repos/releng/blubber/buildkit:v1.0.1
 version: v4
 
-base: docker-registry.wikimedia.org/python3-bullseye:latest
+base: docker-registry.wikimedia.org/python3-bookworm:latest
 
 runs:
   environment:
@@ -77,7 +77,7 @@ variants:
           && git diff --no-ext-diff --compact-summary --exit-code data/locale/en/LC_MESSAGES/mkdocs.po
 
   production:
-    base: docker-registry.wikimedia.org/bullseye:latest
+    base: docker-registry.wikimedia.org/bookworm:latest
     runs:
       as: www-data
       uid: 33
