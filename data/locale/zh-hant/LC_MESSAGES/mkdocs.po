@@ -28,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-08-04 12:25:58+0000\n"
+"PO-Revision-Date: 2025-08-14 12:25:21+0000\n"
 "X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -233,7 +233,7 @@ msgstr "[貢獻](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywiki
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
-msgstr "[取得開放原始碼](https://gerrit.wikimedia.org/g/pywikibot/core)"
+msgstr "[取得原始碼](https://gerrit.wikimedia.org/g/pywikibot/core)"
 
 #: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
 #: (header)
@@ -922,7 +922,7 @@ msgstr "[貢獻](https://doc.wikimedia.org/codex/latest/contributing/overview.ht
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
-msgstr "[取得開放原始碼](https://gerrit.wikimedia.org/g/design/codex/)"
+msgstr "[取得原始碼](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "SignIt Firefox Extension"
@@ -963,7 +963,7 @@ msgstr "[貢獻](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:V
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
-msgstr "[取得開放原始碼](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
+msgstr "[取得原始碼](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
 
 #: contribute/by-language.md:block 19 (header)
 #, optional
@@ -988,7 +988,7 @@ msgstr "[貢獻](https://github.com/commons-app/commons-app-documentation/blob/m
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
-msgstr "[取得開放原始碼](https://github.com/commons-app/apps-android-commons)"
+msgstr "[取得原始碼](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 23 (header)
 #, optional
@@ -1094,7 +1094,7 @@ msgstr "[貢獻](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
-msgstr "[取得開放原始碼](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+msgstr "[取得原始碼](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
 #: contribute/by-language.md:block 38 (header)
 #, optional
