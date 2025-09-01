@@ -31,8 +31,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-08-04 12:25:56+0000\n"
-"X-POT-Import-Date: 2025-03-27 05:24:20+0000\n"
+"PO-Revision-Date: 2025-09-01 12:45:50+0000\n"
+"X-POT-Import-Date: 2025-08-29 06:30:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
@@ -267,8 +267,8 @@ msgstr "L’API de MediaWiki vous donne un accès programmatique au contenu de t
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
-msgstr "[Lire davantage sur mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page)"
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
+msgstr ""
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
