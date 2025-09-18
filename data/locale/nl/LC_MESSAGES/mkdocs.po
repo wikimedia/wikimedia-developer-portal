@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-09-01 12:45:51+0000\n"
+"PO-Revision-Date: 2025-09-18 12:29:06+0000\n"
 "X-POT-Import-Date: 2025-08-29 06:30:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -42,11 +42,11 @@ msgstr "Wikimedia Ontwikkelaarsportaal"
 
 #: mkdocs.yml:site_description
 msgid "Find technical documentation, and connect with Wikimedia developer communities."
-msgstr ""
+msgstr "Vind technische documentatie en maak contact met Wikimedia-ontwikkelaarsgemeenschappen."
 
 #: mkdocs.yml:site_author
 msgid "Wikimedia Foundation and contributors"
-msgstr ""
+msgstr "Wikimedia Foundation en bijdragers"
 
 #: mkdocs.yml:copyright
 msgid "Copyright &copy; Wikimedia Foundation and contributors"
@@ -62,11 +62,11 @@ msgstr "Gebruiksvoorwaarden"
 
 #: mkdocs.yml:extra.footer_links.2
 msgid "Code: GPL-3.0-or-later"
-msgstr ""
+msgstr "Code: GPL 3.0 of recenter"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr ""
+msgstr "Inhoud: CC BY-SA 4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -85,12 +85,12 @@ msgstr "Aan de slag"
 #: mkdocs.yml:navigation use-content/index.md:meta.title
 #: use-content/index.md:title
 msgid "Use content and data"
-msgstr "Inhoud en data gebruiken"
+msgstr "Inhoud en gegevens gebruiken"
 
 #: mkdocs.yml:navigation build-tools/index.md:meta.title
 #: build-tools/index.md:title
 msgid "Tools and bots"
-msgstr "Hulpmiddelen en robots"
+msgstr "Hulpprogramma’s en robots"
 
 #: mkdocs.yml:navigation community/index.md:meta.title
 #: community/index.md:title
@@ -105,11 +105,11 @@ msgstr "Hulp krijgen"
 
 #: index.md:meta.title index.md:title
 msgid "Discover and build Wikimedia technology"
-msgstr ""
+msgstr "Ontdek en bouw Wikimedia-technologie"
 
 #: index.md:block 1 (paragraph)
 msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
-msgstr ""
+msgstr "Raadpleeg technische documentatie en maak contact met de ontwikkelaarsgemeenschap achter [Wikipedia](https://www.wikipedia.org/) en andere [Wikimedia-projecten](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
@@ -117,35 +117,35 @@ msgstr "[Aan de slag](get-started/){ .md-button }"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
-msgstr "[Wikimedia-inhoud en data gebruiken](use-content/)"
+msgstr "[Wikimedia-inhoud en -gegevens gebruiken](use-content/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
-msgstr "Toegang krijgen tot artikelen van Wikipedia, mediabestanden, gestructureerde gegevens en meer met openbare API's en downloads."
+msgstr "Via openbare API’s en downloads krijgt u toegang tot artikelen van Wikipedia, mediabestanden, gestructureerde gegevens en nog veel meer."
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
-msgstr "[Robots en hulpmiddelen bouwen](build-tools/)"
+msgstr "[Hulpprogramma’s en robots bouwen](build-tools/)"
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
-msgstr ""
+msgstr "Hulpprogramma’s en robots maken het gemakkelijker om Wikimedia-projecten te bewerken en te onderhouden."
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
-msgstr ""
+msgstr "[Draag bij aan de open broncode van Wikimedia](contribute/)"
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
-msgstr ""
+msgstr "Help mee het Wikimedia-ecosysteem op te bouwen met opensourcesoftware."
 
 #: index.md:block 13 (header)
 msgid "[Connect with the community](community/)"
-msgstr ""
+msgstr "[Maak contact met de gemeenschap](community/)"
 
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
-msgstr ""
+msgstr "Neem deel aan de technische gemeenschap van Wikimedia en zoek mogelijkheden voor ondersteuning en leren."
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
@@ -153,16 +153,16 @@ msgstr "[Hulp krijgen](get-help/)"
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
-msgstr ""
+msgstr "Zoek informatiebronnen voor vragen en probleemoplossing."
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
-msgstr ""
+msgstr "[Ontdek en deel hulpprogramma’s](search.md)"
 
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
 msgid "Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata."
-msgstr ""
+msgstr "Blader door de catalogus met hulpprogramma’s op Toolhub, deel uw hulpprogramma’s en help bij het onderhouden van de metagegevens erover."
 
 #: build-tools/index.md:block 4 (header)
 msgid "[Get started](get-started.md)"
@@ -171,40 +171,40 @@ msgstr "[Aan de slag](get-started.md)"
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
 msgid "Create your first tool, learn about running a bot, and get best practices."
-msgstr ""
+msgstr "Maak uw eerste hulpprogramma, leer hoe u een robot draait en ontdek de beste werkwijzen."
 
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr ""
+msgstr "[Leer met tutorials](tutorials.md)"
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
-msgstr ""
+msgstr "Volg de stapsgewijze handleidingen op om de basisbeginselen van het werken met Wikimedia-projecten te leren."
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
-msgstr "[API's en databronnen gebruiken](apis.md)"
+msgstr "[API’s en gegevensbronnen gebruiken](apis.md)"
 
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
-msgstr ""
+msgstr "Ontdek programmeerinterfaces voor het bouwen van robots en hulpprogramma’s."
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr ""
+msgstr "[Hulpprogramma’s op de Wikimedia-servers laten draaien](host-tools.md)"
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
 msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
-msgstr ""
+msgstr "Toegang tot clouddiensten voor het uitvoeren van analyses, het beheren van robots, en het aanbieden van webdiensten en hulpprogramma’s die Wikimedia-projecten helpen."
 
 #: build-tools/apis.md:meta.title build-tools/apis.md:title
 #: build-tools/apis.md:block 1 (header)
 msgid "Use APIs and data sources"
-msgstr "API's en databronnen gebruiken"
+msgstr "API’s en gegevensbronnen gebruiken"
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
@@ -215,7 +215,7 @@ msgstr ""
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
 msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
-msgstr "Pywikibot is een Pythonbibliotheek en collectie van scripts die handelingen op Wikimedia projecten automatiseren."
+msgstr "Pywikibot is een Python-bibliotheek en een verzameling scripts waarmee werk op Wikimedia-projecten geautomatiseerd kan worden."
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
@@ -303,7 +303,7 @@ msgstr "[Lees meer op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLangu
 #: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
 #: 3 (header)
 msgid "Build your first tool"
-msgstr "Bouw je eerste hulpmiddel"
+msgstr "Bouw uw eerste hulpprogramma"
 
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
@@ -375,7 +375,7 @@ msgstr "[Lees meer op Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolfor
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
 msgid "Discover and share tools"
-msgstr "Hulpmiddelen ontdekken en delen"
+msgstr "Hulpprogramma’s ontdekken en delen"
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
@@ -395,7 +395,7 @@ msgstr "[Toolhub bezoeken](https://toolhub.wikimedia.org/)"
 
 #: build-tools/search.md:block 6 (header)
 msgid "Share a tool"
-msgstr "Een hulpmiddel delen"
+msgstr "Een hulpprogramma delen"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
@@ -443,7 +443,7 @@ msgstr "[Lees meer op Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
 msgid "Display holidays from Wikipedia"
-msgstr "Toon vakanties van Wikipedia"
+msgstr "Vakanties vanuit Wikipedia weergeven"
 
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
@@ -469,7 +469,7 @@ msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLa
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
-msgstr "Host een tool op Wikimedia Cloud servers"
+msgstr "Een hulpprogramma onderbrengen bij de Wikimedia Cloud-servers"
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
@@ -803,7 +803,7 @@ msgstr ""
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr "[Bezoek het tech blog](https://techblog.wikimedia.org/)"
+msgstr "[Bezoek het tech-blog](https://techblog.wikimedia.org/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Technical community newsletter"
@@ -819,7 +819,7 @@ msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLa
 
 #: community/updates.md:block 9 (header)
 msgid "Tech news"
-msgstr "Tech nieuws"
+msgstr "Tech-nieuws"
 
 #: community/updates.md:block 10 (paragraph)
 msgid "Get weekly summaries of technical topics for Wikimedians."
@@ -1073,7 +1073,7 @@ msgstr ""
 #: contribute/by-language.md:block 36 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
-msgstr "MediaWiki is de software waarop Wikipedia, haar zusterprojecten en duizenden andere wiki's over de hele wereld op draaien."
+msgstr "MediaWiki is de software waarop Wikipedia, haar zusterprojecten en duizenden andere wiki’s over de hele wereld op draaien."
 
 #: contribute/by-language.md:block 37 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
@@ -1157,7 +1157,7 @@ msgstr ""
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
-msgstr "Lokalisatie en internationalisering"
+msgstr "Lokalisering en internationalisering"
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
@@ -1202,7 +1202,7 @@ msgstr "Offline lezen"
 
 #: contribute/by-topic.md:block 16 (paragraph)
 msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
-msgstr "Vergroot het bereik van vrije kennis door mensen helpen Wikipedia te gebruiken zonder internettoegang."
+msgstr "Vergroot het bereik van de vrije kennis door mensen te helpen Wikipedia zonder internettoegang te gebruiken."
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
@@ -1500,7 +1500,7 @@ msgstr ""
 
 #: get-started/tutorials.md:block 6 (paragraph)
 msgid "Learn the basics of writing code that interacts with Wikimedia projects."
-msgstr "Leer de basisprincipes van het schrijven van code die interactie heeft met Wikimedia projecten."
+msgstr "Leer de basisprincipes van het schrijven van code die met Wikimedia-projecten samenwerkt."
 
 #: get-started/tutorials.md:block 7 (paragraph)
 msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
@@ -1534,7 +1534,7 @@ msgstr "Wikibase en Wikidata"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
-msgstr "Wikibase is een MediaWiki-uitbreiding voor het werken met gestructureerde data en het is de software waarop Wikidata draait."
+msgstr "Wikibase is een MediaWiki-uitbreiding voor het werken met gestructureerde gegevens. Ook is het de programmatuur waar Wikidata op draait."
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
@@ -1630,7 +1630,7 @@ msgstr ""
 #: use-content/bot-traffic.md:block 11 (unordered list)
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more on Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
-msgstr "[Meer lezen](https://enterprise.wikimedia.com)"
+msgstr "[Lees meer op Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
 
 #: use-content/bot-traffic.md:block 12 (header)
 msgid "Partner with us"
@@ -1675,7 +1675,7 @@ msgstr ""
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr "De meeste Wikimedia-inhoud is beschikbaar onder een Creative Commons licentie die vrij hergebruik met vermelding toelaat. U kunt onderaan elke pagina kijken om een toepasselijke licentie te vinden."
+msgstr "De meeste Wikimedia-inhoud is beschikbaar onder een Creative Commons-licentie die vrij hergebruik met vermelding toestaat. U kunt onderaan elke pagina kijken om de van toepassing zijnde licentie te vinden."
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
@@ -1757,7 +1757,7 @@ msgstr "Informatie van Wikidata weergeven"
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
-msgstr "Gebruik de MediaWiki API om informatie van Wikidata op te halen en te weergeven. Leer hoe Wikipedia artikelen gekoppeld zijn met Wikidata en hoe de structuur van Wikidata verwerkt kan worden."
+msgstr "Gebruik de MediaWiki-API om informatie van Wikidata op te halen en weer te geven. Leer hoe Wikipedia-artikelen aan Wikidata zijn gekoppeld en hoe de Wikidata-structuren ontleed moeten worden."
 
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
