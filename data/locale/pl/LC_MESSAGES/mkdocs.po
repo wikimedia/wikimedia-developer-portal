@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Polish (polski)
 # Exported from translatewiki.net
 #
+# Author: PanWor
 # Author: Woytecr
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -23,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-09-01 12:45:51+0000\n"
+"PO-Revision-Date: 2025-09-29 12:29:17+0000\n"
 "X-POT-Import-Date: 2025-08-29 06:30:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -260,7 +261,7 @@ msgstr "API MediaWiki zapewnia programowy dostęp do treści na dowolnej wiki Wi
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
-msgstr ""
+msgstr "[Dowiedz się więcej na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
