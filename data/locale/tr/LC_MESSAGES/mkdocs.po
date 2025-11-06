@@ -3,6 +3,7 @@
 #
 # Author: Hedda
 # Author: Melissadilara
+# Author: SaldırganSincap
 # Author: ToprakM
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -25,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-10-30 12:38:03+0000\n"
+"PO-Revision-Date: 2025-11-06 12:35:51+0000\n"
 "X-POT-Import-Date: 2025-08-29 06:30:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -49,9 +50,8 @@ msgid "Wikimedia Foundation and contributors"
 msgstr "Wikimedia Vakfı ve katkıda bulunanlar"
 
 #: mkdocs.yml:copyright
-#, fuzzy
 msgid "Copyright &copy; Wikimedia Foundation and contributors"
-msgstr "Telif hakkı &copy; 2022 Wikimedia Vakfı ve katkıda bulunanlar"
+msgstr "Copyright &copy; Wikimedia Vakfı ve katkıda bulunanlar"
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"
@@ -1277,9 +1277,8 @@ msgid "Visualize your contributions across Wikimedia's code review and task trac
 msgstr "Wikimedia'nın kod inceleme ve görev izleme araçlarıyla katkılarınızı görselleştirin."
 
 #: contribute/overview.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
-msgstr "[WikiContrib'i ziyaret edin](https://wikicontrib.toolforge.org/)"
+msgstr "[Teknik Katkıları Ziyaret Et](https://wikicontrib.toolforge.org/)"
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
@@ -1473,14 +1472,12 @@ msgid "Learn how to submit code"
 msgstr "Kodu nasıl göndereceğinizi öğrenin"
 
 #: get-started/new-dev.md:block 16 (paragraph)
-#, fuzzy
 msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
-msgstr "Birçok Wikimedia projesi, geliştirme işi için Git ve Gerrit'i kullanır. Kodu inceleme için göndermeden önce araçlar, süreçler ve en iyi uygulamalar hakkında bilgi edinin."
+msgstr "Wikimedia, kod incelemesi için Gerrit ve GitLab'ı kullanır. Kod göndermeden önce araçlar, süreçler ve en iyi uygulamalar hakkında bilgi edinin."
 
 #: get-started/new-dev.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[mediawiki.org'da daha fazlasını okuyun](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Gerrit hakkında daha fazla bilgi edinin](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"

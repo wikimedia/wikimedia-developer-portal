@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-10-30 12:38:02+0000\n"
+"PO-Revision-Date: 2025-11-06 12:35:49+0000\n"
 "X-POT-Import-Date: 2025-08-29 06:30:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -230,18 +230,18 @@ msgstr "[Bijdragen](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pyw
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
-msgstr ""
+msgstr "[Broncode ophalen](https://gerrit.wikimedia.org/g/pywikibot/core)"
 
 #: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
 #: (header)
 msgid "Browse libraries by programming language"
-msgstr ""
+msgstr "Bibliotheken per programmeertaal bekijken"
 
 #: build-tools/apis.md:block 7 (paragraph)
 #: get-started/browse-languages.md:block 2 (paragraph)
 #: use-content/content.md:block 10 (paragraph)
 msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
-msgstr ""
+msgstr "API-cliëntbibliotheken maken het makkelijker code te schrijven die met een API omgaat. Op deze lijst vindt u populaire bibliotheken voor de MediaWiki-API gerangschikt op programmeertaal."
 
 #: build-tools/apis.md:block 8 (unordered list)
 #: get-started/browse-languages.md:block 3 (unordered list)
@@ -257,12 +257,12 @@ msgstr "De API gebruiken"
 #: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
 #: (paragraph)
 msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
-msgstr ""
+msgstr "Met de MediaWiki-API krijgen uw programma’s toegang tot de inhoud van elke Wikimedia-wiki. Via de API kunt u wikipagina’s zoeken en weergeven, mediabestanden ophalen, pagina’s bewerken en wiki’s beheren."
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
-msgstr ""
+msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -272,12 +272,12 @@ msgstr "[Probeer de sandbox uit](https://www.mediawiki.org/wiki/Special:ApiSandb
 #: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
 #: (header) use-content/data.md:block 9 (header)
 msgid "Download content in bulk"
-msgstr ""
+msgstr "Inhoud in bulk downloaden"
 
 #: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
 #: (paragraph) use-content/data.md:block 10 (paragraph)
 msgid "Access free downloads of wiki content and data that you can use in research, offline reading, bot editing, and other projects."
-msgstr ""
+msgstr "Hier vindt u gratis downloads van wiki-inhoud en gegevens die u kunt gebruiken voor onderzoek, offline lezen, bewerken met robots en andere projecten."
 
 #: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
 #: 17 (unordered list) use-content/data.md:block 11 (unordered list)
@@ -286,11 +286,11 @@ msgstr "[Lees meer op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLangu
 
 #: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
-msgstr ""
+msgstr "Wiki-databases bevragen"
 
 #: build-tools/apis.md:block 16 (paragraph)
 msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
-msgstr ""
+msgstr "Wiki-replicas zijn geanonimiseerde versies van de databases waar de productiesites van Wikimedia op voortbouwen. Met Quarry kunt u SQL-query’s uitvoeren en delen."
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
@@ -308,7 +308,7 @@ msgstr "Bouw uw eerste hulpprogramma"
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
 msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
-msgstr ""
+msgstr "Ontdek hoe u wikipagina’s bewerkt met Python en het Pywikibot-framework. Met deze tutorial kunt u snel aan de slag. U hebt alleen uw browser nodig."
 
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
@@ -317,11 +317,11 @@ msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLa
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
-msgstr ""
+msgstr "Meer over het maken en laten werken van robots"
 
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
-msgstr ""
+msgstr "Robots helpen bij het onderhouden van wiki's door steeds terugkerende taken uit te voeren. Om te beginnen met het maken en laten werken van robots leest u eerst over de beste werkwijzen."
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
@@ -329,11 +329,11 @@ msgstr "[Lees meer op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLa
 
 #: build-tools/get-started.md:block 9 (header)
 msgid "Best practices for open source tools"
-msgstr ""
+msgstr "Beste werkwijzen voor open source-tools"
 
 #: build-tools/get-started.md:block 10 (paragraph)
 msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
-msgstr ""
+msgstr "Nog niet bekend met open source? Ontvang tips voor het ontwikkelen van succesvolle tools en robots, waaronder het kiezen van een licentie, het publiceren van de code en het schrijven van documentatie."
 
 #: build-tools/get-started.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
@@ -342,19 +342,19 @@ msgstr "[Lees meer op Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolfor
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
-msgstr ""
+msgstr "Tools bij Wikimedia-servers onderbrengen"
 
 #: build-tools/host-tools.md:block 3 (header)
 msgid "Run scripts in your browser"
-msgstr ""
+msgstr "Scripts in uw browser uitvoeren"
 
 #: build-tools/host-tools.md:block 4 (paragraph)
 msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
-msgstr ""
+msgstr "PAWS is een gratis, cloudgebaseerde speeltuin voor het maken van scripts en datavisualisaties die verband houden met Wikimedia-projecten. Meld u aan op uw Wikimedia-account en maak een notitieboek om aan de slag te gaan."
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[PAWS bezoeken](https://hub-paws.wmcloud.org/)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -362,11 +362,11 @@ msgstr "[Lees meer op Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
 
 #: build-tools/host-tools.md:block 6 (header)
 msgid "Learn about cloud hosting for tools"
-msgstr ""
+msgstr "Meer over cloud-hosting voor tools"
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
-msgstr ""
+msgstr "Toolforge is een gratis hostingomgeving voor het uitvoeren en beheren van tools. Het ontwikkelen van een tool in Toolforge maakt het makkelijker  om toegang te krijgen tot Wikimedia-inhoud en -gegevens en om uw tool met anderen te delen."
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
@@ -386,7 +386,7 @@ msgstr ""
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
 msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
-msgstr ""
+msgstr "Toolhub is een catalogus van tools die het eenvoudiger maken om Wikimedia-projecten te bewerken en te onderhouden. Met Toolhub ontdekt u nieuwe tools, legt u contact met toolbeheerders en deelt u lijsten van uw favoriete tools."
 
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
@@ -399,7 +399,7 @@ msgstr "Een hulpprogramma delen"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
-msgstr ""
+msgstr "Voeg uw tool toe aan de Toolhub-catalogus zodat anderen ook baat bij uw werk hebben en erop kunnen voortbouwen. Meld u aan bij Toolhub met uw Wikimedia-account om aan de slag te gaan."
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
