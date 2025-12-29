@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-10-30 12:38:02+0000\n"
+"PO-Revision-Date: 2025-12-29 12:27:56+0000\n"
 "X-POT-Import-Date: 2025-08-29 06:30:56+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -410,7 +410,7 @@ msgstr "[Dodaj narzędzie do Toolhub](https://toolhub.wikimedia.org/add-or-remov
 #: use-content/tutorials.md:meta.title use-content/tutorials.md:title
 #: use-content/tutorials.md:block 1 (header)
 msgid "Learn with tutorials"
-msgstr ""
+msgstr "Ucz się, korzystając z samouczków"
 
 #: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
 #: (header)
@@ -606,7 +606,7 @@ msgstr "Wydarzenia badawcze"
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
-msgstr ""
+msgstr "Dołącz do forów i spotkań naukowców, inżynierów i badaczy, którzy zgłębiają wszystkie aspekty projektów Wikimedia."
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
@@ -630,7 +630,7 @@ msgstr "Nagroda za najfajniejsze narzędzie"
 
 #: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
-msgstr ""
+msgstr "Podczas tej corocznej gali wręczenia nagród honorowane są dzieła wolontariuszy-programistów."
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
@@ -638,15 +638,15 @@ msgstr "[Przeczytaj więcej na Meta-Wiki](https://meta.wikimedia.org/wiki/Specia
 
 #: community/events.md:block 18 (header)
 msgid "Language community meetings"
-msgstr ""
+msgstr "Spotkania społeczności językowej"
 
 #: community/events.md:block 19 (paragraph)
 msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
-msgstr ""
+msgstr "Dyskutuj o zmianach technicznych i wyzwaniach związanych z językami, z Wikimedianami z różnych społeczności językowych."
 
 #: community/events.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
-msgstr ""
+msgstr "[Dowiedz się więcej na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -655,7 +655,7 @@ msgstr "Ucz się i dziel się umiejętnościami technicznymi"
 
 #: community/grow.md:block 3 (header)
 msgid "Outreach and mentoring programs"
-msgstr ""
+msgstr "Programy rekrutacyjne i mentoringowe"
 
 #: community/grow.md:block 4 (paragraph)
 msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
@@ -708,7 +708,7 @@ msgstr "Narzędzia i usługi w chmurze"
 #: community/tech-ops.md:block 4 (paragraph)
 #: get-started/wikimedia-tech.md:block 10 (paragraph)
 msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
-msgstr ""
+msgstr "Dowiedz się więcej o hostingu współdzielonym, usługach dostępu do danych i innego wsparcia infrastrukturalnego służących zaangażowaniu w aspektach technicznych projektów Wikimedia."
 
 #: community/tech-ops.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
@@ -852,25 +852,25 @@ msgstr ""
 
 #: contribute/index.md:block 6 (header)
 msgid "[Contribute by programming language](by-language.md)"
-msgstr ""
+msgstr "[Zaangażuj się korzystając z wybranego języka programowania](by-language.md)"
 
 #: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
 #: (paragraph)
 msgid "Choose a project to contribute to based on programming language."
-msgstr ""
+msgstr "Wybierz projekt, który chcesz rozwijać, zgodnie z wybranym językiem programowania."
 
 #: contribute/index.md:block 8 (header)
 msgid "[Search all projects](search.md)"
-msgstr ""
+msgstr "[Przeszukaj wszystkie projekty](search.md)"
 
 #: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
 #: (paragraph)
 msgid "Search all Wikimedia open source software projects."
-msgstr ""
+msgstr "Przeszukaj wszystkie projekty oprogramowania otwartoźródłowego Wikimedia."
 
 #: contribute/by-language.md:meta.title contribute/by-language.md:title
 msgid "Contribute by programming language"
-msgstr ""
+msgstr "Zaangażuj się korzystając z wybranego języka programowania"
 
 #: contribute/by-language.md:block 2 (header)
 #, optional
@@ -892,7 +892,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org/Scribe-Data)"
-msgstr ""
+msgstr "[Pobierz kod źródłowy](https://github.com/scribe-org/Scribe-Data)"
 
 #: contribute/by-language.md:block 9 (header)
 #, optional
@@ -906,19 +906,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
-msgstr ""
+msgstr "Codex to zestaw narzędzi służących do tworzenia interfejsów użytkownika w ramach Wikimedia Design System z użyciem Vue."
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
-msgstr ""
+msgstr "[Przeczytaj dokumentację](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
-msgstr ""
+msgstr "[Rozwijaj](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
-msgstr ""
+msgstr "[Pobierz kod źródłowy](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "SignIt Firefox Extension"
@@ -930,15 +930,15 @@ msgstr ""
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr ""
+msgstr "[Przeczytaj dokumentację](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
-msgstr ""
+msgstr "[Rozwijaj](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
-msgstr ""
+msgstr "[Pobierz kod źródłowy](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 16 (header)
 #, optional
@@ -947,19 +947,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 17 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
-msgstr ""
+msgstr "Narzędzie do edycji filmów w Wikimedia Commons, stworzone z użyciem React JS i Node JS."
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Read the docs](https://videocuttool.wmflabs.org)"
-msgstr ""
+msgstr "[Przeczytaj dokumentację](https://videocuttool.wmflabs.org)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr ""
+msgstr "[Rozwijaj](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
-msgstr ""
+msgstr "[Pobierz kod źródłowy](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
 
 #: contribute/by-language.md:block 19 (header)
 #, optional
@@ -968,23 +968,23 @@ msgstr ""
 
 #: contribute/by-language.md:block 20 (header)
 msgid "Wikimedia Commons Android app"
-msgstr ""
+msgstr "Aplikacja Wikimedia Commons na Androida"
 
 #: contribute/by-language.md:block 21 (paragraph)
 msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
-msgstr ""
+msgstr "Aplikacja Wikimedia Commons na Androida umożliwia użytkownikom przesyłanie zdjęć ze swojego urządzenia do Wikimedia Commons."
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
-msgstr ""
+msgstr "[Przeczytaj dokumentację](https://commons-app.github.io/)"
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
-msgstr ""
+msgstr "[Rozwijaj](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
-msgstr ""
+msgstr "[Pobierz kod źródłowy](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 23 (header)
 #, optional
@@ -993,19 +993,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 24 (header)
 msgid "Kiwix"
-msgstr ""
+msgstr "Kiwix"
 
 #: contribute/by-language.md:block 25 (paragraph)
 msgid "An offline reader for people without internet access."
-msgstr ""
+msgstr "Czytnik offline dla osób niemających dostępu do Internetu."
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr ""
+msgstr "[Przeczytaj dokumentację](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Rozwijaj](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
@@ -1022,15 +1022,15 @@ msgstr ""
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[Pobierz kod źródłowy](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Rozwijaj (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Rozwijaj (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 30 (header)
 #, optional
@@ -1052,7 +1052,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 33 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
-msgstr ""
+msgstr "[Rozwijaj](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
 
 #: contribute/by-language.md:block 33 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
@@ -1084,13 +1084,13 @@ msgstr "[Odwiedź mediawiki.org](https://www.mediawiki.org/)"
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
-msgstr ""
+msgstr "[Rozwijaj](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
 
 #: contribute/by-language.md:block 37 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
-msgstr ""
+msgstr "[Pobierz kod źródłowy](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
 #: contribute/by-language.md:block 38 (header)
 #, optional
@@ -1111,11 +1111,11 @@ msgstr ""
 
 #: contribute/by-language.md:block 41 (unordered list)
 msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Rozwijaj](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 41 (unordered list)
 msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
-msgstr ""
+msgstr "[Pobierz kod źródłowy](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-language.md:block 42 (header)
 #, optional
@@ -1133,15 +1133,15 @@ msgstr ""
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
-msgstr ""
+msgstr "[Przeczytaj dokumentację](https://docs.rs/mwbot/latest/mwbot/)"
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
-msgstr ""
+msgstr "[Rozwijaj](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
-msgstr ""
+msgstr "[Pobierz kod źródłowy](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 
 #: contribute/by-language.md:block 46 (header)
 #, optional
@@ -1151,12 +1151,12 @@ msgstr ""
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
 msgid "Contribute by topic"
-msgstr ""
+msgstr "Rozwijaj według tematu"
 
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
-msgstr ""
+msgstr "Lokalizacja i internacjonalizacja"
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
@@ -1166,7 +1166,7 @@ msgstr ""
 #: contribute/by-topic.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
-msgstr ""
+msgstr "[Przeczytaj więcej na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localization)"
 
 #: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
 #: 18 (header)
@@ -1281,11 +1281,11 @@ msgstr ""
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
 msgid "Search all projects"
-msgstr ""
+msgstr "Przeszukaj wszystkie projekty"
 
 #: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
 msgid "Search codebases"
-msgstr ""
+msgstr "Przeszukaj bazy kodów"
 
 #: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
 #: (paragraph)
@@ -1295,7 +1295,7 @@ msgstr "Przeszukaj wszystkie bazy kodów Wikimedia za pomocą narzędzia do wysz
 #: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
 #: (unordered list)
 msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
-msgstr ""
+msgstr "[Odwiedź wyszukiwarkę kodów](https://codesearch.wmcloud.org/search)"
 
 #: contribute/search.md:block 6 (header)
 msgid "Browse Wikimedia open source docs"
@@ -1307,7 +1307,7 @@ msgstr ""
 
 #: contribute/search.md:block 8 (unordered list)
 msgid "[Browse docs](https://doc.wikimedia.org)"
-msgstr ""
+msgstr "[Przeglądaj dokumentację](https://doc.wikimedia.org)"
 
 #: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
 #: 7 (header)
@@ -1317,7 +1317,7 @@ msgstr "Przeglądaj repozytoria"
 #: contribute/search.md:block 10 (paragraph)
 #: get-started/browse-languages.md:block 8 (paragraph)
 msgid "Explore Wikimedia codebases."
-msgstr ""
+msgstr "Przeglądaj bazy kodów Wikimedia."
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
@@ -1340,15 +1340,15 @@ msgstr "Wyszukuj narzędzia i boty"
 
 #: get-help/index.md:block 2 (paragraph)
 msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
-msgstr ""
+msgstr "Ponieważ ekosystem techniczny Wikimedia jest złożony i rozproszony, możesz znaleźć pomoc i wsparcie w wielu różnych lokalizacjach i formach."
 
 #: get-help/index.md:block 3 (header)
 msgid "Search the docs"
-msgstr ""
+msgstr "Przeszukaj dokumentację"
 
 #: get-help/index.md:block 4 (paragraph)
 msgid "Find technical information for Wikimedia projects."
-msgstr ""
+msgstr "Znajdź informacje techniczne na temat projektów Wikimedia."
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Search across wikis](https://global-search.toolforge.org/)"
@@ -1356,7 +1356,7 @@ msgstr "[Przeszukuj wszystkie wiki na raz](https://global-search.toolforge.org/)
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
-msgstr ""
+msgstr "[Przeglądaj dokumentację oprogramowania otwartoźródłowego Wikimedia](https://doc.wikimedia.org/)"
 
 #: get-help/index.md:block 12 (header)
 msgid "Check system status"
@@ -1376,15 +1376,15 @@ msgstr "[Zobacz wersje MediaWiki używane na wiki Wikimedia](https://versions.to
 
 #: get-help/index.md:block 15 (header)
 msgid "Bugs and feature requests"
-msgstr ""
+msgstr "Błędy i propozycje funkcji"
 
 #: get-help/index.md:block 16 (paragraph)
 msgid "Report bugs and request new features in Wikimedia software."
-msgstr ""
+msgstr "Zgłaszaj błędy i proponuj nowe funkcje w oprogramowaniu Wikimedia."
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
-msgstr ""
+msgstr "[Dowiedz się jak zgłosić błąd](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
@@ -1396,33 +1396,33 @@ msgstr ""
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
-msgstr ""
+msgstr "Poznaj oprogramowanie otwartoźródłowe i komponenty techniczne, stojące za projektami Wikimedia."
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
-msgstr ""
+msgstr "[Poznaj proces rozwoju](new-dev.md)"
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
-msgstr ""
+msgstr "Dowiedz się, jak działają projekty oprogramowania Wikimedia i jak wnieść swój wkład techniczny."
 
 #: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
 #: (paragraph)
 msgid "Follow coding exercises with step-by-step guidance."
-msgstr ""
+msgstr "Wykonuj ćwiczenia z kodowania, korzystając z instrukcji krok po kroku."
 
 #: get-started/index.md:block 7 (header)
 msgid "[Browse by programming language](browse-languages.md)"
-msgstr ""
+msgstr "[Przeglądaj według języka programowania](browse-languages.md)"
 
 #: get-started/index.md:block 8 (paragraph)
 msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
-msgstr ""
+msgstr "Znajdź biblioteki klienckie, przykładowe aplikacje i projekty open source w preferowanych przez Ciebie językach kodowania."
 
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
 msgid "Browse by programming language"
-msgstr ""
+msgstr "Przeglądaj według języka programowania"
 
 #: get-started/browse-languages.md:block 1 (header)
 msgid "API client libraries by language"
@@ -1430,20 +1430,20 @@ msgstr "Biblioteki klienckie API według języka"
 
 #: get-started/browse-languages.md:block 4 (header)
 msgid "Open source projects by language"
-msgstr ""
+msgstr "Projekty Open Source według języka"
 
 #: get-started/browse-languages.md:block 5 (paragraph)
 msgid "Find Wikimedia open source projects by programming language, and start contributing code."
-msgstr ""
+msgstr "Znajdź projekty otwartoźródłowe Wikimedia według języka programowania i zacznij współtworzyć kod."
 
 #: get-started/browse-languages.md:block 6 (paragraph)
 msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
-msgstr ""
+msgstr "[Przeglądaj projekty](../contribute/by-language.md){ .md-button }"
 
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr ""
+msgstr "Poznaj proces rozwoju"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
