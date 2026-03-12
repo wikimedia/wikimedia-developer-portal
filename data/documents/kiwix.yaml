@@ -4,7 +4,7 @@ description: An offline reader for people without internet access.
 links:
   - url: https://www.kiwix.org/
     label: Read the docs
-  - url: https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md
+  - url: https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md
     label: Contribute
   - url: https://github.com/kiwix/
     label: Get the source code

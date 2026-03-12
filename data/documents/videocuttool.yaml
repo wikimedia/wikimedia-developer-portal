@@ -2,11 +2,11 @@
 title: VideoCutTool
 description: A tool to edit videos on Wikimedia Commons, built with React JS and Node JS.
 links:
-  - url: https://videocuttool.wmflabs.org
-    label: Read the docs
   - url: https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool
+    label: Read the docs
+  - url: https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation
     label: Contribute
-  - url: https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool
+  - url: https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool
     label: Get the source code
 categories:
   - contribute-javascript

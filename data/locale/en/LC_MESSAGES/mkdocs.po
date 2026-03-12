@@ -1127,18 +1127,20 @@ msgid ""
 msgstr ""
 
 #: contribute/by-language.md:block 18 (unordered list)
-msgid "[Read the docs](https://videocuttool.wmflabs.org)"
+msgid ""
+"[Read the "
+"docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 msgstr ""
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid ""
-"[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+"[Contribute](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
 msgstr ""
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid ""
-"[Get the source "
-"code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
+"[Get the source code](https://gitlab.wikimedia.org/cloudvps-"
+"repos/videocuttool/VideoCutTool)"
 msgstr ""
 
 #: contribute/by-language.md:block 19 (header)
@@ -1188,7 +1190,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid ""
-"[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
+"[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
 msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
@@ -1401,7 +1403,7 @@ msgstr ""
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid ""
 "[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
 msgstr ""
 
 #: contribute/by-topic.md:block 15 (header)
