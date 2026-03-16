@@ -28,8 +28,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-10-30 12:38:04+0000\n"
-"X-POT-Import-Date: 2025-08-29 06:30:56+0000\n"
+"PO-Revision-Date: 2026-03-16 12:24:06+0000\n"
+"X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hant\n"
@@ -780,16 +780,16 @@ msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_inf
 msgstr "[在 Wikitech 上了解更多](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
 
 #: community/tech-ops.md:block 21 (header)
-msgid "Technical decision-making process"
-msgstr "技術決策過程"
+msgid "Product and Technology Advisory Council"
+msgstr ""
 
 #: community/tech-ops.md:block 22 (paragraph)
-msgid "Learn about why and how technical decisions are made, and browse decision records."
-msgstr "了解為何與如何做出技術決策，並瀏覽決策紀錄。"
+msgid "Learn about the Technology Council that advises on technical priorities for the Wikimedia movement."
+msgstr ""
 
 #: community/tech-ops.md:block 23 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
-msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_decision_making)"
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
+msgstr ""
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
@@ -809,26 +809,14 @@ msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
 msgstr "[參訪技術部落格](https://techblog.wikimedia.org/)"
 
 #: community/updates.md:block 6 (header)
-msgid "Technical community newsletter"
-msgstr "技術社群通訊"
-
-#: community/updates.md:block 7 (paragraph)
-msgid "Subscribe to quarterly updates on activities in the Wikimedia technical community."
-msgstr "訂閱在維基媒體技術社群上活動的每季更新。"
-
-#: community/updates.md:block 8 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
-msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Technical_Community_Newsletter)"
-
-#: community/updates.md:block 9 (header)
 msgid "Tech news"
 msgstr "技術新聞"
 
-#: community/updates.md:block 10 (paragraph)
+#: community/updates.md:block 7 (paragraph)
 msgid "Get weekly summaries of technical topics for Wikimedians."
 msgstr "取得維基媒體人的每週技術主題摘要。"
 
-#: community/updates.md:block 11 (unordered list)
+#: community/updates.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 msgstr "[在元維基上了解更多](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 
@@ -954,16 +942,16 @@ msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node 
 msgstr "一個在維基共享資源上編輯影片的工具，使用 React JS 和 Node JS 打造。"
 
 #: contribute/by-language.md:block 18 (unordered list)
-msgid "[Read the docs](https://videocuttool.wmflabs.org)"
-msgstr "[閱讀文件](https://videocuttool.wmflabs.org)"
+msgid "[Read the docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+msgstr ""
 
 #: contribute/by-language.md:block 18 (unordered list)
-msgid "[Contribute](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr "[貢獻](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+msgid "[Contribute](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
+msgstr ""
 
 #: contribute/by-language.md:block 18 (unordered list)
-msgid "[Get the source code](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
-msgstr "[取得原始碼](https://gerrit.wikimedia.org/g/labs/tools/VideoCutTool)"
+msgid "[Get the source code](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
+msgstr ""
 
 #: contribute/by-language.md:block 19 (header)
 #, optional
@@ -1008,8 +996,8 @@ msgid "[Read the docs](https://www.kiwix.org/)"
 msgstr "[閱讀文件](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
-msgid "[Contribute](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
-msgstr "[貢獻](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
+msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
+msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
@@ -1196,8 +1184,8 @@ msgid "Read the documentation style guide, and find good first tasks for improvi
 msgstr "閱讀文件的風格指南，並找出改善文件的首要任務。"
 
 #: contribute/by-topic.md:block 14 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
-msgstr "[在 mediawiki.org 上了解更多](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/New_technical_writers)"
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
+msgstr ""
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
