@@ -3,6 +3,7 @@
 #
 # Author: Amire80
 # Author: BryanDavis
+# Author: Neriah
 # Author: YaronSh
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -25,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-03-16 12:24:04+0000\n"
+"PO-Revision-Date: 2026-03-19 12:23:34+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -778,15 +779,15 @@ msgstr "[מידע נוסף באתר Wikitech](https://wikitech.wikimedia.org/wik
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Product and Technology Advisory Council"
-msgstr ""
+msgstr "המועצה המייעצת למוצרים וטכנולוגיה"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about the Technology Council that advises on technical priorities for the Wikimedia movement."
-msgstr ""
+msgstr "מידע על מועצת הטכנולוגיה שמייעצת לתנועת ויקימדיה על עדיפות טכנית."
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
-msgstr ""
+msgstr "[מידע נוסף במטא־ויקי](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
@@ -940,15 +941,15 @@ msgstr "כלי לעריכת סרטונים בוויקישיתוף, נבנה עם
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Read the docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr ""
+msgstr "[קריאת התיעוד](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Contribute](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
-msgstr ""
+msgstr "[תרומה](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
-msgstr ""
+msgstr "[קבלת קוד המקור](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
 
 #: contribute/by-language.md:block 19 (header)
 #, optional
@@ -994,7 +995,7 @@ msgstr "[תיעוד](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[תרומה](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
@@ -1182,7 +1183,7 @@ msgstr "קריאת מדריך סגנון התיעוד ומציאת משימות 
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
-msgstr ""
+msgstr "[מידע נוסף באתר mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
