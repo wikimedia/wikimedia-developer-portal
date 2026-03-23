@@ -1,8 +1,7 @@
-# Translation of Wikimedia Developer Portal to Luxembourgish (Lëtzebuergesch)
+# Translation of Wikimedia Developer Portal to Irish (Gaeilge)
 # Exported from translatewiki.net
 #
-# Author: Robby
-# Author: Volvox
+# Author: Aindriu80
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -24,186 +23,186 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-03-23 12:21:59+0000\n"
+"PO-Revision-Date: 2026-03-23 12:21:58+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: lb\n"
-"X-Generator: MediaWiki 1.46.0-alpha; Translate 2025-07-31\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ga\n"
 "Project-Id-Version: Wikimedia Developer Portal\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Generator: MediaWiki 1.46.0-alpha; Translate 2025-07-31\n"
+"Plural-Forms: nplurals=5; plural=(n == 1) ? 0 : ( (n == 2) ? 1 : ( (n < 7) ? 2 : ( (n < 11) ? 3 : 4 ) ) );\n"
 
 #: mkdocs.yml:site_name
 msgid "Wikimedia Developer Portal"
-msgstr "Wikimedia-Entwécklerportal"
+msgstr "Tairseach Forbróirí Wikimedia"
 
 #: mkdocs.yml:site_description
 msgid "Find technical documentation, and connect with Wikimedia developer communities."
-msgstr "Fannt technesch Dokumentatiounen a verbannt Iech mat Wikimedia-Entwéckler-Communautéiten."
+msgstr "Aimsigh doiciméadacht theicniúil, agus déan nasc le pobail fhorbróirí Wikimedia."
 
 #: mkdocs.yml:site_author
 msgid "Wikimedia Foundation and contributors"
-msgstr ""
+msgstr "Fondúireacht Wikimedia agus rannpháirtithe"
 
 #: mkdocs.yml:copyright
 msgid "Copyright &copy; Wikimedia Foundation and contributors"
-msgstr ""
+msgstr "Cóipcheart &cóip; Fondúireacht Wikimedia agus rannpháirtithe"
 
 #: mkdocs.yml:extra.footer_links.0
 msgid "Privacy policy"
-msgstr "Dateschutzrichtlinnen"
+msgstr "Polasaí príobháideachta"
 
 #: mkdocs.yml:extra.footer_links.1
 msgid "Terms of Use"
-msgstr ""
+msgstr "Téarmaí Úsáide"
 
 #: mkdocs.yml:extra.footer_links.2
 msgid "Code: GPL-3.0-or-later"
-msgstr ""
+msgstr "Cód: GPL-3.0-nó níos déanaí"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr "Inhalt: CC-BY-SA-4.0"
+msgstr "Ábhar: CC-BY-SA-4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
-msgstr "Iwwer"
+msgstr "Maidir"
 
 #: mkdocs.yml:extra.footer_links.5 mkdocs.yml:navigation
 msgid "Contribute"
-msgstr ""
+msgstr "Cuir leis"
 
 #: mkdocs.yml:navigation build-tools/get-started.md:title
 #: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
 #: get-started/index.md:title
 msgid "Get started"
-msgstr "Fir unzefänken"
+msgstr "Tosaigh"
 
 #: mkdocs.yml:navigation use-content/index.md:meta.title
 #: use-content/index.md:title
 msgid "Use content and data"
-msgstr ""
+msgstr "Úsáid ábhar agus sonraí"
 
 #: mkdocs.yml:navigation build-tools/index.md:meta.title
 #: build-tools/index.md:title
 msgid "Tools and bots"
-msgstr ""
+msgstr "Uirlisí agus botanna"
 
 #: mkdocs.yml:navigation community/index.md:meta.title
 #: community/index.md:title
 msgid "Community"
-msgstr "Communautéit"
+msgstr "Pobal"
 
 #: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
 #: get-help/index.md:block 1 (header) use-content/bot-traffic.md:block 15
 #: (header)
 msgid "Get help"
-msgstr "Hëllef kréien"
+msgstr "Faigh cabhair"
 
 #: index.md:meta.title index.md:title
 msgid "Discover and build Wikimedia technology"
-msgstr "Wikimedia-Technologie entdecken an opbauen"
+msgstr "Teicneolaíocht Wikimedia a aimsiú agus a thógáil"
 
 #: index.md:block 1 (paragraph)
 msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
-msgstr "Fannt technesch Dokumentatioun a verbannt Iech mat der Entwécklercommunautéit hanner [Wikipedia](https://www.wikipedia.org/) an anere [Wikimedia-Projeten](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
+msgstr "Aimsigh doiciméadacht theicniúil, agus déan teagmháil leis an bpobal forbróirí atá taobh thiar de [Vicipéid](https://www.wikipedia.org/) agus [tionscadail Wikimedia](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
-msgstr ""
+msgstr "[Tosaigh](tosaigh/){ .md-button}"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
-msgstr ""
+msgstr "[Úsáid ábhar agus sonraí Wikimedia](úsáid-ábhar/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
-msgstr ""
+msgstr "Rochtain ar ailt ó Vicipéid, comhaid meán, sonraí struchtúrtha, agus tuilleadh le APIanna poiblí agus íoslódálacha."
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
-msgstr ""
+msgstr "[Uirlisí agus róbónna tógála](build-tools/)"
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
-msgstr ""
+msgstr "A bhuíochas le huirlisí agus róbait, is fusa tionscadail Wikimedia a chur in eagar agus a chothabháil."
 
 #: index.md:block 10 (header)
 msgid "[Contribute to Wikimedia open source](contribute/)"
-msgstr ""
+msgstr "[Cuir le foinse oscailte Wikimedia](cuir le/)"
 
 #: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
 msgid "Help build the Wikimedia ecosystem with open source software."
-msgstr ""
+msgstr "Cabhraigh le héiceachóras Wikimedia a thógáil le bogearraí foinse oscailte."
 
 #: index.md:block 13 (header)
 msgid "[Connect with the community](community/)"
-msgstr ""
+msgstr "[Ceangail leis an bpobal](pobal/)"
 
 #: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
 msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
-msgstr ""
+msgstr "Bí páirteach i bpobal teicniúil Wikimedia, agus faigh deiseanna tacaíochta agus foghlama."
 
 #: index.md:block 16 (header)
 msgid "[Get help](get-help/)"
-msgstr "[Hëllef kréien](get-help/)"
+msgstr "[Faigh cabhair](get-help/)"
 
 #: index.md:block 17 (paragraph)
 msgid "Find resources to help with questions and troubleshooting."
-msgstr ""
+msgstr "Aimsigh acmhainní chun cabhrú le ceisteanna agus fabhtcheartú."
 
 #: build-tools/index.md:block 2 (header)
 msgid "[Discover and share tools](search.md)"
-msgstr ""
+msgstr "[Uirlisí a aimsiú agus a roinnt](search.md)"
 
 #: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
 #: (paragraph)
 msgid "Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata."
-msgstr ""
+msgstr "Brabhsáil catalóg na n-uirlisí ar Toolhub, roinn d’uirlisí, agus cabhraigh le meiteashonraí uirlisí a chothabháil."
 
 #: build-tools/index.md:block 4 (header)
 msgid "[Get started](get-started.md)"
-msgstr "[Éischt Schrëtt](get-started.md)"
+msgstr "[Tosaigh](get-started.md)"
 
 #: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
 #: (paragraph)
 msgid "Create your first tool, learn about running a bot, and get best practices."
-msgstr ""
+msgstr "Cruthaigh do chéad uirlis, foghlaim faoi róbat a rith, agus faigh dea-chleachtais."
 
 #: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
 #: use-content/index.md:block 4 (header)
 msgid "[Learn with tutorials](tutorials.md)"
-msgstr "[Mat Tutorials léieren](tutorials.md)"
+msgstr "[Foghlaim le ranganna teagaisc](tutorials.md)"
 
 #: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
-msgstr ""
+msgstr "Lean treoracha céim ar chéim chun foghlaim faoi bhunús an idirghníomhaithe le tionscadail Wikimedia."
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
-msgstr ""
+msgstr "[Úsáid APIanna agus foinsí sonraí](apis.md)"
 
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)
 msgid "Explore programming interfaces for building bots and tools."
-msgstr ""
+msgstr "Déan iniúchadh ar chomhéadain ríomhchlárúcháin chun róbónna agus uirlisí a thógáil."
 
 #: build-tools/index.md:block 10 (header)
 msgid "[Host tools on Wikimedia servers](host-tools.md)"
-msgstr ""
+msgstr "[Uirlisí óstála ar fhreastalaithe Wikimedia](host-tools.md)"
 
 #: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
 #: (paragraph)
 msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
-msgstr ""
+msgstr "Rochtain a fháil ar sheirbhísí scamall chun anailísíocht a dhéanamh, róbónna a riaradh, seirbhísí gréasáin a reáchtáil, agus uirlisí óstála a chuidíonn le tionscadail Wikimedia."
 
 #: build-tools/apis.md:meta.title build-tools/apis.md:title
 #: build-tools/apis.md:block 1 (header)
 msgid "Use APIs and data sources"
-msgstr ""
+msgstr "Úsáid APIanna agus foinsí sonraí"
 
 #: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
 #: (header)
@@ -214,167 +213,167 @@ msgstr ""
 #: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
 #: (paragraph)
 msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
-msgstr "Pywikibot ass eng Python-Bibliothéik a Sammlung vu Skripten, déi d'Schaffen u Wikimedia-Projeten automatiséieren."
+msgstr "Is leabharlann Python agus bailiúchán scripteanna é Pywikibot a uathoibríonn obair ar thionscadail Wikimedia."
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
-msgstr ""
+msgstr "[Cuir leis]( https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
 
 #: build-tools/apis.md:block 5 (unordered list)
 #: contribute/by-language.md:block 5 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
-msgstr ""
+msgstr "[Faigh an cód foinse](https://gerrit.wikimedia.org/g/pywikibot/core)"
 
 #: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
 #: (header)
 msgid "Browse libraries by programming language"
-msgstr ""
+msgstr "Brabhsáil leabharlanna de réir teanga ríomhchlárúcháin"
 
 #: build-tools/apis.md:block 7 (paragraph)
 #: get-started/browse-languages.md:block 2 (paragraph)
 #: use-content/content.md:block 10 (paragraph)
 msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
-msgstr ""
+msgstr "Le leabharlanna cliant API, is fusa cód a scríobh a idirghníomhaíonn le API. Tabhair cuairt ar an liosta seo chun brabhsáil trí leabharlanna coitianta don MediaWiki API de réir teanga ríomhchlárúcháin."
 
 #: build-tools/apis.md:block 8 (unordered list)
 #: get-started/browse-languages.md:block 3 (unordered list)
 #: use-content/content.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
 
 #: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
 #: (header)
 msgid "Use the API"
-msgstr "D'API benotzen"
+msgstr "Úsáid an API"
 
 #: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
 #: (paragraph)
 msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
-msgstr ""
+msgstr "Tugann API MediaWiki rochtain chlársceidealaithe duit ar ábhar ar aon vicí Wikimedia. Is féidir leat an API a úsáid chun leathanaigh vicí a chuardach agus a thaispeáint, comhaid meán a fháil, leathanaigh a chur in eagar, agus vicí a bhainistiú."
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
-msgstr ""
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
-msgstr "[Probéiert d'Sandkaul](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+msgstr "[Bain triail as an mbosca gainimh]( https://www.mediawiki.org/wiki/Special:ApiSandbox)"
 
 #: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
 #: (header) use-content/data.md:block 9 (header)
 msgid "Download content in bulk"
-msgstr ""
+msgstr "Íoslódáil ábhar i mórchóir"
 
 #: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
 #: (paragraph) use-content/data.md:block 10 (paragraph)
 msgid "Access free downloads of wiki content and data that you can use in research, offline reading, bot editing, and other projects."
-msgstr ""
+msgstr "Rochtain ar íoslódálacha saor in aisce d’ábhar agus sonraí vicí ar féidir leat a úsáid i dtaighde, i léitheoireacht as líne, in eagarthóireacht bota, agus i dtionscadail eile."
 
 #: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
 #: 17 (unordered list) use-content/data.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
 
 #: build-tools/apis.md:block 15 (header)
 msgid "Query wiki databases"
-msgstr ""
+msgstr "Fiosraigh bunachair sonraí vicí"
 
 #: build-tools/apis.md:block 16 (paragraph)
 msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
-msgstr ""
+msgstr "Is leaganacha gan ainm iad macasamhla Vicí de na bunachair shonraí a thacaíonn le suíomhanna táirgthe Wikimedia. Bain úsáid as Quarry chun fiosrúcháin SQL a rith agus a roinnt."
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
-msgstr "[Gitt op Quarry](https://quarry.wmcloud.org/)"
+msgstr "[Tabhair cuairt ar an gCairéal](https://quarry.wmcloud.org/)"
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
 
 #: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
 #: 3 (header)
 msgid "Build your first tool"
-msgstr ""
+msgstr "Tóg do chéad uirlis"
 
 #: build-tools/get-started.md:block 4 (paragraph)
 #: build-tools/tutorials.md:block 4 (paragraph)
 msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
-msgstr ""
+msgstr "Foghlaim conas leathanaigh vicí a chur in eagar ag baint úsáide as Python agus creatlach Pywikibot. Cabhraíonn an rang teagaisc seo leat tosú go tapa ag baint úsáide as do bhrabhsálaí amháin."
 
 #: build-tools/get-started.md:block 5 (unordered list)
 #: build-tools/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
 
 #: build-tools/get-started.md:block 6 (header)
 msgid "Learn about creating and running bots"
-msgstr ""
+msgstr "Foghlaim faoi bhotaí a chruthú agus a rith"
 
 #: build-tools/get-started.md:block 7 (paragraph)
 msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
-msgstr ""
+msgstr "Cuidíonn róbónna le vicí a chothabháil trí thascanna athchleachtacha a dhéanamh. Tosaigh ag cruthú agus ag rith róbónna trí fhoghlaim faoi na cleachtais is fearr."
 
 #: build-tools/get-started.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
 
 #: build-tools/get-started.md:block 9 (header)
 msgid "Best practices for open source tools"
-msgstr ""
+msgstr "Dea-chleachtais le haghaidh uirlisí foinse oscailte"
 
 #: build-tools/get-started.md:block 10 (paragraph)
 msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
-msgstr ""
+msgstr "Nua i saol na foinse oscailte? Faigh leideanna chun cabhrú leat uirlisí agus róbait rathúla a fhorbairt, lena n-áirítear ceadúnas a roghnú, an cód a fhoilsiú, agus doiciméid a scríobh."
 
 #: build-tools/get-started.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
-msgstr "[Liest méi op Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+msgstr "[Léigh tuilleadh ar Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
 
 #: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
 #: build-tools/host-tools.md:block 1 (header)
 msgid "Host tools on Wikimedia servers"
-msgstr ""
+msgstr "Uirlisí óstála ar fhreastalaithe Wikimedia"
 
 #: build-tools/host-tools.md:block 3 (header)
 msgid "Run scripts in your browser"
-msgstr ""
+msgstr "Rith scripteanna i do bhrabhsálaí"
 
 #: build-tools/host-tools.md:block 4 (paragraph)
 msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
-msgstr ""
+msgstr "Is clós súgartha saor in aisce, scamall-óstáilte é PAWS chun scripteanna agus léirshamhlú sonraí a bhaineann le tionscadail Wikimedia a chruthú. Logáil isteach le do chuntas Wikimedia agus cruthaigh leabhar nótaí chun tús a chur leis."
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[Tabhair cuairt ar PAWS](https://hub-paws.wmcloud.org/)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
-msgstr "[Liest méi op Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
+msgstr "[Léigh tuilleadh ar Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
 
 #: build-tools/host-tools.md:block 6 (header)
 msgid "Learn about cloud hosting for tools"
-msgstr ""
+msgstr "Foghlaim faoi óstáil scamall le haghaidh uirlisí"
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
-msgstr ""
+msgstr "Is timpeallacht óstála saor in aisce é Toolforge chun uirlisí a rith agus a bhainistiú. Trí uirlis a fhorbairt in Toolforge, is fusa rochtain a fháil ar ábhar agus sonraí Wikimedia agus d’uirlis a roinnt le daoine eile."
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
-msgstr "[Liest méi op Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+msgstr "[Léigh tuilleadh ar Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
 
 #: build-tools/search.md:meta.title build-tools/search.md:title
 #: build-tools/search.md:block 1 (header)
 msgid "Discover and share tools"
-msgstr ""
+msgstr "Faigh amach agus roinn uirlisí"
 
 #: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
 #: 12 (header)
@@ -385,24 +384,24 @@ msgstr ""
 #: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
 #: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
 msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
-msgstr ""
+msgstr "Is catalóg uirlisí é Toolhub a fhágann go bhfuil sé níos éasca tionscadail Wikimedia a chur in eagar agus a chothabháil. Bain úsáid as Toolhub chun uirlisí nua a aimsiú, ceangal le cothabhálaithe uirlisí, agus liostaí de do chuid uirlisí is fearr leat a roinnt."
 
 #: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
 #: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
 msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
-msgstr "[Gitt op Toolhub](https://toolhub.wikimedia.org/)"
+msgstr "[Tabhair cuairt ar Toolhub](https://toolhub.wikimedia.org/)"
 
 #: build-tools/search.md:block 6 (header)
 msgid "Share a tool"
-msgstr ""
+msgstr "Comhroinn uirlis"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
-msgstr ""
+msgstr "Cuir d’uirlis leis an gcatalóg Toolhub ionas gur féidir le daoine eile leas a bhaint as do chuid oibre agus cur leis. Logáil isteach chuig Toolhub le do chuntas Wikimedia chun tús a chur leis."
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
-msgstr ""
+msgstr "[Cuir uirlis le Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
 
 #: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
 #: build-tools/tutorials.md:block 1 (header)
@@ -410,455 +409,455 @@ msgstr ""
 #: use-content/tutorials.md:meta.title use-content/tutorials.md:title
 #: use-content/tutorials.md:block 1 (header)
 msgid "Learn with tutorials"
-msgstr ""
+msgstr "Foghlaim le ranganna teagaisc"
 
 #: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
 #: (header)
 msgid "Generate ideas for articles"
-msgstr ""
+msgstr "Gin smaointe le haghaidh ailt"
 
 #: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
 #: 13 (paragraph)
 msgid "Learn how to use the MediaWiki API to generate ideas for new Wikipedia articles. This tutorial uses Python and the Flask framework."
-msgstr ""
+msgstr "Foghlaim conas API MediaWiki a úsáid chun smaointe a ghiniúint le haghaidh ailt nua Vicipéide. Úsáideann an rang teagaisc seo Python agus creatlach Flask."
 
 #: build-tools/tutorials.md:block 8 (unordered list)
 #: use-content/tutorials.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
 
 #: build-tools/tutorials.md:block 9 (header)
 msgid "Write a bot that uses Wikidata"
-msgstr "E Bot schreiwen, dee Wikidata benotzt"
+msgstr "Scríobh bota a úsáideann Wikidata"
 
 #: build-tools/tutorials.md:block 10 (paragraph)
 msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
-msgstr ""
+msgstr "Bain úsáid as Python chun tacair mhóra sonraí ó Wikidata a láimhseáil agus sonraí a aistriú idir uirlisí i do shreabhadh oibre."
 
 #: build-tools/tutorials.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
-msgstr "[Liest méi op Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+msgstr "[Léigh tuilleadh ar Wikidata]( https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
 
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
 msgid "Display holidays from Wikipedia"
-msgstr ""
+msgstr "Taispeáin laethanta saoire ó Vicipéid"
 
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
-msgstr ""
+msgstr "Foghlaim conas API MediaWiki a úsáid chun laethanta saoire a fháil ó Vicipéid do dháta áirithe. Clúdaíonn an rang teagaisc seo freisin conas an API a úsáid chun logáil isteach i Vicipéid agus laethanta saoire nua a chur leis. Úsáideann an rang teagaisc seo Python agus creatlach Flask."
 
 #: build-tools/tutorials.md:block 14 (unordered list)
 #: use-content/tutorials.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
 
 #: build-tools/tutorials.md:block 15 (header)
 msgid "Add JavaScript or CSS to a wiki"
-msgstr ""
+msgstr "Cuir JavaScript nó CSS ​​le vicí"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr ""
+msgstr "Saincheap MediaWiki le JavaScript agus CSS taobh an chliaint. Roinn scripteanna úsáideora, agus déan iniúchadh ar ghléasanna atá cruthaithe ag daoine eile."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
 
 #: build-tools/tutorials.md:block 18 (header)
 msgid "Host a tool on Wikimedia cloud servers"
-msgstr ""
+msgstr "Uirlis a óstáil ar fhreastalaithe scamall Wikimedia"
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
-msgstr ""
+msgstr "Is timpeallacht óstála saor in aisce é Toolforge chun uirlisí a rith agus a bhainistiú. Tosaigh le Toolforge trí chuntas a chruthú agus seirbhís ghréasáin bhunúsach a chur ar bun."
 
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
-msgstr "[Liest méi op Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
+msgstr "[Léigh tuilleadh ar Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
-msgstr ""
+msgstr "[Iniúchadh a dhéanamh ar hackathons agus imeachtaí](events.md)"
 
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
 msgid "Browse content from past events, or join an upcoming event."
-msgstr ""
+msgstr "Brabhsáil ábhar ó imeachtaí san am atá thart, nó glac páirt in imeacht atá le teacht."
 
 #: community/index.md:block 4 (header)
 msgid "[Communicate with the tech community](communicate.md)"
-msgstr ""
+msgstr "[Cumarsáid a dhéanamh leis an bpobal teicneolaíochta](communicate.md)"
 
 #: community/index.md:block 5 (paragraph) community/communicate.md:block 2
 #: (paragraph)
 msgid "Understand communication channels and how to connect with Wikimedia developers."
-msgstr ""
+msgstr "Tuiscint a fháil ar bhealaí cumarsáide agus conas nascadh le forbróirí Wikimedia."
 
 #: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
-msgstr ""
+msgstr "[Foghlaim agus roinn scileanna teicniúla](grow.md)"
 
 #: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
-msgstr ""
+msgstr "Fás do scileanna, nó cabhraigh le daoine eile foghlaim trí cheardlanna, intéirneachtaí, agus deiseanna meantóireachta."
 
 #: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
-msgstr ""
+msgstr "[Faigh nuashonruithe ar thionscadail theicneolaíochta](updates.md)"
 
 #: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
 msgid "Stay up to date with the latest from the Wikimedia technical community."
-msgstr ""
+msgstr "Fan suas chun dáta leis an nuacht is déanaí ó phobal teicniúil Wikimedia."
 
 #: community/index.md:block 10 (header)
 msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
-msgstr ""
+msgstr "[Foghlaim faoi oibríochtaí teicniúla Wikimedia](tech-ops.md)"
 
 #: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
 #: (paragraph)
 msgid "Find information about the infrastructure and teams behind Wikimedia technology."
-msgstr ""
+msgstr "Faigh eolas faoin mbonneagar agus na foirne atá taobh thiar de theicneolaíocht Wikimedia."
 
 #: community/communicate.md:meta.title community/communicate.md:title
 #: community/communicate.md:block 1 (header)
 msgid "Communicate with the tech community"
-msgstr ""
+msgstr "Cumarsáid a dhéanamh leis an bpobal teicneolaíochta"
 
 #: community/communicate.md:block 3 (header) contribute/overview.md:block 3
 #: (header) get-started/new-dev.md:block 12 (header)
 msgid "Read the code of conduct"
-msgstr ""
+msgstr "Léigh an cód iompair"
 
 #: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
 #: (paragraph) get-started/new-dev.md:block 13 (paragraph)
 msgid "The code of conduct for Wikimedia technical spaces applies to both physical and virtual environments. Learn how to foster an open and welcoming community."
-msgstr ""
+msgstr "Baineann cód iompair spásanna teicniúla Wikimedia le timpeallachtaí fisiciúla agus fíorúla araon. Foghlaim conas pobal oscailte agus fáilteach a chothú."
 
 #: community/communicate.md:block 5 (unordered list)
 #: contribute/overview.md:block 5 (unordered list)
 #: get-started/new-dev.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
 
 #: community/communicate.md:block 6 (header) get-help/index.md:block 9
 #: (header)
 msgid "Communication channels"
-msgstr "Kommunikatiounskanäl"
+msgstr "Bealaí cumarsáide"
 
 #: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
 #: (paragraph)
 msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
-msgstr ""
+msgstr "Téigh i dteagmháil le forbróirí agus úsáideoirí MediaWiki chun tacaíocht a fháil agus eolas a roinnt."
 
 #: community/communicate.md:block 8 (unordered list) get-help/index.md:block
 #: 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
 
 #: community/communicate.md:block 9 (header)
 msgid "Find code maintainers and stewards"
-msgstr ""
+msgstr "Aimsigh cothabhálaithe agus maoir cóid"
 
 #: community/communicate.md:block 10 (paragraph)
 msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
-msgstr ""
+msgstr "Brabhsáil liosta na bhforbróirí agus na bhfoirne a chothaíonn comhpháirteanna lárnacha MediaWiki, síntí agus craicne tábhachtacha, leabharlanna, agus bonneagar teicniúil Wikimedia eile."
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
 
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
 msgid "Explore hackathons and events"
-msgstr ""
+msgstr "Iniúchadh a dhéanamh ar hackathons agus imeachtaí"
 
 #: community/events.md:block 3 (header)
 msgid "Hackathons"
-msgstr ""
+msgstr "Hackathons"
 
 #: community/events.md:block 4 (paragraph)
 msgid "A hackathon brings together people with different skills to work together on a common technical goal."
-msgstr ""
+msgstr "Tugann hackathon daoine a bhfuil scileanna éagsúla acu le chéile chun oibriú le chéile ar sprioc theicniúil choiteann."
 
 #: community/events.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
 
 #: community/events.md:block 6 (header)
 msgid "Wikidata events"
-msgstr "Wikidata-Evenementer"
+msgstr "Imeachtaí Wikidata"
 
 #: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
-msgstr ""
+msgstr "Brabhsáil cruinnithe d’eagarthóirí, d’athúsáideoirí sonraí agus do fhorbróirí Wikidata."
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
-msgstr "[Liest méi op Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+msgstr "[Léigh tuilleadh ar Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
 
 #: community/events.md:block 9 (header)
 msgid "Research events"
-msgstr ""
+msgstr "Imeachtaí taighde"
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
-msgstr ""
+msgstr "Glac páirt i bhfóraim agus i gcruinnithe d’eolaithe, d’innealtóirí agus do scoláirí atá ag fiosrú gach gné de thionscadail Wikimedia."
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
-msgstr "[Liest méi](https://research.wikimedia.org/events.html)"
+msgstr "[Léigh tuilleadh](https://research.wikimedia.org/events.html)"
 
 #: community/events.md:block 12 (header)
 msgid "MediaWiki developer events"
-msgstr ""
+msgstr "Imeachtaí forbróirí MediaWiki"
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
-msgstr ""
+msgstr "Glac páirt i gcruinnithe, i gcomhdhálacha, agus i seisiúin chódaithe a bhaineann le cód MediaWiki agus Wikimedia."
 
 #: community/events.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
 
 #: community/events.md:block 15 (header)
 msgid "Coolest Tool Award"
-msgstr ""
+msgstr "Gradam na hUirlise is Fuaire"
 
 #: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
-msgstr ""
+msgstr "Ceiliúrann an ócáid ​​bhliantúil seo ranníocaíochtaí forbróirí deonacha."
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
 
 #: community/events.md:block 18 (header)
 msgid "Language community meetings"
-msgstr ""
+msgstr "Cruinnithe pobail teanga"
 
 #: community/events.md:block 19 (paragraph)
 msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
-msgstr ""
+msgstr "Pléigh nuashonruithe agus dúshláin theicniúla a bhaineann leis an teanga le Vicímeolaithe ó phobail teanga éagsúla."
 
 #: community/events.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage\n/Wikimedia_Language_engineering/Community_meetings)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
 msgid "Learn and share technical skills"
-msgstr ""
+msgstr "Foghlaim agus roinn scileanna teicniúla"
 
 #: community/grow.md:block 3 (header)
 msgid "Outreach and mentoring programs"
-msgstr ""
+msgstr "Cláir for-rochtana agus meantóireachta"
 
 #: community/grow.md:block 4 (paragraph)
 msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
-msgstr ""
+msgstr "Forbair do scileanna trí intéirneachtaí agus cláir meantóireachta ar nós Outreachy agus Google Summer of Code."
 
 #: community/grow.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
 
 #: community/grow.md:block 6 (header) get-started/wikimedia-tech.md:block 6
 #: (header)
 msgid "Videos and tech talks"
-msgstr ""
+msgstr "Físeáin agus cainteanna teicneolaíochta"
 
 #: community/grow.md:block 7 (paragraph) get-started/wikimedia-tech.md:block 7
 #: (paragraph)
 msgid "Learn about Wikimedia technology through recorded presentations from the community."
-msgstr ""
+msgstr "Foghlaim faoi theicneolaíocht Wikimedia trí chur i láthair taifeadta ón bpobal."
 
 #: community/grow.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
 msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
-msgstr "[Gitt op de YouTube-Kanal](https://www.youtube.com/user/watchmediawiki/videos)"
+msgstr "[Tabhair cuairt ar an gcainéal YouTube](https://www.youtube.com/user/watchmediawiki/videos)"
 
 #: community/grow.md:block 9 (header)
 msgid "Tech ambassadors"
-msgstr ""
+msgstr "Ambasadóirí teicneolaíochta"
 
 #: community/grow.md:block 10 (paragraph)
 msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
-msgstr ""
+msgstr "Déan obair dheonach le do scileanna a chur ar fáil chun cabhrú le Vicíméadaithe fadhbanna teicniúla a réiteach agus forbróirí a nascadh le vicí áitiúla."
 
 #: community/grow.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki]( https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
 
 #: community/tech-ops.md:meta.title community/tech-ops.md:title
 msgid "Learn about Wikimedia technical operations"
-msgstr ""
+msgstr "Foghlaim faoi oibríochtaí teicniúla Wikimedia"
 
 #: community/tech-ops.md:block 1 (header)
 msgid "Wikimedia technical operations"
-msgstr ""
+msgstr "Oibríochtaí teicniúla Wikimedia"
 
 #: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
 #: 9 (header)
 msgid "Cloud tools and services"
-msgstr ""
+msgstr "Uirlisí agus seirbhísí scamall"
 
 #: community/tech-ops.md:block 4 (paragraph)
 #: get-started/wikimedia-tech.md:block 10 (paragraph)
 msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
-msgstr ""
+msgstr "Foghlaim faoi óstáil chomhroinnte, seirbhísí sonraí, agus tacaíocht bonneagair eile le haghaidh ranníocaíochtaí teicniúla do thionscadail Wikimedia."
 
 #: community/tech-ops.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
-msgstr "[Liest méi op Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+msgstr "[Léigh tuilleadh ar Wikitech]( https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
 
 #: community/tech-ops.md:block 6 (header)
 msgid "Performance monitoring"
-msgstr ""
+msgstr "Monatóireacht feidhmíochta"
 
 #: community/tech-ops.md:block 7 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
-msgstr ""
+msgstr "Déan monatóireacht ar fheidhmíocht reatha agus san am atá thart de shuíomhanna Wikimedia."
 
 #: community/tech-ops.md:block 8 (unordered list)
 msgid "[Read more](https://performance.wikimedia.org/)"
-msgstr "[Liest méi](https://performance.wikimedia.org/)"
+msgstr "[Léigh tuilleadh](https://performance.wikimedia.org/)"
 
 #: community/tech-ops.md:block 9 (header)
 msgid "Security policies"
-msgstr ""
+msgstr "Polasaithe slándála"
 
 #: community/tech-ops.md:block 10 (paragraph)
 msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
-msgstr ""
+msgstr "Léigh na beartais slándála don ardán MediaWiki agus don Wikimedia Foundation."
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
-msgstr ""
+msgstr "Imscaradh bogearraí"
 
 #: community/tech-ops.md:block 13 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
-msgstr ""
+msgstr "Rianú a dhéanamh ar imscaradh bogearraí chuig freastalaithe Fhondúireacht Wikimedia."
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
-msgstr "[Liest méi op Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
+msgstr "[Léigh tuilleadh ar Wikitech]( https://wikitech.wikimedia.org/wiki/Deployments )"
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
-msgstr ""
+msgstr "Bonneagar sonraí struchtúrtha"
 
 #: community/tech-ops.md:block 16 (paragraph)
 msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
-msgstr ""
+msgstr "Is bogearraí foinse oscailte é Wikibase le haghaidh bunachair eolais chomhoibríocha agus sonraí oscailte nasctha. Foghlaim faoi ailtireacht chórais na mbogearraí atá taobh thiar de Wikidata."
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
-msgstr "[Liest d'Dokumentatioun](https://wmde.github.io/wikidata-wikibase-architecture/)"
+msgstr "[Léigh na doiciméid]( https://wmde.github.io/wikidata-wikibase-architecture/)"
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
-msgstr "Technesch Infrastruktur"
+msgstr "Bonneagar teicniúil"
 
 #: community/tech-ops.md:block 19 (paragraph)
 msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
-msgstr ""
+msgstr "Foghlaim faoi bhonneagar riachtanach Wikimedia ar nós líonraí, ionaid sonraí, agus logáil, agus brabhsáil léaráidí ailtireachta."
 
 #: community/tech-ops.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
-msgstr "[Liest méi op Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+msgstr "[Léigh tuilleadh ar Wikitech]( https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Product and Technology Advisory Council"
-msgstr ""
+msgstr "Comhairle Chomhairleach Táirgí agus Teicneolaíochta"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about the Technology Council that advises on technical priorities for the Wikimedia movement."
-msgstr ""
+msgstr "Foghlaim faoin gComhairle Teicneolaíochta a thugann comhairle maidir le tosaíochtaí teicniúla do ghluaiseacht Wikimedia."
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
 msgid "Get tech project updates"
-msgstr ""
+msgstr "Faigh nuashonruithe ar thionscadail theicneolaíochta"
 
 #: community/updates.md:block 3 (header)
 msgid "Tech blog"
-msgstr ""
+msgstr "Blag teicneolaíochta"
 
 #: community/updates.md:block 4 (paragraph)
 msgid "Read blog posts from the Wikimedia technical community."
-msgstr ""
+msgstr "Léigh poist bhlag ó phobal teicniúil Wikimedia."
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr "[Gitt op den Tech-Blog](https://techblog.wikimedia.org/)"
+msgstr "[Tabhair cuairt ar an mblag teicneolaíochta](https://techblog.wikimedia.org/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Tech news"
-msgstr ""
+msgstr "Nuacht teicneolaíochta"
 
 #: community/updates.md:block 7 (paragraph)
 msgid "Get weekly summaries of technical topics for Wikimedians."
-msgstr ""
+msgstr "Faigh achoimrí seachtainiúla ar thopaicí teicniúla do Vicímiceoirí."
 
 #: community/updates.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
 
 #: contribute/index.md:meta.title contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
-msgstr ""
+msgstr "Cuir le foinse oscailte Wikimedia"
 
 #: contribute/index.md:block 2 (header)
 msgid "[Learn how contributing works](overview.md)"
-msgstr ""
+msgstr "[Foghlaim conas a oibríonn ranníocaíocht](overview.md)"
 
 #: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
 #: (paragraph)
 msgid "Get the basics of how to contribute to MediaWiki and other Wikimedia open source projects."
-msgstr ""
+msgstr "Faigh na bunghnéithe faoi conas cur le MediaWiki agus tionscadail foinse oscailte eile de chuid Wikimedia."
 
 #: contribute/index.md:block 4 (header)
 msgid "[Contribute by topic](by-topic.md)"
-msgstr ""
+msgstr "[Cuir leis de réir topaice](by-topic.md)"
 
 #: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
 #: (paragraph)
 msgid "Find ways to contribute, and connect with others with shared interests."
-msgstr ""
+msgstr "Aimsigh bealaí chun rannchuidiú, agus déan nasc le daoine eile a bhfuil leasanna comhroinnte acu."
 
 #: contribute/index.md:block 6 (header)
 msgid "[Contribute by programming language](by-language.md)"
-msgstr ""
+msgstr "[Cuir leis de réir teanga ríomhchlárúcháin](by-language.md)"
 
 #: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
 #: (paragraph)
 msgid "Choose a project to contribute to based on programming language."
-msgstr ""
+msgstr "Roghnaigh tionscadal le cur leis bunaithe ar theanga ríomhchlárúcháin."
 
 #: contribute/index.md:block 8 (header)
 msgid "[Search all projects](search.md)"
-msgstr ""
+msgstr "[Cuardaigh gach tionscadal](search.md)"
 
 #: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
 #: (paragraph)
 msgid "Search all Wikimedia open source software projects."
-msgstr ""
+msgstr "Cuardaigh gach tionscadal bogearraí foinse oscailte Wikimedia."
 
 #: contribute/by-language.md:meta.title contribute/by-language.md:title
 msgid "Contribute by programming language"
-msgstr ""
+msgstr "Rannchuidiú trí theanga ríomhchlárúcháin"
 
 #: contribute/by-language.md:block 2 (header)
 #, optional
@@ -872,15 +871,15 @@ msgstr ""
 
 #: contribute/by-language.md:block 7 (paragraph)
 msgid "Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata."
-msgstr ""
+msgstr "Is comhéadan líne ordaithe é Scribe-Data chun sonraí teanga a bhaint agus a fhormáidiú ó Wikidata."
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Contribute](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Cuir leis](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org/Scribe-Data)"
-msgstr ""
+msgstr "[Faigh an cód foinse](https://github.com/scribe-org/Scribe-Data)"
 
 #: contribute/by-language.md:block 9 (header)
 #, optional
@@ -894,39 +893,39 @@ msgstr ""
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
-msgstr ""
+msgstr "Is trealamh é Codex chun comhéadain úsáideora a thógáil laistigh de Chóras Dearaidh Wikimedia ag baint úsáide as Vue."
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
-msgstr ""
+msgstr "[Léigh na doiciméid](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
-msgstr ""
+msgstr "[Cuir leis](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
-msgstr ""
+msgstr "[Faigh an cód foinse](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "SignIt Firefox Extension"
-msgstr ""
+msgstr "Síneadh SignIt Firefox"
 
 #: contribute/by-language.md:block 14 (paragraph)
 msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
-msgstr ""
+msgstr "Síneadh brabhsálaí gréasáin a aistríonn focail go físeáin teanga chomharthaíochta, ionas gur féidir leat teanga chomharthaíochta a fhoghlaim agus tú ag léamh ar líne."
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr ""
+msgstr "[Léigh na doiciméid](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
-msgstr ""
+msgstr "[Cuir leis]( https://github.com/lingua-libre/SignIt/blob/master/README.md)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
-msgstr ""
+msgstr "[Faigh an cód foinse](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 16 (header)
 #, optional
@@ -935,19 +934,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 17 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
-msgstr ""
+msgstr "Uirlis chun físeáin a chur in eagar ar Wikimedia Commons, tógtha le React JS agus Node JS."
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Read the docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr "[Liest d'Dokumentatioun](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+msgstr "[Léigh na doiciméid](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Contribute](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
-msgstr "[Bäidroen](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
+msgstr "[Cuir leis]( https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
-msgstr "[Op de Quellcode zougräifen](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
+msgstr "[Faigh an cód foinse](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
 
 #: contribute/by-language.md:block 19 (header)
 #, optional
@@ -956,23 +955,23 @@ msgstr ""
 
 #: contribute/by-language.md:block 20 (header)
 msgid "Wikimedia Commons Android app"
-msgstr "Wikimedia-Commons-Android-App"
+msgstr "Aip Android Wikimedia Commons"
 
 #: contribute/by-language.md:block 21 (paragraph)
 msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
-msgstr ""
+msgstr "Ligeann aip Android Wikimedia Commons d’úsáideoirí pictiúir a uaslódáil óna ngléas chuig Wikimedia Commons."
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
-msgstr "[Liest d'Dokumentatioun](https://commons-app.github.io/)"
+msgstr "[Léigh na doiciméid](https://commons-app.github.io/)"
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
-msgstr ""
+msgstr "[Cuir leis](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
-msgstr ""
+msgstr "[Faigh an cód foinse](https://github.com/commons-app/apps-android-commons)"
 
 #: contribute/by-language.md:block 23 (header)
 #, optional
@@ -985,19 +984,19 @@ msgstr "Kiwix"
 
 #: contribute/by-language.md:block 25 (paragraph)
 msgid "An offline reader for people without internet access."
-msgstr ""
+msgstr "Léitheoir as líne do dhaoine gan rochtain idirlín."
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr ""
+msgstr "[Léigh na doiciméid](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
-msgstr "[Bäidroen](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
+msgstr "[Cuir leis](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
-msgstr ""
+msgstr "[Faigh an cód foinse](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 27 (header)
 #, optional
@@ -1006,19 +1005,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 28 (paragraph)
 msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
-msgstr ""
+msgstr "Méarchláir bunaithe ar Wikidata do fhoghlaimeoirí dara teanga, lena n-áirítear aistriúchán, réimniú briathartha agus anótáil ainmfhocail-inscne."
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[Faigh an cód foinse](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Cuir leis (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Cuir leis (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 30 (header)
 #, optional
@@ -1032,19 +1031,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 32 (paragraph)
 msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
-msgstr ""
+msgstr "Is uirlis bhonneagair é Blubber a chumraíonn coimeádáin Docker agus a thástálann cód mar chuid de phíblíne chomhtháthaithe leanúnaí Wikimedia."
 
 #: contribute/by-language.md:block 33 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
-msgstr ""
+msgstr "[Léigh na doiciméid](https://doc.wikimedia.org/releng/blubber/)"
 
 #: contribute/by-language.md:block 33 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
-msgstr ""
+msgstr "[Cuir leis](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
 
 #: contribute/by-language.md:block 33 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
-msgstr ""
+msgstr "[Faigh an cód foinse](https://gitlab.wikimedia.org/repos/releng/blubber/)"
 
 #: contribute/by-language.md:block 34 (header)
 #, optional
@@ -1060,50 +1059,50 @@ msgstr ""
 #: contribute/by-language.md:block 36 (paragraph) contribute/by-topic.md:block
 #: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
 msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
-msgstr ""
+msgstr "Is é MediaWiki an bogearra a chumhachtaíonn Vicipéid, a tionscadail deirfiúracha, agus na mílte vicí ar fud an domhain."
 
 #: contribute/by-language.md:block 37 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
-msgstr "[Gitt op mediawiki.org](https://www.mediawiki.org/)"
+msgstr "[Tabhair cuairt ar mediawiki.org]( https://www.mediawiki.org/)"
 
 #: contribute/by-language.md:block 37 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
-msgstr ""
+msgstr "[Cuir leis](https://www.mediawiki.org/wiki/Special:MyLanguage/Conas_a_bheith_i_d'hacálaí_MediaWiki)"
 
 #: contribute/by-language.md:block 37 (unordered list)
 #: contribute/by-topic.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 14 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
-msgstr ""
+msgstr "[Faigh an cód foinse]( https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
 
 #: contribute/by-language.md:block 38 (header)
 #, optional
 msgid "Ruby"
-msgstr "Ruby"
+msgstr ""
 
 #: contribute/by-language.md:block 39 (header)
 msgid "Wiki Education Dashboard"
-msgstr ""
+msgstr "Painéal Oideachais Vicí"
 
 #: contribute/by-language.md:block 40 (paragraph)
 msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
-msgstr ""
+msgstr "Is feidhmchlár gréasáin é Painéal Oideachais Vicí a thacaíonn le tascanna oideachais, comórtais eagarthóireachta, agus tionscadail eagarthóireachta eile Vicí, atá tógtha le Ruby on Rails agus React."
 
 #: contribute/by-language.md:block 41 (unordered list)
 msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
-msgstr "[Gitt op den Dashboard](https://dashboard.wikiedu.org)"
+msgstr "[Tabhair cuairt ar an deaischlár](https://dashboard.wikiedu.org)"
 
 #: contribute/by-language.md:block 41 (unordered list)
 msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Cuir leis](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 41 (unordered list)
 msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
-msgstr ""
+msgstr "[Faigh an cód foinse]( https://github.com/WikiEducationFoundation/WikiEduDashboard)"
 
 #: contribute/by-language.md:block 42 (header)
 #, optional
@@ -1117,673 +1116,672 @@ msgstr ""
 
 #: contribute/by-language.md:block 44 (paragraph)
 msgid "A framework for writing bots and tools in Rust."
-msgstr ""
+msgstr "Creatlach le haghaidh scríobh róbónna agus uirlisí i Rust."
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
-msgstr "[Liest d'Dokumentatioun](https://docs.rs/mwbot/latest/mwbot/)"
+msgstr "[Léigh na doiciméid](https://docs.rs/mwbot/latest/mwbot/)"
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
-msgstr ""
+msgstr "[Cuir leis](https://www.mediawiki.org/wiki/Mwbot-rs#Cuir leis)"
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
-msgstr ""
+msgstr "[Faigh an cód foinse](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 
 #: contribute/by-language.md:block 46 (header)
 #, optional
 msgid "Swift"
-msgstr "Swift"
+msgstr ""
 
 #: contribute/by-topic.md:meta.title contribute/by-topic.md:title
 #: contribute/by-topic.md:block 1 (header)
 msgid "Contribute by topic"
-msgstr ""
+msgstr "Cuir leis de réir topaice"
 
 #: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
 #: 15 (header)
 msgid "Localization and internationalization"
-msgstr ""
+msgstr "Logánú agus idirnáisiúnú"
 
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
-msgstr ""
+msgstr "Scríobh cód is féidir a logánú, faigh do chód aistrithe, agus cuir le teicneolaíocht Wikimedia a dhéanamh ilteangach."
 
 #: contribute/by-topic.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
 
 #: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
 #: 18 (header)
 msgid "Mobile apps"
-msgstr ""
+msgstr "Aipeanna soghluaiste"
 
 #: contribute/by-topic.md:block 10 (paragraph)
 #: get-started/wikimedia-tech.md:block 19 (paragraph)
 msgid "Expand the reach of Wikimedia content by contributing to mobile apps for Wikipedia, Wikimedia Commons, and other projects."
-msgstr ""
+msgstr "Leathnaigh raon ábhar Wikimedia trí rannchuidiú le haipeanna soghluaiste do Vicipéid, Wikimedia Commons, agus tionscadail eile."
 
 #: contribute/by-topic.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 20 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki]( https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
 
 #: contribute/by-topic.md:block 12 (header)
 msgid "Documentation"
-msgstr "Dokumentatioun"
+msgstr "Doiciméadú"
 
 #: contribute/by-topic.md:block 13 (paragraph)
 msgid "Read the documentation style guide, and find good first tasks for improving documentation."
-msgstr ""
+msgstr "Léigh an treoir stíle doiciméadachta, agus faigh tascanna maithe ar dtús chun doiciméadacht a fheabhsú."
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
-msgstr ""
+msgstr "Léamh as líne"
 
 #: contribute/by-topic.md:block 16 (paragraph)
 msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
-msgstr ""
+msgstr "Leathnaigh raon an eolais saor in aisce trí chabhrú le daoine Vicipéid a úsáid gan rochtain idirlín."
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
 
 #: contribute/by-topic.md:block 18 (header)
 msgid "Infrastructure"
-msgstr "Infrastruktur"
+msgstr "Bonneagar"
 
 #: contribute/by-topic.md:block 19 (paragraph)
 msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
-msgstr ""
+msgstr "Cuir leis an mbonneagar a chumhachtaíonn tionscadail Wikimedia. Cabhraigh le feidhmíocht agus éifeachtúlacht freastalaithe agus bogearraí Wikimedia a fheabhsú."
 
 #: contribute/by-topic.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
-msgstr "[Liest méi op Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
+msgstr "[Léigh tuilleadh ar Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
 
 #: contribute/overview.md:meta.title contribute/overview.md:title
 #: contribute/overview.md:block 1 (header)
 msgid "Learn how contributing works"
-msgstr ""
+msgstr "Foghlaim conas a oibríonn ranníocaíocht"
 
 #: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
 #: (header)
 msgid "Create a developer account"
-msgstr ""
+msgstr "Cruthaigh cuntas forbróra"
 
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
 msgid "Most Wikimedia technical spaces use a developer account to identify and authorize users. Create a free account to get started as a technical contributor."
-msgstr ""
+msgstr "Úsáideann formhór na spásanna teicniúla Wikimedia cuntas forbróra chun úsáideoirí a aithint agus a údarú. Cruthaigh cuntas saor in aisce chun tosú mar rannpháirtí teicniúil."
 
 #: contribute/overview.md:block 8 (unordered list)
 #: get-started/new-dev.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
 
 #: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
 #: (header)
 msgid "Find projects and tasks for new contributors"
-msgstr ""
+msgstr "Aimsigh tionscadail agus tascanna do rannpháirtithe nua"
 
 #: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
 #: (paragraph)
 msgid "Choose from open source projects that offer mentoring for new contributors, and find good first tasks."
-msgstr ""
+msgstr "Roghnaigh ó thionscadail foinse oscailte a chuireann meantóireacht ar fáil do rannpháirtithe nua, agus faigh tascanna maithe ar dtús."
 
 #: contribute/overview.md:block 11 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
 
 #: contribute/overview.md:block 12 (header)
 msgid "Review guidelines and code conventions"
-msgstr ""
+msgstr "Treoirlínte agus coinbhinsiúin chóid athbhreithnithe"
 
 #: contribute/overview.md:block 13 (paragraph)
 msgid "Understand development policies, best practices, and code conventions for Wikimedia software."
-msgstr ""
+msgstr "Tuiscint a fháil ar bheartais forbartha, ar na cleachtais is fearr, agus ar choinbhinsiúin chóid do bhogearraí Wikimedia."
 
 #: contribute/overview.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
 
 #: contribute/overview.md:block 15 (header)
 msgid "See your contributions"
-msgstr "Är Kontributioune weisen"
+msgstr "Féach ar do chuid ranníocaíochtaí"
 
 #: contribute/overview.md:block 16 (paragraph)
 msgid "Visualize your contributions across Wikimedia's code review and task tracking tools."
-msgstr ""
+msgstr "Déan do chuid ranníocaíochtaí a shamhlú ar fud uirlisí athbhreithnithe cóid agus rianaithe tascanna Wikimedia."
 
 #: contribute/overview.md:block 17 (unordered list)
 msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
-msgstr "[Gitt op Tech Contribs](https://techcontribs.toolforge.org/)"
+msgstr "[Tabhair cuairt ar Tech Contribs](https://techcontribs.toolforge.org/)"
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
 msgid "Search all projects"
-msgstr ""
+msgstr "Cuardaigh gach tionscadal"
 
 #: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
 msgid "Search codebases"
-msgstr ""
+msgstr "Cuardaigh bunchód"
 
 #: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
 #: (paragraph)
 msgid "Search all Wikimedia codebases using the code search tool."
-msgstr ""
+msgstr "Cuardaigh gach bunachar cód Wikimedia ag baint úsáide as an uirlis chuardaigh cóid."
 
 #: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
 #: (unordered list)
 msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
-msgstr "[Gitt op d'Quelltextsich](https://codesearch.wmcloud.org/search)"
+msgstr "[Tabhair cuairt ar chuardach cóid](https://codesearch.wmcloud.org/search)"
 
 #: contribute/search.md:block 6 (header)
 msgid "Browse Wikimedia open source docs"
-msgstr ""
+msgstr "Brabhsáil doiciméid foinse oscailte Wikimedia"
 
 #: contribute/search.md:block 7 (paragraph)
 msgid "Browse auto-generated and related documentation hosted on doc.wikimedia.org."
-msgstr ""
+msgstr "Brabhsáil doiciméid uathghinte agus doiciméid ghaolmhara atá á óstáil ar doc.wikimedia.org."
 
 #: contribute/search.md:block 8 (unordered list)
 msgid "[Browse docs](https://doc.wikimedia.org)"
-msgstr ""
+msgstr "[Brabhsáil na doiciméid](https://doc.wikimedia.org)"
 
 #: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
 #: 7 (header)
 msgid "Browse repositories"
-msgstr ""
+msgstr "Brabhsáil na stórtha"
 
 #: contribute/search.md:block 10 (paragraph)
 #: get-started/browse-languages.md:block 8 (paragraph)
 msgid "Explore Wikimedia codebases."
-msgstr ""
+msgstr "Iniúchadh a dhéanamh ar bhunachair chód Wikimedia."
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
-msgstr ""
+msgstr "[Brabhsáil taisclanna ar Gerrit](https://gerrit.wikimedia.org/g/)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
-msgstr ""
+msgstr "[Brabhsáil na stórtha ar GitHub](https://github.com/wikimedia)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
-msgstr ""
+msgstr "[Brabhsáil stórtha ar GitLab](https://gitlab.wikimedia.org/explore)"
 
 #: contribute/search.md:block 12 (header)
 msgid "Search tools and bots"
-msgstr ""
+msgstr "Uirlisí cuardaigh agus róbónna"
 
 #: get-help/index.md:block 2 (paragraph)
 msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
-msgstr ""
+msgstr "Ós rud é go bhfuil éiceachóras teicniúil Wikimedia casta agus dáilte, is féidir leat cabhair agus tacaíocht a fháil i mórán áiteanna agus formáidí éagsúla."
 
 #: get-help/index.md:block 3 (header)
 msgid "Search the docs"
-msgstr ""
+msgstr "Cuardaigh na doiciméid"
 
 #: get-help/index.md:block 4 (paragraph)
 msgid "Find technical information for Wikimedia projects."
-msgstr ""
+msgstr "Aimsigh faisnéis theicniúil le haghaidh tionscadail Wikimedia."
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Search across wikis](https://global-search.toolforge.org/)"
-msgstr ""
+msgstr "[Cuardaigh trasna vicí](https://global-search.toolforge.org/)"
 
 #: get-help/index.md:block 5 (unordered list)
 msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
-msgstr ""
+msgstr "[Brabhsáil doiciméid foinse oscailte Wikimedia](https://doc.wikimedia.org/)"
 
 #: get-help/index.md:block 12 (header)
 msgid "Check system status"
-msgstr ""
+msgstr "Seiceáil stádas an chórais"
 
 #: get-help/index.md:block 13 (paragraph)
 msgid "Verify the overall health and performance of the wiki environment, and find out about major outages."
-msgstr ""
+msgstr "Fíoraigh sláinte agus feidhmíocht fhoriomlán thimpeallacht an vicí, agus faigh amach faoi bhriseadh móra seirbhíse."
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
-msgstr "[Gitt op wikimediastatus.net](https://www.wikimediastatus.net/)"
+msgstr "[Tabhair cuairt ar wikimediastatus.net](https://www.wikimediastatus.net/)"
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
-msgstr ""
+msgstr "[Féach leaganacha MediaWiki a úsáideann vicí Wikimedia]( https://versions.toolforge.org/)"
 
 #: get-help/index.md:block 15 (header)
 msgid "Bugs and feature requests"
-msgstr ""
+msgstr "Fabhtanna agus iarratais ar ghnéithe"
 
 #: get-help/index.md:block 16 (paragraph)
 msgid "Report bugs and request new features in Wikimedia software."
-msgstr ""
+msgstr "Tuairiscigh fabhtanna agus iarr gnéithe nua i mbogearraí Wikimedia."
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
-msgstr ""
+msgstr "[Foghlaim conas fabht a thuairisciú](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_fag)"
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
-msgstr ""
+msgstr "[Tabhair cuairt ar rianaitheoir tascanna Wikimedia](https://phabricator.wikimedia.org)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
-msgstr ""
+msgstr "[Foghlaim faoi theicneolaíocht Wikimedia](wikimedia-tech.md)"
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
-msgstr ""
+msgstr "Déan iniúchadh ar na bogearraí foinse oscailte agus na comhpháirteanna teicniúla atá taobh thiar de thionscadail Wikimedia."
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
-msgstr ""
+msgstr "[Tuiscint a fháil ar an bpróiseas forbartha](new-dev.md)"
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
-msgstr ""
+msgstr "Foghlaim conas a oibríonn tionscadail bhogearraí Wikimedia agus conas ranníocaíochtaí teicniúla a dhéanamh."
 
 #: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
 #: (paragraph)
 msgid "Follow coding exercises with step-by-step guidance."
-msgstr ""
+msgstr "Lean cleachtaí códaithe le treoir céim ar chéim."
 
 #: get-started/index.md:block 7 (header)
 msgid "[Browse by programming language](browse-languages.md)"
-msgstr ""
+msgstr "[Brabhsáil de réir teanga ríomhchlárúcháin](browse-languages.md)"
 
 #: get-started/index.md:block 8 (paragraph)
 msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
-msgstr ""
+msgstr "Aimsigh leabharlanna cliant, aipeanna samplacha, agus tionscadail foinse oscailte i do theangacha códaithe is fearr leat."
 
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
 msgid "Browse by programming language"
-msgstr ""
+msgstr "Brabhsáil de réir teanga ríomhchlárúcháin"
 
 #: get-started/browse-languages.md:block 1 (header)
 msgid "API client libraries by language"
-msgstr ""
+msgstr "Leabharlanna cliant API de réir teanga"
 
 #: get-started/browse-languages.md:block 4 (header)
 msgid "Open source projects by language"
-msgstr "Open-Source-Projeten no Sprooch"
+msgstr "Tionscadail foinse oscailte de réir teanga"
 
 #: get-started/browse-languages.md:block 5 (paragraph)
 msgid "Find Wikimedia open source projects by programming language, and start contributing code."
-msgstr ""
+msgstr "Aimsigh tionscadail foinse oscailte Wikimedia de réir teanga ríomhchlárúcháin, agus tosaigh ag cur cód leis."
 
 #: get-started/browse-languages.md:block 6 (paragraph)
 msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
-msgstr ""
+msgstr "[Brabhsáil tionscadail](../contribute/by-language.md){ .md-button }"
 
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr ""
+msgstr "Tuig an próiseas forbartha"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
-msgstr ""
+msgstr "Foghlaim conas ranníocaíochtaí teicniúla a dhéanamh le tionscadail Wikimedia."
 
 #: get-started/new-dev.md:block 9 (header)
 msgid "Find tickets, and track projects"
-msgstr ""
+msgstr "Aimsigh ticéid, agus rianaigh tionscadail"
 
 #: get-started/new-dev.md:block 10 (paragraph)
 msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
-msgstr ""
+msgstr "Úsáideann Wikimedia Phabricator le haghaidh bainistíocht tascanna agus tuairisciú fabhtanna. Chun idirghníomhú le tascanna, cruthaigh cuntas Phabricator."
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
-msgstr "[Gitt op Phabricator](https://phabricator.wikimedia.org/)"
+msgstr "[Tabhair cuairt ar Phabricator](https://phabricator.wikimedia.org/)"
 
 #: get-started/new-dev.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
 
 #: get-started/new-dev.md:block 15 (header)
 msgid "Learn how to submit code"
-msgstr ""
+msgstr "Foghlaim conas cód a chur isteach"
 
 #: get-started/new-dev.md:block 16 (paragraph)
 msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
-msgstr ""
+msgstr "Úsáideann Wikimedia Gerrit agus GitLab le haghaidh athbhreithniú cóid. Sula gcuireann tú cód isteach, bíodh eolas agat ar na huirlisí, na próisis agus na dea-chleachtais."
 
 #: get-started/new-dev.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Léigh tuilleadh faoi Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
-msgstr ""
+msgstr "[Léigh tuilleadh faoi GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
-msgstr ""
+msgstr "Ranganna teagaisc maidir le húsáid ábhair agus sonraí"
 
 #: get-started/tutorials.md:block 3 (paragraph)
 msgid "Learn the basics of using Wikimedia content and data in your project."
-msgstr ""
+msgstr "Foghlaim bunghnéithe úsáid ábhar agus sonraí Wikimedia i do thionscadal."
 
 #: get-started/tutorials.md:block 4 (paragraph)
 msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
-msgstr ""
+msgstr "[Brabhsáil ranganna teagaisc](../use-content/tutorials.md){ .md-button }"
 
 #: get-started/tutorials.md:block 5 (header)
 msgid "Tutorials for building tools and bots"
-msgstr ""
+msgstr "Ranganna teagaisc chun uirlisí agus botanna a thógáil"
 
 #: get-started/tutorials.md:block 6 (paragraph)
 msgid "Learn the basics of writing code that interacts with Wikimedia projects."
-msgstr ""
+msgstr "Foghlaim bunghnéithe scríobh cóid a idirghníomhaíonn le tionscadail Wikimedia."
 
 #: get-started/tutorials.md:block 7 (paragraph)
 msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
-msgstr ""
+msgstr "[Brabhsáil ranganna teagaisc](../build-tools/tutorials.md){ .md-button }"
 
 #: get-started/wikimedia-tech.md:meta.title
 #: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
 #: (header)
 msgid "Learn about Wikimedia technology"
-msgstr ""
+msgstr "Foghlaim faoi theicneolaíocht Wikimedia"
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
-msgstr ""
+msgstr "Déan iniúchadh ar phríomhtheicneolaíocht Wikimedia agus ar thionscadail foinse oscailte."
 
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Introduction to Wikimedia technology"
-msgstr ""
+msgstr "Réamhrá ar theicneolaíocht Wikimedia"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn about the main technical areas where developers can contribute."
-msgstr ""
+msgstr "Foghlaim faoi na príomhréimsí teicniúla inar féidir le forbróirí cur leis."
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
-msgstr "Wikibase a Wikidata"
+msgstr "Wikibase agus Wikidata"
 
 #: get-started/wikimedia-tech.md:block 22 (paragraph)
 msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
-msgstr ""
+msgstr "Is síneadh MediaWiki é Wikibase le haghaidh oibriú le sonraí struchtúrtha, agus is é an bogearra a chumhachtaíonn Wikidata."
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Visit wikidata.org](https://www.wikidata.org/)"
-msgstr "[Gitt op wikidata.org](https://www.wikidata.org/)"
+msgstr "[Tabhair cuairt ar wikidata.org]( https://www.wikidata.org/)"
 
 #: get-started/wikimedia-tech.md:block 23 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
 
 #: use-content/index.md:block 2 (header)
 msgid "[Explore featured apps](featured-apps.md)"
-msgstr ""
+msgstr "[Iniúchadh a dhéanamh ar aipeanna le feiceáil](featured-apps.md)"
 
 #: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
 #: 2 (paragraph)
 msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
-msgstr ""
+msgstr "Féach samplaí d’aipeanna foinse oscailte agus d’amharcléirithe sonraí atá tógtha le hábhar agus sonraí Wikimedia."
 
 #: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
 #: (paragraph)
 msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
-msgstr ""
+msgstr "Lean treoracha céim ar chéim chun foghlaim faoi bhunús úsáid ábhar agus sonraí Wikimedia."
 
 #: use-content/index.md:block 6 (header)
 msgid "[Use wiki content](content.md)"
-msgstr ""
+msgstr "[Úsáid ábhar vicí](content.md)"
 
 #: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
 #: (paragraph)
 msgid "Find open source libraries, get started using the API, or download content in bulk."
-msgstr ""
+msgstr "Aimsigh leabharlanna foinse oscailte, tosaigh ag baint úsáide as an API, nó íoslódáil ábhar i mórchóir."
 
 #: use-content/index.md:block 8 (header)
 msgid "[Access open data](data.md)"
-msgstr ""
+msgstr "[Rochtain ar shonraí oscailte](data.md)"
 
 #: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
 #: (paragraph)
 msgid "Explore public data that you can use in research and machine learning."
-msgstr ""
+msgstr "Déan iniúchadh ar shonraí poiblí ar féidir leat a úsáid i dtaighde agus i bhfoghlaim meaisín."
 
 #: use-content/index.md:block 10 (header)
 msgid "[High-volume and commercial access](bot-traffic.md)"
-msgstr ""
+msgstr "[Rochtain ardtoirte agus tráchtála](bot-traffic.md)"
 
 #: use-content/index.md:block 11 (paragraph)
 msgid "Review policies and options for sustainable access to Wikimedia infrastructure."
-msgstr ""
+msgstr "Athbhreithniú a dhéanamh ar bheartais agus roghanna maidir le rochtain inbhuanaithe ar bhonneagar Wikimedia."
 
 #: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
 #: use-content/bot-traffic.md:block 1 (header)
 msgid "High-volume and commercial access"
-msgstr ""
+msgstr "Rochtain ardtoirte agus tráchtála"
 
 #: use-content/bot-traffic.md:block 2 (paragraph)
 msgid "High-volume, commercial, and bot access to Wikimedia infrastructure must comply with the following policies to avoid harming Wikipedia and other Wikimedia projects. To prevent your access from being restricted, ensure that you follow these policies."
-msgstr ""
+msgstr "Caithfidh rochtain ardtoirte, tráchtála agus bota ar bhonneagar Wikimedia cloí leis na beartais seo a leanas chun dochar a sheachaint do Vicipéid agus do thionscadail Wikimedia eile. Chun cosc ​​a chur ar do rochtain a bheith srianta, déan cinnte go leanann tú na beartais seo."
 
 #: use-content/bot-traffic.md:block 3 (header)
 msgid "Review the terms of use"
-msgstr ""
+msgstr "Athbhreithnigh na téarmaí úsáide"
 
 #: use-content/bot-traffic.md:block 4 (paragraph)
 msgid "Learn about the services that the Wikimedia Foundation provides and how you can comply with the terms of use."
-msgstr ""
+msgstr "Foghlaim faoi na seirbhísí a sholáthraíonn Fondúireacht Wikimedia agus conas is féidir leat cloí leis na téarmaí úsáide."
 
 #: use-content/bot-traffic.md:block 5 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
-msgstr ""
+msgstr "[Léigh tuilleadh ar Vicí Rialachais Fhondúireacht Wikimedia](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
 
 #: use-content/bot-traffic.md:block 6 (header)
 msgid "Review the API policy"
-msgstr ""
+msgstr "Athbhreithnigh an polasaí API"
 
 #: use-content/bot-traffic.md:block 7 (paragraph)
 msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
-msgstr ""
+msgstr "Foghlaim conas APIanna Wikimedia a úsáid go freagrach agus srianta rochtana a sheachaint."
 
 #: use-content/bot-traffic.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
-msgstr ""
+msgstr "[Léigh tuilleadh ar Vicí Rialachais Fhondúireacht Wikimedia](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
 
 #: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
 #: (header)
 msgid "Get services for enterprise"
-msgstr ""
+msgstr "Faigh seirbhísí do ghnólachtaí"
 
 #: use-content/bot-traffic.md:block 10 (paragraph)
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
-msgstr ""
+msgstr "Cuireann Wikimedia Enterprise sraith APIanna agus seirbhísí ar fáil atá deartha le haghaidh rochtain tráchtála ardtoirte ar ábhar agus sonraí Wikimedia."
 
 #: use-content/bot-traffic.md:block 11 (unordered list)
 #: use-content/content.md:block 20 (unordered list)
 msgid "[Read more on Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
-msgstr "[Liest méi](https://enterprise.wikimedia.com)"
+msgstr "[Léigh tuilleadh ar Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
 
 #: use-content/bot-traffic.md:block 12 (header)
 msgid "Partner with us"
-msgstr ""
+msgstr "Comhpháirtíocht linn"
 
 #: use-content/bot-traffic.md:block 13 (paragraph)
 msgid "Contact the Wikimedia Foundation to explore options for technical partnerships."
-msgstr ""
+msgstr "Téigh i dteagmháil le Fondúireacht Wikimedia chun roghanna maidir le comhpháirtíochtaí teicniúla a iniúchadh."
 
 #: use-content/bot-traffic.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
-msgstr ""
+msgstr "[Léigh tuilleadh ar Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
 
 #: use-content/bot-traffic.md:block 16 (paragraph)
 msgid "Ask questions about bot traffic and high-volume access."
-msgstr ""
+msgstr "Cuir ceisteanna faoi thrácht bot agus rochtain ardtoirte."
 
 #: use-content/bot-traffic.md:block 17 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
-msgstr ""
+msgstr "[Léigh tuilleadh ar Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
 
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
 msgid "Use wiki content"
-msgstr ""
+msgstr "Úsáid ábhar vicí"
 
 #: use-content/content.md:block 3 (header)
 msgid "Introduction to Wikimedia projects"
-msgstr ""
+msgstr "Réamhrá do thionscadail Wikimedia"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
-msgstr ""
+msgstr "Eagraítear ábhar Wikimedia de réir tionscadail agus teanga. Bíonn cineál difriúil ábhair shaor in aisce i ngach tionscadal, amhail ailt chiclipéide ar Vicipéid, comhaid meán ar Wikimedia Commons, agus sonraí struchtúrtha ar Wikidata."
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki]( https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
 
 #: use-content/content.md:block 6 (header)
 msgid "Review the terms and conditions"
-msgstr ""
+msgstr "Athbhreithnigh na téarmaí agus coinníollacha"
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
-msgstr ""
+msgstr "Tá ceadúnas Creative Commons ag formhór ábhar Wikimedia a cheadaíonn athúsáid saor in aisce le haitheantas. Is féidir leat bun aon leathanaigh vicí a sheiceáil chun an ceadúnas is infheidhme a fháil."
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
-msgstr ""
+msgstr "[Léigh tuilleadh ar Vicí Rialachais Fhondúireacht Wikimedia](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
 
 #: use-content/data.md:meta.title use-content/data.md:title
 #: use-content/data.md:block 1 (header)
 msgid "Access open data"
-msgstr ""
+msgstr "Rochtain ar shonraí oscailte"
 
 #: use-content/data.md:block 3 (header)
 msgid "Use Wikimedia open data"
-msgstr ""
+msgstr "Úsáid sonraí oscailte Wikimedia"
 
 #: use-content/data.md:block 4 (paragraph)
 msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
-msgstr ""
+msgstr "Rochtain a fháil ar shonraí atá ar fáil go poiblí agus faoi cheadúnas oscailte faoi thionscadail Wikimedia, lena n-áirítear íoslódálacha mórchóir, sruthanna athruithe le déanaí, agus staitisticí leathanaigh."
 
 #: use-content/data.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
-msgstr "[Liest méi op Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+msgstr "[Léigh tuilleadh ar Meta-Wiki]( https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
 
 #: use-content/data.md:block 6 (header)
 msgid "Explore structured data with Wikidata"
-msgstr ""
+msgstr "Iniúchadh a dhéanamh ar shonraí struchtúrtha le Wikidata"
 
 #: use-content/data.md:block 7 (paragraph)
 msgid "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Learn how to access data from Wikidata, and follow best practices for reusing it."
-msgstr ""
+msgstr "Is bunachar eolais saor in aisce agus oscailte é Wikidata ar féidir le daoine agus le meaisíní araon é a léamh agus a chur in eagar. Foghlaim conas rochtain a fháil ar shonraí ó Wikidata, agus lean na cleachtais is fearr chun iad a athúsáid."
 
 #: use-content/data.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr "[Liest méi op Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgstr "[Léigh tuilleadh ar Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
 msgid "Explore featured apps"
-msgstr ""
+msgstr "Iniúchadh aipeanna le feiceáil"
 
 #: use-content/featured-apps.md:block 3 (header)
 msgid "App gallery"
-msgstr ""
+msgstr "Gailearaí aipeanna"
 
 #: use-content/featured-apps.md:block 4 (paragraph)
 msgid "Browse example apps that demonstrate best practices for using Wikimedia APIs, including fetching wiki content, logging in, and editing pages."
-msgstr ""
+msgstr "Brabhsáil samplaí d’aipeanna a léiríonn dea-chleachtais maidir le húsáid APIanna Wikimedia, lena n-áirítear ábhar vicí a fháil, logáil isteach agus leathanaigh a chur in eagar."
 
 #: use-content/featured-apps.md:block 5 (unordered list)
 msgid "[Visit the gallery](https://apps-gallery.toolforge.org)"
-msgstr "[Gitt op d'Galerie](https://apps-gallery.toolforge.org)"
+msgstr "[Tabhair cuairt ar an ngailearaí](https://apps-gallery.toolforge.org)"
 
 #: use-content/featured-apps.md:block 6 (header)
 msgid "Wikipedia visualizations"
-msgstr ""
+msgstr "Amharcléirithe Vicipéid"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
-msgstr ""
+msgstr "Is gailearaí d’aipeanna é “Féach freisin” a léiríonn sonraí ó Vicipéid. Féach ar an ngailearaí chun inspioráid a fháil agus foghlaim faoi shonraí agus APIanna atá ar fáil."
 
 #: use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"
-msgstr "[Gitt op d'Galerie](https://seealso.org/)"
+msgstr "[Tabhair cuairt ar an ngailearaí](https://seeelso.org/)"
 
 #: use-content/featured-apps.md:block 9 (header)
 msgid "Wikidata visualizations"
-msgstr "Wikidata-Visualiséierungen"
+msgstr "Amharcléirithe Wikidata"
 
 #: use-content/featured-apps.md:block 10 (paragraph)
 msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
-msgstr ""
+msgstr "Is bunachar eolais inléite ag meaisín é Wikidata ina bhfuil na milliúin míreanna. Brabhsáil an liosta seo d’amharcléirithe chun inspioráid a fháil agus samplaí foinse oscailte a fheiceáil ar conas Wikidata a athúsáid."
 
 #: use-content/featured-apps.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
-msgstr "[Liest méi op Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+msgstr "[Léigh tuilleadh ar Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
 
 #: use-content/tutorials.md:block 6 (header)
 msgid "Display information from Wikidata"
-msgstr "Informatiounen vu Wikidata uweisen"
+msgstr "Taispeáin faisnéis ó Wikidata"
 
 #: use-content/tutorials.md:block 7 (paragraph)
 msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
-msgstr ""
+msgstr "Bain úsáid as API MediaWiki chun faisnéis a fháil agus a thaispeáint ó Wikidata. Foghlaim conas a bhaineann ailt Vicipéid le Wikidata agus conas struchtúir Wikidata a pharsáil."
 
 #: use-content/tutorials.md:block 8 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
 
 #: use-content/tutorials.md:block 9 (header)
 msgid "Display the picture of the day"
-msgstr ""
+msgstr "Taispeáin pictiúr an lae"
 
 #: use-content/tutorials.md:block 10 (paragraph)
 msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
-msgstr ""
+msgstr "Foghlaim conas API MediaWiki a úsáid chun an pictiúr laethúil a fháil ó Vicipéid. Úsáideann an rang teagaisc seo Python agus creatlach Flask."
 
 #: use-content/tutorials.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+msgstr "[Léigh tuilleadh ar mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Pictiúr_an_lae_amharcóir)"
 
 #: use-content/tutorials.md:block 15 (header)
 msgid "Get started querying Wikidata"
-msgstr ""
+msgstr "Tosaigh ag fiosrú Wikidata"
 
 #: use-content/tutorials.md:block 16 (paragraph)
 msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
-msgstr ""
+msgstr "Foghlaim conas fiosrúcháin a dhéanamh ar Wikidata le SPARQL. Clúdaíonn an rang teagaisc seo bunghnéithe Wikidata agus conas Seirbhís Fiosrúcháin Wikidata a úsáid."
 
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr "[Liest méi](https://wdqs-tutorial.toolforge.org)"
+msgstr "[Léigh tuilleadh](https://wdqs-tutorial.toolforge.org)"
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
-msgstr "Artikelen no Plaz sichen"
+msgstr "Cuardaigh ailt de réir suímh"
 
 #: use-content/tutorials.md:block 19 (paragraph)
 msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
-msgstr ""
+msgstr "Foghlaim conas API MediaWiki a úsáid chun ailt Vicipéide a chuardach in aice le suíomh ar leith. Úsáideann an rang teagaisc seo JavaScript, Python, agus creatlach Flask."
 
 #: use-content/tutorials.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
-msgstr "[Liest méi op mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+msgstr "[Léigh tuilleadh ar mediawiki.org]( https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
 
