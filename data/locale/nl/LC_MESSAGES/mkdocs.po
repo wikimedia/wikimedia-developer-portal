@@ -5,6 +5,7 @@
 # Author: HanV
 # Author: Mainframe98
 # Author: McDutchie
+# Author: Siebrand
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -26,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-03-16 12:24:04+0000\n"
+"PO-Revision-Date: 2026-04-09 12:24:01+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -404,7 +405,7 @@ msgstr "Voeg uw tool toe aan de Toolhub-catalogus zodat anderen ook baat bij uw 
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
-msgstr ""
+msgstr "[Voeg een hulpmiddel toe aan Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
 
 #: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
 #: build-tools/tutorials.md:block 1 (header)
@@ -435,7 +436,7 @@ msgstr "Een robot bouwen die Wikidata gebruikt"
 
 #: build-tools/tutorials.md:block 10 (paragraph)
 msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
-msgstr ""
+msgstr "Gebruik Python om grote datasets van Wikidata te verwerken en gegevens tussen tools in uw workflow over te dragen."
 
 #: build-tools/tutorials.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
@@ -462,7 +463,7 @@ msgstr "JavaScript of CSS aan een wiki toevoegen"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr ""
+msgstr "Personaliseer MediaWiki met client-side JavaScript en CSS. Deel gebruikersscripts en ontdek gadgets die anderen hebben gemaakt."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -474,7 +475,7 @@ msgstr "Een hulpprogramma onderbrengen bij de Wikimedia Cloud-servers"
 
 #: build-tools/tutorials.md:block 19 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
-msgstr ""
+msgstr "Toolforge is een gratis hostingomgeving voor het uitvoeren en beheren van hulpmiddelen. Begin direct met Toolforge door een account aan te maken en een eenvoudige webservice in te stellen."
 
 #: build-tools/tutorials.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
@@ -482,39 +483,39 @@ msgstr "[Lees meer op Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolfor
 
 #: community/index.md:block 2 (header)
 msgid "[Explore hackathons and events](events.md)"
-msgstr ""
+msgstr "[Ontdek hackathons en evenementen](events.md)"
 
 #: community/index.md:block 3 (paragraph) community/events.md:block 2
 #: (paragraph)
 msgid "Browse content from past events, or join an upcoming event."
-msgstr ""
+msgstr "Bekijk de inhoud van eerdere evenementen of neem deel aan een aankomend evenement."
 
 #: community/index.md:block 4 (header)
 msgid "[Communicate with the tech community](communicate.md)"
-msgstr ""
+msgstr "[Communiceer met de techgemeenschap](communicate.md)"
 
 #: community/index.md:block 5 (paragraph) community/communicate.md:block 2
 #: (paragraph)
 msgid "Understand communication channels and how to connect with Wikimedia developers."
-msgstr ""
+msgstr "Begrijp de communicatiekanalen en hoe u contact kunt leggen met Wikimedia-ontwikkelaars."
 
 #: community/index.md:block 6 (header)
 msgid "[Learn and share technical skills](grow.md)"
-msgstr ""
+msgstr "[Leer en deel technische vaardigheden](grow.md)"
 
 #: community/index.md:block 7 (paragraph) community/grow.md:block 2
 #: (paragraph)
 msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
-msgstr ""
+msgstr "Ontwikkel uw vaardigheden of help anderen te leren via workshops, stages en mentorprogramma's."
 
 #: community/index.md:block 8 (header)
 msgid "[Get tech project updates](updates.md)"
-msgstr ""
+msgstr "[Ontvang updates over technische projecten](updates.md)"
 
 #: community/index.md:block 9 (paragraph) community/updates.md:block 2
 #: (paragraph)
 msgid "Stay up to date with the latest from the Wikimedia technical community."
-msgstr ""
+msgstr "Blijf op de hoogte van het laatste nieuws van de technische Wikimedia-gemeenschap."
 
 #: community/index.md:block 10 (header)
 msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
