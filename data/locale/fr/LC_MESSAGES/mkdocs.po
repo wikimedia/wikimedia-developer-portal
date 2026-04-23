@@ -8,6 +8,7 @@
 # Author: I'm mender
 # Author: Mahabarata
 # Author: Méthodes Bulebe Hangi
+# Author: Pa2chant.bis
 # Author: Terio legale
 # Author: Verdy p
 # Author: Wladek92
@@ -32,7 +33,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-03-16 12:24:03+0000\n"
+"PO-Revision-Date: 2026-04-23 12:25:30+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -785,15 +786,15 @@ msgstr "[Lire davantage sur Wikitech](https://wikitech.wikimedia.org/wiki/Wikime
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Product and Technology Advisory Council"
-msgstr ""
+msgstr "Conseil consultatif sur les produits et les technologies"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about the Technology Council that advises on technical priorities for the Wikimedia movement."
-msgstr ""
+msgstr "Découvrez le Conseil technologique qui donne des avis sur les priorités techniques du mouvement Wikimedia."
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
-msgstr ""
+msgstr "[En savoir plus sur Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
@@ -947,15 +948,15 @@ msgstr "Un outil pour modifier des vidéos sur Wikimedia Commons, construit avec
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Read the docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr ""
+msgstr "[Consultez la documentation](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Contribute](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
-msgstr ""
+msgstr "[Contribuer](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
-msgstr ""
+msgstr "[Obtenir le code source](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
 
 #: contribute/by-language.md:block 19 (header)
 #, optional
@@ -1001,7 +1002,7 @@ msgstr "[Lire la documentation](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Contribuer](https://github.com/kiwix/overview/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
@@ -1189,7 +1190,7 @@ msgstr "Lisez le guide de mise en forme de la documentation et trouvez de bonnes
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
-msgstr ""
+msgstr "[Lire davantage sur MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
