@@ -5,6 +5,7 @@
 # Author: Kaganer
 # Author: Okras
 # Author: Pacha Tchernof
+# Author: Shabe
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
 # All Rights Reserved.
@@ -26,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-03-16 12:24:05+0000\n"
+"PO-Revision-Date: 2026-04-27 12:27:57+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -400,7 +401,7 @@ msgstr "Поделиться инструментом"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
-msgstr "Добавьте свой инструмент в каталог Toolhub, чтобы другие могли извлечь пользу из вашей работы и развить её. Чтобы начать работу, войдите в Toolhub под своей учетной записью Викимедиа."
+msgstr "Добавьте свой инструмент в каталог Toolhub, чтобы другие могли извлечь пользу из вашей работы и развить её. Чтобы начать работу, войдите в Toolhub под своей учётной записью Викимедиа."
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
