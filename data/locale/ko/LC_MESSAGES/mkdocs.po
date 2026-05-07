@@ -4,6 +4,7 @@
 # Author: Dr1t jg
 # Author: Ellif
 # Author: Suleiman the Magnificent Television
+# Author: Tensama0415
 # Author: Ykhwong
 # --
 # Copyright (c) 2022 Wikimedia Foundation and contributors.
@@ -26,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-03-16 12:24:04+0000\n"
+"PO-Revision-Date: 2026-05-07 12:20:30+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -113,9 +114,8 @@ msgid "Find technical documentation, and connect with the developer community be
 msgstr ""
 
 #: index.md:block 2 (paragraph)
-#, fuzzy
 msgid "[Get started](get-started/){ .md-button }"
-msgstr "[시작하기](get-started/){ .md-button .md-button--primary }"
+msgstr "[시작하기](get-started/){ .md-button }"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
@@ -1266,9 +1266,8 @@ msgid "Visualize your contributions across Wikimedia's code review and task trac
 msgstr ""
 
 #: contribute/overview.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
-msgstr "[WikiContrib 방문](https://wikicontrib.toolforge.org/)"
+msgstr "[Tech Contribs 방문](https://techcontribs.toolforge.org/)"
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
@@ -1466,9 +1465,8 @@ msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code,
 msgstr ""
 
 #: get-started/new-dev.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[mediawiki.org에서 더 읽기](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Gerrit에 대해 더 읽기](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
