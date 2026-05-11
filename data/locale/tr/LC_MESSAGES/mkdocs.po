@@ -26,7 +26,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-03-16 12:24:06+0000\n"
+"PO-Revision-Date: 2026-05-11 12:22:46+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -67,7 +67,7 @@ msgstr "Kod: GPL-3.0 veya üstü"
 
 #: mkdocs.yml:extra.footer_links.3
 msgid "Content: CC-BY-SA-4.0"
-msgstr ""
+msgstr "İçerik: CC-BY-SA-4.0"
 
 #: mkdocs.yml:extra.footer_links.4
 msgid "About"
@@ -263,7 +263,7 @@ msgstr "MediaWiki API, herhangi bir Wikimedia vikisindeki içeriğe programlı e
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
-msgstr ""
+msgstr "[mediawiki.org'da daha fazlasını okuyun](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
 
 #: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
 #: 14 (unordered list)
@@ -355,7 +355,7 @@ msgstr "PAWS; Wikimedia projeleriyle ilgili komut dosyaları ve veri görselleş
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr ""
+msgstr "[PAWS'ı ziyaret et](https://hub.paws.wmcloud.org/hub/login)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
@@ -878,11 +878,11 @@ msgstr ""
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Contribute](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Katkıda bulun](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org/Scribe-Data)"
-msgstr ""
+msgstr "[Kaynak koduna erişin](https://github.com/scribe-org/Scribe-Data)"
 
 #: contribute/by-language.md:block 9 (header)
 #, optional
@@ -900,11 +900,11 @@ msgstr "Codex, Vue.js kullanarak Wikimedia Tasarım Sistemi içinde kullanıcı 
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
-msgstr ""
+msgstr "[Dokümanları okuyun](https://doc.wikimedia.org/codex/latest)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
-msgstr ""
+msgstr "[Katkıda bulun](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
@@ -920,15 +920,15 @@ msgstr ""
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr ""
+msgstr "[Dokümanları okuyun](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
-msgstr ""
+msgstr "[Katkıda bulun](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
-msgstr ""
+msgstr "[Kaynak koduna erişin](https://github.com/lingua-libre/SignIt)"
 
 #: contribute/by-language.md:block 16 (header)
 #, optional
@@ -937,19 +937,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 17 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
-msgstr ""
+msgstr "Wikimedia Commons'taki videoları düzenlemek için bir araç. React JS ve Node JS ile oluşturuldu."
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Read the docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
-msgstr ""
+msgstr "[Dokümanları okuyun](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Contribute](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
-msgstr ""
+msgstr "[Katkıda bulun](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
-msgstr ""
+msgstr "[Kaynak koduna erişin](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
 
 #: contribute/by-language.md:block 19 (header)
 #, optional
@@ -983,23 +983,23 @@ msgstr ""
 
 #: contribute/by-language.md:block 24 (header)
 msgid "Kiwix"
-msgstr ""
+msgstr "Kiwix"
 
 #: contribute/by-language.md:block 25 (paragraph)
 msgid "An offline reader for people without internet access."
-msgstr ""
+msgstr "İnternet erişimi olmayan insanlar için çevrimdışı okuyucu."
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr ""
+msgstr "[Dokümanları okuyun](https://www.kiwix.org/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Katkıda bulun](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Get the source code](https://github.com/kiwix/)"
-msgstr ""
+msgstr "[Kaynak koduna erişin](https://github.com/kiwix/)"
 
 #: contribute/by-language.md:block 27 (header)
 #, optional
@@ -1012,15 +1012,15 @@ msgstr ""
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
-msgstr ""
+msgstr "[Kaynak koduna erişin](https://github.com/scribe-org)"
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Katkıda bulun (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
-msgstr ""
+msgstr "[Katkıda bulun (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 30 (header)
 #, optional
@@ -1038,15 +1038,15 @@ msgstr "Blubber, Wikimedia'nın sürekli entegrasyon hattının bir parçası ol
 
 #: contribute/by-language.md:block 33 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
-msgstr ""
+msgstr "[Dokümanları okuyun](https://doc.wikimedia.org/releng/blubber/)"
 
 #: contribute/by-language.md:block 33 (unordered list)
 msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
-msgstr ""
+msgstr "[Katkıda bulun](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
 
 #: contribute/by-language.md:block 33 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
-msgstr ""
+msgstr "[Kaynak koduna erişin](https://gitlab.wikimedia.org/repos/releng/blubber/)"
 
 #: contribute/by-language.md:block 34 (header)
 #, optional
@@ -1119,19 +1119,19 @@ msgstr ""
 
 #: contribute/by-language.md:block 44 (paragraph)
 msgid "A framework for writing bots and tools in Rust."
-msgstr ""
+msgstr "Rust ile bot ve araç yazmak için bir framework."
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
-msgstr ""
+msgstr "[Dokümanları okuyun](https://docs.rs/mwbot/latest/mwbot/)"
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
-msgstr ""
+msgstr "[Katkıda bulun](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
-msgstr ""
+msgstr "[Kaynak koduna erişin](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
 
 #: contribute/by-language.md:block 46 (header)
 #, optional
@@ -1596,7 +1596,7 @@ msgstr ""
 
 #: use-content/bot-traffic.md:block 6 (header)
 msgid "Review the API policy"
-msgstr ""
+msgstr "API politikasını gözden geçirin"
 
 #: use-content/bot-traffic.md:block 7 (paragraph)
 msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
@@ -1604,7 +1604,7 @@ msgstr ""
 
 #: use-content/bot-traffic.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
-msgstr ""
+msgstr "[Wikimedia Vakfı Yönetim Vikisinde daha fazla bilgi edinin] (https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
 
 #: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
 #: (header)
@@ -1623,15 +1623,15 @@ msgstr "[Daha fazlasını okuyun](https://enterprise.wikimedia.com)"
 
 #: use-content/bot-traffic.md:block 12 (header)
 msgid "Partner with us"
-msgstr ""
+msgstr "Bizimle ortak olun"
 
 #: use-content/bot-traffic.md:block 13 (paragraph)
 msgid "Contact the Wikimedia Foundation to explore options for technical partnerships."
-msgstr ""
+msgstr "Teknoloji ortaklık seçeneklerini araştırmak için Wikimedia Vakfı ile iletişime geçin."
 
 #: use-content/bot-traffic.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
-msgstr ""
+msgstr "[Wikitech'te daha fazlasını okuyun](https://wikitech.wikimedia.org/wiki/Deployments)"
 
 #: use-content/bot-traffic.md:block 16 (paragraph)
 msgid "Ask questions about bot traffic and high-volume access."
