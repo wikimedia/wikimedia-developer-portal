@@ -27,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-18 12:51:17+0000\n"
+"PO-Revision-Date: 2026-05-21 12:17:28+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1303,7 +1303,7 @@ msgstr "[Bekijk de documentatie](https://doc.wikimedia.org)"
 #: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
 #: 7 (header)
 msgid "Browse repositories"
-msgstr "Repositories bekijken"
+msgstr "Repository's bekijken"
 
 #: contribute/search.md:block 10 (paragraph)
 #: get-started/browse-languages.md:block 8 (paragraph)
@@ -1313,17 +1313,17 @@ msgstr "Verken de code van Wikimedia."
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
-msgstr "[Bekijk repositories op Gerrit](https://gerrit.wikimedia.org/g/)"
+msgstr "[Bekijk repository's op Gerrit](https://gerrit.wikimedia.org/g/)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
-msgstr "[Bekijk repositories op GitHub](https://github.com/wikimedia)"
+msgstr "[Bekijk repository's op GitHub](https://github.com/wikimedia)"
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
 msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
-msgstr "[Bekijk repositories op GitLab](https://gitlab.wikimedia.org/explore)"
+msgstr "[Bekijk repository's op GitLab](https://gitlab.wikimedia.org/explore)"
 
 #: contribute/search.md:block 12 (header)
 msgid "Search tools and bots"
