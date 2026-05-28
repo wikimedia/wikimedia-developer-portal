@@ -27,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-25 12:21:22+0000\n"
+"PO-Revision-Date: 2026-05-28 12:19:03+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -107,7 +107,7 @@ msgstr "도움 얻기"
 
 #: index.md:meta.title index.md:title
 msgid "Discover and build Wikimedia technology"
-msgstr ""
+msgstr "위키미디어 기술을 발견하고 구축"
 
 #: index.md:block 1 (paragraph)
 msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
@@ -292,7 +292,7 @@ msgstr "위키 데이터베이스 검색"
 
 #: build-tools/apis.md:block 16 (paragraph)
 msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
-msgstr ""
+msgstr "Wiki Replicas는 위키미디어 프로덕션 사이트를 지원하는 데이터베이스의 익명화된 버전입니다. SQL 쿼리를 실행하고 공유하려면 Quarry를 사용하세요."
 
 #: build-tools/apis.md:block 17 (unordered list)
 msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
@@ -564,11 +564,11 @@ msgstr "[mediawiki.org에서 더 읽기](https://www.mediawiki.org/wiki/Special:
 
 #: community/communicate.md:block 9 (header)
 msgid "Find code maintainers and stewards"
-msgstr ""
+msgstr "코드 관리자 및 사무장을 찾아보기"
 
 #: community/communicate.md:block 10 (paragraph)
 msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
-msgstr ""
+msgstr "미디어위키 핵심 구성 요소, 주요 확장 기능 및 스킨, 라이브러리, 그리고 기타 위키미디어 기술 인프라를 유지 관리하는 개발자 및 팀 목록을 살펴보세요."
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
@@ -577,7 +577,7 @@ msgstr "[mediawiki.org에서 더 읽기](https://www.mediawiki.org/wiki/Special:
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
 msgid "Explore hackathons and events"
-msgstr ""
+msgstr "해커톤 및 이벤트 살펴보기"
 
 #: community/events.md:block 3 (header)
 msgid "Hackathons"
@@ -585,7 +585,7 @@ msgstr "해커톤"
 
 #: community/events.md:block 4 (paragraph)
 msgid "A hackathon brings together people with different skills to work together on a common technical goal."
-msgstr ""
+msgstr "해커톤은 서로 다른 기술을 가진 사람들이 공통의 기술적 목표를 달성하기 위해 협력하는 자리입니다."
 
 #: community/events.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
@@ -597,7 +597,7 @@ msgstr "위키데이터 이벤트"
 
 #: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
-msgstr ""
+msgstr "위키데이터 편집자, 데이터 재사용자 및 개발자를 위한 모임을 찾아보세요."
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
@@ -609,7 +609,7 @@ msgstr "연구 이벤트"
 
 #: community/events.md:block 10 (paragraph)
 msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
-msgstr ""
+msgstr "위키미디어 프로젝트의 모든 측면을 탐구하는 과학자, 엔지니어 및 학자들을 위한 포럼과 모임에 참여하세요."
 
 #: community/events.md:block 11 (unordered list)
 msgid "[Read more](https://research.wikimedia.org/events.html)"
@@ -621,7 +621,7 @@ msgstr "미디어위키 개발자 이벤트"
 
 #: community/events.md:block 13 (paragraph)
 msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
-msgstr ""
+msgstr "미디어위키 및 위키미디어 코드와 관련된 회의, 학회, 코딩 세션에 참여하세요."
 
 #: community/events.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
@@ -629,11 +629,11 @@ msgstr "[mediawiki.org에서 더 읽기](https://www.mediawiki.org/wiki/Special:
 
 #: community/events.md:block 15 (header)
 msgid "Coolest Tool Award"
-msgstr ""
+msgstr "가장 멋진 도구상"
 
 #: community/events.md:block 16 (paragraph)
 msgid "This annual award event celebrates volunteer developer contributions."
-msgstr ""
+msgstr "이 연례 시상 행사는 자원봉사 개발자들의 공헌을 기리는 자리입니다."
 
 #: community/events.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
@@ -641,11 +641,11 @@ msgstr "[메타위키에서 더 읽기](https://meta.wikimedia.org/wiki/Special:
 
 #: community/events.md:block 18 (header)
 msgid "Language community meetings"
-msgstr ""
+msgstr "언어 공동체 모임"
 
 #: community/events.md:block 19 (paragraph)
 msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
-msgstr ""
+msgstr "다양한 언어 커뮤니티의 위키미디어 사용자들과 언어 관련 기술 업데이트 및 과제에 대해 논의합니다."
 
 #: community/events.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
@@ -658,11 +658,11 @@ msgstr "전문 기술을 배우고 공유하기"
 
 #: community/grow.md:block 3 (header)
 msgid "Outreach and mentoring programs"
-msgstr ""
+msgstr "봉사활동 및 멘토링 프로그램"
 
 #: community/grow.md:block 4 (paragraph)
 msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
-msgstr ""
+msgstr "아웃리치나 구글 서머 오브 코드 같은 인턴십 및 멘토링 프로그램을 통해 실력을 키우세요."
 
 #: community/grow.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
@@ -676,7 +676,7 @@ msgstr "동영상 및 기술 토론"
 #: community/grow.md:block 7 (paragraph) get-started/wikimedia-tech.md:block 7
 #: (paragraph)
 msgid "Learn about Wikimedia technology through recorded presentations from the community."
-msgstr ""
+msgstr "커뮤니티 구성원들이 작성한 녹화된 프레젠테이션을 통해 위키미디어 기술에 대해 알아보세요."
 
 #: community/grow.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 8 (unordered list)
@@ -685,11 +685,11 @@ msgstr "[유튜브 채널 방문](https://www.youtube.com/user/watchmediawiki/vi
 
 #: community/grow.md:block 9 (header)
 msgid "Tech ambassadors"
-msgstr ""
+msgstr "기술 홍보대사"
 
 #: community/grow.md:block 10 (paragraph)
 msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
-msgstr ""
+msgstr "여러분의 기술을 활용하여 위키미디어 사용자들이 기술적인 문제를 해결하고 개발자와 지역 위키를 연결하는 데 도움을 주세요."
 
 #: community/grow.md:block 11 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
@@ -711,7 +711,7 @@ msgstr "클라우드 도구 및 서비스"
 #: community/tech-ops.md:block 4 (paragraph)
 #: get-started/wikimedia-tech.md:block 10 (paragraph)
 msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
-msgstr ""
+msgstr "위키미디어 프로젝트에 대한 기술적 기여를 위한 공유 호스팅, 데이터 서비스 및 기타 인프라 지원에 대해 알아보세요."
 
 #: community/tech-ops.md:block 5 (unordered list)
 #: get-started/wikimedia-tech.md:block 11 (unordered list)
@@ -724,7 +724,7 @@ msgstr "성능 모니터링"
 
 #: community/tech-ops.md:block 7 (paragraph)
 msgid "Monitor the current and past performance of Wikimedia sites."
-msgstr ""
+msgstr "위키미디어 사이트의 현재 및 과거 실적을 모니터링합니다."
 
 #: community/tech-ops.md:block 8 (unordered list)
 msgid "[Read more](https://performance.wikimedia.org/)"
@@ -736,7 +736,7 @@ msgstr "보안 정책"
 
 #: community/tech-ops.md:block 10 (paragraph)
 msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
-msgstr ""
+msgstr "미디어위키 플랫폼과 위키미디어 재단의 보안 정책을 읽어보세요."
 
 #: community/tech-ops.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
@@ -744,11 +744,11 @@ msgstr "[mediawiki.org에서 더 읽기](https://www.mediawiki.org/wiki/Special:
 
 #: community/tech-ops.md:block 12 (header)
 msgid "Software deployments"
-msgstr ""
+msgstr "소프트웨어 배포"
 
 #: community/tech-ops.md:block 13 (paragraph)
 msgid "Track software deployments to Wikimedia Foundation servers."
-msgstr ""
+msgstr "위키미디어 재단 서버에 대한 소프트웨어 배포를 추적합니다."
 
 #: community/tech-ops.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
@@ -756,11 +756,11 @@ msgstr "[위키테크에서 더 읽기](https://wikitech.wikimedia.org/wiki/Depl
 
 #: community/tech-ops.md:block 15 (header)
 msgid "Structured data infrastructure"
-msgstr ""
+msgstr "구조화된 데이터 인프라"
 
 #: community/tech-ops.md:block 16 (paragraph)
 msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
-msgstr ""
+msgstr "위키베이스는 협업 지식 기반 및 연결된 개방형 데이터를 위한 오픈 소스 소프트웨어입니다. 위키데이터를 뒷받침하는 소프트웨어의 시스템 아키텍처에 대해 알아보세요."
 
 #: community/tech-ops.md:block 17 (unordered list)
 msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
@@ -768,11 +768,11 @@ msgstr "[설명문서 읽기](https://wmde.github.io/wikidata-wikibase-architect
 
 #: community/tech-ops.md:block 18 (header)
 msgid "Technical infrastructure"
-msgstr ""
+msgstr "기술 인프라"
 
 #: community/tech-ops.md:block 19 (paragraph)
 msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
-msgstr ""
+msgstr "네트워크, 데이터 센터, 로깅 등 위키미디어의 필수 인프라에 대해 알아보고 아키텍처 다이어그램을 살펴보세요."
 
 #: community/tech-ops.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
@@ -780,11 +780,11 @@ msgstr "[위키테크에서 더 읽기](https://wikitech.wikimedia.org/wiki/Wiki
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Product and Technology Advisory Council"
-msgstr ""
+msgstr "제품 및 기술 자문 위원회"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about the Technology Council that advises on technical priorities for the Wikimedia movement."
-msgstr ""
+msgstr "위키미디어 운동의 기술적 우선순위에 대해 자문하는 기술위원회에 대해 알아보세요."
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
@@ -801,7 +801,7 @@ msgstr "기술 블로그"
 
 #: community/updates.md:block 4 (paragraph)
 msgid "Read blog posts from the Wikimedia technical community."
-msgstr ""
+msgstr "위키미디어 기술 커뮤니티의 블로그 게시물을 읽어보세요."
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
@@ -813,7 +813,7 @@ msgstr "기술 소식"
 
 #: community/updates.md:block 7 (paragraph)
 msgid "Get weekly summaries of technical topics for Wikimedians."
-msgstr ""
+msgstr "위키미디어 사용자를 위한 기술 주제에 대한 주간 요약을 받아보세요."
 
 #: community/updates.md:block 8 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
@@ -821,7 +821,7 @@ msgstr "[메타위키에서 더 읽기](https://meta.wikimedia.org/wiki/Special:
 
 #: contribute/index.md:meta.title contribute/index.md:title
 msgid "Contribute to Wikimedia open source"
-msgstr ""
+msgstr "위키미디어 오픈소스에 기여"
 
 #: contribute/index.md:block 2 (header)
 msgid "[Learn how contributing works](overview.md)"
@@ -830,7 +830,7 @@ msgstr "[기여 동작 원리 알아보기](overview.md)"
 #: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
 #: (paragraph)
 msgid "Get the basics of how to contribute to MediaWiki and other Wikimedia open source projects."
-msgstr ""
+msgstr "미디어위키 및 기타 위키미디어 오픈 소스 프로젝트에 기여하는 방법에 대한 기본 사항을 알아보세요."
 
 #: contribute/index.md:block 4 (header)
 msgid "[Contribute by topic](by-topic.md)"
@@ -848,7 +848,7 @@ msgstr "[프로그래밍 언어별 기여](by-language.md)"
 #: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
 #: (paragraph)
 msgid "Choose a project to contribute to based on programming language."
-msgstr ""
+msgstr "프로그래밍 언어를 기준으로 참여할 프로젝트를 선택하세요."
 
 #: contribute/index.md:block 8 (header)
 msgid "[Search all projects](search.md)"
@@ -875,7 +875,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 7 (paragraph)
 msgid "Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata."
-msgstr ""
+msgstr "Scribe-Data는 위키데이터에서 언어 데이터를 추출하고 형식을 지정하는 명령줄 인터페이스입니다."
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Contribute](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
@@ -897,7 +897,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 11 (paragraph)
 msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
-msgstr ""
+msgstr "Codex는 Vue를 사용하여 위키미디어 디자인 시스템 내에서 사용자 인터페이스를 구축하기 위한 툴킷입니다."
 
 #: contribute/by-language.md:block 12 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
@@ -913,11 +913,11 @@ msgstr "[소스 코드 가져오기](https://gerrit.wikimedia.org/g/design/codex
 
 #: contribute/by-language.md:block 13 (header)
 msgid "SignIt Firefox Extension"
-msgstr ""
+msgstr "SignIt 파이어폭스 확장 기능"
 
 #: contribute/by-language.md:block 14 (paragraph)
 msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
-msgstr ""
+msgstr "웹 브라우저 확장 기능으로, 단어를 수화 영상으로 변환해 주어 온라인으로 읽으면서 수화를 배울 수 있습니다."
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
@@ -938,7 +938,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 17 (paragraph)
 msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
-msgstr ""
+msgstr "React JS와 Node JS로 개발된 위키미디어 공용 동영상 편집 도구입니다."
 
 #: contribute/by-language.md:block 18 (unordered list)
 msgid "[Read the docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
@@ -963,7 +963,7 @@ msgstr "위키미디어 공용 안드로이드 앱"
 
 #: contribute/by-language.md:block 21 (paragraph)
 msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
-msgstr ""
+msgstr "위키미디어 공용 안드로이드 앱을 사용하면 사용자는 자신의 기기에서 위키미디어 공용으로 사진을 업로드할 수 있습니다."
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
@@ -984,11 +984,11 @@ msgstr ""
 
 #: contribute/by-language.md:block 24 (header)
 msgid "Kiwix"
-msgstr ""
+msgstr "키윅스"
 
 #: contribute/by-language.md:block 25 (paragraph)
 msgid "An offline reader for people without internet access."
-msgstr ""
+msgstr "인터넷 접속이 불가능한 사람들을 위한 오프라인 리더기입니다."
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Read the docs](https://www.kiwix.org/)"
@@ -1009,7 +1009,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 28 (paragraph)
 msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
-msgstr ""
+msgstr "번역, 동사 활용, 명사 성 표기 등을 포함한 위키데이터 기반 제2언어 학습자용 키보드입니다."
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
@@ -1035,7 +1035,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 32 (paragraph)
 msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
-msgstr ""
+msgstr "Blubber는 위키미디어의 지속적 통합 파이프라인의 일부로 Docker 컨테이너를 구성하고 코드를 테스트하는 인프라 도구입니다."
 
 #: contribute/by-language.md:block 33 (unordered list)
 msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
@@ -1094,7 +1094,7 @@ msgstr "위키 교육 대시보드"
 
 #: contribute/by-language.md:block 40 (paragraph)
 msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
-msgstr ""
+msgstr "위키 교육 대시보드는 Ruby on Rails와 React로 구축된 웹 애플리케이션으로, 위키백과 교육 과제, 편집 마라톤 및 기타 편집 프로젝트를 지원합니다."
 
 #: contribute/by-language.md:block 41 (unordered list)
 msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
@@ -1120,7 +1120,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 44 (paragraph)
 msgid "A framework for writing bots and tools in Rust."
-msgstr ""
+msgstr "Rust로 봇과 도구를 작성하기 위한 프레임워크입니다."
 
 #: contribute/by-language.md:block 45 (unordered list)
 msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
@@ -1152,7 +1152,7 @@ msgstr "지역화와 국제화"
 #: contribute/by-topic.md:block 7 (paragraph)
 #: get-started/wikimedia-tech.md:block 16 (paragraph)
 msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
-msgstr ""
+msgstr "현지화 가능한 코드를 작성하고, 작성한 코드를 번역하여 위키미디어 기술의 다국어 지원에 기여하세요."
 
 #: contribute/by-topic.md:block 8 (unordered list)
 #: get-started/wikimedia-tech.md:block 17 (unordered list)
@@ -1167,7 +1167,7 @@ msgstr "모바일 앱"
 #: contribute/by-topic.md:block 10 (paragraph)
 #: get-started/wikimedia-tech.md:block 19 (paragraph)
 msgid "Expand the reach of Wikimedia content by contributing to mobile apps for Wikipedia, Wikimedia Commons, and other projects."
-msgstr ""
+msgstr "위키백과, 위키미디어 공용 및 기타 프로젝트를 위한 모바일 앱 개발에 참여하여 위키미디어 콘텐츠의 활용 범위를 넓히세요."
 
 #: contribute/by-topic.md:block 11 (unordered list)
 #: get-started/wikimedia-tech.md:block 20 (unordered list)
@@ -1180,7 +1180,7 @@ msgstr "설명문서"
 
 #: contribute/by-topic.md:block 13 (paragraph)
 msgid "Read the documentation style guide, and find good first tasks for improving documentation."
-msgstr ""
+msgstr "설명문서 작성 스타일 가이드를 읽고, 설명문서 개선을 위한 좋은 첫 번째 과제를 찾아보세요."
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
@@ -1192,7 +1192,7 @@ msgstr "오프라인 읽기"
 
 #: contribute/by-topic.md:block 16 (paragraph)
 msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
-msgstr ""
+msgstr "인터넷 접속 없이도 위키백과를 이용할 수 있도록 지원함으로써 자유로운 지식의 확산을 도모하세요."
 
 #: contribute/by-topic.md:block 17 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
@@ -1200,11 +1200,11 @@ msgstr "[메타위키에서 더 읽기](https://meta.wikimedia.org/wiki/Special:
 
 #: contribute/by-topic.md:block 18 (header)
 msgid "Infrastructure"
-msgstr ""
+msgstr "인프라"
 
 #: contribute/by-topic.md:block 19 (paragraph)
 msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
-msgstr ""
+msgstr "위키미디어 프로젝트를 지원하는 인프라 구축에 기여하세요. 위키미디어 서버와 소프트웨어의 성능 및 효율성 향상에 도움을 주세요."
 
 #: contribute/by-topic.md:block 20 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
@@ -1223,7 +1223,7 @@ msgstr "개발자 계정 만들기"
 #: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
 #: (paragraph)
 msgid "Most Wikimedia technical spaces use a developer account to identify and authorize users. Create a free account to get started as a technical contributor."
-msgstr ""
+msgstr "대부분의 위키미디어 기술 공간에서는 개발자 계정을 사용하여 사용자를 식별하고 인증합니다. 무료 계정을 만들어 기술 기여자로 활동을 시작하세요."
 
 #: contribute/overview.md:block 8 (unordered list)
 #: get-started/new-dev.md:block 8 (unordered list)
@@ -1238,7 +1238,7 @@ msgstr "새 기여자를 위한 프로젝트와 일감 찾기"
 #: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
 #: (paragraph)
 msgid "Choose from open source projects that offer mentoring for new contributors, and find good first tasks."
-msgstr ""
+msgstr "새로운 기여자를 위한 멘토링을 제공하는 오픈 소스 프로젝트 중에서 선택하고, 좋은 첫 번째 과제를 찾아보세요."
 
 #: contribute/overview.md:block 11 (unordered list)
 #: get-started/new-dev.md:block 5 (unordered list)
@@ -1247,11 +1247,11 @@ msgstr "[mediawiki.org에서 더 읽기](https://www.mediawiki.org/wiki/Special:
 
 #: contribute/overview.md:block 12 (header)
 msgid "Review guidelines and code conventions"
-msgstr ""
+msgstr "검토 지침 및 코드 규칙"
 
 #: contribute/overview.md:block 13 (paragraph)
 msgid "Understand development policies, best practices, and code conventions for Wikimedia software."
-msgstr ""
+msgstr "위키미디어 소프트웨어의 개발 정책, 모범 사례 및 코드 규칙을 이해합니다."
 
 #: contribute/overview.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
@@ -1263,7 +1263,7 @@ msgstr "내 기여 보기"
 
 #: contribute/overview.md:block 16 (paragraph)
 msgid "Visualize your contributions across Wikimedia's code review and task tracking tools."
-msgstr ""
+msgstr "위키미디어의 코드 검토 및 작업 추적 도구를 통해 여러분의 기여도를 시각화해 보세요."
 
 #: contribute/overview.md:block 17 (unordered list)
 msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
@@ -1281,7 +1281,7 @@ msgstr "코드베이스 검색"
 #: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
 #: (paragraph)
 msgid "Search all Wikimedia codebases using the code search tool."
-msgstr ""
+msgstr "위키미디어 코드베이스 전체를 코드 검색 도구를 사용하여 검색하세요."
 
 #: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
 #: (unordered list)
@@ -1294,7 +1294,7 @@ msgstr "위키미디어 오픈 소스 설명문서 둘러보기"
 
 #: contribute/search.md:block 7 (paragraph)
 msgid "Browse auto-generated and related documentation hosted on doc.wikimedia.org."
-msgstr ""
+msgstr "doc.wikimedia.org에 호스팅된 자동 생성 설명문서 및 관련 문서를 찾아보세요."
 
 #: contribute/search.md:block 8 (unordered list)
 msgid "[Browse docs](https://doc.wikimedia.org)"
@@ -1308,7 +1308,7 @@ msgstr "저장소 둘러보기"
 #: contribute/search.md:block 10 (paragraph)
 #: get-started/browse-languages.md:block 8 (paragraph)
 msgid "Explore Wikimedia codebases."
-msgstr ""
+msgstr "위키미디어 코드베이스를 살펴보세요."
 
 #: contribute/search.md:block 11 (unordered list)
 #: get-started/browse-languages.md:block 9 (unordered list)
@@ -1331,7 +1331,7 @@ msgstr "검색 도구 및 봇"
 
 #: get-help/index.md:block 2 (paragraph)
 msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
-msgstr ""
+msgstr "위키미디어의 기술 생태계는 복잡하고 분산되어 있기에, 다양한 위치에서 다양한 형태의도움과 지원을 받을 수 있습니다."
 
 #: get-help/index.md:block 3 (header)
 msgid "Search the docs"
@@ -1355,7 +1355,7 @@ msgstr "시스템 상태 확인"
 
 #: get-help/index.md:block 13 (paragraph)
 msgid "Verify the overall health and performance of the wiki environment, and find out about major outages."
-msgstr ""
+msgstr "위키 환경의 전반적인 상태와 성능을 확인하고 주요 장애 발생 여부를 파악합니다."
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
@@ -1363,15 +1363,15 @@ msgstr "[wikimediastatus.net 방문](https://www.wikimediastatus.net/)"
 
 #: get-help/index.md:block 14 (unordered list)
 msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
-msgstr ""
+msgstr "[위키미디어 위키에서 사용하는 미디어위키 버전 보기](https://versions.toolforge.org/)"
 
 #: get-help/index.md:block 15 (header)
 msgid "Bugs and feature requests"
-msgstr ""
+msgstr "버그 신고 및 기능 요청"
 
 #: get-help/index.md:block 16 (paragraph)
 msgid "Report bugs and request new features in Wikimedia software."
-msgstr ""
+msgstr "위키미디어 소프트웨어의 버그를 신고하고 새로운 기능을 요청하세요."
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
@@ -1379,7 +1379,7 @@ msgstr "[버그를 제보하는 법에 대해 더 알아보기](https://www.medi
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
-msgstr ""
+msgstr "[위키미디어 작업 추적기 방문](https://phabricator.wikimedia.org)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
@@ -1387,7 +1387,7 @@ msgstr "[위키미디어 기술에 관해 더 알아보기](wikimedia-tech.md)"
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
-msgstr ""
+msgstr "위키미디어 프로젝트에 사용된 오픈 소스 소프트웨어와 기술 구성 요소를 살펴보세요."
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
@@ -1395,12 +1395,12 @@ msgstr "[개발 프로세스 이해](new-dev.md)"
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
-msgstr ""
+msgstr "위키미디어 소프트웨어 프로젝트의 작동 방식과 기술적 기여 방법에 대해 알아보세요."
 
 #: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
 #: (paragraph)
 msgid "Follow coding exercises with step-by-step guidance."
-msgstr ""
+msgstr "단계별 안내에 따라 코딩 연습을 진행하세요."
 
 #: get-started/index.md:block 7 (header)
 msgid "[Browse by programming language](browse-languages.md)"
@@ -1408,7 +1408,7 @@ msgstr "[프로그래밍 언어별 탐색](browse-languages.md)"
 
 #: get-started/index.md:block 8 (paragraph)
 msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
-msgstr ""
+msgstr "원하는 프로그래밍 언어로 작성된 클라이언트 라이브러리, 예제 앱 및 오픈 소스 프로젝트를 찾아보세요."
 
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
@@ -1425,11 +1425,11 @@ msgstr "언어별 오픈 소스 프로젝트"
 
 #: get-started/browse-languages.md:block 5 (paragraph)
 msgid "Find Wikimedia open source projects by programming language, and start contributing code."
-msgstr ""
+msgstr "프로그래밍 언어별로 위키미디어 오픈 소스 프로젝트를 찾아 코드 작성에 참여해 보세요."
 
 #: get-started/browse-languages.md:block 6 (paragraph)
 msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
-msgstr ""
+msgstr "[프로젝트 찾아보기](../contribute/by-language.md){ .md-button }"
 
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
@@ -1555,7 +1555,7 @@ msgstr "[위키 내용 사용](content.md)"
 #: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
 #: (paragraph)
 msgid "Find open source libraries, get started using the API, or download content in bulk."
-msgstr ""
+msgstr "오픈 소스 라이브러리를 찾고, API 사용을 시작하거나, 콘텐츠를 일괄 다운로드하세요."
 
 #: use-content/index.md:block 8 (header)
 msgid "[Access open data](data.md)"
@@ -1564,32 +1564,32 @@ msgstr "[오픈 데이터 접근](data.md)"
 #: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
 #: (paragraph)
 msgid "Explore public data that you can use in research and machine learning."
-msgstr ""
+msgstr "연구 및 머신러닝에 활용할 수 있는 공개 데이터를 살펴보세요."
 
 #: use-content/index.md:block 10 (header)
 msgid "[High-volume and commercial access](bot-traffic.md)"
-msgstr ""
+msgstr "[대용량 및 상업적 접속](bot-traffic.md)"
 
 #: use-content/index.md:block 11 (paragraph)
 msgid "Review policies and options for sustainable access to Wikimedia infrastructure."
-msgstr ""
+msgstr "위키미디어 인프라에 대한 지속 가능한 접근을 위한 정책 및 방안을 검토합니다."
 
 #: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
 #: use-content/bot-traffic.md:block 1 (header)
 msgid "High-volume and commercial access"
-msgstr ""
+msgstr "대용량 및 상업적 접근"
 
 #: use-content/bot-traffic.md:block 2 (paragraph)
 msgid "High-volume, commercial, and bot access to Wikimedia infrastructure must comply with the following policies to avoid harming Wikipedia and other Wikimedia projects. To prevent your access from being restricted, ensure that you follow these policies."
-msgstr ""
+msgstr "대용량 접속, 상업적 접속, 봇 접속은 위키백과 및 기타 위키미디어 프로젝트에 피해를 주지 않도록 다음 정책을 준수해야 합니다. 접속 제한을 피하려면 이러한 정책을 반드시 준수하십시오."
 
 #: use-content/bot-traffic.md:block 3 (header)
 msgid "Review the terms of use"
-msgstr ""
+msgstr "이용 약관을 검토하세요"
 
 #: use-content/bot-traffic.md:block 4 (paragraph)
 msgid "Learn about the services that the Wikimedia Foundation provides and how you can comply with the terms of use."
-msgstr ""
+msgstr "위키미디어 재단이 제공하는 서비스와 이용 약관 준수 방법에 대해 알아보세요."
 
 #: use-content/bot-traffic.md:block 5 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
@@ -1597,11 +1597,11 @@ msgstr "[위키미디어 재단 거버넌스 위키에서 더 읽기](https://fo
 
 #: use-content/bot-traffic.md:block 6 (header)
 msgid "Review the API policy"
-msgstr ""
+msgstr "API 정책을 검토하세요"
 
 #: use-content/bot-traffic.md:block 7 (paragraph)
 msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
-msgstr ""
+msgstr "위키미디어 API를 책임감 있게 사용하고 접근 제한을 방지하는 방법을 알아보세요."
 
 #: use-content/bot-traffic.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
@@ -1610,12 +1610,12 @@ msgstr "[위키미디어 재단 거버넌스 위키에서 더 읽기](https://fo
 #: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
 #: (header)
 msgid "Get services for enterprise"
-msgstr ""
+msgstr "기업용 서비스를 받아보세요"
 
 #: use-content/bot-traffic.md:block 10 (paragraph)
 #: use-content/content.md:block 19 (paragraph)
 msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
-msgstr ""
+msgstr "위키미디어 엔터프라이즈는 위키미디어 콘텐츠 및 데이터에 대한 대규모 상업적 접근을 위해 설계된 API 및 서비스 모음을 제공합니다."
 
 #: use-content/bot-traffic.md:block 11 (unordered list)
 #: use-content/content.md:block 20 (unordered list)
@@ -1624,11 +1624,11 @@ msgstr "[더 읽기](https://enterprise.wikimedia.com)"
 
 #: use-content/bot-traffic.md:block 12 (header)
 msgid "Partner with us"
-msgstr ""
+msgstr "저희와 파트너십을 맺으세요"
 
 #: use-content/bot-traffic.md:block 13 (paragraph)
 msgid "Contact the Wikimedia Foundation to explore options for technical partnerships."
-msgstr ""
+msgstr "기술 협력 방안에 대해 논의하려면 위키미디어 재단에 문의하세요."
 
 #: use-content/bot-traffic.md:block 14 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
@@ -1636,7 +1636,7 @@ msgstr "[위키테크에서 더 읽기](https://wikitech.wikimedia.org/wiki/Tech
 
 #: use-content/bot-traffic.md:block 16 (paragraph)
 msgid "Ask questions about bot traffic and high-volume access."
-msgstr ""
+msgstr "봇 트래픽 및 대용량 접속에 대해 질문하세요."
 
 #: use-content/bot-traffic.md:block 17 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
@@ -1653,7 +1653,7 @@ msgstr "위키미디어 프로젝트 소개"
 
 #: use-content/content.md:block 4 (paragraph)
 msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
-msgstr ""
+msgstr "위키미디어 콘텐츠는 프로젝트와 언어별로 정리되어 있습니다. 각 프로젝트는 위키백과 문서, 위키미디어 공용의 미디어 파일, 위키데이터의 구조화된 데이터와 같은 다양한 유형의 무료 콘텐츠를 제공합니다."
 
 #: use-content/content.md:block 5 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
@@ -1661,7 +1661,7 @@ msgstr "[메타위키에서 더 읽기](https://meta.wikimedia.org/wiki/Special:
 
 #: use-content/content.md:block 6 (header)
 msgid "Review the terms and conditions"
-msgstr ""
+msgstr "이용 약관을 검토하세요"
 
 #: use-content/content.md:block 7 (paragraph)
 msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
@@ -1723,7 +1723,7 @@ msgstr "위키백과 시각화"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
-msgstr ""
+msgstr "\"참고 자료\"는 위키피디아의 데이터를 시각화하는 앱들을 모아놓은 갤러리입니다. 갤러리를 둘러보며 영감을 얻고, 사용 가능한 데이터와 API에 대해 알아보세요."
 
 #: use-content/featured-apps.md:block 8 (unordered list)
 msgid "[Visit the gallery](https://seealso.org/)"
