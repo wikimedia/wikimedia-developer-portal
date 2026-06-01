@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Turkish (Türkçe)
 # Exported from translatewiki.net
 #
+# Author: HakanIST
 # Author: Hedda
 # Author: Melissadilara
 # Author: SaldırganSincap
@@ -26,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-18 12:51:19+0000\n"
+"PO-Revision-Date: 2026-06-01 12:34:33+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -462,7 +463,7 @@ msgstr "Bir viki'ye JavaScript veya CSS ekleyin"
 
 #: build-tools/tutorials.md:block 16 (paragraph)
 msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
-msgstr ""
+msgstr "MediaWiki'yi istemci taraflı JavaScript ve CSS ile özelleştirin. Kullanıcı betiklerini paylaşın ve diğer kişilerin oluşturduğu aletleri keşfedin."
 
 #: build-tools/tutorials.md:block 17 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
@@ -640,15 +641,15 @@ msgstr "[Meta-Wiki'de daha fazlasını okuyun](https://meta.wikimedia.org/wiki/S
 
 #: community/events.md:block 18 (header)
 msgid "Language community meetings"
-msgstr ""
+msgstr "Dil topluluğu toplantıları"
 
 #: community/events.md:block 19 (paragraph)
 msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
-msgstr ""
+msgstr "Çeşitli dil topluluklarından Vikimedyacılarla dille ilgili teknik güncellemeleri ve zorlukları tartışın."
 
 #: community/events.md:block 20 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
-msgstr ""
+msgstr "[Mediawiki.org'da daha fazla bilgi edinin](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
 
 #: community/grow.md:meta.title community/grow.md:title
 #: community/grow.md:block 1 (header)
@@ -779,15 +780,15 @@ msgstr "[Wikitech'te daha fazlasını okuyun](https://wikitech.wikimedia.org/wik
 
 #: community/tech-ops.md:block 21 (header)
 msgid "Product and Technology Advisory Council"
-msgstr ""
+msgstr "Ürün ve Teknoloji Danışma Kurulu"
 
 #: community/tech-ops.md:block 22 (paragraph)
 msgid "Learn about the Technology Council that advises on technical priorities for the Wikimedia movement."
-msgstr ""
+msgstr "Wikimedia hareketi için teknik önceliklere tavsiyelerde bulunan Teknoloji Kurulu hakkında bilgi edinin."
 
 #: community/tech-ops.md:block 23 (unordered list)
 msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
-msgstr ""
+msgstr "[Meta-Wiki'de daha fazla bilgi edinin](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
 
 #: community/updates.md:meta.title community/updates.md:title
 #: community/updates.md:block 1 (header)
@@ -874,7 +875,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 7 (paragraph)
 msgid "Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata."
-msgstr ""
+msgstr "Scribe-Data, Vikiveri'den dil verilerini çıkarmak ve biçimlendirmek için bir komut satırı arayüzüdür."
 
 #: contribute/by-language.md:block 8 (unordered list)
 msgid "[Contribute](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
@@ -912,11 +913,11 @@ msgstr "[Kaynak kodunu alın](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "SignIt Firefox Extension"
-msgstr ""
+msgstr "SignIt Firefox Eklentisi"
 
 #: contribute/by-language.md:block 14 (paragraph)
 msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
-msgstr ""
+msgstr "Kelimeleri işaret dili videolarına çeviren bir web tarayıcısı eklentisi, böylece çevrimiçi okurken işaret dili öğrenebilirsiniz."
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
@@ -1008,7 +1009,7 @@ msgstr ""
 
 #: contribute/by-language.md:block 28 (paragraph)
 msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
-msgstr ""
+msgstr "İkinci dil öğrenenler için çeviri, fiil çekimi ve isim-cinsiyet açıklaması içeren Vikiveri tabanlı klavyeler."
 
 #: contribute/by-language.md:block 29 (unordered list)
 msgid "[Get the source code](https://github.com/scribe-org)"
@@ -1183,7 +1184,7 @@ msgstr "Belgelendirme biçim kılavuzunu okuyun ve belgelendirmeyi iyileştirmey
 
 #: contribute/by-topic.md:block 14 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
-msgstr ""
+msgstr "[Mediawiki.org'da daha fazla bilgi edinin](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
 
 #: contribute/by-topic.md:block 15 (header)
 msgid "Offline reading"
@@ -1366,19 +1367,19 @@ msgstr "[Wikimedia vikileri tarafından kullanılan MediaWiki sürümlerine bak�
 
 #: get-help/index.md:block 15 (header)
 msgid "Bugs and feature requests"
-msgstr ""
+msgstr "Hata bildirimleri ve özellik istekleri"
 
 #: get-help/index.md:block 16 (paragraph)
 msgid "Report bugs and request new features in Wikimedia software."
-msgstr ""
+msgstr "Wikimedia yazılımındaki hataları bildirin ve yeni özellikler isteyin."
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
-msgstr ""
+msgstr "[Hata bildirmeyi öğrenin](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
-msgstr ""
+msgstr "[Wikimedia'nın görev izleyicisini ziyaret edin](https://phabricator.wikimedia.org)"
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
@@ -1469,7 +1470,7 @@ msgstr "[Gerrit hakkında daha fazla bilgi edinin](https://www.mediawiki.org/wik
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
-msgstr ""
+msgstr "[GitLab hakkında daha fazla bilgi edinin](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
 
 #: get-started/tutorials.md:block 2 (header)
 msgid "Tutorials for using content and data"
@@ -1507,15 +1508,15 @@ msgstr "Temel Wikimedia teknolojisini ve açık kaynak projelerini keşfedin."
 
 #: get-started/wikimedia-tech.md:block 3 (header)
 msgid "Introduction to Wikimedia technology"
-msgstr ""
+msgstr "Wikimedia teknolojisine giriş"
 
 #: get-started/wikimedia-tech.md:block 4 (paragraph)
 msgid "Learn about the main technical areas where developers can contribute."
-msgstr ""
+msgstr "Geliştiricilerin katkıda bulunabileceği ana teknik alanlar hakkında bilgi edinin."
 
 #: get-started/wikimedia-tech.md:block 5 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
-msgstr ""
+msgstr "[Mediawiki.org'da daha fazla bilgi edinin](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
 
 #: get-started/wikimedia-tech.md:block 21 (header)
 msgid "Wikibase and Wikidata"
@@ -1567,32 +1568,32 @@ msgstr "Araştırma ve makine öğreniminde kullanabileceğiniz herkese açık v
 
 #: use-content/index.md:block 10 (header)
 msgid "[High-volume and commercial access](bot-traffic.md)"
-msgstr ""
+msgstr "[Yüksek hacimli ve ticari erişim](bot-traffic.md)"
 
 #: use-content/index.md:block 11 (paragraph)
 msgid "Review policies and options for sustainable access to Wikimedia infrastructure."
-msgstr ""
+msgstr "Wikimedia altyapısına sürdürülebilir erişim için politikaları ve seçenekleri inceleyin."
 
 #: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
 #: use-content/bot-traffic.md:block 1 (header)
 msgid "High-volume and commercial access"
-msgstr ""
+msgstr "Yüksek hacimli ve ticari erişim"
 
 #: use-content/bot-traffic.md:block 2 (paragraph)
 msgid "High-volume, commercial, and bot access to Wikimedia infrastructure must comply with the following policies to avoid harming Wikipedia and other Wikimedia projects. To prevent your access from being restricted, ensure that you follow these policies."
-msgstr ""
+msgstr "Wikimedia altyapısına yüksek hacimli, ticari ve bot erişimi, Vikipedi ve diğer Vikimedia projelerine zarar vermemek için aşağıdaki politikalara uygun olmalıdır."
 
 #: use-content/bot-traffic.md:block 3 (header)
 msgid "Review the terms of use"
-msgstr ""
+msgstr "Kullanım koşullarını inceleyin"
 
 #: use-content/bot-traffic.md:block 4 (paragraph)
 msgid "Learn about the services that the Wikimedia Foundation provides and how you can comply with the terms of use."
-msgstr ""
+msgstr "Wikimedia Vakfı'nın sağladığı hizmetleri ve kullanım koşullarına nasıl uyum sağlayabileceğinizi öğrenin."
 
 #: use-content/bot-traffic.md:block 5 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
-msgstr ""
+msgstr "[Wikimedia Vakfı Yönetişim Vikisi'nde daha fazla bilgi edinin](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
 
 #: use-content/bot-traffic.md:block 6 (header)
 msgid "Review the API policy"
@@ -1600,7 +1601,7 @@ msgstr "API politikasını gözden geçirin"
 
 #: use-content/bot-traffic.md:block 7 (paragraph)
 msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
-msgstr ""
+msgstr "Wikimedia API'lerini sorumlu bir şekilde nasıl kullanacağınızı ve erişim kısıtlamalarını nasıl önleyeceğinizi öğrenin."
 
 #: use-content/bot-traffic.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
@@ -1635,11 +1636,11 @@ msgstr "[Wikitech'te daha fazlasını okuyun](https://wikitech.wikimedia.org/wik
 
 #: use-content/bot-traffic.md:block 16 (paragraph)
 msgid "Ask questions about bot traffic and high-volume access."
-msgstr ""
+msgstr "Bot trafiği ve yüksek hacimli erişim hakkında sorular sorun."
 
 #: use-content/bot-traffic.md:block 17 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
-msgstr ""
+msgstr "[Wikitech'te daha fazla bilgi edinin](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
 
 #: use-content/content.md:meta.title use-content/content.md:title
 #: use-content/content.md:block 1 (header)
@@ -1668,7 +1669,7 @@ msgstr "Çoğu Wikimedia içeriği, atıf ile ücretsiz yeniden kullanıma izin 
 
 #: use-content/content.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
-msgstr ""
+msgstr "[Wikimedia Vakfı Yönetişim Vikisi'nde daha fazla bilgi edinin](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
 
 #: use-content/data.md:meta.title use-content/data.md:title
 #: use-content/data.md:block 1 (header)
