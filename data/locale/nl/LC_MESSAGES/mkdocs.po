@@ -27,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-21 12:17:28+0000\n"
+"PO-Revision-Date: 2026-06-04 12:20:56+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -368,7 +368,7 @@ msgstr "Meer over cloud-hosting voor tools"
 
 #: build-tools/host-tools.md:block 7 (paragraph)
 msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
-msgstr "Toolforge is een gratis hostingomgeving voor het uitvoeren en beheren van tools. Het ontwikkelen van een tool in Toolforge maakt het makkelijker  om toegang te krijgen tot Wikimedia-inhoud en -gegevens en om uw tool met anderen te delen."
+msgstr "Toolforge is een gratis hostingomgeving voor het uitvoeren en beheren van hulpmiddelen. Het ontwikkelen van een hulpmiddel in Toolforge maakt het makkelijker om toegang te krijgen tot Wikimedia-inhoud en -gegevens en om uw hulpmiddel met anderen te delen."
 
 #: build-tools/host-tools.md:block 8 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
@@ -401,7 +401,7 @@ msgstr "Een hulpprogramma delen"
 
 #: build-tools/search.md:block 7 (paragraph)
 msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
-msgstr "Voeg uw tool toe aan de Toolhub-catalogus zodat anderen ook baat bij uw werk hebben en erop kunnen voortbouwen. Meld u aan bij Toolhub met uw Wikimedia-account om aan de slag te gaan."
+msgstr "Voeg uw hulpmiddel toe aan de Toolhub-catalogus zodat anderen ook baat bij uw werk hebben en erop kunnen voortbouwen. Meld u aan bij Toolhub met uw Wikimedia-account om aan de slag te gaan."
 
 #: build-tools/search.md:block 8 (unordered list)
 msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
