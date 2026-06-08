@@ -27,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-06-04 12:20:56+0000\n"
+"PO-Revision-Date: 2026-06-08 12:22:33+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -913,7 +913,7 @@ msgstr "[Download de broncode](https://gerrit.wikimedia.org/g/design/codex/)"
 
 #: contribute/by-language.md:block 13 (header)
 msgid "SignIt Firefox Extension"
-msgstr "SignIt Firefox-extensie"
+msgstr "SignIt Firefox-uitbreiding"
 
 #: contribute/by-language.md:block 14 (paragraph)
 msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
