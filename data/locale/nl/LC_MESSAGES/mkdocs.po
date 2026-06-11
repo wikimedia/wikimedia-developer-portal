@@ -27,7 +27,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-06-08 12:22:33+0000\n"
+"PO-Revision-Date: 2026-06-11 12:22:59+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -352,7 +352,7 @@ msgstr "Scripts in uw browser uitvoeren"
 
 #: build-tools/host-tools.md:block 4 (paragraph)
 msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
-msgstr "PAWS is een gratis, cloudgebaseerde speeltuin voor het maken van scripts en datavisualisaties die verband houden met Wikimedia-projecten. Meld u aan op uw Wikimedia-account en maak een notitieboek om aan de slag te gaan."
+msgstr "PAWS is een gratis, cloudgebaseerde speeltuin voor het maken van scripts en gegevensvisualisaties die verband houden met Wikimedia-projecten. Meld u aan op uw Wikimedia-account en maak een notitieboek om aan de slag te gaan."
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
@@ -436,7 +436,7 @@ msgstr "Een robot bouwen die Wikidata gebruikt"
 
 #: build-tools/tutorials.md:block 10 (paragraph)
 msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
-msgstr "Gebruik Python om grote datasets van Wikidata te verwerken en gegevens tussen tools in uw workflow over te dragen."
+msgstr "Gebruik Python om grote gegevensverzamelingen van Wikidata te verwerken en gegevens tussen hulpmiddelen in uw workflow over te dragen."
 
 #: build-tools/tutorials.md:block 11 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
@@ -568,7 +568,7 @@ msgstr "Zoek codebeheerders en -stewards."
 
 #: community/communicate.md:block 10 (paragraph)
 msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
-msgstr "Bekijk de lijst met ontwikkelaars en teams die de kernonderdelen van MediaWiki, belangrijke extensies en thema's, bibliotheken en andere technische infrastructuur van Wikimedia onderhouden."
+msgstr "Bekijk de lijst met ontwikkelaars en teams die de kernonderdelen van MediaWiki, belangrijke uitbreidingen en thema's, bibliotheken en andere technische infrastructuur van Wikimedia onderhouden."
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
@@ -597,7 +597,7 @@ msgstr "Wikidata-evenementen"
 
 #: community/events.md:block 7 (paragraph)
 msgid "Browse meetups for Wikidata editors, data reusers, and developers."
-msgstr "Bekijk bijeenkomsten voor Wikidata-bewerkers, datahergebruikers en ontwikkelaars."
+msgstr "Bekijk bijeenkomsten voor Wikidata-bewerkers, gegevenshergebruikers en ontwikkelaars."
 
 #: community/events.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
@@ -1541,7 +1541,7 @@ msgstr "[Bekijk de aanbevolen toepassingen](featured-apps.md)"
 #: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
 #: 2 (paragraph)
 msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
-msgstr "Bekijk voorbeelden van open source-apps en datavisualisaties die zijn gemaakt met Wikimedia-inhoud en -gegevens."
+msgstr "Bekijk voorbeelden van open source-apps en gegevensvisualisaties die zijn gemaakt met Wikimedia-inhoud en -gegevens."
 
 #: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
 #: (paragraph)
@@ -1564,7 +1564,7 @@ msgstr "[Toegang tot openbare gegevens](data.md)"
 #: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
 #: (paragraph)
 msgid "Explore public data that you can use in research and machine learning."
-msgstr "Ontdek openbare data die u kunt gebruiken voor onderzoek en machine learning."
+msgstr "Ontdek openbare gegevens die u kunt gebruiken voor onderzoek en machine learning."
 
 #: use-content/index.md:block 10 (header)
 msgid "[High-volume and commercial access](bot-traffic.md)"
