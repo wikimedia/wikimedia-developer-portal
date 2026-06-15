@@ -1,0 +1,1788 @@
+# Translation of Wikimedia Developer Portal to Slovak (slovenčina)
+# Exported from translatewiki.net
+#
+# Author: Oujon
+# Author: Wizzard
+# --
+# Copyright (c) 2022 Wikimedia Foundation and contributors.
+# All Rights Reserved.
+#
+# This file is part of Wikimedia Developer Portal.
+# Wikimedia Developer Portal is free software: you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or (at your
+# option) any later version.
+#
+# Wikimedia Developer Portal is distributed in the hope that it will be
+# useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+# Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# Wikimedia Developer Portal.  If not, see <http://www.gnu.org/licenses/>.
+#
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2026-06-15 12:23:43+0000\n"
+"X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Project-Id-Version: Wikimedia Developer Portal\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Generator: MediaWiki 1.47.0-alpha; Translate 2025-07-31\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ( (n >= 2 && n <= 4) ? 1 : 2 );\n"
+
+#: mkdocs.yml:site_name
+msgid "Wikimedia Developer Portal"
+msgstr "Wikimedia Developer Portal"
+
+#: mkdocs.yml:site_description
+msgid "Find technical documentation, and connect with Wikimedia developer communities."
+msgstr "Nájdite technickú dokumentáciu a spojte sa s komunitami vývojárov Wikimedia."
+
+#: mkdocs.yml:site_author
+msgid "Wikimedia Foundation and contributors"
+msgstr "Nadácia Wikimedia a prispievatelia"
+
+#: mkdocs.yml:copyright
+msgid "Copyright &copy; Wikimedia Foundation and contributors"
+msgstr "Copyright © Wikimedia Foundation a prispievatelia"
+
+#: mkdocs.yml:extra.footer_links.0
+msgid "Privacy policy"
+msgstr "Zásady ochrany súkromia"
+
+#: mkdocs.yml:extra.footer_links.1
+msgid "Terms of Use"
+msgstr "Podmienky používania"
+
+#: mkdocs.yml:extra.footer_links.2
+msgid "Code: GPL-3.0-or-later"
+msgstr "Kód: GPL-3.0 alebo novší"
+
+#: mkdocs.yml:extra.footer_links.3
+msgid "Content: CC-BY-SA-4.0"
+msgstr "Obsah: CC-BY-SA-4.0"
+
+#: mkdocs.yml:extra.footer_links.4
+msgid "About"
+msgstr "O"
+
+#: mkdocs.yml:extra.footer_links.5 mkdocs.yml:navigation
+msgid "Contribute"
+msgstr "prispejte"
+
+#: mkdocs.yml:navigation build-tools/get-started.md:title
+#: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
+#: get-started/index.md:title
+msgid "Get started"
+msgstr "Začnite"
+
+#: mkdocs.yml:navigation use-content/index.md:meta.title
+#: use-content/index.md:title
+msgid "Use content and data"
+msgstr "Používajte obsah a údaje"
+
+#: mkdocs.yml:navigation build-tools/index.md:meta.title
+#: build-tools/index.md:title
+msgid "Tools and bots"
+msgstr "Nástroje a roboty"
+
+#: mkdocs.yml:navigation community/index.md:meta.title
+#: community/index.md:title
+msgid "Community"
+msgstr "Komunita"
+
+#: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
+#: get-help/index.md:block 1 (header) use-content/bot-traffic.md:block 15
+#: (header)
+msgid "Get help"
+msgstr "Získajte pomoc"
+
+#: index.md:meta.title index.md:title
+msgid "Discover and build Wikimedia technology"
+msgstr "Objavte a budujte technológiu Wikimedia"
+
+#: index.md:block 1 (paragraph)
+msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
+msgstr "Nájdite technickú dokumentáciu a spojte sa s komunitou vývojárov, ktorá stojí za [Wikipedia](https://www.wikipedia.org/) a ďalšími [wikimedia projektmi](https://wikimediafoundation.org/our-work/wikimedia-projects/) ."
+
+#: index.md:block 2 (paragraph)
+msgid "[Get started](get-started/){ .md-button }"
+msgstr "[Začníte](začníte/){ .md-button }"
+
+#: index.md:block 4 (header)
+msgid "[Use Wikimedia content and data](use-content/)"
+msgstr "[Použiť obsah a údaje Wikimedia] (použitie obsahu/)"
+
+#: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
+msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
+msgstr "Získajte prístup k článkom z Wikipédie, mediálnym súborom, štruktúrovaným údajom a ďalším pomocou verejných rozhraní API a sťahovania."
+
+#: index.md:block 7 (header)
+msgid "[Build tools and bots](build-tools/)"
+msgstr "[Vytvorte nástroje a boty] (budovať nástroje/)"
+
+#: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
+msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
+msgstr "Nástroje a roboty uľahčujú úpravu a údržbu projektov Wikimedia."
+
+#: index.md:block 10 (header)
+msgid "[Contribute to Wikimedia open source](contribute/)"
+msgstr "[Prispejte do Wikimedia open source](prispejte/)"
+
+#: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
+msgid "Help build the Wikimedia ecosystem with open source software."
+msgstr "Pomôžte vybudovať ekosystém Wikimedia pomocou softvéru s otvoreným zdrojovým kódom."
+
+#: index.md:block 13 (header)
+msgid "[Connect with the community](community/)"
+msgstr "[Spojte sa s komunitou](komunita/)"
+
+#: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
+msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
+msgstr "Zapojte sa do technickej komunity Wikimedia a nájdite príležitosti na podporu a učenie sa."
+
+#: index.md:block 16 (header)
+msgid "[Get help](get-help/)"
+msgstr "[Získať pomoc](získať-pomoc/)"
+
+#: index.md:block 17 (paragraph)
+msgid "Find resources to help with questions and troubleshooting."
+msgstr "Nájdi zdroje na pomoc pri otázkach a riešení problémov."
+
+#: build-tools/index.md:block 2 (header)
+msgid "[Discover and share tools](search.md)"
+msgstr "[Objavte a zdieľajte nástroje](search.md)"
+
+#: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
+#: (paragraph)
+msgid "Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata."
+msgstr "Prehliadajte si katalóg nástrojov na Toolhub, zdieľajte svoje nástroje a pomôžte udržiavať metadáta nástrojov."
+
+#: build-tools/index.md:block 4 (header)
+msgid "[Get started](get-started.md)"
+msgstr "[Začať] [Začať.md]"
+
+#: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
+#: (paragraph)
+msgid "Create your first tool, learn about running a bot, and get best practices."
+msgstr "Vytvorte si svoj prvý nástroj, naučte sa spúšťať robota a získajte osvedčené postupy."
+
+#: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
+#: use-content/index.md:block 4 (header)
+msgid "[Learn with tutorials](tutorials.md)"
+msgstr "[Učte sa pomocou návodov](tutorials.md)"
+
+#: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
+#: (paragraph)
+msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
+msgstr "Postupujte podľa podrobných sprievodcov, aby ste sa naučili základy interakcie s projektmi Wikimedia."
+
+#: build-tools/index.md:block 8 (header)
+msgid "[Use APIs and data sources](apis.md)"
+msgstr "[Využívajte API a zdroje údajov] (apis.md)"
+
+#: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
+#: (paragraph)
+msgid "Explore programming interfaces for building bots and tools."
+msgstr "Prejdite do programovacích rozhraní na budovanie robotov a nástrojov."
+
+#: build-tools/index.md:block 10 (header)
+msgid "[Host tools on Wikimedia servers](host-tools.md)"
+msgstr "[Nástroje hostiteľa na serveroch Wikimedia](host-tools.md)"
+
+#: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
+#: (paragraph)
+msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
+msgstr "Získajte prístup k cloudovým službám na vykonávanie analýz, správu robotov, spúšťanie webových služieb a hostingové nástroje, ktoré pomáhajú projektom Wikimedia."
+
+#: build-tools/apis.md:meta.title build-tools/apis.md:title
+#: build-tools/apis.md:block 1 (header)
+msgid "Use APIs and data sources"
+msgstr "Používajte rozhrania API a zdroje údajov"
+
+#: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
+#: (header)
+#, optional
+msgid "Pywikibot"
+msgstr "Pywikibot"
+
+#: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
+#: (paragraph)
+msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
+msgstr "Pywikibot je knižnica Python a zbierka skriptov, ktoré automatizujú prácu na projektoch Wikimedia."
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[Prečítajte si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr "[Prispieť](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
+msgstr "[Získať zdrojový kód](https://gerrit.wikimedia.org/g/pywikibot/core)"
+
+#: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
+#: (header)
+msgid "Browse libraries by programming language"
+msgstr "Prehliadajte knižnice podľa programovacieho jazyka"
+
+#: build-tools/apis.md:block 7 (paragraph)
+#: get-started/browse-languages.md:block 2 (paragraph)
+#: use-content/content.md:block 10 (paragraph)
+msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
+msgstr "Klientske knižnice API uľahčujú písanie kódu, ktorý komunikuje s API. V tomto zozname si môžete prehliadať obľúbené knižnice pre MediaWiki API podľa programovacieho jazyka."
+
+#: build-tools/apis.md:block 8 (unordered list)
+#: get-started/browse-languages.md:block 3 (unordered list)
+#: use-content/content.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+
+#: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
+#: (header)
+msgid "Use the API"
+msgstr "Použite API"
+
+#: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
+#: (paragraph)
+msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
+msgstr "MediaWiki API vám poskytuje programový prístup k obsahu na ľubovoľnej wiki Wikimedia. Pomocou API môžete vyhľadávať a zobrazovať wiki stránky, získavať mediálne súbory, upravovať stránky a spravovať wiki."
+
+#: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
+#: 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
+
+#: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
+#: 14 (unordered list)
+msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+msgstr "[Vyskúšať pieskovisko](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+
+#: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
+#: (header) use-content/data.md:block 9 (header)
+msgid "Download content in bulk"
+msgstr "Stiahnite obsah hromadne"
+
+#: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
+#: (paragraph) use-content/data.md:block 10 (paragraph)
+msgid "Access free downloads of wiki content and data that you can use in research, offline reading, bot editing, and other projects."
+msgstr "Získajte bezplatné súbory na stiahnutie s obsahom a dátami wiki, ktoré môžete použiť pri výskume, čítaní offline, úpravách botmi a v ďalších projektoch."
+
+#: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
+#: 17 (unordered list) use-content/data.md:block 11 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+
+#: build-tools/apis.md:block 15 (header)
+msgid "Query wiki databases"
+msgstr "Dotazujte sa na wiki databázy"
+
+#: build-tools/apis.md:block 16 (paragraph)
+msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
+msgstr "Wiki repliky sú anonymizované verzie databáz, na ktorých bežia produkčné stránky Wikimedia. Pomocou nástroja Quarry môžete spúšťať a zdieľať SQL dotazy."
+
+#: build-tools/apis.md:block 17 (unordered list)
+msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
+msgstr "[Navštíviť Quarry](https://quarry.wmcloud.org/)"
+
+#: build-tools/apis.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+
+#: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
+#: 3 (header)
+msgid "Build your first tool"
+msgstr "Vytvorte svoj prvý nástroj"
+
+#: build-tools/get-started.md:block 4 (paragraph)
+#: build-tools/tutorials.md:block 4 (paragraph)
+msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
+msgstr "Naučte sa upravovať wiki stránky pomocou jazyka Python a frameworku Pywikibot. Tento návod vám pomôže rýchlo začať len s použitím prehliadača."
+
+#: build-tools/get-started.md:block 5 (unordered list)
+#: build-tools/tutorials.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+
+#: build-tools/get-started.md:block 6 (header)
+msgid "Learn about creating and running bots"
+msgstr "Spoznajte vytváranie a spúšťanie botov"
+
+#: build-tools/get-started.md:block 7 (paragraph)
+msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
+msgstr "Boty pomáhajú udržiavať wiki vykonávaním opakujúcich sa úloh. Začnite vytvárať a spúšťať boty oboznámením sa s osvedčenými postupmi."
+
+#: build-tools/get-started.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+
+#: build-tools/get-started.md:block 9 (header)
+msgid "Best practices for open source tools"
+msgstr "Osvedčené postupy pre open source nástroje"
+
+#: build-tools/get-started.md:block 10 (paragraph)
+msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
+msgstr "Ste v open source nováčik? Získajte tipy, ktoré vám pomôžu vyvíjať úspešné nástroje a boty, vrátane výberu licencie, zverejnenia kódu a písania dokumentácie."
+
+#: build-tools/get-started.md:block 11 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+
+#: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
+#: build-tools/host-tools.md:block 1 (header)
+msgid "Host tools on Wikimedia servers"
+msgstr "Hostujte nástroje na serveroch Wikimedia"
+
+#: build-tools/host-tools.md:block 3 (header)
+msgid "Run scripts in your browser"
+msgstr "Spúšťajte skripty vo svojom prehliadači"
+
+#: build-tools/host-tools.md:block 4 (paragraph)
+msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
+msgstr "PAWS je bezplatné cloudové ihrisko na vytváranie skriptov a vizualizácií dát súvisiacich s projektmi Wikimedia. Prihláste sa svojím účtom Wikimedia a začnite vytvorením poznámkového bloku (notebook)."
+
+#: build-tools/host-tools.md:block 5 (unordered list)
+msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
+msgstr "[Navštíviť PAWS](https://hub-paws.wmcloud.org/)"
+
+#: build-tools/host-tools.md:block 5 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
+
+#: build-tools/host-tools.md:block 6 (header)
+msgid "Learn about cloud hosting for tools"
+msgstr "Spoznajte cloudový hosting pre nástroje"
+
+#: build-tools/host-tools.md:block 7 (paragraph)
+msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
+msgstr "Toolforge je bezplatné hostingové prostredie na spúšťanie a správu nástrojov. Vývoj nástroja v Toolforge uľahčuje prístup k obsahu a dátam Wikimedia a zdieľanie vášho nástroja s ostatnými."
+
+#: build-tools/host-tools.md:block 8 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+
+#: build-tools/search.md:meta.title build-tools/search.md:title
+#: build-tools/search.md:block 1 (header)
+msgid "Discover and share tools"
+msgstr "Objavujte a zdieľajte nástroje"
+
+#: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
+#: 12 (header)
+#, optional
+msgid "Toolhub"
+msgstr "Toolhub"
+
+#: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
+#: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
+msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
+msgstr "Toolhub je katalóg nástrojov, ktoré uľahčujú úpravu a údržbu projektov Wikimedia. Pomocou Toolhubu objavujte nové nástroje, spojte sa so správcami nástrojov a zdieľajte zoznamy svojich obľúbených nástrojov."
+
+#: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
+#: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
+msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
+msgstr "[Navštíviť Toolhub](https://toolhub.wikimedia.org/)"
+
+#: build-tools/search.md:block 6 (header)
+msgid "Share a tool"
+msgstr "Zdieľajte nástroj"
+
+#: build-tools/search.md:block 7 (paragraph)
+msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
+msgstr "Pridajte svoj nástroj do katalógu Toolhub, aby z vašej práce mohli ťažiť aj ostatní a stavať na nej. Začnite prihlásením do Toolhubu svojím účtom Wikimedia."
+
+#: build-tools/search.md:block 8 (unordered list)
+msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+msgstr "[Pridať nástroj do Toolhubu](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+
+#: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
+#: build-tools/tutorials.md:block 1 (header)
+#: get-started/tutorials.md:meta.title get-started/tutorials.md:title
+#: use-content/tutorials.md:meta.title use-content/tutorials.md:title
+#: use-content/tutorials.md:block 1 (header)
+msgid "Learn with tutorials"
+msgstr "Učte sa pomocou návodov"
+
+#: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
+#: (header)
+msgid "Generate ideas for articles"
+msgstr "Generujte nápady na články"
+
+#: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
+#: 13 (paragraph)
+msgid "Learn how to use the MediaWiki API to generate ideas for new Wikipedia articles. This tutorial uses Python and the Flask framework."
+msgstr "Naučte sa používať MediaWiki API na generovanie nápadov na nové články Wikipédie. Tento návod používa Python a framework Flask."
+
+#: build-tools/tutorials.md:block 8 (unordered list)
+#: use-content/tutorials.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+
+#: build-tools/tutorials.md:block 9 (header)
+msgid "Write a bot that uses Wikidata"
+msgstr "Napíšte bota, ktorý používa Wikidáta"
+
+#: build-tools/tutorials.md:block 10 (paragraph)
+msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
+msgstr "Pomocou jazyka Python spracujte veľké súbory dát z Wikidát a prenášajte dáta medzi nástrojmi vo svojom pracovnom postupe."
+
+#: build-tools/tutorials.md:block 11 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+msgstr "[Prečítať si viac na Wikidátach](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+
+#: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
+#: (header)
+msgid "Display holidays from Wikipedia"
+msgstr "Zobrazte sviatky z Wikipédie"
+
+#: build-tools/tutorials.md:block 13 (paragraph)
+#: use-content/tutorials.md:block 4 (paragraph)
+msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
+msgstr "Naučte sa používať MediaWiki API na získavanie sviatkov pre daný dátum z Wikipédie. Tento návod sa venuje aj tomu, ako pomocou API prihlásiť sa do Wikipédie a pridávať nové sviatky. Návod používa Python a framework Flask."
+
+#: build-tools/tutorials.md:block 14 (unordered list)
+#: use-content/tutorials.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+
+#: build-tools/tutorials.md:block 15 (header)
+msgid "Add JavaScript or CSS to a wiki"
+msgstr "Pridajte JavaScript alebo CSS na wiki"
+
+#: build-tools/tutorials.md:block 16 (paragraph)
+msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
+msgstr "Prispôsobte si MediaWiki pomocou klientskeho JavaScriptu a CSS. Zdieľajte používateľské skripty a objavujte doplnky, ktoré vytvorili iní."
+
+#: build-tools/tutorials.md:block 17 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+
+#: build-tools/tutorials.md:block 18 (header)
+msgid "Host a tool on Wikimedia cloud servers"
+msgstr "Hostujte nástroj na cloudových serveroch Wikimedia"
+
+#: build-tools/tutorials.md:block 19 (paragraph)
+msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
+msgstr "Toolforge je bezplatné hostingové prostredie na spúšťanie a správu nástrojov. Začnite s Toolforge vytvorením účtu a nastavením základnej webovej služby."
+
+#: build-tools/tutorials.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
+
+#: community/index.md:block 2 (header)
+msgid "[Explore hackathons and events](events.md)"
+msgstr "[Preskúmať hackathony a podujatia](events.md)"
+
+#: community/index.md:block 3 (paragraph) community/events.md:block 2
+#: (paragraph)
+msgid "Browse content from past events, or join an upcoming event."
+msgstr "Prehliadajte obsah z minulých podujatí alebo sa zapojte do niektorého z nadchádzajúcich."
+
+#: community/index.md:block 4 (header)
+msgid "[Communicate with the tech community](communicate.md)"
+msgstr "[Komunikovať s technickou komunitou](communicate.md)"
+
+#: community/index.md:block 5 (paragraph) community/communicate.md:block 2
+#: (paragraph)
+msgid "Understand communication channels and how to connect with Wikimedia developers."
+msgstr "Zorientujte sa v komunikačných kanáloch a v tom, ako sa spojiť s vývojármi Wikimedia."
+
+#: community/index.md:block 6 (header)
+msgid "[Learn and share technical skills](grow.md)"
+msgstr "[Učiť sa a zdieľať technické zručnosti](grow.md)"
+
+#: community/index.md:block 7 (paragraph) community/grow.md:block 2
+#: (paragraph)
+msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
+msgstr "Rozvíjajte svoje zručnosti alebo pomáhajte učiť ostatných prostredníctvom workshopov, stáží a možností mentoringu."
+
+#: community/index.md:block 8 (header)
+msgid "[Get tech project updates](updates.md)"
+msgstr "[Získať novinky o technických projektoch](updates.md)"
+
+#: community/index.md:block 9 (paragraph) community/updates.md:block 2
+#: (paragraph)
+msgid "Stay up to date with the latest from the Wikimedia technical community."
+msgstr "Majte prehľad o najnovších informáciách z technickej komunity Wikimedia."
+
+#: community/index.md:block 10 (header)
+msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
+msgstr "[Spoznať technické operácie Wikimedia](tech-ops.md)"
+
+#: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
+#: (paragraph)
+msgid "Find information about the infrastructure and teams behind Wikimedia technology."
+msgstr "Nájdite informácie o infraštruktúre a tímoch, ktoré stoja za technológiami Wikimedia."
+
+#: community/communicate.md:meta.title community/communicate.md:title
+#: community/communicate.md:block 1 (header)
+msgid "Communicate with the tech community"
+msgstr "Komunikujte s technickou komunitou"
+
+#: community/communicate.md:block 3 (header) contribute/overview.md:block 3
+#: (header) get-started/new-dev.md:block 12 (header)
+msgid "Read the code of conduct"
+msgstr "Prečítajte si kódex správania"
+
+#: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
+#: (paragraph) get-started/new-dev.md:block 13 (paragraph)
+msgid "The code of conduct for Wikimedia technical spaces applies to both physical and virtual environments. Learn how to foster an open and welcoming community."
+msgstr "Kódex správania pre technické priestory Wikimedia platí pre fyzické aj virtuálne prostredia. Zistite, ako podporovať otvorenú a priateľskú komunitu."
+
+#: community/communicate.md:block 5 (unordered list)
+#: contribute/overview.md:block 5 (unordered list)
+#: get-started/new-dev.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+
+#: community/communicate.md:block 6 (header) get-help/index.md:block 9
+#: (header)
+msgid "Communication channels"
+msgstr "Komunikačné kanály"
+
+#: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
+#: (paragraph)
+msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
+msgstr "Spojte sa s vývojármi a používateľmi MediaWiki, získajte podporu a zdieľajte poznatky."
+
+#: community/communicate.md:block 8 (unordered list) get-help/index.md:block
+#: 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+
+#: community/communicate.md:block 9 (header)
+msgid "Find code maintainers and stewards"
+msgstr "Nájdite správcov a kurátorov kódu"
+
+#: community/communicate.md:block 10 (paragraph)
+msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
+msgstr "Prehliadajte zoznam vývojárov a tímov, ktorí spravujú základné komponenty MediaWiki, kľúčové rozšírenia a témy vzhľadu, knižnice a ďalšiu technickú infraštruktúru Wikimedia."
+
+#: community/communicate.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+
+#: community/events.md:meta.title community/events.md:title
+#: community/events.md:block 1 (header)
+msgid "Explore hackathons and events"
+msgstr "Preskúmajte hackathony a podujatia"
+
+#: community/events.md:block 3 (header)
+msgid "Hackathons"
+msgstr "Hackathony"
+
+#: community/events.md:block 4 (paragraph)
+msgid "A hackathon brings together people with different skills to work together on a common technical goal."
+msgstr "Hackathon spája ľudí s rôznymi zručnosťami, aby spoločne pracovali na spoločnom technickom cieli."
+
+#: community/events.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+
+#: community/events.md:block 6 (header)
+msgid "Wikidata events"
+msgstr "Podujatia Wikidát"
+
+#: community/events.md:block 7 (paragraph)
+msgid "Browse meetups for Wikidata editors, data reusers, and developers."
+msgstr "Prehliadajte stretnutia pre redaktorov Wikidát, používateľov dát a vývojárov."
+
+#: community/events.md:block 8 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+msgstr "[Prečítať si viac na Wikidátach](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+
+#: community/events.md:block 9 (header)
+msgid "Research events"
+msgstr "Výskumné podujatia"
+
+#: community/events.md:block 10 (paragraph)
+msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
+msgstr "Zapojte sa do fór a stretnutí pre vedcov, inžinierov a bádateľov, ktorí skúmajú všetky aspekty projektov Wikimedia."
+
+#: community/events.md:block 11 (unordered list)
+msgid "[Read more](https://research.wikimedia.org/events.html)"
+msgstr "[Prečítať si viac](https://research.wikimedia.org/events.html)"
+
+#: community/events.md:block 12 (header)
+msgid "MediaWiki developer events"
+msgstr "Podujatia pre vývojárov MediaWiki"
+
+#: community/events.md:block 13 (paragraph)
+msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
+msgstr "Zapojte sa do stretnutí, konferencií a programovacích sedení súvisiacich s kódom MediaWiki a Wikimedia."
+
+#: community/events.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+
+#: community/events.md:block 15 (header)
+msgid "Coolest Tool Award"
+msgstr "Coolest Tool Award"
+
+#: community/events.md:block 16 (paragraph)
+msgid "This annual award event celebrates volunteer developer contributions."
+msgstr "Toto výročné oceňovanie vyzdvihuje prínos dobrovoľníckych vývojárov."
+
+#: community/events.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+
+#: community/events.md:block 18 (header)
+msgid "Language community meetings"
+msgstr "Stretnutia jazykových komunít"
+
+#: community/events.md:block 19 (paragraph)
+msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
+msgstr "Diskutujte o jazykovo zameraných technických novinkách a výzvach s Wikimediánmi z rôznych jazykových komunít."
+
+#: community/events.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
+
+#: community/grow.md:meta.title community/grow.md:title
+#: community/grow.md:block 1 (header)
+msgid "Learn and share technical skills"
+msgstr "Učte sa a zdieľajte technické zručnosti"
+
+#: community/grow.md:block 3 (header)
+msgid "Outreach and mentoring programs"
+msgstr "Programy na zapájanie a mentoring"
+
+#: community/grow.md:block 4 (paragraph)
+msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
+msgstr "Rozvíjajte svoje zručnosti prostredníctvom stáží a mentoringových programov ako Outreachy a Google Summer of Code."
+
+#: community/grow.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+
+#: community/grow.md:block 6 (header) get-started/wikimedia-tech.md:block 6
+#: (header)
+msgid "Videos and tech talks"
+msgstr "Videá a technické prednášky"
+
+#: community/grow.md:block 7 (paragraph) get-started/wikimedia-tech.md:block 7
+#: (paragraph)
+msgid "Learn about Wikimedia technology through recorded presentations from the community."
+msgstr "Spoznajte technológie Wikimedia prostredníctvom nahraných prezentácií z komunity."
+
+#: community/grow.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
+msgstr "[Navštíviť kanál na YouTube](https://www.youtube.com/user/watchmediawiki/videos)"
+
+#: community/grow.md:block 9 (header)
+msgid "Tech ambassadors"
+msgstr "Technickí ambasádori"
+
+#: community/grow.md:block 10 (paragraph)
+msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
+msgstr "Venujte svoje zručnosti ako dobrovoľník a pomáhajte Wikimediánom riešiť technické problémy a spájať vývojárov s lokálnymi wiki."
+
+#: community/grow.md:block 11 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+
+#: community/tech-ops.md:meta.title community/tech-ops.md:title
+msgid "Learn about Wikimedia technical operations"
+msgstr "Spoznajte technické operácie Wikimedia"
+
+#: community/tech-ops.md:block 1 (header)
+msgid "Wikimedia technical operations"
+msgstr "Technické operácie Wikimedia"
+
+#: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
+#: 9 (header)
+msgid "Cloud tools and services"
+msgstr "Cloudové nástroje a služby"
+
+#: community/tech-ops.md:block 4 (paragraph)
+#: get-started/wikimedia-tech.md:block 10 (paragraph)
+msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
+msgstr "Spoznajte zdieľaný hosting, dátové služby a ďalšiu infraštruktúrnu podporu pre technické príspevky do projektov Wikimedia."
+
+#: community/tech-ops.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+
+#: community/tech-ops.md:block 6 (header)
+msgid "Performance monitoring"
+msgstr "Monitorovanie výkonu"
+
+#: community/tech-ops.md:block 7 (paragraph)
+msgid "Monitor the current and past performance of Wikimedia sites."
+msgstr "Sledujte aktuálny a minulý výkon stránok Wikimedia."
+
+#: community/tech-ops.md:block 8 (unordered list)
+msgid "[Read more](https://performance.wikimedia.org/)"
+msgstr "[Prečítať si viac](https://performance.wikimedia.org/)"
+
+#: community/tech-ops.md:block 9 (header)
+msgid "Security policies"
+msgstr "Bezpečnostné zásady"
+
+#: community/tech-ops.md:block 10 (paragraph)
+msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
+msgstr "Prečítajte si bezpečnostné zásady pre platformu MediaWiki a nadáciu Wikimedia."
+
+#: community/tech-ops.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+
+#: community/tech-ops.md:block 12 (header)
+msgid "Software deployments"
+msgstr "Nasadenia softvéru"
+
+#: community/tech-ops.md:block 13 (paragraph)
+msgid "Track software deployments to Wikimedia Foundation servers."
+msgstr "Sledujte nasadenia softvéru na servery nadácie Wikimedia."
+
+#: community/tech-ops.md:block 14 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
+
+#: community/tech-ops.md:block 15 (header)
+msgid "Structured data infrastructure"
+msgstr "Infraštruktúra štruktúrovaných dát"
+
+#: community/tech-ops.md:block 16 (paragraph)
+msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
+msgstr "Wikibase je open source softvér pre kolaboratívne databázy poznatkov a prepojené otvorené dáta. Spoznajte systémovú architektúru softvéru, ktorý poháňa Wikidáta."
+
+#: community/tech-ops.md:block 17 (unordered list)
+msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
+msgstr "[Prečítať dokumentáciu](https://wmde.github.io/wikidata-wikibase-architecture/)"
+
+#: community/tech-ops.md:block 18 (header)
+msgid "Technical infrastructure"
+msgstr "Technická infraštruktúra"
+
+#: community/tech-ops.md:block 19 (paragraph)
+msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
+msgstr "Spoznajte základnú infraštruktúru Wikimedia, ako sú siete, dátové centrá a logovanie, a prehliadajte si diagramy architektúry."
+
+#: community/tech-ops.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+
+#: community/tech-ops.md:block 21 (header)
+msgid "Product and Technology Advisory Council"
+msgstr "Poradná rada pre produkt a technológie"
+
+#: community/tech-ops.md:block 22 (paragraph)
+msgid "Learn about the Technology Council that advises on technical priorities for the Wikimedia movement."
+msgstr "Spoznajte technologickú radu, ktorá poskytuje poradenstvo k technickým prioritám hnutia Wikimedia."
+
+#: community/tech-ops.md:block 23 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
+
+#: community/updates.md:meta.title community/updates.md:title
+#: community/updates.md:block 1 (header)
+msgid "Get tech project updates"
+msgstr "Získavajte novinky o technických projektoch"
+
+#: community/updates.md:block 3 (header)
+msgid "Tech blog"
+msgstr "Technický blog"
+
+#: community/updates.md:block 4 (paragraph)
+msgid "Read blog posts from the Wikimedia technical community."
+msgstr "Čítajte blogové príspevky z technickej komunity Wikimedia."
+
+#: community/updates.md:block 5 (unordered list)
+msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
+msgstr "[Navštíviť technický blog](https://techblog.wikimedia.org/)"
+
+#: community/updates.md:block 6 (header)
+msgid "Tech news"
+msgstr "Technické novinky"
+
+#: community/updates.md:block 7 (paragraph)
+msgid "Get weekly summaries of technical topics for Wikimedians."
+msgstr "Získavajte týždenné súhrny technických tém pre Wikimediánov."
+
+#: community/updates.md:block 8 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+
+#: contribute/index.md:meta.title contribute/index.md:title
+msgid "Contribute to Wikimedia open source"
+msgstr "Prispievajte do open source Wikimedia"
+
+#: contribute/index.md:block 2 (header)
+msgid "[Learn how contributing works](overview.md)"
+msgstr "[Zistiť, ako funguje prispievanie](overview.md)"
+
+#: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
+#: (paragraph)
+msgid "Get the basics of how to contribute to MediaWiki and other Wikimedia open source projects."
+msgstr "Osvojte si základy toho, ako prispievať do MediaWiki a ďalších open source projektov Wikimedia."
+
+#: contribute/index.md:block 4 (header)
+msgid "[Contribute by topic](by-topic.md)"
+msgstr "[Prispievať podľa témy](by-topic.md)"
+
+#: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
+#: (paragraph)
+msgid "Find ways to contribute, and connect with others with shared interests."
+msgstr "Nájdite spôsoby, ako prispieť, a spojte sa s ostatnými, ktorí majú podobné záujmy."
+
+#: contribute/index.md:block 6 (header)
+msgid "[Contribute by programming language](by-language.md)"
+msgstr "[Prispievať podľa programovacieho jazyka](by-language.md)"
+
+#: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
+#: (paragraph)
+msgid "Choose a project to contribute to based on programming language."
+msgstr "Vyberte si projekt, do ktorého chcete prispievať, podľa programovacieho jazyka."
+
+#: contribute/index.md:block 8 (header)
+msgid "[Search all projects](search.md)"
+msgstr "[Hľadať vo všetkých projektoch](search.md)"
+
+#: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
+#: (paragraph)
+msgid "Search all Wikimedia open source software projects."
+msgstr "Prehľadávajte všetky open source softvérové projekty Wikimedia."
+
+#: contribute/by-language.md:meta.title contribute/by-language.md:title
+msgid "Contribute by programming language"
+msgstr "Prispievajte podľa programovacieho jazyka"
+
+#: contribute/by-language.md:block 2 (header)
+#, optional
+msgid "Python"
+msgstr "Python"
+
+#: contribute/by-language.md:block 6 (header)
+#, optional
+msgid "Scribe-Data"
+msgstr "Scribe-Data"
+
+#: contribute/by-language.md:block 7 (paragraph)
+msgid "Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata."
+msgstr "Scribe-Data je rozhranie príkazového riadka na extrakciu a formátovanie jazykových dát z Wikidát."
+
+#: contribute/by-language.md:block 8 (unordered list)
+msgid "[Contribute](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
+msgstr "[Prispieť](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 8 (unordered list)
+msgid "[Get the source code](https://github.com/scribe-org/Scribe-Data)"
+msgstr "[Získať zdrojový kód](https://github.com/scribe-org/Scribe-Data)"
+
+#: contribute/by-language.md:block 9 (header)
+#, optional
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: contribute/by-language.md:block 10 (header)
+#, optional
+msgid "Codex"
+msgstr "Codex"
+
+#: contribute/by-language.md:block 11 (paragraph)
+msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
+msgstr "Codex je súprava nástrojov na tvorbu používateľských rozhraní v rámci dizajnového systému Wikimedia s použitím frameworku Vue."
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
+msgstr "[Prečítať dokumentáciu](https://doc.wikimedia.org/codex/latest)"
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+msgstr "[Prispieť](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
+msgstr "[Získať zdrojový kód](https://gerrit.wikimedia.org/g/design/codex/)"
+
+#: contribute/by-language.md:block 13 (header)
+msgid "SignIt Firefox Extension"
+msgstr "Rozšírenie SignIt pre Firefox"
+
+#: contribute/by-language.md:block 14 (paragraph)
+msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
+msgstr "Rozšírenie webového prehliadača, ktoré prekladá slová na videá v posunkovom jazyku, takže sa môžete učiť posunkový jazyk počas čítania online."
+
+#: contribute/by-language.md:block 15 (unordered list)
+msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
+msgstr "[Prečítať dokumentáciu](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
+
+#: contribute/by-language.md:block 15 (unordered list)
+msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
+msgstr "[Prispieť](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
+
+#: contribute/by-language.md:block 15 (unordered list)
+msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
+msgstr "[Získať zdrojový kód](https://github.com/lingua-libre/SignIt)"
+
+#: contribute/by-language.md:block 16 (header)
+#, optional
+msgid "VideoCutTool"
+msgstr "VideoCutTool"
+
+#: contribute/by-language.md:block 17 (paragraph)
+msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
+msgstr "Nástroj na úpravu videí na Wikimedia Commons, vytvorený pomocou React JS a Node JS."
+
+#: contribute/by-language.md:block 18 (unordered list)
+msgid "[Read the docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+msgstr "[Prečítať dokumentáciu](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+
+#: contribute/by-language.md:block 18 (unordered list)
+msgid "[Contribute](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
+msgstr "[Prispieť](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
+
+#: contribute/by-language.md:block 18 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
+msgstr "[Získať zdrojový kód](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
+
+#: contribute/by-language.md:block 19 (header)
+#, optional
+msgid "Java"
+msgstr "Java"
+
+#: contribute/by-language.md:block 20 (header)
+msgid "Wikimedia Commons Android app"
+msgstr "Aplikácia Wikimedia Commons pre Android"
+
+#: contribute/by-language.md:block 21 (paragraph)
+msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
+msgstr "Aplikácia Wikimedia Commons pre Android umožňuje používateľom nahrávať obrázky zo svojho zariadenia na Wikimedia Commons."
+
+#: contribute/by-language.md:block 22 (unordered list)
+msgid "[Read the docs](https://commons-app.github.io/)"
+msgstr "[Prečítať dokumentáciu](https://commons-app.github.io/)"
+
+#: contribute/by-language.md:block 22 (unordered list)
+msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+msgstr "[Prispieť](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+
+#: contribute/by-language.md:block 22 (unordered list)
+msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
+msgstr "[Získať zdrojový kód](https://github.com/commons-app/apps-android-commons)"
+
+#: contribute/by-language.md:block 23 (header)
+#, optional
+msgid "Kotlin"
+msgstr "Kotlin"
+
+#: contribute/by-language.md:block 24 (header)
+msgid "Kiwix"
+msgstr "Kiwix"
+
+#: contribute/by-language.md:block 25 (paragraph)
+msgid "An offline reader for people without internet access."
+msgstr "Offline čítačka pre ľudí bez prístupu na internet."
+
+#: contribute/by-language.md:block 26 (unordered list)
+msgid "[Read the docs](https://www.kiwix.org/)"
+msgstr "[Prečítať dokumentáciu](https://www.kiwix.org/)"
+
+#: contribute/by-language.md:block 26 (unordered list)
+msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
+msgstr "[Prispieť](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 26 (unordered list)
+msgid "[Get the source code](https://github.com/kiwix/)"
+msgstr "[Získať zdrojový kód](https://github.com/kiwix/)"
+
+#: contribute/by-language.md:block 27 (header)
+#, optional
+msgid "Scribe"
+msgstr "Scribe"
+
+#: contribute/by-language.md:block 28 (paragraph)
+msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
+msgstr "Klávesnice založené na Wikidátach pre tých, čo sa učia druhý jazyk, vrátane prekladu, časovania slovies a označovania rodu podstatných mien."
+
+#: contribute/by-language.md:block 29 (unordered list)
+msgid "[Get the source code](https://github.com/scribe-org)"
+msgstr "[Získať zdrojový kód](https://github.com/scribe-org)"
+
+#: contribute/by-language.md:block 29 (unordered list)
+msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
+msgstr "[Prispieť (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 29 (unordered list)
+msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
+msgstr "[Prispieť (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 30 (header)
+#, optional
+msgid "Go"
+msgstr "Go"
+
+#: contribute/by-language.md:block 31 (header)
+#, optional
+msgid "Blubber"
+msgstr "Blubber"
+
+#: contribute/by-language.md:block 32 (paragraph)
+msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
+msgstr "Blubber je infraštruktúrny nástroj, ktorý konfiguruje kontajnery Docker a testuje kód ako súčasť pipeline kontinuálnej integrácie Wikimedia."
+
+#: contribute/by-language.md:block 33 (unordered list)
+msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
+msgstr "[Prečítať dokumentáciu](https://doc.wikimedia.org/releng/blubber/)"
+
+#: contribute/by-language.md:block 33 (unordered list)
+msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
+msgstr "[Prispieť](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
+
+#: contribute/by-language.md:block 33 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
+msgstr "[Získať zdrojový kód](https://gitlab.wikimedia.org/repos/releng/blubber/)"
+
+#: contribute/by-language.md:block 34 (header)
+#, optional
+msgid "PHP"
+msgstr "PHP"
+
+#: contribute/by-language.md:block 35 (header) contribute/by-topic.md:block 3
+#: (header) get-started/wikimedia-tech.md:block 12 (header)
+#, optional
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#: contribute/by-language.md:block 36 (paragraph) contribute/by-topic.md:block
+#: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
+msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
+msgstr "MediaWiki je softvér, ktorý poháňa Wikipédiu, jej sesterské projekty a tisíce wiki po celom svete."
+
+#: contribute/by-language.md:block 37 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
+msgstr "[Navštíviť mediawiki.org](https://www.mediawiki.org/)"
+
+#: contribute/by-language.md:block 37 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+msgstr "[Prispieť](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+
+#: contribute/by-language.md:block 37 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+msgstr "[Získať zdrojový kód](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+
+#: contribute/by-language.md:block 38 (header)
+#, optional
+msgid "Ruby"
+msgstr "Ruby"
+
+#: contribute/by-language.md:block 39 (header)
+msgid "Wiki Education Dashboard"
+msgstr "Wiki Education Dashboard"
+
+#: contribute/by-language.md:block 40 (paragraph)
+msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
+msgstr "Wiki Education Dashboard je webová aplikácia, ktorá podporuje vzdelávacie zadania na Wikipédii, edit-a-thony a ďalšie editačné projekty, vytvorená pomocou Ruby on Rails a React."
+
+#: contribute/by-language.md:block 41 (unordered list)
+msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
+msgstr "[Navštíviť nástenku](https://dashboard.wikiedu.org)"
+
+#: contribute/by-language.md:block 41 (unordered list)
+msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+msgstr "[Prispieť](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 41 (unordered list)
+msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+msgstr "[Získať zdrojový kód](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+
+#: contribute/by-language.md:block 42 (header)
+#, optional
+msgid "Rust"
+msgstr "Rust"
+
+#: contribute/by-language.md:block 43 (header)
+#, optional
+msgid "mwbot"
+msgstr "mwbot"
+
+#: contribute/by-language.md:block 44 (paragraph)
+msgid "A framework for writing bots and tools in Rust."
+msgstr "Framework na písanie botov a nástrojov v jazyku Rust."
+
+#: contribute/by-language.md:block 45 (unordered list)
+msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
+msgstr "[Prečítať dokumentáciu](https://docs.rs/mwbot/latest/mwbot/)"
+
+#: contribute/by-language.md:block 45 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+msgstr "[Prispieť](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+
+#: contribute/by-language.md:block 45 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+msgstr "[Získať zdrojový kód](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+
+#: contribute/by-language.md:block 46 (header)
+#, optional
+msgid "Swift"
+msgstr "Swift"
+
+#: contribute/by-topic.md:meta.title contribute/by-topic.md:title
+#: contribute/by-topic.md:block 1 (header)
+msgid "Contribute by topic"
+msgstr "Prispievajte podľa témy"
+
+#: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
+#: 15 (header)
+msgid "Localization and internationalization"
+msgstr "Lokalizácia a internacionalizácia"
+
+#: contribute/by-topic.md:block 7 (paragraph)
+#: get-started/wikimedia-tech.md:block 16 (paragraph)
+msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
+msgstr "Píšte kód, ktorý sa dá lokalizovať, nechajte si svoj kód preložiť a prispejte k tomu, aby boli technológie Wikimedia viacjazyčné."
+
+#: contribute/by-topic.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 17 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+
+#: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
+#: 18 (header)
+msgid "Mobile apps"
+msgstr "Mobilné aplikácie"
+
+#: contribute/by-topic.md:block 10 (paragraph)
+#: get-started/wikimedia-tech.md:block 19 (paragraph)
+msgid "Expand the reach of Wikimedia content by contributing to mobile apps for Wikipedia, Wikimedia Commons, and other projects."
+msgstr "Rozšírte dosah obsahu Wikimedia prispievaním do mobilných aplikácií pre Wikipédiu, Wikimedia Commons a ďalšie projekty."
+
+#: contribute/by-topic.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 20 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+
+#: contribute/by-topic.md:block 12 (header)
+msgid "Documentation"
+msgstr "Dokumentácia"
+
+#: contribute/by-topic.md:block 13 (paragraph)
+msgid "Read the documentation style guide, and find good first tasks for improving documentation."
+msgstr "Prečítajte si štýlovú príručku dokumentácie a nájdite vhodné prvé úlohy na zlepšenie dokumentácie."
+
+#: contribute/by-topic.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
+
+#: contribute/by-topic.md:block 15 (header)
+msgid "Offline reading"
+msgstr "Čítanie offline"
+
+#: contribute/by-topic.md:block 16 (paragraph)
+msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
+msgstr "Rozšírte dosah slobodných vedomostí tým, že pomôžete ľuďom používať Wikipédiu bez prístupu na internet."
+
+#: contribute/by-topic.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+
+#: contribute/by-topic.md:block 18 (header)
+msgid "Infrastructure"
+msgstr "Infraštruktúra"
+
+#: contribute/by-topic.md:block 19 (paragraph)
+msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
+msgstr "Prispievajte do infraštruktúry, ktorá poháňa projekty Wikimedia. Pomôžte zlepšiť výkon a efektívnosť serverov a softvéru Wikimedia."
+
+#: contribute/by-topic.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
+
+#: contribute/overview.md:meta.title contribute/overview.md:title
+#: contribute/overview.md:block 1 (header)
+msgid "Learn how contributing works"
+msgstr "Zistite, ako funguje prispievanie"
+
+#: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
+#: (header)
+msgid "Create a developer account"
+msgstr "Vytvorte si vývojársky účet"
+
+#: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
+#: (paragraph)
+msgid "Most Wikimedia technical spaces use a developer account to identify and authorize users. Create a free account to get started as a technical contributor."
+msgstr "Väčšina technických priestorov Wikimedia používa vývojársky účet na identifikáciu a autorizáciu používateľov. Vytvorte si bezplatný účet a začnite ako technický prispievateľ."
+
+#: contribute/overview.md:block 8 (unordered list)
+#: get-started/new-dev.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+
+#: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
+#: (header)
+msgid "Find projects and tasks for new contributors"
+msgstr "Nájdite projekty a úlohy pre nových prispievateľov"
+
+#: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
+#: (paragraph)
+msgid "Choose from open source projects that offer mentoring for new contributors, and find good first tasks."
+msgstr "Vyberte si z open source projektov, ktoré ponúkajú mentoring pre nových prispievateľov, a nájdite vhodné prvé úlohy."
+
+#: contribute/overview.md:block 11 (unordered list)
+#: get-started/new-dev.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+
+#: contribute/overview.md:block 12 (header)
+msgid "Review guidelines and code conventions"
+msgstr "Preštudujte si pravidlá a konvencie pre kód"
+
+#: contribute/overview.md:block 13 (paragraph)
+msgid "Understand development policies, best practices, and code conventions for Wikimedia software."
+msgstr "Zorientujte sa v zásadách vývoja, osvedčených postupoch a konvenciách pre kód softvéru Wikimedia."
+
+#: contribute/overview.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+
+#: contribute/overview.md:block 15 (header)
+msgid "See your contributions"
+msgstr "Pozrite si svoje príspevky"
+
+#: contribute/overview.md:block 16 (paragraph)
+msgid "Visualize your contributions across Wikimedia's code review and task tracking tools."
+msgstr "Vizualizujte si svoje príspevky naprieč nástrojmi Wikimedia na revíziu kódu a sledovanie úloh."
+
+#: contribute/overview.md:block 17 (unordered list)
+msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
+msgstr "[Navštíviť Tech Contribs](https://techcontribs.toolforge.org/)"
+
+#: contribute/search.md:meta.title contribute/search.md:title
+#: contribute/search.md:block 1 (header)
+msgid "Search all projects"
+msgstr "Hľadajte vo všetkých projektoch"
+
+#: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
+msgid "Search codebases"
+msgstr "Prehľadávajte zdrojové kódy"
+
+#: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
+#: (paragraph)
+msgid "Search all Wikimedia codebases using the code search tool."
+msgstr "Prehľadávajte všetky zdrojové kódy Wikimedia pomocou nástroja na vyhľadávanie v kóde."
+
+#: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
+#: (unordered list)
+msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
+msgstr "[Navštíviť vyhľadávanie kódu](https://codesearch.wmcloud.org/search)"
+
+#: contribute/search.md:block 6 (header)
+msgid "Browse Wikimedia open source docs"
+msgstr "Prehliadajte dokumentáciu open source projektov Wikimedia"
+
+#: contribute/search.md:block 7 (paragraph)
+msgid "Browse auto-generated and related documentation hosted on doc.wikimedia.org."
+msgstr "Prehliadajte automaticky generovanú a súvisiacu dokumentáciu hostovanú na doc.wikimedia.org."
+
+#: contribute/search.md:block 8 (unordered list)
+msgid "[Browse docs](https://doc.wikimedia.org)"
+msgstr "[Prehliadať dokumentáciu](https://doc.wikimedia.org)"
+
+#: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
+#: 7 (header)
+msgid "Browse repositories"
+msgstr "Prehliadajte repozitáre"
+
+#: contribute/search.md:block 10 (paragraph)
+#: get-started/browse-languages.md:block 8 (paragraph)
+msgid "Explore Wikimedia codebases."
+msgstr "Preskúmajte zdrojové kódy Wikimedia."
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
+msgstr "[Prehliadať repozitáre na Gerrite](https://gerrit.wikimedia.org/g/)"
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
+msgstr "[Prehliadať repozitáre na GitHube](https://github.com/wikimedia)"
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
+msgstr "[Prehliadať repozitáre na GitLabe](https://gitlab.wikimedia.org/explore)"
+
+#: contribute/search.md:block 12 (header)
+msgid "Search tools and bots"
+msgstr "Vyhľadávajte nástroje a boty"
+
+#: get-help/index.md:block 2 (paragraph)
+msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
+msgstr "Keďže technický ekosystém Wikimedia je zložitý a distribuovaný, pomoc a podporu nájdete na mnohých rôznych miestach a v rôznych formátoch."
+
+#: get-help/index.md:block 3 (header)
+msgid "Search the docs"
+msgstr "Prehľadávajte dokumentáciu"
+
+#: get-help/index.md:block 4 (paragraph)
+msgid "Find technical information for Wikimedia projects."
+msgstr "Nájdite technické informácie o projektoch Wikimedia."
+
+#: get-help/index.md:block 5 (unordered list)
+msgid "[Search across wikis](https://global-search.toolforge.org/)"
+msgstr "[Vyhľadávať naprieč wiki](https://global-search.toolforge.org/)"
+
+#: get-help/index.md:block 5 (unordered list)
+msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
+msgstr "[Prehliadať dokumentáciu open source projektov Wikimedia](https://doc.wikimedia.org/)"
+
+#: get-help/index.md:block 12 (header)
+msgid "Check system status"
+msgstr "Skontrolujte stav systému"
+
+#: get-help/index.md:block 13 (paragraph)
+msgid "Verify the overall health and performance of the wiki environment, and find out about major outages."
+msgstr "Overte si celkový stav a výkon wiki prostredia a zistite informácie o väčších výpadkoch."
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
+msgstr "[Navštíviť wikimediastatus.net](https://www.wikimediastatus.net/)"
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
+msgstr "[Pozrieť verzie MediaWiki používané na wiki Wikimedia](https://versions.toolforge.org/)"
+
+#: get-help/index.md:block 15 (header)
+msgid "Bugs and feature requests"
+msgstr "Chyby a žiadosti o funkcie"
+
+#: get-help/index.md:block 16 (paragraph)
+msgid "Report bugs and request new features in Wikimedia software."
+msgstr "Nahlasujte chyby a žiadajte o nové funkcie v softvéri Wikimedia."
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+msgstr "[Zistiť, ako nahlásiť chybu](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
+msgstr "[Navštíviť systém na sledovanie úloh Wikimedia](https://phabricator.wikimedia.org)"
+
+#: get-started/index.md:block 1 (header)
+msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
+msgstr "[Spoznať technológie Wikimedia](wikimedia-tech.md)"
+
+#: get-started/index.md:block 2 (paragraph)
+msgid "Explore the open source software and technical components behind Wikimedia projects."
+msgstr "Preskúmajte open source softvér a technické komponenty, ktoré stoja za projektmi Wikimedia."
+
+#: get-started/index.md:block 3 (header)
+msgid "[Understand the development process](new-dev.md)"
+msgstr "[Pochopiť proces vývoja](new-dev.md)"
+
+#: get-started/index.md:block 4 (paragraph)
+msgid "Learn how Wikimedia software projects work and how to make technical contributions."
+msgstr "Zistite, ako fungujú softvérové projekty Wikimedia a ako technicky prispievať."
+
+#: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
+#: (paragraph)
+msgid "Follow coding exercises with step-by-step guidance."
+msgstr "Sledujte programovacie cvičenia s podrobným vedením krok za krokom."
+
+#: get-started/index.md:block 7 (header)
+msgid "[Browse by programming language](browse-languages.md)"
+msgstr "[Prehliadať podľa programovacieho jazyka](browse-languages.md)"
+
+#: get-started/index.md:block 8 (paragraph)
+msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
+msgstr "Nájdite klientske knižnice, ukážkové aplikácie a open source projekty vo svojich obľúbených programovacích jazykoch."
+
+#: get-started/browse-languages.md:meta.title
+#: get-started/browse-languages.md:title
+msgid "Browse by programming language"
+msgstr "Prehliadajte podľa programovacieho jazyka"
+
+#: get-started/browse-languages.md:block 1 (header)
+msgid "API client libraries by language"
+msgstr "Klientske knižnice API podľa jazyka"
+
+#: get-started/browse-languages.md:block 4 (header)
+msgid "Open source projects by language"
+msgstr "Open source projekty podľa jazyka"
+
+#: get-started/browse-languages.md:block 5 (paragraph)
+msgid "Find Wikimedia open source projects by programming language, and start contributing code."
+msgstr "Nájdite open source projekty Wikimedia podľa programovacieho jazyka a začnite prispievať kódom."
+
+#: get-started/browse-languages.md:block 6 (paragraph)
+msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
+msgstr "[Prehliadať projekty](../contribute/by-language.md){ .md-button }"
+
+#: get-started/new-dev.md:meta.title get-started/new-dev.md:title
+#: get-started/new-dev.md:block 1 (header)
+msgid "Understand the development process"
+msgstr "Pochopte proces vývoja"
+
+#: get-started/new-dev.md:block 2 (paragraph)
+msgid "Learn how to make technical contributions to Wikimedia projects."
+msgstr "Zistite, ako technicky prispievať do projektov Wikimedia."
+
+#: get-started/new-dev.md:block 9 (header)
+msgid "Find tickets, and track projects"
+msgstr "Nájdite tikety a sledujte projekty"
+
+#: get-started/new-dev.md:block 10 (paragraph)
+msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
+msgstr "Wikimedia používa Phabricator na správu úloh a nahlasovanie chýb. Ak chcete s úlohami pracovať, vytvorte si účet Phabricator."
+
+#: get-started/new-dev.md:block 11 (unordered list)
+msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
+msgstr "[Navštíviť Phabricator](https://phabricator.wikimedia.org/)"
+
+#: get-started/new-dev.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+
+#: get-started/new-dev.md:block 15 (header)
+msgid "Learn how to submit code"
+msgstr "Zistite, ako odoslať kód"
+
+#: get-started/new-dev.md:block 16 (paragraph)
+msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
+msgstr "Wikimedia používa na revíziu kódu Gerrit a GitLab. Skôr než odošlete kód, oboznámte sa s nástrojmi, procesmi a osvedčenými postupmi."
+
+#: get-started/new-dev.md:block 17 (unordered list)
+msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Prečítať si viac o Gerrite](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+
+#: get-started/new-dev.md:block 17 (unordered list)
+msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
+msgstr "[Prečítať si viac o GitLabe](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
+
+#: get-started/tutorials.md:block 2 (header)
+msgid "Tutorials for using content and data"
+msgstr "Návody na používanie obsahu a dát"
+
+#: get-started/tutorials.md:block 3 (paragraph)
+msgid "Learn the basics of using Wikimedia content and data in your project."
+msgstr "Naučte sa základy používania obsahu a dát Wikimedia vo svojom projekte."
+
+#: get-started/tutorials.md:block 4 (paragraph)
+msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
+msgstr "[Prehliadať návody](../use-content/tutorials.md){ .md-button }"
+
+#: get-started/tutorials.md:block 5 (header)
+msgid "Tutorials for building tools and bots"
+msgstr "Návody na tvorbu nástrojov a botov"
+
+#: get-started/tutorials.md:block 6 (paragraph)
+msgid "Learn the basics of writing code that interacts with Wikimedia projects."
+msgstr "Naučte sa základy písania kódu, ktorý komunikuje s projektmi Wikimedia."
+
+#: get-started/tutorials.md:block 7 (paragraph)
+msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
+msgstr "[Prehliadať návody](../build-tools/tutorials.md){ .md-button }"
+
+#: get-started/wikimedia-tech.md:meta.title
+#: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
+#: (header)
+msgid "Learn about Wikimedia technology"
+msgstr "Spoznajte technológie Wikimedia"
+
+#: get-started/wikimedia-tech.md:block 2 (paragraph)
+msgid "Explore core Wikimedia technology and open source projects."
+msgstr "Preskúmajte základné technológie Wikimedia a open source projekty."
+
+#: get-started/wikimedia-tech.md:block 3 (header)
+msgid "Introduction to Wikimedia technology"
+msgstr "Úvod do technológií Wikimedia"
+
+#: get-started/wikimedia-tech.md:block 4 (paragraph)
+msgid "Learn about the main technical areas where developers can contribute."
+msgstr "Spoznajte hlavné technické oblasti, do ktorých môžu vývojári prispievať."
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+
+#: get-started/wikimedia-tech.md:block 21 (header)
+msgid "Wikibase and Wikidata"
+msgstr "Wikibase a Wikidáta"
+
+#: get-started/wikimedia-tech.md:block 22 (paragraph)
+msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
+msgstr "Wikibase je rozšírenie MediaWiki na prácu so štruktúrovanými dátami a je to softvér, ktorý poháňa Wikidáta."
+
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
+msgid "[Visit wikidata.org](https://www.wikidata.org/)"
+msgstr "[Navštíviť wikidata.org](https://www.wikidata.org/)"
+
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+
+#: use-content/index.md:block 2 (header)
+msgid "[Explore featured apps](featured-apps.md)"
+msgstr "[Preskúmať vybrané aplikácie](featured-apps.md)"
+
+#: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
+#: 2 (paragraph)
+msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
+msgstr "Pozrite si príklady open source aplikácií a vizualizácií dát vytvorených s obsahom a dátami Wikimedia."
+
+#: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
+#: (paragraph)
+msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
+msgstr "Postupujte podľa podrobných návodov krok za krokom a naučte sa základy používania obsahu a dát Wikimedia."
+
+#: use-content/index.md:block 6 (header)
+msgid "[Use wiki content](content.md)"
+msgstr "[Použiť obsah wiki](content.md)"
+
+#: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
+#: (paragraph)
+msgid "Find open source libraries, get started using the API, or download content in bulk."
+msgstr "Nájdite open source knižnice, začnite používať API alebo si stiahnite obsah hromadne."
+
+#: use-content/index.md:block 8 (header)
+msgid "[Access open data](data.md)"
+msgstr "[Získať prístup k otvoreným dátam](data.md)"
+
+#: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
+#: (paragraph)
+msgid "Explore public data that you can use in research and machine learning."
+msgstr "Preskúmajte verejné dáta, ktoré môžete použiť pri výskume a strojovom učení."
+
+#: use-content/index.md:block 10 (header)
+msgid "[High-volume and commercial access](bot-traffic.md)"
+msgstr "[Veľkoobjemový a komerčný prístup](bot-traffic.md)"
+
+#: use-content/index.md:block 11 (paragraph)
+msgid "Review policies and options for sustainable access to Wikimedia infrastructure."
+msgstr "Preštudujte si zásady a možnosti udržateľného prístupu k infraštruktúre Wikimedia."
+
+#: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
+#: use-content/bot-traffic.md:block 1 (header)
+msgid "High-volume and commercial access"
+msgstr "Veľkoobjemový a komerčný prístup"
+
+#: use-content/bot-traffic.md:block 2 (paragraph)
+msgid "High-volume, commercial, and bot access to Wikimedia infrastructure must comply with the following policies to avoid harming Wikipedia and other Wikimedia projects. To prevent your access from being restricted, ensure that you follow these policies."
+msgstr "Veľkoobjemový, komerčný a botový prístup k infraštruktúre Wikimedia musí dodržiavať nasledujúce zásady, aby nepoškodzoval Wikipédiu a ďalšie projekty Wikimedia. Aby váš prístup nebol obmedzený, dbajte na dodržiavanie týchto zásad."
+
+#: use-content/bot-traffic.md:block 3 (header)
+msgid "Review the terms of use"
+msgstr "Preštudujte si podmienky používania"
+
+#: use-content/bot-traffic.md:block 4 (paragraph)
+msgid "Learn about the services that the Wikimedia Foundation provides and how you can comply with the terms of use."
+msgstr "Spoznajte služby, ktoré nadácia Wikimedia poskytuje, a to, ako môžete dodržiavať podmienky používania."
+
+#: use-content/bot-traffic.md:block 5 (unordered list)
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
+msgstr "[Prečítať si viac na riadiacej wiki nadácie Wikimedia](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
+
+#: use-content/bot-traffic.md:block 6 (header)
+msgid "Review the API policy"
+msgstr "Preštudujte si zásady používania API"
+
+#: use-content/bot-traffic.md:block 7 (paragraph)
+msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
+msgstr "Zistite, ako zodpovedne používať API Wikimedia a predísť obmedzeniam prístupu."
+
+#: use-content/bot-traffic.md:block 8 (unordered list)
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
+msgstr "[Prečítať si viac na riadiacej wiki nadácie Wikimedia](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
+
+#: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
+#: (header)
+msgid "Get services for enterprise"
+msgstr "Získajte služby pre podniky"
+
+#: use-content/bot-traffic.md:block 10 (paragraph)
+#: use-content/content.md:block 19 (paragraph)
+msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
+msgstr "Wikimedia Enterprise poskytuje súbor API a služieb navrhnutých pre veľkoobjemový komerčný prístup k obsahu a dátam Wikimedia."
+
+#: use-content/bot-traffic.md:block 11 (unordered list)
+#: use-content/content.md:block 20 (unordered list)
+msgid "[Read more on Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
+msgstr "[Prečítať si viac na Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
+
+#: use-content/bot-traffic.md:block 12 (header)
+msgid "Partner with us"
+msgstr "Staňte sa naším partnerom"
+
+#: use-content/bot-traffic.md:block 13 (paragraph)
+msgid "Contact the Wikimedia Foundation to explore options for technical partnerships."
+msgstr "Kontaktujte nadáciu Wikimedia a preskúmajte možnosti technických partnerstiev."
+
+#: use-content/bot-traffic.md:block 14 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
+
+#: use-content/bot-traffic.md:block 16 (paragraph)
+msgid "Ask questions about bot traffic and high-volume access."
+msgstr "Pýtajte sa na otázky o botovej prevádzke a veľkoobjemovom prístupe."
+
+#: use-content/bot-traffic.md:block 17 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
+msgstr "[Prečítať si viac na Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
+
+#: use-content/content.md:meta.title use-content/content.md:title
+#: use-content/content.md:block 1 (header)
+msgid "Use wiki content"
+msgstr "Používajte obsah wiki"
+
+#: use-content/content.md:block 3 (header)
+msgid "Introduction to Wikimedia projects"
+msgstr "Úvod do projektov Wikimedia"
+
+#: use-content/content.md:block 4 (paragraph)
+msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
+msgstr "Obsah Wikimedia je usporiadaný podľa projektu a jazyka. Každý projekt hostí iný typ slobodného obsahu, napríklad encyklopedické články na Wikipédii, mediálne súbory na Wikimedia Commons a štruktúrované dáta na Wikidátach."
+
+#: use-content/content.md:block 5 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+
+#: use-content/content.md:block 6 (header)
+msgid "Review the terms and conditions"
+msgstr "Preštudujte si zmluvné podmienky"
+
+#: use-content/content.md:block 7 (paragraph)
+msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
+msgstr "Väčšina obsahu Wikimedia je licencovaná pod licenciou Creative Commons, ktorá umožňuje voľné opätovné použitie s uvedením autora. Platnú licenciu nájdete v spodnej časti každej wiki stránky."
+
+#: use-content/content.md:block 8 (unordered list)
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
+msgstr "[Prečítať si viac na riadiacej wiki nadácie Wikimedia](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
+
+#: use-content/data.md:meta.title use-content/data.md:title
+#: use-content/data.md:block 1 (header)
+msgid "Access open data"
+msgstr "Získajte prístup k otvoreným dátam"
+
+#: use-content/data.md:block 3 (header)
+msgid "Use Wikimedia open data"
+msgstr "Používajte otvorené dáta Wikimedia"
+
+#: use-content/data.md:block 4 (paragraph)
+msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
+msgstr "Získajte prístup k verejne dostupným dátam s otvorenou licenciou o projektoch Wikimedia, vrátane hromadných súborov na stiahnutie, prúdov posledných zmien a štatistík stránok."
+
+#: use-content/data.md:block 5 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+msgstr "[Prečítať si viac na Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+
+#: use-content/data.md:block 6 (header)
+msgid "Explore structured data with Wikidata"
+msgstr "Preskúmajte štruktúrované dáta s Wikidátami"
+
+#: use-content/data.md:block 7 (paragraph)
+msgid "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Learn how to access data from Wikidata, and follow best practices for reusing it."
+msgstr "Wikidáta sú slobodná a otvorená databáza poznatkov, ktorú môžu čítať a upravovať ľudia aj stroje. Zistite, ako získať prístup k dátam z Wikidát, a dodržiavajte osvedčené postupy pri ich opätovnom použití."
+
+#: use-content/data.md:block 8 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgstr "[Prečítať si viac na Wikidátach](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+
+#: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
+#: use-content/featured-apps.md:block 1 (header)
+msgid "Explore featured apps"
+msgstr "Preskúmajte vybrané aplikácie"
+
+#: use-content/featured-apps.md:block 3 (header)
+msgid "App gallery"
+msgstr "Galéria aplikácií"
+
+#: use-content/featured-apps.md:block 4 (paragraph)
+msgid "Browse example apps that demonstrate best practices for using Wikimedia APIs, including fetching wiki content, logging in, and editing pages."
+msgstr "Prehliadajte ukážkové aplikácie, ktoré demonštrujú osvedčené postupy používania API Wikimedia, vrátane získavania obsahu wiki, prihlasovania a úpravy stránok."
+
+#: use-content/featured-apps.md:block 5 (unordered list)
+msgid "[Visit the gallery](https://apps-gallery.toolforge.org)"
+msgstr "[Navštíviť galériu](https://apps-gallery.toolforge.org)"
+
+#: use-content/featured-apps.md:block 6 (header)
+msgid "Wikipedia visualizations"
+msgstr "Vizualizácie Wikipédie"
+
+#: use-content/featured-apps.md:block 7 (paragraph)
+msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
+msgstr "„See, also“ je galéria aplikácií, ktoré vizualizujú dáta z Wikipédie. Prezrite si galériu, nechajte sa inšpirovať a spoznajte dostupné dáta a API."
+
+#: use-content/featured-apps.md:block 8 (unordered list)
+msgid "[Visit the gallery](https://seealso.org/)"
+msgstr "[Navštíviť galériu](https://seealso.org/)"
+
+#: use-content/featured-apps.md:block 9 (header)
+msgid "Wikidata visualizations"
+msgstr "Vizualizácie Wikidát"
+
+#: use-content/featured-apps.md:block 10 (paragraph)
+msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
+msgstr "Wikidáta sú strojovo čitateľná databáza poznatkov s miliónmi položiek. Prehliadajte tento zoznam vizualizácií, nechajte sa inšpirovať a pozrite si open source príklady, ako opätovne použiť Wikidáta."
+
+#: use-content/featured-apps.md:block 11 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+msgstr "[Prečítať si viac na Wikidátach](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+
+#: use-content/tutorials.md:block 6 (header)
+msgid "Display information from Wikidata"
+msgstr "Zobrazte informácie z Wikidát"
+
+#: use-content/tutorials.md:block 7 (paragraph)
+msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
+msgstr "Pomocou MediaWiki API získavajte a zobrazujte informácie z Wikidát. Zistite, ako sú články Wikipédie prepojené s Wikidátami a ako spracovať štruktúry Wikidát."
+
+#: use-content/tutorials.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+
+#: use-content/tutorials.md:block 9 (header)
+msgid "Display the picture of the day"
+msgstr "Zobrazte obrázok dňa"
+
+#: use-content/tutorials.md:block 10 (paragraph)
+msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
+msgstr "Naučte sa používať MediaWiki API na získanie denného vybraného obrázka z Wikipédie. Tento návod používa Python a framework Flask."
+
+#: use-content/tutorials.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+
+#: use-content/tutorials.md:block 15 (header)
+msgid "Get started querying Wikidata"
+msgstr "Začnite s dotazovaním Wikidát"
+
+#: use-content/tutorials.md:block 16 (paragraph)
+msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
+msgstr "Naučte sa dotazovať Wikidáta pomocou jazyka SPARQL. Tento návod sa venuje základom Wikidát a tomu, ako používať službu Wikidata Query Service."
+
+#: use-content/tutorials.md:block 17 (unordered list)
+msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
+msgstr "[Prečítať si viac](https://wdqs-tutorial.toolforge.org)"
+
+#: use-content/tutorials.md:block 18 (header)
+msgid "Search articles by location"
+msgstr "Vyhľadávajte články podľa polohy"
+
+#: use-content/tutorials.md:block 19 (paragraph)
+msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
+msgstr "Naučte sa používať MediaWiki API na vyhľadávanie článkov Wikipédie v blízkosti konkrétneho miesta. Tento návod používa JavaScript, Python a framework Flask."
+
+#: use-content/tutorials.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+msgstr "[Prečítať si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+
