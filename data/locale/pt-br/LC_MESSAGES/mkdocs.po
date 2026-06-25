@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Brazilian Portuguese (português do Brasil)
 # Exported from translatewiki.net
 #
+# Author: EGobi
 # Author: Eduardoaddad
 # Author: Felipe L. Ewald
 # Author: Fúlvio
@@ -27,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-18 12:51:18+0000\n"
+"PO-Revision-Date: 2026-06-25 12:21:13+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -445,7 +446,7 @@ msgstr ""
 #: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
 #: (header)
 msgid "Display holidays from Wikipedia"
-msgstr "Exibir feriados da Wikipedia"
+msgstr "Exibir feriados a partir da Wikipédia"
 
 #: build-tools/tutorials.md:block 13 (paragraph)
 #: use-content/tutorials.md:block 4 (paragraph)
