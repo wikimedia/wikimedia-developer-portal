@@ -6,6 +6,7 @@
 # Author: MathXplore
 # Author: Omotecho
 # Author: Shirayuki
+# Author: Tensama0415
 # Author: Whym
 # Author: もなー(偽物)
 # Author: 紅い目の女の子
@@ -31,7 +32,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-18 12:51:17+0000\n"
+"PO-Revision-Date: 2026-06-29 12:27:31+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1270,9 +1271,8 @@ msgid "Visualize your contributions across Wikimedia's code review and task trac
 msgstr "コードレビューとタスク追跡ツールを使うと、ウィキメディア全体への貢献を視覚化。"
 
 #: contribute/overview.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
-msgstr "[WikiContrib にアクセス](https://wikicontrib.toolforge.org/)"
+msgstr "[Tech Contribs にアクセス](https://techcontribs.toolforge.org/)"
 
 #: contribute/search.md:meta.title contribute/search.md:title
 #: contribute/search.md:block 1 (header)
@@ -1470,9 +1470,8 @@ msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code,
 msgstr ""
 
 #: get-started/new-dev.md:block 17 (unordered list)
-#, fuzzy
 msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
-msgstr "[詳細 (MediaWiki.org)](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[詳細 (Gerrit)](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
 
 #: get-started/new-dev.md:block 17 (unordered list)
 msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
