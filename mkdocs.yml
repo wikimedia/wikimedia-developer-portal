@@ -68,6 +68,7 @@ theme:
     - search.share
     - navigation.indexes
     - toc.integrate
+    - announce.dismiss
     # navigation.instant # breaks cross-language navigation
 
 extra_css:
