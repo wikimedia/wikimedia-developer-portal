@@ -1,0 +1,1789 @@
+# Translation of Wikimedia Developer Portal to Persian (فارسی)
+# Exported from translatewiki.net
+#
+# Author: Jeeputer
+# Author: Mohammad ebz
+# Author: Rulebased
+# --
+# Copyright (c) 2022 Wikimedia Foundation and contributors.
+# All Rights Reserved.
+#
+# This file is part of Wikimedia Developer Portal.
+# Wikimedia Developer Portal is free software: you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or (at your
+# option) any later version.
+#
+# Wikimedia Developer Portal is distributed in the hope that it will be
+# useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+# Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# Wikimedia Developer Portal.  If not, see <http://www.gnu.org/licenses/>.
+#
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2026-07-16 12:25:51+0000\n"
+"X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Project-Id-Version: Wikimedia Developer Portal\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Generator: MediaWiki 1.47.0-alpha; Translate 2025-07-31\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: mkdocs.yml:site_name
+msgid "Wikimedia Developer Portal"
+msgstr "درگاه توسعه‌دهندگان ویکی‌مدیا"
+
+#: mkdocs.yml:site_description
+msgid "Find technical documentation, and connect with Wikimedia developer communities."
+msgstr "مستندات فنی را پیدا کنید و با جوامع توسعه‌دهندگان ویکی‌مدیا ارتباط برقرار کنید."
+
+#: mkdocs.yml:site_author
+msgid "Wikimedia Foundation and contributors"
+msgstr "بنیاد ویکی‌مدیا و مشارکت‌کنندگان"
+
+#: mkdocs.yml:copyright
+msgid "Copyright &copy; Wikimedia Foundation and contributors"
+msgstr "حق نشر © بنیاد ویکی‌مدیا و مشارکت‌کنندگان"
+
+#: mkdocs.yml:extra.footer_links.0
+msgid "Privacy policy"
+msgstr "سیاست محرمانگی"
+
+#: mkdocs.yml:extra.footer_links.1
+msgid "Terms of Use"
+msgstr "شرایط استفاده"
+
+#: mkdocs.yml:extra.footer_links.2
+msgid "Code: GPL-3.0-or-later"
+msgstr "کد: GPL-3.0-یا-جدیدتر"
+
+#: mkdocs.yml:extra.footer_links.3
+msgid "Content: CC-BY-SA-4.0"
+msgstr "محتوا: CC-BY-SA-4.0"
+
+#: mkdocs.yml:extra.footer_links.4
+msgid "About"
+msgstr "درباره"
+
+#: mkdocs.yml:extra.footer_links.5 mkdocs.yml:navigation
+msgid "Contribute"
+msgstr "مشارکت"
+
+#: mkdocs.yml:navigation build-tools/get-started.md:title
+#: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
+#: get-started/index.md:title
+msgid "Get started"
+msgstr "شروع کنید"
+
+#: mkdocs.yml:navigation use-content/index.md:meta.title
+#: use-content/index.md:title
+msgid "Use content and data"
+msgstr "استفاده از محتوا و داده‌ها"
+
+#: mkdocs.yml:navigation build-tools/index.md:meta.title
+#: build-tools/index.md:title
+msgid "Tools and bots"
+msgstr "ابزارها و ربات‌ها"
+
+#: mkdocs.yml:navigation community/index.md:meta.title
+#: community/index.md:title
+msgid "Community"
+msgstr "جامعه"
+
+#: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
+#: get-help/index.md:block 1 (header) use-content/bot-traffic.md:block 15
+#: (header)
+msgid "Get help"
+msgstr "دریافت کمک"
+
+#: index.md:meta.title index.md:title
+msgid "Discover and build Wikimedia technology"
+msgstr "کشف و ساخت فناوری ویکی‌مدیا"
+
+#: index.md:block 1 (paragraph)
+msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
+msgstr "اسناد فنی را بیابید و با جامعه توسعه دهندگان پشت [ویکی پدیا](https://www.wikipedia.org/) و سایر [پروژه های ویکی مدیا](https://wikimediafoundation.org/our-work/wikimedia-projects/) ارتباط برقرار کنید."
+
+#: index.md:block 2 (paragraph)
+msgid "[Get started](get-started/){ .md-button }"
+msgstr "[شروع کنید](get-started/){ .md-button }"
+
+#: index.md:block 4 (header)
+msgid "[Use Wikimedia content and data](use-content/)"
+msgstr "[استفاده از محتوا و داده‌های ویکی‌مدیا](use-content/)"
+
+#: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
+msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
+msgstr "با استفاده از APIهای عمومی و دانلودها، به مقالات ویکی‌پدیا، پرونده‌های رسانه‌ای، دادگان ساختاریافته و موارد دیگر دسترسی پیدا کنید."
+
+#: index.md:block 7 (header)
+msgid "[Build tools and bots](build-tools/)"
+msgstr "[ساخت ابزارها و ربات‌ها](build-tools/)"
+
+#: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
+msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
+msgstr "ابزارها و ربات‌ها ویرایش و نگهداری پروژه‌های ویکی‌مدیا را آسان‌تر می‌کنند."
+
+#: index.md:block 10 (header)
+msgid "[Contribute to Wikimedia open source](contribute/)"
+msgstr "[مشارکت در ویکی‌مدیا متن‌باز](contribute/)"
+
+#: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
+msgid "Help build the Wikimedia ecosystem with open source software."
+msgstr "به ساخت اکوسیستم ویکی‌مدیا با نرم‌افزار متن‌باز کمک کنید."
+
+#: index.md:block 13 (header)
+msgid "[Connect with the community](community/)"
+msgstr "[ارتباط با جامعه](community/)"
+
+#: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
+msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
+msgstr "با جامعه فنی ویکی‌مدیا همراه شوید و فرصت‌هایی برای پشتیبانی و یادگیری پیدا کنید."
+
+#: index.md:block 16 (header)
+msgid "[Get help](get-help/)"
+msgstr "[دریافت راهنمایی](get-help/)"
+
+#: index.md:block 17 (paragraph)
+msgid "Find resources to help with questions and troubleshooting."
+msgstr "منابعی را برای کمک به سوالات و رفع اشکال پیدا کنید."
+
+#: build-tools/index.md:block 2 (header)
+msgid "[Discover and share tools](search.md)"
+msgstr "[کاوش و اشتراک‌گذاری ابزار‌ها](search.md)"
+
+#: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
+#: (paragraph)
+msgid "Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata."
+msgstr "فهرست ابزارها را در Toolhub مرور کنید، ابزارهای خود را به اشتراک بگذارید و به نگهداری فراداده‌های ابزار کمک کنید."
+
+#: build-tools/index.md:block 4 (header)
+msgid "[Get started](get-started.md)"
+msgstr "[آغاز کنید](get-started.md)"
+
+#: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
+#: (paragraph)
+msgid "Create your first tool, learn about running a bot, and get best practices."
+msgstr "اولین ابزار خود را بسازید، در مورد اجرای یک ربات یاد بگیرید و بهترین شیوه‌ها را بیاموزید."
+
+#: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
+#: use-content/index.md:block 4 (header)
+msgid "[Learn with tutorials](tutorials.md)"
+msgstr "[با آموزش‌ها یاد بگیرید](tutorials.md)"
+
+#: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
+#: (paragraph)
+msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
+msgstr "راهنماهای گام به گام را دنبال کنید تا اصول تعامل با پروژه‌های ویکی‌مدیا را یاد بگیرید."
+
+#: build-tools/index.md:block 8 (header)
+msgid "[Use APIs and data sources](apis.md)"
+msgstr "[استفاده از APIها و منابع داده](apis.md)"
+
+#: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
+#: (paragraph)
+msgid "Explore programming interfaces for building bots and tools."
+msgstr "رابط‌های برنامه‌نویسی برای ساخت ربات‌ها و ابزارها را بررسی کنید."
+
+#: build-tools/index.md:block 10 (header)
+msgid "[Host tools on Wikimedia servers](host-tools.md)"
+msgstr "[ابزارهای میزبان روی سرورهای ویکی‌مدیا](host-tools.md)"
+
+#: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
+#: (paragraph)
+msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
+msgstr "به خدمات ابری برای انجام تجزیه و تحلیل، مدیریت ربات‌ها، اجرای سرویس‌های وب و میزبانی ابزارهایی که به پروژه‌های ویکی‌مدیا کمک می‌کنند، دسترسی داشته باشید."
+
+#: build-tools/apis.md:meta.title build-tools/apis.md:title
+#: build-tools/apis.md:block 1 (header)
+msgid "Use APIs and data sources"
+msgstr "استفاده از APIها و منابع داده"
+
+#: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
+#: (header)
+#, optional
+msgid "Pywikibot"
+msgstr ""
+
+#: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
+#: (paragraph)
+msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
+msgstr "Pywikibot یک کتابخانه پایتون و مجموعه‌ای از اسکریپت‌ها است که کار بر روی پروژه‌های ویکی‌مدیا را خودکار می‌کند."
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[مطالعهٔ بیشتر بر روی mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr "[مشارکت](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
+msgstr "[دریافت کد منبع](https://gerrit.wikimedia.org/g/pywikibot/core)"
+
+#: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
+#: (header)
+msgid "Browse libraries by programming language"
+msgstr "مرور کتابخانه‌ها بر اساس زبان برنامه‌نویسی"
+
+#: build-tools/apis.md:block 7 (paragraph)
+#: get-started/browse-languages.md:block 2 (paragraph)
+#: use-content/content.md:block 10 (paragraph)
+msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
+msgstr "کتابخانه‌های کلاینت API نوشتن کدی که با یک API تعامل دارد را آسان‌تر می‌کنند. برای مرور کتابخانه‌های محبوب برای API مدیاویکی بر اساس زبان برنامه‌نویسی، از این فهرست دیدن کنید."
+
+#: build-tools/apis.md:block 8 (unordered list)
+#: get-started/browse-languages.md:block 3 (unordered list)
+#: use-content/content.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+msgstr "[مطالعهٔ بیشتر بر روی mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+
+#: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
+#: (header)
+msgid "Use the API"
+msgstr "از API استفاده کنید"
+
+#: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
+#: (paragraph)
+msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
+msgstr "رابط برنامه‌نویسی کاربردی (API) مدیاویکی به شما امکان دسترسی برنامه‌نویسی‌شده به محتوا در هر ویکی ویکی‌مدیا را می‌دهد. می‌توانید از این رابط برنامه‌نویسی کاربردی برای جستجو و نمایش صفحات ویکی، دریافت پرونده‌های رسانه‌ای، ویرایش صفحات و مدیریت ویکی‌ها استفاده کنید."
+
+#: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
+#: 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
+msgstr "[مطالعهٔ بیشتر بر روی mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
+
+#: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
+#: 14 (unordered list)
+msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+msgstr "[صفحهٔ تمرین را امتحان کنید](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+
+#: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
+#: (header) use-content/data.md:block 9 (header)
+msgid "Download content in bulk"
+msgstr "دانلود محتوا به صورت bulk"
+
+#: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
+#: (paragraph) use-content/data.md:block 10 (paragraph)
+msgid "Access free downloads of wiki content and data that you can use in research, offline reading, bot editing, and other projects."
+msgstr "به دانلود رایگان محتوا و داده‌های ویکی دسترسی داشته باشید که می‌توانید در تحقیق، مطالعه آفلاین، ویرایش ربات و سایر پروژه‌ها از آنها استفاده کنید."
+
+#: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
+#: 17 (unordered list) use-content/data.md:block 11 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[مطالعهٔ بیشتر بر روی فراویکی](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+
+#: build-tools/apis.md:block 15 (header)
+msgid "Query wiki databases"
+msgstr ""
+
+#: build-tools/apis.md:block 16 (paragraph)
+msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
+msgstr ""
+
+#: build-tools/apis.md:block 17 (unordered list)
+msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
+msgstr ""
+
+#: build-tools/apis.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+msgstr ""
+
+#: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
+#: 3 (header)
+msgid "Build your first tool"
+msgstr "اولین ابزار خود را بسازید"
+
+#: build-tools/get-started.md:block 4 (paragraph)
+#: build-tools/tutorials.md:block 4 (paragraph)
+msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
+msgstr "یاد بگیرید که چگونه صفحات ویکی را با استفاده از پایتون و فریم‌ورک Pywikibot ویرایش کنید. این آموزش به شما کمک می‌کند تا به سرعت و فقط با استفاده از مرورگر خود شروع به کار کنید."
+
+#: build-tools/get-started.md:block 5 (unordered list)
+#: build-tools/tutorials.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr "[مطالعهٔ بیشتر بر روی mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+
+#: build-tools/get-started.md:block 6 (header)
+msgid "Learn about creating and running bots"
+msgstr "دربارهٔ ایجاد و اجرای ربات‌ها بیشتر بدانید"
+
+#: build-tools/get-started.md:block 7 (paragraph)
+msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
+msgstr "ربات‌ها با انجام وظایف تکراری به حفظ ویکی‌ها کمک می‌کنند. با یادگیری بهترین شیوه‌ها، شروع به ایجاد و اجرای ربات‌ها کنید."
+
+#: build-tools/get-started.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr "[مطالعهٔ بیشتر بر روی mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+
+#: build-tools/get-started.md:block 9 (header)
+msgid "Best practices for open source tools"
+msgstr "بهترین شیوه‌ها برای ابزارهای متن‌باز"
+
+#: build-tools/get-started.md:block 10 (paragraph)
+msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
+msgstr "در زمینه متن‌باز تازه‌کار هستید؟ نکاتی برای کمک به توسعه ابزارها و ربات‌های موفق، از جمله انتخاب مجوز، انتشار کد و نوشتن مستندات، دریافت کنید."
+
+#: build-tools/get-started.md:block 11 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+msgstr "[مطالعهٔ بیشتر بر روی ویکی‌فنی](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+
+#: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
+#: build-tools/host-tools.md:block 1 (header)
+msgid "Host tools on Wikimedia servers"
+msgstr "میزبانی ابزارها روی سرورهای ویکی‌مدیا"
+
+#: build-tools/host-tools.md:block 3 (header)
+msgid "Run scripts in your browser"
+msgstr "اجرای اسکریپت‌ها در مرورگر شما"
+
+#: build-tools/host-tools.md:block 4 (paragraph)
+msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
+msgstr "PAWS یک محیط رایگان و ابری برای ایجاد اسکریپت‌ها و مصورسازی داده‌های مربوط به پروژه‌های ویکی‌مدیا است. برای شروع، با حساب ویکی‌مدیای خود وارد شوید و یک دفترچه یادداشت ایجاد کنید."
+
+#: build-tools/host-tools.md:block 5 (unordered list)
+msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
+msgstr "[به PAWS مراجعه کنید](https://hub-paws.wmcloud.org/)"
+
+#: build-tools/host-tools.md:block 5 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
+msgstr "[مطالعهٔ بیشتر بر روی ویکی‌فنی](https://wikitech.wikimedia.org/wiki/PAWS)"
+
+#: build-tools/host-tools.md:block 6 (header)
+msgid "Learn about cloud hosting for tools"
+msgstr "دربارهٔ میزبانی ابری برای ابزارها بیشتر بدانید"
+
+#: build-tools/host-tools.md:block 7 (paragraph)
+msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
+msgstr "Toolforge یک محیط میزبانی رایگان برای اجرا و مدیریت ابزارها است. توسعه یک ابزار در Toolforge دسترسی به محتوا و داده‌های ویکی‌مدیا و اشتراک‌گذاری ابزار شما با دیگران را آسان‌تر می‌کند."
+
+#: build-tools/host-tools.md:block 8 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+msgstr "[مطالعهٔ بیشتر بر روی Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+
+#: build-tools/search.md:meta.title build-tools/search.md:title
+#: build-tools/search.md:block 1 (header)
+msgid "Discover and share tools"
+msgstr "کاوش و همرسانی ابزارها"
+
+#: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
+#: 12 (header)
+#, optional
+msgid "Toolhub"
+msgstr ""
+
+#: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
+#: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
+msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
+msgstr "Toolhub مجموعه‌ای از ابزارها است که ویرایش و نگهداری پروژه‌های ویکی‌مدیا را آسان‌تر می‌کند. از Toolhub برای کشف ابزارهای جدید، ارتباط با توسعه‌دهندگان ابزارها و به اشتراک گذاشتن فهرست ابزارهای مورد علاقه‌تان استفاده کنید."
+
+#: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
+#: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
+msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
+msgstr "[به Toolhub مراجعه کنید](https://toolhub.wikimedia.org/)"
+
+#: build-tools/search.md:block 6 (header)
+msgid "Share a tool"
+msgstr "اشتراک گذاری یک ابزار"
+
+#: build-tools/search.md:block 7 (paragraph)
+msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
+msgstr "ابزار خود را به کاتالوگ Toolhub اضافه کنید تا دیگران بتوانند از آن بهره‌مند شوند و بر اساس کار شما کار کنند. برای شروع، با حساب ویکی‌مدیای خود وارد Toolhub شوید."
+
+#: build-tools/search.md:block 8 (unordered list)
+msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+msgstr "[افزودن یک ابزار به Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+
+#: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
+#: build-tools/tutorials.md:block 1 (header)
+#: get-started/tutorials.md:meta.title get-started/tutorials.md:title
+#: use-content/tutorials.md:meta.title use-content/tutorials.md:title
+#: use-content/tutorials.md:block 1 (header)
+msgid "Learn with tutorials"
+msgstr "با آموزش‌ها یاد بگیرید"
+
+#: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
+#: (header)
+msgid "Generate ideas for articles"
+msgstr "ایده پردازی برای مقالات"
+
+#: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
+#: 13 (paragraph)
+msgid "Learn how to use the MediaWiki API to generate ideas for new Wikipedia articles. This tutorial uses Python and the Flask framework."
+msgstr ""
+
+#: build-tools/tutorials.md:block 8 (unordered list)
+#: use-content/tutorials.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr ""
+
+#: build-tools/tutorials.md:block 9 (header)
+msgid "Write a bot that uses Wikidata"
+msgstr "نوشتن رباتی که از ویکی‌داده استفاده می‌کند"
+
+#: build-tools/tutorials.md:block 10 (paragraph)
+msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
+msgstr "با استفاده از پایتون دادگان بزرگ ویکی‌داده را مدیریت کنید و داده‌ها را بین ابزارها در گردش کار خود انتقال دهید."
+
+#: build-tools/tutorials.md:block 11 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+msgstr ""
+
+#: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
+#: (header)
+msgid "Display holidays from Wikipedia"
+msgstr "نمایش تعطیلات از ویکی‌پدیا"
+
+#: build-tools/tutorials.md:block 13 (paragraph)
+#: use-content/tutorials.md:block 4 (paragraph)
+msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
+msgstr "یاد بگیرید که چگونه از API مدیاویکی برای دریافت تعطیلات برای یک تاریخ مشخص از ویکی‌پدیا استفاده کنید. این آموزش همچنین نحوهٔ استفاده از API برای ورود به ویکی‌پدیا و اضافه کردن تعطیلات جدید را پوشش می‌دهد. این آموزش از پایتون و فریم‌ورک Flask استفاده می‌کند."
+
+#: build-tools/tutorials.md:block 14 (unordered list)
+#: use-content/tutorials.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+msgstr "[مطالعهٔ بیشتر بر روی mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+
+#: build-tools/tutorials.md:block 15 (header)
+msgid "Add JavaScript or CSS to a wiki"
+msgstr "افزودن جاوا اسکریپت یا CSS به ویکی"
+
+#: build-tools/tutorials.md:block 16 (paragraph)
+msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
+msgstr ""
+
+#: build-tools/tutorials.md:block 17 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+msgstr ""
+
+#: build-tools/tutorials.md:block 18 (header)
+msgid "Host a tool on Wikimedia cloud servers"
+msgstr ""
+
+#: build-tools/tutorials.md:block 19 (paragraph)
+msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
+msgstr ""
+
+#: build-tools/tutorials.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
+msgstr ""
+
+#: community/index.md:block 2 (header)
+msgid "[Explore hackathons and events](events.md)"
+msgstr ""
+
+#: community/index.md:block 3 (paragraph) community/events.md:block 2
+#: (paragraph)
+msgid "Browse content from past events, or join an upcoming event."
+msgstr ""
+
+#: community/index.md:block 4 (header)
+msgid "[Communicate with the tech community](communicate.md)"
+msgstr ""
+
+#: community/index.md:block 5 (paragraph) community/communicate.md:block 2
+#: (paragraph)
+msgid "Understand communication channels and how to connect with Wikimedia developers."
+msgstr ""
+
+#: community/index.md:block 6 (header)
+msgid "[Learn and share technical skills](grow.md)"
+msgstr ""
+
+#: community/index.md:block 7 (paragraph) community/grow.md:block 2
+#: (paragraph)
+msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
+msgstr ""
+
+#: community/index.md:block 8 (header)
+msgid "[Get tech project updates](updates.md)"
+msgstr ""
+
+#: community/index.md:block 9 (paragraph) community/updates.md:block 2
+#: (paragraph)
+msgid "Stay up to date with the latest from the Wikimedia technical community."
+msgstr ""
+
+#: community/index.md:block 10 (header)
+msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
+msgstr ""
+
+#: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
+#: (paragraph)
+msgid "Find information about the infrastructure and teams behind Wikimedia technology."
+msgstr ""
+
+#: community/communicate.md:meta.title community/communicate.md:title
+#: community/communicate.md:block 1 (header)
+msgid "Communicate with the tech community"
+msgstr "با جامعه فناوری ارتباط برقرار کنید"
+
+#: community/communicate.md:block 3 (header) contribute/overview.md:block 3
+#: (header) get-started/new-dev.md:block 12 (header)
+msgid "Read the code of conduct"
+msgstr ""
+
+#: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
+#: (paragraph) get-started/new-dev.md:block 13 (paragraph)
+msgid "The code of conduct for Wikimedia technical spaces applies to both physical and virtual environments. Learn how to foster an open and welcoming community."
+msgstr ""
+
+#: community/communicate.md:block 5 (unordered list)
+#: contribute/overview.md:block 5 (unordered list)
+#: get-started/new-dev.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+msgstr ""
+
+#: community/communicate.md:block 6 (header) get-help/index.md:block 9
+#: (header)
+msgid "Communication channels"
+msgstr "کانال‌های ارتباطی"
+
+#: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
+#: (paragraph)
+msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
+msgstr ""
+
+#: community/communicate.md:block 8 (unordered list) get-help/index.md:block
+#: 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr ""
+
+#: community/communicate.md:block 9 (header)
+msgid "Find code maintainers and stewards"
+msgstr ""
+
+#: community/communicate.md:block 10 (paragraph)
+msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
+msgstr ""
+
+#: community/communicate.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+msgstr ""
+
+#: community/events.md:meta.title community/events.md:title
+#: community/events.md:block 1 (header)
+msgid "Explore hackathons and events"
+msgstr ""
+
+#: community/events.md:block 3 (header)
+msgid "Hackathons"
+msgstr ""
+
+#: community/events.md:block 4 (paragraph)
+msgid "A hackathon brings together people with different skills to work together on a common technical goal."
+msgstr ""
+
+#: community/events.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+msgstr ""
+
+#: community/events.md:block 6 (header)
+msgid "Wikidata events"
+msgstr "وقایع ویکی‌داده"
+
+#: community/events.md:block 7 (paragraph)
+msgid "Browse meetups for Wikidata editors, data reusers, and developers."
+msgstr ""
+
+#: community/events.md:block 8 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+msgstr ""
+
+#: community/events.md:block 9 (header)
+msgid "Research events"
+msgstr "رویدادهای پژوهشی"
+
+#: community/events.md:block 10 (paragraph)
+msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
+msgstr ""
+
+#: community/events.md:block 11 (unordered list)
+msgid "[Read more](https://research.wikimedia.org/events.html)"
+msgstr ""
+
+#: community/events.md:block 12 (header)
+msgid "MediaWiki developer events"
+msgstr "رویدادهای توسعه‌دهندگان مدیاویکی"
+
+#: community/events.md:block 13 (paragraph)
+msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
+msgstr ""
+
+#: community/events.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+msgstr ""
+
+#: community/events.md:block 15 (header)
+msgid "Coolest Tool Award"
+msgstr ""
+
+#: community/events.md:block 16 (paragraph)
+msgid "This annual award event celebrates volunteer developer contributions."
+msgstr ""
+
+#: community/events.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+msgstr ""
+
+#: community/events.md:block 18 (header)
+msgid "Language community meetings"
+msgstr "جلسات انجمن‌های زبانی"
+
+#: community/events.md:block 19 (paragraph)
+msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
+msgstr ""
+
+#: community/events.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
+msgstr ""
+
+#: community/grow.md:meta.title community/grow.md:title
+#: community/grow.md:block 1 (header)
+msgid "Learn and share technical skills"
+msgstr "یادگیری و اشتراک‌گذاری مهارت‌های فنی"
+
+#: community/grow.md:block 3 (header)
+msgid "Outreach and mentoring programs"
+msgstr ""
+
+#: community/grow.md:block 4 (paragraph)
+msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
+msgstr ""
+
+#: community/grow.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+msgstr ""
+
+#: community/grow.md:block 6 (header) get-started/wikimedia-tech.md:block 6
+#: (header)
+msgid "Videos and tech talks"
+msgstr "ویدیوها و بحث‌های فنی"
+
+#: community/grow.md:block 7 (paragraph) get-started/wikimedia-tech.md:block 7
+#: (paragraph)
+msgid "Learn about Wikimedia technology through recorded presentations from the community."
+msgstr ""
+
+#: community/grow.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
+msgstr ""
+
+#: community/grow.md:block 9 (header)
+msgid "Tech ambassadors"
+msgstr ""
+
+#: community/grow.md:block 10 (paragraph)
+msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
+msgstr ""
+
+#: community/grow.md:block 11 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+msgstr ""
+
+#: community/tech-ops.md:meta.title community/tech-ops.md:title
+msgid "Learn about Wikimedia technical operations"
+msgstr ""
+
+#: community/tech-ops.md:block 1 (header)
+msgid "Wikimedia technical operations"
+msgstr "عملیات فنی ویکی‌مدیا"
+
+#: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
+#: 9 (header)
+msgid "Cloud tools and services"
+msgstr "خدمات و ابزارهای ابری"
+
+#: community/tech-ops.md:block 4 (paragraph)
+#: get-started/wikimedia-tech.md:block 10 (paragraph)
+msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
+msgstr ""
+
+#: community/tech-ops.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+msgstr ""
+
+#: community/tech-ops.md:block 6 (header)
+msgid "Performance monitoring"
+msgstr "نظارت بر عملکرد"
+
+#: community/tech-ops.md:block 7 (paragraph)
+msgid "Monitor the current and past performance of Wikimedia sites."
+msgstr "عملکرد فعلی و گذشته سایت‌های ویکی‌مدیا را پایش کنید."
+
+#: community/tech-ops.md:block 8 (unordered list)
+msgid "[Read more](https://performance.wikimedia.org/)"
+msgstr ""
+
+#: community/tech-ops.md:block 9 (header)
+msgid "Security policies"
+msgstr "سیاست‌های امنیتی"
+
+#: community/tech-ops.md:block 10 (paragraph)
+msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
+msgstr ""
+
+#: community/tech-ops.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+msgstr ""
+
+#: community/tech-ops.md:block 12 (header)
+msgid "Software deployments"
+msgstr ""
+
+#: community/tech-ops.md:block 13 (paragraph)
+msgid "Track software deployments to Wikimedia Foundation servers."
+msgstr ""
+
+#: community/tech-ops.md:block 14 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
+msgstr ""
+
+#: community/tech-ops.md:block 15 (header)
+msgid "Structured data infrastructure"
+msgstr ""
+
+#: community/tech-ops.md:block 16 (paragraph)
+msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
+msgstr ""
+
+#: community/tech-ops.md:block 17 (unordered list)
+msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
+msgstr ""
+
+#: community/tech-ops.md:block 18 (header)
+msgid "Technical infrastructure"
+msgstr ""
+
+#: community/tech-ops.md:block 19 (paragraph)
+msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
+msgstr ""
+
+#: community/tech-ops.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+msgstr ""
+
+#: community/tech-ops.md:block 21 (header)
+msgid "Product and Technology Advisory Council"
+msgstr ""
+
+#: community/tech-ops.md:block 22 (paragraph)
+msgid "Learn about the Technology Council that advises on technical priorities for the Wikimedia movement."
+msgstr ""
+
+#: community/tech-ops.md:block 23 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
+msgstr ""
+
+#: community/updates.md:meta.title community/updates.md:title
+#: community/updates.md:block 1 (header)
+msgid "Get tech project updates"
+msgstr ""
+
+#: community/updates.md:block 3 (header)
+msgid "Tech blog"
+msgstr ""
+
+#: community/updates.md:block 4 (paragraph)
+msgid "Read blog posts from the Wikimedia technical community."
+msgstr ""
+
+#: community/updates.md:block 5 (unordered list)
+msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
+msgstr ""
+
+#: community/updates.md:block 6 (header)
+msgid "Tech news"
+msgstr "اخبار فناوری"
+
+#: community/updates.md:block 7 (paragraph)
+msgid "Get weekly summaries of technical topics for Wikimedians."
+msgstr ""
+
+#: community/updates.md:block 8 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+msgstr ""
+
+#: contribute/index.md:meta.title contribute/index.md:title
+msgid "Contribute to Wikimedia open source"
+msgstr ""
+
+#: contribute/index.md:block 2 (header)
+msgid "[Learn how contributing works](overview.md)"
+msgstr ""
+
+#: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
+#: (paragraph)
+msgid "Get the basics of how to contribute to MediaWiki and other Wikimedia open source projects."
+msgstr ""
+
+#: contribute/index.md:block 4 (header)
+msgid "[Contribute by topic](by-topic.md)"
+msgstr ""
+
+#: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
+#: (paragraph)
+msgid "Find ways to contribute, and connect with others with shared interests."
+msgstr ""
+
+#: contribute/index.md:block 6 (header)
+msgid "[Contribute by programming language](by-language.md)"
+msgstr ""
+
+#: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
+#: (paragraph)
+msgid "Choose a project to contribute to based on programming language."
+msgstr ""
+
+#: contribute/index.md:block 8 (header)
+msgid "[Search all projects](search.md)"
+msgstr ""
+
+#: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
+#: (paragraph)
+msgid "Search all Wikimedia open source software projects."
+msgstr ""
+
+#: contribute/by-language.md:meta.title contribute/by-language.md:title
+msgid "Contribute by programming language"
+msgstr ""
+
+#: contribute/by-language.md:block 2 (header)
+#, optional
+msgid "Python"
+msgstr "پایتون"
+
+#: contribute/by-language.md:block 6 (header)
+#, optional
+msgid "Scribe-Data"
+msgstr ""
+
+#: contribute/by-language.md:block 7 (paragraph)
+msgid "Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata."
+msgstr ""
+
+#: contribute/by-language.md:block 8 (unordered list)
+msgid "[Contribute](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
+msgstr ""
+
+#: contribute/by-language.md:block 8 (unordered list)
+msgid "[Get the source code](https://github.com/scribe-org/Scribe-Data)"
+msgstr ""
+
+#: contribute/by-language.md:block 9 (header)
+#, optional
+msgid "JavaScript"
+msgstr "جاوا اسکریپت"
+
+#: contribute/by-language.md:block 10 (header)
+#, optional
+msgid "Codex"
+msgstr ""
+
+#: contribute/by-language.md:block 11 (paragraph)
+msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
+msgstr ""
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
+msgstr "[اسناد را مطالعه کنید](https://doc.wikimedia.org/codex/latest)"
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+msgstr "[مشارکت](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
+msgstr ""
+
+#: contribute/by-language.md:block 13 (header)
+msgid "SignIt Firefox Extension"
+msgstr ""
+
+#: contribute/by-language.md:block 14 (paragraph)
+msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
+msgstr ""
+
+#: contribute/by-language.md:block 15 (unordered list)
+msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
+msgstr ""
+
+#: contribute/by-language.md:block 15 (unordered list)
+msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
+msgstr ""
+
+#: contribute/by-language.md:block 15 (unordered list)
+msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
+msgstr ""
+
+#: contribute/by-language.md:block 16 (header)
+#, optional
+msgid "VideoCutTool"
+msgstr ""
+
+#: contribute/by-language.md:block 17 (paragraph)
+msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
+msgstr ""
+
+#: contribute/by-language.md:block 18 (unordered list)
+msgid "[Read the docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+msgstr ""
+
+#: contribute/by-language.md:block 18 (unordered list)
+msgid "[Contribute](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
+msgstr ""
+
+#: contribute/by-language.md:block 18 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
+msgstr ""
+
+#: contribute/by-language.md:block 19 (header)
+#, optional
+msgid "Java"
+msgstr "جاوا"
+
+#: contribute/by-language.md:block 20 (header)
+msgid "Wikimedia Commons Android app"
+msgstr "برنامه اندروید ویکی‌انبار"
+
+#: contribute/by-language.md:block 21 (paragraph)
+msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
+msgstr "برنامه‌ی اندروید ویکی‌انبار به کاربران اجازه می‌دهد تا تصاویر را از دستگاه خود در ویکی‌انبار بارگذاری کنند."
+
+#: contribute/by-language.md:block 22 (unordered list)
+msgid "[Read the docs](https://commons-app.github.io/)"
+msgstr "[مطالعهٔ مستندات](https://commons-app.github.io/)"
+
+#: contribute/by-language.md:block 22 (unordered list)
+msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+msgstr ""
+
+#: contribute/by-language.md:block 22 (unordered list)
+msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
+msgstr ""
+
+#: contribute/by-language.md:block 23 (header)
+#, optional
+msgid "Kotlin"
+msgstr ""
+
+#: contribute/by-language.md:block 24 (header)
+msgid "Kiwix"
+msgstr ""
+
+#: contribute/by-language.md:block 25 (paragraph)
+msgid "An offline reader for people without internet access."
+msgstr ""
+
+#: contribute/by-language.md:block 26 (unordered list)
+msgid "[Read the docs](https://www.kiwix.org/)"
+msgstr ""
+
+#: contribute/by-language.md:block 26 (unordered list)
+msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
+msgstr ""
+
+#: contribute/by-language.md:block 26 (unordered list)
+msgid "[Get the source code](https://github.com/kiwix/)"
+msgstr ""
+
+#: contribute/by-language.md:block 27 (header)
+#, optional
+msgid "Scribe"
+msgstr ""
+
+#: contribute/by-language.md:block 28 (paragraph)
+msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
+msgstr ""
+
+#: contribute/by-language.md:block 29 (unordered list)
+msgid "[Get the source code](https://github.com/scribe-org)"
+msgstr ""
+
+#: contribute/by-language.md:block 29 (unordered list)
+msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
+msgstr ""
+
+#: contribute/by-language.md:block 29 (unordered list)
+msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
+msgstr ""
+
+#: contribute/by-language.md:block 30 (header)
+#, optional
+msgid "Go"
+msgstr ""
+
+#: contribute/by-language.md:block 31 (header)
+#, optional
+msgid "Blubber"
+msgstr ""
+
+#: contribute/by-language.md:block 32 (paragraph)
+msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
+msgstr ""
+
+#: contribute/by-language.md:block 33 (unordered list)
+msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
+msgstr ""
+
+#: contribute/by-language.md:block 33 (unordered list)
+msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
+msgstr ""
+
+#: contribute/by-language.md:block 33 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
+msgstr ""
+
+#: contribute/by-language.md:block 34 (header)
+#, optional
+msgid "PHP"
+msgstr "پی اچ پی"
+
+#: contribute/by-language.md:block 35 (header) contribute/by-topic.md:block 3
+#: (header) get-started/wikimedia-tech.md:block 12 (header)
+#, optional
+msgid "MediaWiki"
+msgstr "مدیاویکی"
+
+#: contribute/by-language.md:block 36 (paragraph) contribute/by-topic.md:block
+#: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
+msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
+msgstr ""
+
+#: contribute/by-language.md:block 37 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
+msgstr ""
+
+#: contribute/by-language.md:block 37 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+msgstr ""
+
+#: contribute/by-language.md:block 37 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+msgstr ""
+
+#: contribute/by-language.md:block 38 (header)
+#, optional
+msgid "Ruby"
+msgstr ""
+
+#: contribute/by-language.md:block 39 (header)
+msgid "Wiki Education Dashboard"
+msgstr ""
+
+#: contribute/by-language.md:block 40 (paragraph)
+msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
+msgstr ""
+
+#: contribute/by-language.md:block 41 (unordered list)
+msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
+msgstr ""
+
+#: contribute/by-language.md:block 41 (unordered list)
+msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+msgstr ""
+
+#: contribute/by-language.md:block 41 (unordered list)
+msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+msgstr ""
+
+#: contribute/by-language.md:block 42 (header)
+#, optional
+msgid "Rust"
+msgstr ""
+
+#: contribute/by-language.md:block 43 (header)
+#, optional
+msgid "mwbot"
+msgstr ""
+
+#: contribute/by-language.md:block 44 (paragraph)
+msgid "A framework for writing bots and tools in Rust."
+msgstr ""
+
+#: contribute/by-language.md:block 45 (unordered list)
+msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
+msgstr ""
+
+#: contribute/by-language.md:block 45 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+msgstr ""
+
+#: contribute/by-language.md:block 45 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+msgstr ""
+
+#: contribute/by-language.md:block 46 (header)
+#, optional
+msgid "Swift"
+msgstr ""
+
+#: contribute/by-topic.md:meta.title contribute/by-topic.md:title
+#: contribute/by-topic.md:block 1 (header)
+msgid "Contribute by topic"
+msgstr ""
+
+#: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
+#: 15 (header)
+msgid "Localization and internationalization"
+msgstr ""
+
+#: contribute/by-topic.md:block 7 (paragraph)
+#: get-started/wikimedia-tech.md:block 16 (paragraph)
+msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
+msgstr ""
+
+#: contribute/by-topic.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 17 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+msgstr ""
+
+#: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
+#: 18 (header)
+msgid "Mobile apps"
+msgstr "برنامه‌های موبایل"
+
+#: contribute/by-topic.md:block 10 (paragraph)
+#: get-started/wikimedia-tech.md:block 19 (paragraph)
+msgid "Expand the reach of Wikimedia content by contributing to mobile apps for Wikipedia, Wikimedia Commons, and other projects."
+msgstr ""
+
+#: contribute/by-topic.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 20 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+msgstr ""
+
+#: contribute/by-topic.md:block 12 (header)
+msgid "Documentation"
+msgstr "مستندات"
+
+#: contribute/by-topic.md:block 13 (paragraph)
+msgid "Read the documentation style guide, and find good first tasks for improving documentation."
+msgstr ""
+
+#: contribute/by-topic.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
+msgstr ""
+
+#: contribute/by-topic.md:block 15 (header)
+msgid "Offline reading"
+msgstr "مطالعهٔ آفلاین"
+
+#: contribute/by-topic.md:block 16 (paragraph)
+msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
+msgstr ""
+
+#: contribute/by-topic.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+msgstr ""
+
+#: contribute/by-topic.md:block 18 (header)
+msgid "Infrastructure"
+msgstr ""
+
+#: contribute/by-topic.md:block 19 (paragraph)
+msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
+msgstr ""
+
+#: contribute/by-topic.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
+msgstr ""
+
+#: contribute/overview.md:meta.title contribute/overview.md:title
+#: contribute/overview.md:block 1 (header)
+msgid "Learn how contributing works"
+msgstr ""
+
+#: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
+#: (header)
+msgid "Create a developer account"
+msgstr "ایجاد حساب توسعه‌دهنده"
+
+#: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
+#: (paragraph)
+msgid "Most Wikimedia technical spaces use a developer account to identify and authorize users. Create a free account to get started as a technical contributor."
+msgstr ""
+
+#: contribute/overview.md:block 8 (unordered list)
+#: get-started/new-dev.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+msgstr ""
+
+#: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
+#: (header)
+msgid "Find projects and tasks for new contributors"
+msgstr ""
+
+#: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
+#: (paragraph)
+msgid "Choose from open source projects that offer mentoring for new contributors, and find good first tasks."
+msgstr ""
+
+#: contribute/overview.md:block 11 (unordered list)
+#: get-started/new-dev.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr ""
+
+#: contribute/overview.md:block 12 (header)
+msgid "Review guidelines and code conventions"
+msgstr ""
+
+#: contribute/overview.md:block 13 (paragraph)
+msgid "Understand development policies, best practices, and code conventions for Wikimedia software."
+msgstr ""
+
+#: contribute/overview.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+msgstr ""
+
+#: contribute/overview.md:block 15 (header)
+msgid "See your contributions"
+msgstr ""
+
+#: contribute/overview.md:block 16 (paragraph)
+msgid "Visualize your contributions across Wikimedia's code review and task tracking tools."
+msgstr ""
+
+#: contribute/overview.md:block 17 (unordered list)
+msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
+msgstr ""
+
+#: contribute/search.md:meta.title contribute/search.md:title
+#: contribute/search.md:block 1 (header)
+msgid "Search all projects"
+msgstr "جستجو در تمام پروژه‌ها"
+
+#: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
+msgid "Search codebases"
+msgstr ""
+
+#: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
+#: (paragraph)
+msgid "Search all Wikimedia codebases using the code search tool."
+msgstr ""
+
+#: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
+#: (unordered list)
+msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
+msgstr ""
+
+#: contribute/search.md:block 6 (header)
+msgid "Browse Wikimedia open source docs"
+msgstr ""
+
+#: contribute/search.md:block 7 (paragraph)
+msgid "Browse auto-generated and related documentation hosted on doc.wikimedia.org."
+msgstr ""
+
+#: contribute/search.md:block 8 (unordered list)
+msgid "[Browse docs](https://doc.wikimedia.org)"
+msgstr ""
+
+#: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
+#: 7 (header)
+msgid "Browse repositories"
+msgstr "مرور مخازن"
+
+#: contribute/search.md:block 10 (paragraph)
+#: get-started/browse-languages.md:block 8 (paragraph)
+msgid "Explore Wikimedia codebases."
+msgstr ""
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
+msgstr ""
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
+msgstr ""
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
+msgstr ""
+
+#: contribute/search.md:block 12 (header)
+msgid "Search tools and bots"
+msgstr "جستجوی ابزارها و ربات‌ها"
+
+#: get-help/index.md:block 2 (paragraph)
+msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
+msgstr ""
+
+#: get-help/index.md:block 3 (header)
+msgid "Search the docs"
+msgstr "جستجوی اسناد"
+
+#: get-help/index.md:block 4 (paragraph)
+msgid "Find technical information for Wikimedia projects."
+msgstr ""
+
+#: get-help/index.md:block 5 (unordered list)
+msgid "[Search across wikis](https://global-search.toolforge.org/)"
+msgstr ""
+
+#: get-help/index.md:block 5 (unordered list)
+msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
+msgstr ""
+
+#: get-help/index.md:block 12 (header)
+msgid "Check system status"
+msgstr "بررسی وضعیت سامانه"
+
+#: get-help/index.md:block 13 (paragraph)
+msgid "Verify the overall health and performance of the wiki environment, and find out about major outages."
+msgstr ""
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
+msgstr ""
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
+msgstr ""
+
+#: get-help/index.md:block 15 (header)
+msgid "Bugs and feature requests"
+msgstr "اشکالات و درخواست‌های ویژگی"
+
+#: get-help/index.md:block 16 (paragraph)
+msgid "Report bugs and request new features in Wikimedia software."
+msgstr "گزارش اشکال و درخواست ویژگی‌های جدید در نرم‌افزار ویکی‌مدیا."
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+msgstr ""
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
+msgstr ""
+
+#: get-started/index.md:block 1 (header)
+msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
+msgstr ""
+
+#: get-started/index.md:block 2 (paragraph)
+msgid "Explore the open source software and technical components behind Wikimedia projects."
+msgstr ""
+
+#: get-started/index.md:block 3 (header)
+msgid "[Understand the development process](new-dev.md)"
+msgstr ""
+
+#: get-started/index.md:block 4 (paragraph)
+msgid "Learn how Wikimedia software projects work and how to make technical contributions."
+msgstr ""
+
+#: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
+#: (paragraph)
+msgid "Follow coding exercises with step-by-step guidance."
+msgstr ""
+
+#: get-started/index.md:block 7 (header)
+msgid "[Browse by programming language](browse-languages.md)"
+msgstr ""
+
+#: get-started/index.md:block 8 (paragraph)
+msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
+msgstr ""
+
+#: get-started/browse-languages.md:meta.title
+#: get-started/browse-languages.md:title
+msgid "Browse by programming language"
+msgstr ""
+
+#: get-started/browse-languages.md:block 1 (header)
+msgid "API client libraries by language"
+msgstr ""
+
+#: get-started/browse-languages.md:block 4 (header)
+msgid "Open source projects by language"
+msgstr ""
+
+#: get-started/browse-languages.md:block 5 (paragraph)
+msgid "Find Wikimedia open source projects by programming language, and start contributing code."
+msgstr ""
+
+#: get-started/browse-languages.md:block 6 (paragraph)
+msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
+msgstr ""
+
+#: get-started/new-dev.md:meta.title get-started/new-dev.md:title
+#: get-started/new-dev.md:block 1 (header)
+msgid "Understand the development process"
+msgstr ""
+
+#: get-started/new-dev.md:block 2 (paragraph)
+msgid "Learn how to make technical contributions to Wikimedia projects."
+msgstr ""
+
+#: get-started/new-dev.md:block 9 (header)
+msgid "Find tickets, and track projects"
+msgstr ""
+
+#: get-started/new-dev.md:block 10 (paragraph)
+msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
+msgstr ""
+
+#: get-started/new-dev.md:block 11 (unordered list)
+msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
+msgstr ""
+
+#: get-started/new-dev.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+msgstr ""
+
+#: get-started/new-dev.md:block 15 (header)
+msgid "Learn how to submit code"
+msgstr ""
+
+#: get-started/new-dev.md:block 16 (paragraph)
+msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
+msgstr ""
+
+#: get-started/new-dev.md:block 17 (unordered list)
+msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr ""
+
+#: get-started/new-dev.md:block 17 (unordered list)
+msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
+msgstr ""
+
+#: get-started/tutorials.md:block 2 (header)
+msgid "Tutorials for using content and data"
+msgstr ""
+
+#: get-started/tutorials.md:block 3 (paragraph)
+msgid "Learn the basics of using Wikimedia content and data in your project."
+msgstr ""
+
+#: get-started/tutorials.md:block 4 (paragraph)
+msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
+msgstr ""
+
+#: get-started/tutorials.md:block 5 (header)
+msgid "Tutorials for building tools and bots"
+msgstr ""
+
+#: get-started/tutorials.md:block 6 (paragraph)
+msgid "Learn the basics of writing code that interacts with Wikimedia projects."
+msgstr ""
+
+#: get-started/tutorials.md:block 7 (paragraph)
+msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:meta.title
+#: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
+#: (header)
+msgid "Learn about Wikimedia technology"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 2 (paragraph)
+msgid "Explore core Wikimedia technology and open source projects."
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 3 (header)
+msgid "Introduction to Wikimedia technology"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 4 (paragraph)
+msgid "Learn about the main technical areas where developers can contribute."
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 21 (header)
+msgid "Wikibase and Wikidata"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 22 (paragraph)
+msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
+msgid "[Visit wikidata.org](https://www.wikidata.org/)"
+msgstr ""
+
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+msgstr ""
+
+#: use-content/index.md:block 2 (header)
+msgid "[Explore featured apps](featured-apps.md)"
+msgstr ""
+
+#: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
+#: 2 (paragraph)
+msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
+msgstr ""
+
+#: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
+#: (paragraph)
+msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
+msgstr ""
+
+#: use-content/index.md:block 6 (header)
+msgid "[Use wiki content](content.md)"
+msgstr ""
+
+#: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
+#: (paragraph)
+msgid "Find open source libraries, get started using the API, or download content in bulk."
+msgstr ""
+
+#: use-content/index.md:block 8 (header)
+msgid "[Access open data](data.md)"
+msgstr ""
+
+#: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
+#: (paragraph)
+msgid "Explore public data that you can use in research and machine learning."
+msgstr ""
+
+#: use-content/index.md:block 10 (header)
+msgid "[High-volume and commercial access](bot-traffic.md)"
+msgstr ""
+
+#: use-content/index.md:block 11 (paragraph)
+msgid "Review policies and options for sustainable access to Wikimedia infrastructure."
+msgstr ""
+
+#: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
+#: use-content/bot-traffic.md:block 1 (header)
+msgid "High-volume and commercial access"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 2 (paragraph)
+msgid "High-volume, commercial, and bot access to Wikimedia infrastructure must comply with the following policies to avoid harming Wikipedia and other Wikimedia projects. To prevent your access from being restricted, ensure that you follow these policies."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 3 (header)
+msgid "Review the terms of use"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 4 (paragraph)
+msgid "Learn about the services that the Wikimedia Foundation provides and how you can comply with the terms of use."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 5 (unordered list)
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 6 (header)
+msgid "Review the API policy"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 7 (paragraph)
+msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 8 (unordered list)
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
+#: (header)
+msgid "Get services for enterprise"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 10 (paragraph)
+#: use-content/content.md:block 19 (paragraph)
+msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 11 (unordered list)
+#: use-content/content.md:block 20 (unordered list)
+msgid "[Read more on Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 12 (header)
+msgid "Partner with us"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 13 (paragraph)
+msgid "Contact the Wikimedia Foundation to explore options for technical partnerships."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 14 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
+msgstr ""
+
+#: use-content/bot-traffic.md:block 16 (paragraph)
+msgid "Ask questions about bot traffic and high-volume access."
+msgstr ""
+
+#: use-content/bot-traffic.md:block 17 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
+msgstr ""
+
+#: use-content/content.md:meta.title use-content/content.md:title
+#: use-content/content.md:block 1 (header)
+msgid "Use wiki content"
+msgstr ""
+
+#: use-content/content.md:block 3 (header)
+msgid "Introduction to Wikimedia projects"
+msgstr ""
+
+#: use-content/content.md:block 4 (paragraph)
+msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
+msgstr ""
+
+#: use-content/content.md:block 5 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+msgstr ""
+
+#: use-content/content.md:block 6 (header)
+msgid "Review the terms and conditions"
+msgstr ""
+
+#: use-content/content.md:block 7 (paragraph)
+msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
+msgstr ""
+
+#: use-content/content.md:block 8 (unordered list)
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
+msgstr ""
+
+#: use-content/data.md:meta.title use-content/data.md:title
+#: use-content/data.md:block 1 (header)
+msgid "Access open data"
+msgstr ""
+
+#: use-content/data.md:block 3 (header)
+msgid "Use Wikimedia open data"
+msgstr ""
+
+#: use-content/data.md:block 4 (paragraph)
+msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
+msgstr ""
+
+#: use-content/data.md:block 5 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+msgstr ""
+
+#: use-content/data.md:block 6 (header)
+msgid "Explore structured data with Wikidata"
+msgstr ""
+
+#: use-content/data.md:block 7 (paragraph)
+msgid "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Learn how to access data from Wikidata, and follow best practices for reusing it."
+msgstr ""
+
+#: use-content/data.md:block 8 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgstr ""
+
+#: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
+#: use-content/featured-apps.md:block 1 (header)
+msgid "Explore featured apps"
+msgstr "مرور برنامه‌های برجسته"
+
+#: use-content/featured-apps.md:block 3 (header)
+msgid "App gallery"
+msgstr "نگارخانهٔ برنامه"
+
+#: use-content/featured-apps.md:block 4 (paragraph)
+msgid "Browse example apps that demonstrate best practices for using Wikimedia APIs, including fetching wiki content, logging in, and editing pages."
+msgstr ""
+
+#: use-content/featured-apps.md:block 5 (unordered list)
+msgid "[Visit the gallery](https://apps-gallery.toolforge.org)"
+msgstr ""
+
+#: use-content/featured-apps.md:block 6 (header)
+msgid "Wikipedia visualizations"
+msgstr ""
+
+#: use-content/featured-apps.md:block 7 (paragraph)
+msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
+msgstr ""
+
+#: use-content/featured-apps.md:block 8 (unordered list)
+msgid "[Visit the gallery](https://seealso.org/)"
+msgstr ""
+
+#: use-content/featured-apps.md:block 9 (header)
+msgid "Wikidata visualizations"
+msgstr ""
+
+#: use-content/featured-apps.md:block 10 (paragraph)
+msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
+msgstr ""
+
+#: use-content/featured-apps.md:block 11 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+msgstr ""
+
+#: use-content/tutorials.md:block 6 (header)
+msgid "Display information from Wikidata"
+msgstr ""
+
+#: use-content/tutorials.md:block 7 (paragraph)
+msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
+msgstr ""
+
+#: use-content/tutorials.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+msgstr ""
+
+#: use-content/tutorials.md:block 9 (header)
+msgid "Display the picture of the day"
+msgstr "نمایش تصویر روز"
+
+#: use-content/tutorials.md:block 10 (paragraph)
+msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
+msgstr ""
+
+#: use-content/tutorials.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+msgstr ""
+
+#: use-content/tutorials.md:block 15 (header)
+msgid "Get started querying Wikidata"
+msgstr ""
+
+#: use-content/tutorials.md:block 16 (paragraph)
+msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
+msgstr ""
+
+#: use-content/tutorials.md:block 17 (unordered list)
+msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
+msgstr ""
+
+#: use-content/tutorials.md:block 18 (header)
+msgid "Search articles by location"
+msgstr "جستجوی مقالات بر اساس مکان"
+
+#: use-content/tutorials.md:block 19 (paragraph)
+msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
+msgstr ""
+
+#: use-content/tutorials.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+msgstr ""
+
