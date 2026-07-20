@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-07-16 12:25:51+0000\n"
+"PO-Revision-Date: 2026-07-20 12:40:27+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -109,7 +109,7 @@ msgstr "کشف و ساخت فناوری ویکی‌مدیا"
 
 #: index.md:block 1 (paragraph)
 msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
-msgstr "اسناد فنی را بیابید و با جامعه توسعه دهندگان پشت [ویکی پدیا](https://www.wikipedia.org/) و سایر [پروژه های ویکی مدیا](https://wikimediafoundation.org/our-work/wikimedia-projects/) ارتباط برقرار کنید."
+msgstr "اسناد فنی را بیابید و با جامعه توسعه‌دهندگان پشت [ویکی‌پدیا](https://www.wikipedia.org/) و سایر [پروژه‌های ویکی‌مدیا](https://wikimediafoundation.org/our-work/wikimedia-projects/) ارتباط برقرار کنید."
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
@@ -1381,15 +1381,15 @@ msgstr ""
 
 #: get-started/index.md:block 1 (header)
 msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
-msgstr ""
+msgstr "[آشنایی با فناوری ویکی‌مدیا](wikimedia-tech.md)"
 
 #: get-started/index.md:block 2 (paragraph)
 msgid "Explore the open source software and technical components behind Wikimedia projects."
-msgstr ""
+msgstr "نرم‌افزارهای متن‌باز و اجزای فنی پشت پروژه‌های ویکی‌مدیا را بررسی کنید."
 
 #: get-started/index.md:block 3 (header)
 msgid "[Understand the development process](new-dev.md)"
-msgstr ""
+msgstr "[درک فرآیند توسعه](new-dev.md)"
 
 #: get-started/index.md:block 4 (paragraph)
 msgid "Learn how Wikimedia software projects work and how to make technical contributions."
@@ -1398,20 +1398,20 @@ msgstr ""
 #: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
 #: (paragraph)
 msgid "Follow coding exercises with step-by-step guidance."
-msgstr ""
+msgstr "تمرین‌های برنامه‌نویسی را با راهنمایی گام‌به‌گام دنبال کنید."
 
 #: get-started/index.md:block 7 (header)
 msgid "[Browse by programming language](browse-languages.md)"
-msgstr ""
+msgstr "[جستجو بر اساس زبان برنامه‌نویسی](browse-languages.md)"
 
 #: get-started/index.md:block 8 (paragraph)
 msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
-msgstr ""
+msgstr "کتابخانه‌های کلاینت، برنامه‌های نمونه و پروژه‌های متن‌باز را به زبان‌های برنامه‌نویسی دلخواه خود پیدا کنید."
 
 #: get-started/browse-languages.md:meta.title
 #: get-started/browse-languages.md:title
 msgid "Browse by programming language"
-msgstr ""
+msgstr "جستجو بر اساس زبان برنامه‌نویسی"
 
 #: get-started/browse-languages.md:block 1 (header)
 msgid "API client libraries by language"
@@ -1432,7 +1432,7 @@ msgstr ""
 #: get-started/new-dev.md:meta.title get-started/new-dev.md:title
 #: get-started/new-dev.md:block 1 (header)
 msgid "Understand the development process"
-msgstr ""
+msgstr "درک فرآیند توسعه"
 
 #: get-started/new-dev.md:block 2 (paragraph)
 msgid "Learn how to make technical contributions to Wikimedia projects."
@@ -1498,7 +1498,7 @@ msgstr ""
 #: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
 #: (header)
 msgid "Learn about Wikimedia technology"
-msgstr ""
+msgstr "آشنایی با فناوری ویکی‌مدیا"
 
 #: get-started/wikimedia-tech.md:block 2 (paragraph)
 msgid "Explore core Wikimedia technology and open source projects."
