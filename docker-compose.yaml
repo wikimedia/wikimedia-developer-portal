@@ -18,7 +18,7 @@ services:
       - >-
         poetry install &&
         poetry run mkdocs --verbose build &&
-        exec nginx -c /srv/app/contrib/nginx/local.conf
+        exec nginx -p /srv/app/contrib/nginx -c local.conf
     volumes:
       - type: bind
         source: .

@@ -51,13 +51,18 @@ variants:
   lint:
     includes:
       - dev-python
+    apt:
+      packages:
+        - nginx-light
     entrypoint:
       - sh
       - -c
       - >-
         poetry check &&
         poetry run flake8 &&
-        poetry run black --check --diff .
+        poetry run black --check --diff . &&
+        nginx -p /srv/app/contrib/nginx -c local.conf -q -t &&
+        nginx -p /srv/app/contrib/nginx -c production.conf -q -t
 
   build:
     includes:
@@ -94,10 +99,15 @@ variants:
       - from: build
         source: /srv/app/contrib/nginx/production.conf
         destination: /etc/nginx/developer-portal.conf
+      - from: build
+        source: /srv/app/contrib/nginx/headers.conf
+        destination: /etc/nginx/headers.conf
     entrypoint:
       - nginx
+      - -p
+      - /etc/nginx
       - -c
-      - /etc/nginx/developer-portal.conf
+      - developer-portal.conf
 
   local:
     # Local development container

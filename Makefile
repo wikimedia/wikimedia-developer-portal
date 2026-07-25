@@ -61,6 +61,8 @@ lint:
 		poetry check \
 		&& poetry run flake8 \
 		&& poetry run black --check --diff . \
+		&& nginx -p /srv/app/contrib/nginx -c local.conf -q -t \
+		&& nginx -p /srv/app/contrib/nginx -c production.conf -q -t \
 	"
 .PHONY: lint
 
