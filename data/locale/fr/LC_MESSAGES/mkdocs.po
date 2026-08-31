@@ -9,6 +9,7 @@
 # Author: Mahabarata
 # Author: Méthodes Bulebe Hangi
 # Author: Pa2chant.bis
+# Author: Quiddity
 # Author: Terio legale
 # Author: Verdy p
 # Author: Wladek92
@@ -33,7 +34,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-18 12:51:16+0000\n"
+"PO-Revision-Date: 2026-08-31 12:25:20+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1381,7 +1382,7 @@ msgstr "Rapport des bogues"
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
-msgstr "[Apprenez à signaler un bug] (https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+msgstr "[Apprenez à signaler un bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
 
 #: get-help/index.md:block 17 (unordered list)
 msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
