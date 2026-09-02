@@ -75,6 +75,7 @@ extra_css:
   - assets/stylesheets/theme.css
 extra_javascript:
   - assets/js/matomo.js
+  - assets/js/analytics.js
 
 extra:
   homepage: /
