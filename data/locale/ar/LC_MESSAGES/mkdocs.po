@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: AKlapper
+# Author: APaskulin (WMF)
 # Author: Asma
 # Author: Mdktb
 # Author: Mohanad
@@ -29,7 +30,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-18 12:51:15+0000\n"
+"PO-Revision-Date: 2026-09-03 12:26:37+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -358,7 +359,7 @@ msgstr "PAWS هو ملعب مجاني مستضاف على السحابة لإن�
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
-msgstr "[زيارة PAWS] (https://hub.paws.wmcloud.org/hub/login)"
+msgstr "[زيارة PAWS](https://hub.paws.wmcloud.org/hub/login)"
 
 #: build-tools/host-tools.md:block 5 (unordered list)
 msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"

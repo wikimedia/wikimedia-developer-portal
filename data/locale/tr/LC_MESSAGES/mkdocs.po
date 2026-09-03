@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Turkish (Türkçe)
 # Exported from translatewiki.net
 #
+# Author: APaskulin (WMF)
 # Author: HakanIST
 # Author: Hedda
 # Author: Melissadilara
@@ -27,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-06-01 12:34:33+0000\n"
+"PO-Revision-Date: 2026-09-03 12:26:41+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1605,7 +1606,7 @@ msgstr "Wikimedia API'lerini sorumlu bir şekilde nasıl kullanacağınızı ve 
 
 #: use-content/bot-traffic.md:block 8 (unordered list)
 msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
-msgstr "[Wikimedia Vakfı Yönetim Vikisinde daha fazla bilgi edinin] (https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
+msgstr "[Wikimedia Vakfı Yönetim Vikisinde daha fazla bilgi edinin](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
 
 #: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
 #: (header)

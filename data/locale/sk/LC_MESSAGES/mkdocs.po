@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Slovak (slovenčina)
 # Exported from translatewiki.net
 #
+# Author: APaskulin (WMF)
 # Author: Oujon
 # Author: Wizzard
 # --
@@ -24,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-06-15 12:23:43+0000\n"
+"PO-Revision-Date: 2026-09-03 12:26:40+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -116,7 +117,7 @@ msgstr "[Začníte](začníte/){ .md-button }"
 
 #: index.md:block 4 (header)
 msgid "[Use Wikimedia content and data](use-content/)"
-msgstr "[Použiť obsah a údaje Wikimedia] (použitie obsahu/)"
+msgstr "[Použiť obsah a údaje Wikimedia](použitie obsahu/)"
 
 #: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
 msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
@@ -124,7 +125,7 @@ msgstr "Získajte prístup k článkom z Wikipédie, mediálnym súborom, štruk
 
 #: index.md:block 7 (header)
 msgid "[Build tools and bots](build-tools/)"
-msgstr "[Vytvorte nástroje a boty] (budovať nástroje/)"
+msgstr "[Vytvorte nástroje a boty](budovať nástroje/)"
 
 #: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
 msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
@@ -184,7 +185,7 @@ msgstr "Postupujte podľa podrobných sprievodcov, aby ste sa naučili základy 
 
 #: build-tools/index.md:block 8 (header)
 msgid "[Use APIs and data sources](apis.md)"
-msgstr "[Využívajte API a zdroje údajov] (apis.md)"
+msgstr "[Využívajte API a zdroje údajov](apis.md)"
 
 #: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
 #: (paragraph)

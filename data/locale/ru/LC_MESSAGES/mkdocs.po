@@ -1,6 +1,7 @@
 # Translation of Wikimedia Developer Portal to Russian (русский)
 # Exported from translatewiki.net
 #
+# Author: APaskulin (WMF)
 # Author: Engineer56
 # Author: Kaganer
 # Author: Okras
@@ -27,7 +28,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-18 12:51:18+0000\n"
+"PO-Revision-Date: 2026-09-03 12:26:40+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -967,7 +968,7 @@ msgstr "Приложение Викисклада (Wikimedia Commons) для And
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Read the docs](https://commons-app.github.io/)"
-msgstr "[Прочтите документацию] (https://commons-app.github.io/)"
+msgstr "[Прочтите документацию](https://commons-app.github.io/)"
 
 #: contribute/by-language.md:block 22 (unordered list)
 msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
@@ -1102,7 +1103,7 @@ msgstr "[Посетите информационную панель](https://das
 
 #: contribute/by-language.md:block 41 (unordered list)
 msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
-msgstr "[Примите участие в разработке] (https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+msgstr "[Примите участие в разработке](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
 
 #: contribute/by-language.md:block 41 (unordered list)
 msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
