@@ -87,7 +87,7 @@ extra:
   generator: false
   footer_links:
     - label: Privacy policy
-      href: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy
+      href: https://wikimediafoundation.org/privacy-policy/
     - label: Terms of Use
       href: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use
     - label: "Code: GPL-3.0-or-later"
