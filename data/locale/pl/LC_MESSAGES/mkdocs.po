@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-07-02 12:29:27+0000\n"
+"PO-Revision-Date: 2026-09-10 12:08:01+0000\n"
 "X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1716,7 +1716,7 @@ msgstr ""
 
 #: use-content/featured-apps.md:block 6 (header)
 msgid "Wikipedia visualizations"
-msgstr ""
+msgstr "Wizualizacje Wikipedii"
 
 #: use-content/featured-apps.md:block 7 (paragraph)
 msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
