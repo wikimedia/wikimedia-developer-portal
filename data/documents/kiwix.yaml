@@ -2,7 +2,7 @@
 title: Kiwix
 description: An offline reader for people without internet access.
 links:
-  - url: https://www.kiwix.org/
+  - url: https://get.kiwix.org/en/solutions/applications/kiwix-reader/
     label: Read the docs
   - url: https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md
     label: Contribute
