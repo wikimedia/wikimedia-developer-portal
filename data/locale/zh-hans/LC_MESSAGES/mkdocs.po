@@ -35,12 +35,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-18 12:51:19+0000\n"
-"X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
+"PO-Revision-Date: 2026-09-14 12:06:13+0000\n"
+"X-POT-Import-Date: 2026-09-12 08:42:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hans\n"
-"X-Generator: MediaWiki 1.47.0-alpha; Translate 2025-07-31\n"
+"X-Generator: MediaWiki 1.47.0-alpha; Translate 2026-09-08\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: Wikimedia Developer Portal\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
@@ -812,8 +812,8 @@ msgid "Read blog posts from the Wikimedia technical community."
 msgstr "阅读来自维基媒体技术社区的博文。"
 
 #: community/updates.md:block 5 (unordered list)
-msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr "[访问技术博客](https://techblog.wikimedia.org/)"
+msgid "[Visit the tech blog](https://diff.wikimedia.org/category/technology/)"
+msgstr ""
 
 #: community/updates.md:block 6 (header)
 msgid "Tech news"
@@ -928,8 +928,8 @@ msgid "A web-browser extension that translates words into sign language videos, 
 msgstr "一个网络浏览器扩展，可将单词翻译成手语视频，以便您可以在在线阅读的同时学习手语。"
 
 #: contribute/by-language.md:block 15 (unordered list)
-msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr "[阅读文档](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
+msgid "[Read the docs](https://meta.wikimedia.org/wiki/SignIt)"
+msgstr ""
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
@@ -999,8 +999,8 @@ msgid "An offline reader for people without internet access."
 msgstr "适合无法访问互联网的人的离线阅读器。"
 
 #: contribute/by-language.md:block 26 (unordered list)
-msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr "[阅读文档](https://www.kiwix.org/)"
+msgid "[Read the docs](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
+msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
@@ -1705,8 +1705,8 @@ msgid "Wikidata is a free and open knowledge base that can be read and edited by
 msgstr "维基数据是一个免费且开放的知识库，可供人类和机器阅读和编辑。了解如何从危机数据访问数据，并遵循重复使用数据的最佳实践。"
 
 #: use-content/data.md:block 8 (unordered list)
-msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr "[在维基数据上了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
+msgstr ""
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
@@ -1782,8 +1782,8 @@ msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics 
 msgstr "了解如何使用SPARQL查询维基数据。本教程涵盖了维基数据的基础知识以及如何使用维基数据查询服务。"
 
 #: use-content/tutorials.md:block 17 (unordered list)
-msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr "[了解更多](https://wdqs-tutorial.toolforge.org)"
+msgid "[Read more](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
+msgstr ""
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"

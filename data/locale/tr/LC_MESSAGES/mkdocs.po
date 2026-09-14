@@ -28,12 +28,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-09-03 12:26:41+0000\n"
-"X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
+"PO-Revision-Date: 2026-09-14 12:06:13+0000\n"
+"X-POT-Import-Date: 2026-09-12 08:42:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: tr\n"
-"X-Generator: MediaWiki 1.47.0-alpha; Translate 2025-07-31\n"
+"X-Generator: MediaWiki 1.47.0-alpha; Translate 2026-09-08\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: Wikimedia Developer Portal\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
@@ -805,8 +805,8 @@ msgid "Read blog posts from the Wikimedia technical community."
 msgstr "Wikimedia teknik topluluğundan blog gönderilerini okuyun."
 
 #: community/updates.md:block 5 (unordered list)
-msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr "[Teknik blogu ziyaret edin](https://techblog.wikimedia.org/)"
+msgid "[Visit the tech blog](https://diff.wikimedia.org/category/technology/)"
+msgstr "[Teknoloji blogunu ziyaret edin](https://diff.wikimedia.org/category/technology/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Tech news"
@@ -921,8 +921,8 @@ msgid "A web-browser extension that translates words into sign language videos, 
 msgstr "Kelimeleri işaret dili videolarına çeviren bir web tarayıcısı eklentisi, böylece çevrimiçi okurken işaret dili öğrenebilirsiniz."
 
 #: contribute/by-language.md:block 15 (unordered list)
-msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr "[Dokümanları okuyun](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
+msgid "[Read the docs](https://meta.wikimedia.org/wiki/SignIt)"
+msgstr "[Belgeleri okuyun](https://meta.wikimedia.org/wiki/SignIt)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
@@ -992,8 +992,8 @@ msgid "An offline reader for people without internet access."
 msgstr "İnternet erişimi olmayan insanlar için çevrimdışı okuyucu."
 
 #: contribute/by-language.md:block 26 (unordered list)
-msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr "[Dokümanları okuyun](https://www.kiwix.org/)"
+msgid "[Read the docs](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
+msgstr "[Belgeleri okuyun](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
@@ -1698,8 +1698,8 @@ msgid "Wikidata is a free and open knowledge base that can be read and edited by
 msgstr "Vikiveri, hem insanlar hem de makineler tarafından okunabilen ve düzenlenebilen ücretsiz ve açık bir bilgi tabanıdır. Vikiveri'den verilere nasıl erişileceğini öğrenin ve bunları yeniden kullanmak için en iyi uygulamaları izleyin."
 
 #: use-content/data.md:block 8 (unordered list)
-msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr "[Vikiveri hakkında daha fazla bilgi edinin](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
+msgstr "[Vikiveri'de daha fazlasına ulaşın](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
@@ -1775,8 +1775,8 @@ msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics 
 msgstr "SPARQL ile Vikiveri'yi nasıl sorgulayacağınızı öğrenin. Bu eğitim, Vikiveri'nin temellerini ve Vikiveri Sorgulama Hizmetinin nasıl kullanılacağını kapsar."
 
 #: use-content/tutorials.md:block 17 (unordered list)
-msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr "[Daha fazlasını okuyun](https://wdqs-tutorial.toolforge.org)"
+msgid "[Read more](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
+msgstr "[Daha fazla bilgi için](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service adresini ziyaret edin)"
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"

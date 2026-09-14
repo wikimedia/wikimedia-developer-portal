@@ -23,12 +23,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-05-18 12:51:18+0000\n"
-"X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
+"PO-Revision-Date: 2026-09-14 12:06:13+0000\n"
+"X-POT-Import-Date: 2026-09-12 08:42:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sl\n"
-"X-Generator: MediaWiki 1.47.0-alpha; Translate 2025-07-31\n"
+"X-Generator: MediaWiki 1.47.0-alpha; Translate 2026-09-08\n"
 "Plural-Forms: nplurals=4; plural=(n%100 == 1) ? 0 : ( (n%100 == 2) ? 1 : ( (n%100 == 3 || n%100 == 4) ? 2 : 3 ) );\n"
 "Project-Id-Version: Wikimedia Developer Portal\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
@@ -800,8 +800,8 @@ msgid "Read blog posts from the Wikimedia technical community."
 msgstr "Berite blogovske objave tehnične skupnosti Wikimedie."
 
 #: community/updates.md:block 5 (unordered list)
-msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr "[Obiščite tehnični blog](https://techblog.wikimedia.org/)"
+msgid "[Visit the tech blog](https://diff.wikimedia.org/category/technology/)"
+msgstr ""
 
 #: community/updates.md:block 6 (header)
 msgid "Tech news"
@@ -916,8 +916,8 @@ msgid "A web-browser extension that translates words into sign language videos, 
 msgstr "Razširitev spletnega brskalnika, ki prevaja besede v videoposnetke v znakovnem jeziku, tako da se lahko med branjem v spletu učite znakovnega jezika."
 
 #: contribute/by-language.md:block 15 (unordered list)
-msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr "[Preberite dokumente](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
+msgid "[Read the docs](https://meta.wikimedia.org/wiki/SignIt)"
+msgstr ""
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
@@ -987,8 +987,8 @@ msgid "An offline reader for people without internet access."
 msgstr "Bralnik brez povezave za ljudi brez dostopa do interneta."
 
 #: contribute/by-language.md:block 26 (unordered list)
-msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr "[Preberite dokumentacijo](https://www.kiwix.org/)"
+msgid "[Read the docs](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
+msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
@@ -1694,8 +1694,8 @@ msgid "Wikidata is a free and open knowledge base that can be read and edited by
 msgstr "Wikipodatki so brezplačna in odprta zbirka znanja, ki jo lahko berejo in urejajo tako ljudje kot stroji. Naučite se dostopati do podatkov iz Wikipodatkov in se seznanite z najboljšimi praksami za njihovo ponovno uporabo."
 
 #: use-content/data.md:block 8 (unordered list)
-msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr "[Preberite več v Wikipodatkih](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
+msgstr ""
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
@@ -1771,8 +1771,8 @@ msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics 
 msgstr "Naučite se poizvedovati po Wikipodatkih s SPARQL. Ta vadnica obravnava osnove Wikipodatkov in uporabo poizvedbene storitve Wikidata Query Service."
 
 #: use-content/tutorials.md:block 17 (unordered list)
-msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr "[Preberite več](https://wdqs-tutorial.toolforge.org)"
+msgid "[Read more](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
+msgstr ""
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"

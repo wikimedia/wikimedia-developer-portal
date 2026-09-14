@@ -24,12 +24,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-08-03 12:33:13+0000\n"
-"X-POT-Import-Date: 2026-03-15 15:58:34+0000\n"
+"PO-Revision-Date: 2026-09-14 12:06:13+0000\n"
+"X-POT-Import-Date: 2026-09-12 08:42:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lb\n"
-"X-Generator: MediaWiki 1.47.0-alpha; Translate 2025-07-31\n"
+"X-Generator: MediaWiki 1.47.0-alpha; Translate 2026-09-08\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: Wikimedia Developer Portal\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
@@ -801,8 +801,8 @@ msgid "Read blog posts from the Wikimedia technical community."
 msgstr ""
 
 #: community/updates.md:block 5 (unordered list)
-msgid "[Visit the tech blog](https://techblog.wikimedia.org/)"
-msgstr "[Gitt op den Tech-Blog](https://techblog.wikimedia.org/)"
+msgid "[Visit the tech blog](https://diff.wikimedia.org/category/technology/)"
+msgstr "[Gitt op den Tech-Blog](https://diff.wikimedia.org/category/technology/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Tech news"
@@ -917,8 +917,8 @@ msgid "A web-browser extension that translates words into sign language videos, 
 msgstr ""
 
 #: contribute/by-language.md:block 15 (unordered list)
-msgid "[Read the docs](https://meta.wikimedia.org/wiki/Lingua_Libre/SignIt)"
-msgstr ""
+msgid "[Read the docs](https://meta.wikimedia.org/wiki/SignIt)"
+msgstr "[Liest d'Dokumentatioun](https://meta.wikimedia.org/wiki/SignIt)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
@@ -988,8 +988,8 @@ msgid "An offline reader for people without internet access."
 msgstr ""
 
 #: contribute/by-language.md:block 26 (unordered list)
-msgid "[Read the docs](https://www.kiwix.org/)"
-msgstr ""
+msgid "[Read the docs](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
+msgstr "[Liest d'Dokumentatioun](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
@@ -1695,8 +1695,8 @@ msgid "Wikidata is a free and open knowledge base that can be read and edited by
 msgstr ""
 
 #: use-content/data.md:block 8 (unordered list)
-msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
-msgstr "[Liest méi op Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Data_access)"
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
+msgstr "[Liest méi op Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
@@ -1772,8 +1772,8 @@ msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics 
 msgstr ""
 
 #: use-content/tutorials.md:block 17 (unordered list)
-msgid "[Read more](https://wdqs-tutorial.toolforge.org)"
-msgstr "[Liest méi](https://wdqs-tutorial.toolforge.org)"
+msgid "[Read more](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
+msgstr "[Liest méi](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
