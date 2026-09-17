@@ -35,7 +35,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-09-14 12:06:13+0000\n"
+"PO-Revision-Date: 2026-09-17 12:06:01+0000\n"
 "X-POT-Import-Date: 2026-09-12 08:42:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -813,7 +813,7 @@ msgstr "阅读来自维基媒体技术社区的博文。"
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://diff.wikimedia.org/category/technology/)"
-msgstr ""
+msgstr "[访问技术博客](https://diff.wikimedia.org/category/technology/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Tech news"
@@ -929,7 +929,7 @@ msgstr "一个网络浏览器扩展，可将单词翻译成手语视频，以便
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/SignIt)"
-msgstr ""
+msgstr "[阅读文档](https://meta.wikimedia.org/wiki/SignIt)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
@@ -1000,7 +1000,7 @@ msgstr "适合无法访问互联网的人的离线阅读器。"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Read the docs](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
-msgstr ""
+msgstr "[阅读文档](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
@@ -1706,7 +1706,7 @@ msgstr "维基数据是一个免费且开放的知识库，可供人类和机器
 
 #: use-content/data.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
-msgstr ""
+msgstr "[在维基数据上了解更多](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
@@ -1783,7 +1783,7 @@ msgstr "了解如何使用SPARQL查询维基数据。本教程涵盖了维基数
 
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Read more](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
-msgstr ""
+msgstr "[了解更多](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
