@@ -2,7 +2,7 @@
 title: Find code maintainers and stewards
 description: Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure.
 links:
-  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers
+  - url: https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Production/Service_Catalog
     label: Read more on mediawiki.org
 categories:
   communicate: 3

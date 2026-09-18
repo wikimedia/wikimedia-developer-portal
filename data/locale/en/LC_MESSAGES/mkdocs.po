@@ -695,7 +695,7 @@ msgstr ""
 #: community/communicate.md:block 11 (unordered list)
 msgid ""
 "[Read more on "
-"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+"mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Production/Service_Catalog)"
 msgstr ""
 
 #: community/events.md:meta.title community/events.md:title
