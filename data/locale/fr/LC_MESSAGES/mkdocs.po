@@ -34,8 +34,8 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-09-14 12:06:12+0000\n"
-"X-POT-Import-Date: 2026-09-12 08:42:15+0000\n"
+"PO-Revision-Date: 2026-09-21 12:05:31+0000\n"
+"X-POT-Import-Date: 2026-09-18 16:05:18+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
@@ -578,8 +578,8 @@ msgid "Browse the list of developers and teams who maintain core MediaWiki compo
 msgstr "Naviguez dans la liste des développeurs et des équipes qui maintiennent les composants cœur de MediaWiki, les extensions et habillages clés, les bibliothèques et les autres infrastructures techniques de Wikimedia."
 
 #: community/communicate.md:block 11 (unordered list)
-msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
-msgstr "[Lire davantage sur MediaWiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developers/Maintainers)"
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Production/Service_Catalog)"
+msgstr ""
 
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
