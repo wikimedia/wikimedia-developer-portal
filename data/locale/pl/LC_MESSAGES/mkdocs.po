@@ -24,7 +24,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-09-21 12:05:31+0000\n"
+"PO-Revision-Date: 2026-10-05 12:04:32+0000\n"
 "X-POT-Import-Date: 2026-09-18 16:05:18+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -108,7 +108,7 @@ msgstr "Odkrywaj i rozwijaj technologię Wikimedia"
 
 #: index.md:block 1 (paragraph)
 msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
-msgstr "Znajdź dokumentację techniczną i nawiąż kontakt ze społecznością programistów stojących za [Wikipedią](https://www.wikipedia.org/) i innymi [projektami Wikimedia](https://wikimediafoundation.org/our-work/wikimedia-projects/) ."
+msgstr "Znajdź dokumentację techniczną i nawiąż kontakt ze społecznością programistów stojących za [Wikipedią](https://www.wikipedia.org/) i innymi [projektami Wikimedia](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
 
 #: index.md:block 2 (paragraph)
 msgid "[Get started](get-started/){ .md-button }"
