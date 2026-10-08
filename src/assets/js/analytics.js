@@ -154,7 +154,7 @@ if ( window.location.hostname === 'developer.wikimedia.org' ) {
 			};
 		}
 
-		const ANALYTICS_ENDPOINT = "/ins-502b/v2/events";
+		const ANALYTICS_ENDPOINT = "https://intake-analytics.wikimedia.org/v1/events";
 
 		const event = getBeaconEvent();
 		const eventData = JSON.stringify( event );
