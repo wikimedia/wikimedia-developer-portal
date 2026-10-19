@@ -1,0 +1,1788 @@
+# Translation of Wikimedia Developer Portal to Saraiki (Arabic script) (سرائیکی)
+# Exported from translatewiki.net
+#
+# Author: Saraiki
+# Author: Tauqeerkhansurani
+# --
+# Copyright (c) 2022 Wikimedia Foundation and contributors.
+# All Rights Reserved.
+#
+# This file is part of Wikimedia Developer Portal.
+# Wikimedia Developer Portal is free software: you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or (at your
+# option) any later version.
+#
+# Wikimedia Developer Portal is distributed in the hope that it will be
+# useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+# Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# Wikimedia Developer Portal.  If not, see <http://www.gnu.org/licenses/>.
+#
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2026-10-19 12:05:06+0000\n"
+"X-POT-Import-Date: 2026-09-18 16:05:18+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: skr-Arab\n"
+"Project-Id-Version: Wikimedia Developer Portal\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Generator: MediaWiki 1.48.0-alpha; Translate 2026-09-08\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: mkdocs.yml:site_name
+msgid "Wikimedia Developer Portal"
+msgstr "وکیمیݙیا ݙیویلپر پورٹل"
+
+#: mkdocs.yml:site_description
+msgid "Find technical documentation, and connect with Wikimedia developer communities."
+msgstr "تکنیکی دستاویزات ڳولو، اَتے وکیمیݙیا ݙیویلپر کمیونٹیز نال جُڑو۔"
+
+#: mkdocs.yml:site_author
+msgid "Wikimedia Foundation and contributors"
+msgstr "وکیمیݙیا فاؤنڈیشن اَتے شراکت دار"
+
+#: mkdocs.yml:copyright
+msgid "Copyright &copy; Wikimedia Foundation and contributors"
+msgstr "کاپی رائٹ &copy; وکیمیݙیا فاؤنڈیشن اَتے شراکت دار"
+
+#: mkdocs.yml:extra.footer_links.0
+msgid "Privacy policy"
+msgstr "رازداری پالیسی"
+
+#: mkdocs.yml:extra.footer_links.1
+msgid "Terms of Use"
+msgstr "ورتݨ شرطاں"
+
+#: mkdocs.yml:extra.footer_links.2
+msgid "Code: GPL-3.0-or-later"
+msgstr "کوڈ: GPL-3.0-or-later"
+
+#: mkdocs.yml:extra.footer_links.3
+msgid "Content: CC-BY-SA-4.0"
+msgstr "مواد: CC-BY-SA-4.0"
+
+#: mkdocs.yml:extra.footer_links.4
+msgid "About"
+msgstr "تعارف"
+
+#: mkdocs.yml:extra.footer_links.5 mkdocs.yml:navigation
+msgid "Contribute"
+msgstr "حصہ پاؤ"
+
+#: mkdocs.yml:navigation build-tools/get-started.md:title
+#: build-tools/get-started.md:block 1 (header) get-started/index.md:meta.title
+#: get-started/index.md:title
+msgid "Get started"
+msgstr "شروع کرو"
+
+#: mkdocs.yml:navigation use-content/index.md:meta.title
+#: use-content/index.md:title
+msgid "Use content and data"
+msgstr "مواد تے ڈیٹا ورتو"
+
+#: mkdocs.yml:navigation build-tools/index.md:meta.title
+#: build-tools/index.md:title
+msgid "Tools and bots"
+msgstr "اوزار تے بوٹ"
+
+#: mkdocs.yml:navigation community/index.md:meta.title
+#: community/index.md:title
+msgid "Community"
+msgstr "برادری"
+
+#: mkdocs.yml:navigation get-help/index.md:meta.title get-help/index.md:title
+#: get-help/index.md:block 1 (header) use-content/bot-traffic.md:block 15
+#: (header)
+msgid "Get help"
+msgstr "مدد گھنو"
+
+#: index.md:meta.title index.md:title
+msgid "Discover and build Wikimedia technology"
+msgstr "وکیمیݙیا ٹیکنالوجی دریافت کرو اَتے بݨاؤ۔"
+
+#: index.md:block 1 (paragraph)
+msgid "Find technical documentation, and connect with the developer community behind [Wikipedia](https://www.wikipedia.org/) and other [Wikimedia projects](https://wikimediafoundation.org/our-work/wikimedia-projects/)."
+msgstr "تکنیکی دستاویزات ڳولو، اَتے [ویکیپیڈیا](https://www.wikipedia.org/) دے پِچھوں ݙیویلپر کمیونٹی اَتے ٻئے [وکیمیݙیا منصوبے](https://wikimediafoundation.org/our-work/wikimedia-projects/) نال جُڑو۔"
+
+#: index.md:block 2 (paragraph)
+msgid "[Get started](get-started/){ .md-button }"
+msgstr "[شروع کرو](get-started/){ .md-button }"
+
+#: index.md:block 4 (header)
+msgid "[Use Wikimedia content and data](use-content/)"
+msgstr "[وکیمیݙیا مواد اَتے ݙیٹا ورتو](use-content/)"
+
+#: index.md:block 5 (paragraph) use-content/index.md:block 1 (paragraph)
+msgid "Access articles from Wikipedia, media files, structured data, and more with public APIs and downloads."
+msgstr "ویکیپیڈیا توں مضامین، میڈیا فائلاں، منظم ݙیٹا، اَتے عوامی APIs اَتے ڈاؤن لوڈز نال ٻیا مواد حاصل کرو۔"
+
+#: index.md:block 7 (header)
+msgid "[Build tools and bots](build-tools/)"
+msgstr "[ٹولز اَتے بوٹس بݨاؤ](build-tools/)"
+
+#: index.md:block 8 (paragraph) build-tools/index.md:block 1 (paragraph)
+msgid "Tools and bots make it easier to edit and maintain Wikimedia projects."
+msgstr "ٹولز اَتے بوٹس وکیمیݙیا منصوبیاں کوں ایڈٹ اَتے سنبھالݨ سوکھا بݨیندے ہن۔"
+
+#: index.md:block 10 (header)
+msgid "[Contribute to Wikimedia open source](contribute/)"
+msgstr "[وکیمیݙیا اوپن سورس وچ حصہ پاؤ](contribute/)"
+
+#: index.md:block 11 (paragraph) contribute/index.md:block 1 (paragraph)
+msgid "Help build the Wikimedia ecosystem with open source software."
+msgstr "اوپن سورس سافٹ ویئر نال وکیمیݙیا ایکو سسٹم بݨاوݨ وچ مدد کرو۔"
+
+#: index.md:block 13 (header)
+msgid "[Connect with the community](community/)"
+msgstr "[کمیونٹی نال جُڑو](community/)"
+
+#: index.md:block 14 (paragraph) community/index.md:block 1 (paragraph)
+msgid "Get involved with the Wikimedia technical community, and find opportunities for support and learning."
+msgstr "وکیمیݙیا تکنیکی کمیونٹی وچ شامل تھیوو، اَتے مدد اَتے سکھݨ دے موقعے ڳولو۔"
+
+#: index.md:block 16 (header)
+msgid "[Get help](get-help/)"
+msgstr "[مدد گھنو](get-help/)"
+
+#: index.md:block 17 (paragraph)
+msgid "Find resources to help with questions and troubleshooting."
+msgstr "سوالاں اَتے مسئلے حل کرݨ وچ مدد کرݨ آلے وسائل ڳولو۔"
+
+#: build-tools/index.md:block 2 (header)
+msgid "[Discover and share tools](search.md)"
+msgstr "[ٹولز دریافت کرو اَتے شیئر کرو](search.md)"
+
+#: build-tools/index.md:block 3 (paragraph) build-tools/search.md:block 2
+#: (paragraph)
+msgid "Browse the catalog of tools on Toolhub, share your tools, and help maintain tool metadata."
+msgstr "ٹول ہب تے ٹولز دی کیٹلاگ ݙیکھو، تہاݙے ٹولز شیئر کرو، اَتے ٹول میٹا ݙیٹا سنبھالݨ وچ مدد کرو۔"
+
+#: build-tools/index.md:block 4 (header)
+msgid "[Get started](get-started.md)"
+msgstr "[شروع کرو](get-started.md)"
+
+#: build-tools/index.md:block 5 (paragraph) build-tools/get-started.md:block 2
+#: (paragraph)
+msgid "Create your first tool, learn about running a bot, and get best practices."
+msgstr "اپݨا پہلا ٹول بݨاؤ، بوٹ چلاوݨ بارے سکھو، اَتے بہترین طریقے حاصل کرو۔"
+
+#: build-tools/index.md:block 6 (header) get-started/index.md:block 5 (header)
+#: use-content/index.md:block 4 (header)
+msgid "[Learn with tutorials](tutorials.md)"
+msgstr "[ٹیوٹوریلز نال سکھو](tutorials.md)"
+
+#: build-tools/index.md:block 7 (paragraph) build-tools/tutorials.md:block 2
+#: (paragraph)
+msgid "Follow step-by-step guides to learn the basics of interacting with Wikimedia projects."
+msgstr "وکیمیݙیا منصوبیاں نال گل بات کرݨ دے بنیادی اصول سکھݨ کیتے قدم بہ قدم گائیڈز تے عمل کرو۔"
+
+#: build-tools/index.md:block 8 (header)
+msgid "[Use APIs and data sources](apis.md)"
+msgstr "[APIs اَتے ݙیٹا ذرائع ورتو](apis.md)"
+
+#: build-tools/index.md:block 9 (paragraph) build-tools/apis.md:block 2
+#: (paragraph)
+msgid "Explore programming interfaces for building bots and tools."
+msgstr "بوٹس اَتے ٹولز بݨاوݨ کیتے پروگرامنگ انٹرفیسز ڳولو۔"
+
+#: build-tools/index.md:block 10 (header)
+msgid "[Host tools on Wikimedia servers](host-tools.md)"
+msgstr "[وکیمیݙیا سرورز تے ٹولز ہوسٹ کرو](host-tools.md)"
+
+#: build-tools/index.md:block 11 (paragraph) build-tools/host-tools.md:block 2
+#: (paragraph)
+msgid "Access cloud services for performing analytics, administering bots, running web services, and hosting tools that help Wikimedia projects."
+msgstr "تجزیات کرݨ، بوٹس چلاوݨ، ویب سروسز چلاوݨ، اَتے وکیمیݙیا منصوبیاں دی مدد کرݨ آلے ٹولز ہوسٹ کرݨ کیتے کلاؤڈ سروسز حاصل کرو۔"
+
+#: build-tools/apis.md:meta.title build-tools/apis.md:title
+#: build-tools/apis.md:block 1 (header)
+msgid "Use APIs and data sources"
+msgstr "APIs اَتے ݙیٹا ذرائع ورتو"
+
+#: build-tools/apis.md:block 3 (header) contribute/by-language.md:block 3
+#: (header)
+#, optional
+msgid "Pywikibot"
+msgstr ""
+
+#: build-tools/apis.md:block 4 (paragraph) contribute/by-language.md:block 4
+#: (paragraph)
+msgid "Pywikibot is a Python library and collection of scripts that automate work on Wikimedia projects."
+msgstr "Pywikibot Python لائبریری اَتے اسکرپٹس دا مجموعہ ہے جو وکیمیݙیا منصوبیاں تے کم خودکار بݨیندے ہن۔"
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot)"
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+msgstr "[حصہ پاؤ](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/Development)"
+
+#: build-tools/apis.md:block 5 (unordered list)
+#: contribute/by-language.md:block 5 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/pywikibot/core)"
+msgstr "[سورس کوڈ حاصل کرو](https://gerrit.wikimedia.org/g/pywikibot/core)"
+
+#: build-tools/apis.md:block 6 (header) use-content/content.md:block 9
+#: (header)
+msgid "Browse libraries by programming language"
+msgstr "پروگرامنگ زبان دے حساب نال لائبریریز ݙیکھو"
+
+#: build-tools/apis.md:block 7 (paragraph)
+#: get-started/browse-languages.md:block 2 (paragraph)
+#: use-content/content.md:block 10 (paragraph)
+msgid "API client libraries make it easier to write code that interacts with an API. Visit this list to browse popular libraries for the MediaWiki API by programming language."
+msgstr "API کلائنٹ لائبریریز کوڈ لکھݨ سوکھا بݨیندیاں ہن جو API نال گل بات کریندا ہے۔ پروگرامنگ زبان دے حساب نال MediaWiki API کیتے مقبول لائبریریز ݙیکھݨ کیتے ایہ لسٹ ݙیکھو۔"
+
+#: build-tools/apis.md:block 8 (unordered list)
+#: get-started/browse-languages.md:block 3 (unordered list)
+#: use-content/content.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Client_code)"
+
+#: build-tools/apis.md:block 9 (header) use-content/content.md:block 12
+#: (header)
+msgid "Use the API"
+msgstr "API ورتو"
+
+#: build-tools/apis.md:block 10 (paragraph) use-content/content.md:block 13
+#: (paragraph)
+msgid "The MediaWiki API gives you programmatic access to content on any Wikimedia wiki. You can use the API to search and display wiki pages, get media files, edit pages, and manage wikis."
+msgstr "MediaWiki API تساں کوں کہیں وی وکیمیݙیا ویکی دے مواد تک پروگرامی رسائی ݙیندی ہے۔ تساں API ورت تے ویکی صفحے ڳول تے ݙکھا سڳدے ہو، میڈیا فائلاں گھن سڳدے ہو، صفحے ایڈٹ کر سڳدے ہو، اَتے وکیاں سنبھال سڳدے ہو۔"
+
+#: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
+#: 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Action_API)"
+
+#: build-tools/apis.md:block 11 (unordered list) use-content/content.md:block
+#: 14 (unordered list)
+msgid "[Try the sandbox](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+msgstr "[سینڈ باکس آزماؤ](https://www.mediawiki.org/wiki/Special:ApiSandbox)"
+
+#: build-tools/apis.md:block 12 (header) use-content/content.md:block 15
+#: (header) use-content/data.md:block 9 (header)
+msgid "Download content in bulk"
+msgstr "مواد وݙی مقدار وچ ڈاؤن لوڈ کرو"
+
+#: build-tools/apis.md:block 13 (paragraph) use-content/content.md:block 16
+#: (paragraph) use-content/data.md:block 10 (paragraph)
+msgid "Access free downloads of wiki content and data that you can use in research, offline reading, bot editing, and other projects."
+msgstr "ویکی مواد اَتے ݙیٹا دے مفت ڈاؤن لوڈز حاصل کرو جنہیں تساں تحقیق، آف لائن پڑھݨ، بوٹ ایڈٹنگ، اَتے ٻئے منصوبیاں وچ ورت سڳدے ہو۔"
+
+#: build-tools/apis.md:block 14 (unordered list) use-content/content.md:block
+#: 17 (unordered list) use-content/data.md:block 11 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_dumps)"
+
+#: build-tools/apis.md:block 15 (header)
+msgid "Query wiki databases"
+msgstr "ویکی ݙیٹا بیسز ڳولو"
+
+#: build-tools/apis.md:block 16 (paragraph)
+msgid "Wiki replicas are anonymized versions of the databases that back Wikimedia's production sites. Use Quarry to run and share SQL queries."
+msgstr "ویکی ریپلیکاز او ݙیٹا بیسز دے گمنام ورژن ہن جو وکیمیݙیا دیاں پروڈکشن سائٹس کوں چلیندے ہن۔ SQL کوئریز چلاوݨ اَتے شیئر کرݨ کیتے Quarry ورتو۔"
+
+#: build-tools/apis.md:block 17 (unordered list)
+msgid "[Visit Quarry](https://quarry.wmcloud.org/)"
+msgstr "[Quarry ݙیکھو](https://quarry.wmcloud.org/)"
+
+#: build-tools/apis.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Quarry)"
+
+#: build-tools/get-started.md:block 3 (header) build-tools/tutorials.md:block
+#: 3 (header)
+msgid "Build your first tool"
+msgstr "اپݨا پہلا ٹول بݨاؤ"
+
+#: build-tools/get-started.md:block 4 (paragraph)
+#: build-tools/tutorials.md:block 4 (paragraph)
+msgid "Learn how to edit wiki pages using Python and the Pywikibot framework. This tutorial helps you get started quickly using only your browser."
+msgstr "Python اَتے Pywikibot فریم ورک ورت تے ویکی صفحے ایڈٹ کرݨ سکھو۔ ایہ ٹیوٹوریل تساں کوں صرف تہاݙے براؤزر ورت تے جلدی شروع کرݨ وچ مدد کریندے ہن۔"
+
+#: build-tools/get-started.md:block 5 (unordered list)
+#: build-tools/tutorials.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Pywikibot/PAWS)"
+
+#: build-tools/get-started.md:block 6 (header)
+msgid "Learn about creating and running bots"
+msgstr "بوٹس بݨاوݨ اَتے چلاوݨ بارے سکھو"
+
+#: build-tools/get-started.md:block 7 (paragraph)
+msgid "Bots help maintain wikis by performing repetitive tasks. Get started creating and running bots by learning about best practices."
+msgstr "بوٹس دہرانݨ آلے کم کر تے وکیاں سنبھالݨ وچ مدد کریندے ہن۔ بہترین طریقے سکھ تے بوٹس بݨاوݨ اَتے چلاوݨ شروع کرو۔"
+
+#: build-tools/get-started.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Creating_a_bot)"
+
+#: build-tools/get-started.md:block 9 (header)
+msgid "Best practices for open source tools"
+msgstr "اوپن سورس ٹولز کیتے بہترین طریقے"
+
+#: build-tools/get-started.md:block 10 (paragraph)
+msgid "New to open source? Get tips to help you develop successful tools and bots, including choosing a license, publishing the code, and writing docs."
+msgstr "اوپن سورس کیتے نواں ہو؟ کامیاب ٹولز اَتے بوٹس بݨاوݨ وچ مدد کرݨ آلے ٹپس حاصل کرو، جنہیں وچ لائسنس چݨݨ، کوڈ شائع کرݨ، اَتے دستاویزات لکھݨ شامل ہن۔"
+
+#: build-tools/get-started.md:block 11 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Developing_successful_tools)"
+
+#: build-tools/host-tools.md:meta.title build-tools/host-tools.md:title
+#: build-tools/host-tools.md:block 1 (header)
+msgid "Host tools on Wikimedia servers"
+msgstr "وکیمیݙیا سرورز تے ٹولز ہوسٹ کرو"
+
+#: build-tools/host-tools.md:block 3 (header)
+msgid "Run scripts in your browser"
+msgstr "تہاݙے براؤزر وچ اسکرپٹس چلاؤ"
+
+#: build-tools/host-tools.md:block 4 (paragraph)
+msgid "PAWS is a free, cloud-hosted playground for creating scripts and data visualizations related to Wikimedia projects. Log in with your Wikimedia account and create a notebook to get started."
+msgstr "PAWS وکیمیݙیا منصوبیاں نال جُڑیاں اسکرپٹس اَتے ݙیٹا وژوئلائزیشنز بݨاوݨ کیتے مفت، کلاؤڈ وچ میزبانی کیتا ڳیا کھیل دا میدان ہے۔ شروع کرݨ کیتے تہاݙے وکیمیݙیا اکاؤنٹ نال لاگ اِن کرو اَتے نوٹ بُک بݨاؤ۔"
+
+#: build-tools/host-tools.md:block 5 (unordered list)
+msgid "[Visit PAWS](https://hub-paws.wmcloud.org/)"
+msgstr "[PAWS ݙیکھو](https://hub-paws.wmcloud.org/)"
+
+#: build-tools/host-tools.md:block 5 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/PAWS)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/PAWS)"
+
+#: build-tools/host-tools.md:block 6 (header)
+msgid "Learn about cloud hosting for tools"
+msgstr "ٹولز کیتے کلاؤڈ ہوسٹنگ بارے سکھو"
+
+#: build-tools/host-tools.md:block 7 (paragraph)
+msgid "Toolforge is a free hosting environment for running and managing tools. Developing a tool in Toolforge makes it easier to access Wikimedia content and data and to share your tool with others."
+msgstr "Toolforge ٹولز چلاوݨ اَتے سنبھالݨ کیتے مفت ہوسٹنگ ماحول ہے۔ Toolforge وچ ٹول بݨاوݨ نال وکیمیݙیا مواد اَتے ݙیٹا تک رسائی حاصل کرݨ اَتے اپݨا ٹول ٻیاں نال شیئر کرݨ سوکھا تھی ویندے ہن۔"
+
+#: build-tools/host-tools.md:block 8 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/Help:Toolforge)"
+
+#: build-tools/search.md:meta.title build-tools/search.md:title
+#: build-tools/search.md:block 1 (header)
+msgid "Discover and share tools"
+msgstr "ٹولز دریافت کرو اَتے شیئر کرو"
+
+#: build-tools/search.md:block 3 (header) use-content/featured-apps.md:block
+#: 12 (header)
+#, optional
+msgid "Toolhub"
+msgstr ""
+
+#: build-tools/search.md:block 4 (paragraph) contribute/search.md:block 13
+#: (paragraph) use-content/featured-apps.md:block 13 (paragraph)
+msgid "Toolhub is a catalog of tools that make it easier to edit and maintain Wikimedia projects. Use Toolhub to discover new tools, connect with tool maintainers, and share lists of your favorite tools."
+msgstr "ٹول ہب ٹولز دی کیٹلاگ ہے جو وکیمیݙیا منصوبیاں کوں ایڈٹ اَتے سنبھالݨ سوکھا بݨیندی ہے۔ نواں ٹولز دریافت کرݨ، ٹول سنبھالݨ آلیاں نال جُڑݨ، اَتے اپݨے پسندیدہ ٹولز دیاں لسٹاں شیئر کرݨ کیتے ٹول ہب ورتو۔"
+
+#: build-tools/search.md:block 5 (unordered list) contribute/search.md:block
+#: 14 (unordered list) use-content/featured-apps.md:block 14 (unordered list)
+msgid "[Visit Toolhub](https://toolhub.wikimedia.org/)"
+msgstr "[ٹول ہب ݙیکھو](https://toolhub.wikimedia.org/)"
+
+#: build-tools/search.md:block 6 (header)
+msgid "Share a tool"
+msgstr "ٹول شیئر کرو"
+
+#: build-tools/search.md:block 7 (paragraph)
+msgid "Add your tool to the Toolhub catalog so others can benefit from and build on your work. Log in to Toolhub with your Wikimedia account to get started."
+msgstr "اپݨا ٹول ٹول ہب کیٹلاگ وچ شامل کرو تاکہ ٻئے تہاݙے کم توں فائدہ گھن تے اوندے تے تعمیر کر سڳن۔ شروع کرݨ کیتے تہاݙے وکیمیݙیا اکاؤنٹ نال ٹول ہب وچ لاگ اِن کرو۔"
+
+#: build-tools/search.md:block 8 (unordered list)
+msgid "[Add a tool to Toolhub](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+msgstr "[ٹول ہب وچ ٹول شامل کرو](https://toolhub.wikimedia.org/add-or-remove-tools?tab=tool-create)"
+
+#: build-tools/tutorials.md:meta.title build-tools/tutorials.md:title
+#: build-tools/tutorials.md:block 1 (header)
+#: get-started/tutorials.md:meta.title get-started/tutorials.md:title
+#: use-content/tutorials.md:meta.title use-content/tutorials.md:title
+#: use-content/tutorials.md:block 1 (header)
+msgid "Learn with tutorials"
+msgstr "ٹیوٹوریلز نال سکھو"
+
+#: build-tools/tutorials.md:block 6 (header) use-content/tutorials.md:block 12
+#: (header)
+msgid "Generate ideas for articles"
+msgstr "مضامین کیتے خیالات پیدا کرو"
+
+#: build-tools/tutorials.md:block 7 (paragraph) use-content/tutorials.md:block
+#: 13 (paragraph)
+msgid "Learn how to use the MediaWiki API to generate ideas for new Wikipedia articles. This tutorial uses Python and the Flask framework."
+msgstr "نواں ویکیپیڈیا مضامین کیتے خیالات پیدا کرݨ کیتے MediaWiki API ورتݨ سکھو۔ ایہ ٹیوٹوریل Python اَتے Flask فریم ورک ورتیندے ہن۔"
+
+#: build-tools/tutorials.md:block 8 (unordered list)
+#: use-content/tutorials.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Article_ideas_generator)"
+
+#: build-tools/tutorials.md:block 9 (header)
+msgid "Write a bot that uses Wikidata"
+msgstr "ویکی ݙیٹا ورتݨ آلا بوٹ لکھو"
+
+#: build-tools/tutorials.md:block 10 (paragraph)
+msgid "Use Python to handle large datasets from Wikidata and transfer data between tools in your workflow."
+msgstr "ویکی ݙیٹا توں وݙے ݙیٹا سیٹاں سنبھالݨ اَتے تہاݙے ورک فلو وچ ٹولز دے وچکار ݙیٹا ٹرانسفر کرݨ کیتے Python ورتو۔"
+
+#: build-tools/tutorials.md:block 11 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+msgstr "[ویکی ݙیٹا تے ٻیا پڑھو](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Pywikibot_-_Python_3_Tutorial)"
+
+#: build-tools/tutorials.md:block 12 (header) use-content/tutorials.md:block 3
+#: (header)
+msgid "Display holidays from Wikipedia"
+msgstr "ویکیپیڈیا توں تعطیلاں ݙکھاؤ"
+
+#: build-tools/tutorials.md:block 13 (paragraph)
+#: use-content/tutorials.md:block 4 (paragraph)
+msgid "Learn how to use the MediaWiki API to fetch holidays for a given date from Wikipedia. This tutorial also covers how to use the API to log in to Wikipedia and add new holidays. This tutorial uses Python and the Flask framework."
+msgstr "ویکیپیڈیا توں ݙتی ڳئی تاریخ کیتے تعطیلاں گھنݨ کیتے MediaWiki API ورتݨ سکھو۔ ایہ ٹیوٹوریل ویکیپیڈیا وچ لاگ اِن کرݨ اَتے نواں تعطیلاں شامل کرݨ کیتے API ورتݨ دا طریقہ وی ݙسیندے ہن۔ ایہ ٹیوٹوریل Python اَتے Flask فریم ورک ورتیندے ہن۔"
+
+#: build-tools/tutorials.md:block 14 (unordered list)
+#: use-content/tutorials.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Holidays_viewer)"
+
+#: build-tools/tutorials.md:block 15 (header)
+msgid "Add JavaScript or CSS to a wiki"
+msgstr "ویکی وچ JavaScript یا CSS شامل کرو"
+
+#: build-tools/tutorials.md:block 16 (paragraph)
+msgid "Customize MediaWiki with client-side JavaScript and CSS. Share user scripts, and explore gadgets other people have created."
+msgstr "کلائنٹ سائیڈ JavaScript اَتے CSS نال MediaWiki کوں ذاتی بݨاؤ۔ صارف اسکرپٹس شیئر کرو، اَتے او گیجٹس ڳولو جو ٻئے لوکاں بݨائے ہن۔"
+
+#: build-tools/tutorials.md:block 17 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Gadget_kitchen)"
+
+#: build-tools/tutorials.md:block 18 (header)
+msgid "Host a tool on Wikimedia cloud servers"
+msgstr "وکیمیڈیا کلاؤڈ سرورز تے ٹول ہوسٹ کرو"
+
+#: build-tools/tutorials.md:block 19 (paragraph)
+msgid "Toolforge is a free hosting environment for running and managing tools. Get started with Toolforge by creating an account and setting up a basic web service."
+msgstr "Toolforge ٹولز چلاوݨ اَتے سنبھالݨ کیتے مفت ہوسٹنگ ماحول ہے۔ اکاؤنٹ بݨا تے بنیادی ویب سروس سیٹ اپ کر تے Toolforge نال شروع کرو۔"
+
+#: build-tools/tutorials.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Quickstart)"
+
+#: community/index.md:block 2 (header)
+msgid "[Explore hackathons and events](events.md)"
+msgstr "[ہیکاتھونز اَتے ایونٹس ڳولو](events.md)"
+
+#: community/index.md:block 3 (paragraph) community/events.md:block 2
+#: (paragraph)
+msgid "Browse content from past events, or join an upcoming event."
+msgstr "پِچھلے ایونٹس دا مواد ڳولو، یا آوݨ آلے ایونٹ وچ شامل تھیوو۔"
+
+#: community/index.md:block 4 (header)
+msgid "[Communicate with the tech community](communicate.md)"
+msgstr "[ٹیک کمیونٹی نال گل بات کرو](communicate.md)"
+
+#: community/index.md:block 5 (paragraph) community/communicate.md:block 2
+#: (paragraph)
+msgid "Understand communication channels and how to connect with Wikimedia developers."
+msgstr "گل بات دے چینلاں کوں سمجھو اَتے وکیمیݙیا ݙیویلپرز نال کینویں جُڑو۔"
+
+#: community/index.md:block 6 (header)
+msgid "[Learn and share technical skills](grow.md)"
+msgstr "[تکنیکی ہنر سکھو اَتے شیئر کرو](grow.md)"
+
+#: community/index.md:block 7 (paragraph) community/grow.md:block 2
+#: (paragraph)
+msgid "Grow your skills, or help others learn through workshops, internships, and mentoring opportunities."
+msgstr "اپݨے ہنر ودھاؤ، یا ورکشاپس، انٹرن شپس، اَتے مینٹرنگ دے مواقعاں دے ذریعے ٻئے کوں سکھاوݨ وچ مدد کرو۔"
+
+#: community/index.md:block 8 (header)
+msgid "[Get tech project updates](updates.md)"
+msgstr "[ٹیک پروجیکٹ اپ ڈیٹس گھنو](updates.md)"
+
+#: community/index.md:block 9 (paragraph) community/updates.md:block 2
+#: (paragraph)
+msgid "Stay up to date with the latest from the Wikimedia technical community."
+msgstr "وکیمیݙیا تکنیکی کمیونٹی دیاں تازہ ترین خبراں نال اپ ٹو ڈیٹ رہوو۔"
+
+#: community/index.md:block 10 (header)
+msgid "[Learn about Wikimedia technical operations](tech-ops.md)"
+msgstr "[وکیمیݙیا تکنیکی آپریشنز دے بارے وچ ڄاݨو](tech-ops.md)"
+
+#: community/index.md:block 11 (paragraph) community/tech-ops.md:block 2
+#: (paragraph)
+msgid "Find information about the infrastructure and teams behind Wikimedia technology."
+msgstr "وکیمیݙیا ٹیکنالوجی دے پِچھوں بنیادی ڈھانچے اَتے ٹیماں دے بارے وچ معلومات ڳولو۔"
+
+#: community/communicate.md:meta.title community/communicate.md:title
+#: community/communicate.md:block 1 (header)
+msgid "Communicate with the tech community"
+msgstr "ٹیک کمیونٹی نال گل بات کرو"
+
+#: community/communicate.md:block 3 (header) contribute/overview.md:block 3
+#: (header) get-started/new-dev.md:block 12 (header)
+msgid "Read the code of conduct"
+msgstr "ضابطہ اخلاق پڑھو"
+
+#: community/communicate.md:block 4 (paragraph) contribute/overview.md:block 4
+#: (paragraph) get-started/new-dev.md:block 13 (paragraph)
+msgid "The code of conduct for Wikimedia technical spaces applies to both physical and virtual environments. Learn how to foster an open and welcoming community."
+msgstr "وکیمیݙیا تکنیکی جائیں کیتے ضابطہ اخلاق جسمانی اَتے ورچوئل ݙوہیں ماحولاں تے لاڳو تھیندے۔ کھلی اَتے خوش آمدید آکھݨ آلی کمیونٹی کوں ودھاوݨ دا طریقہ سکھو۔"
+
+#: community/communicate.md:block 5 (unordered list)
+#: contribute/overview.md:block 5 (unordered list)
+#: get-started/new-dev.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct)"
+
+#: community/communicate.md:block 6 (header) get-help/index.md:block 9
+#: (header)
+msgid "Communication channels"
+msgstr "گل بات دے چینل"
+
+#: community/communicate.md:block 7 (paragraph) get-help/index.md:block 10
+#: (paragraph)
+msgid "Get in contact with developers and MediaWiki users to get support and share knowledge."
+msgstr "ݙیویلپرز اَتے MediaWiki ورتوݨ آلیاں نال مدد گھنݨ اَتے علم شیئر کرݨ کیتے رابطہ کرو۔"
+
+#: community/communicate.md:block 8 (unordered list) get-help/index.md:block
+#: 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Communication)"
+
+#: community/communicate.md:block 9 (header)
+msgid "Find code maintainers and stewards"
+msgstr "کوڈ دے سنبھالݨ آلیاں اَتے سٹیورڈز ڳولو"
+
+#: community/communicate.md:block 10 (paragraph)
+msgid "Browse the list of developers and teams who maintain core MediaWiki components, key extensions and skins, libraries, and other Wikimedia technical infrastructure."
+msgstr "ݙیویلپرز اَتے ٹیماں دی فہرست ڳولو جو بنیادی MediaWiki اجزاء، اہم ایکسٹینشنز اَتے سکنز، لائبریریز، اَتے وکیمیݙیا دے ٻئے تکنیکی بنیادی ڈھانچے دی دیکھ بھال کریندے ہن۔"
+
+#: community/communicate.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Production/Service_Catalog)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Production/Service_Catalog)"
+
+#: community/events.md:meta.title community/events.md:title
+#: community/events.md:block 1 (header)
+msgid "Explore hackathons and events"
+msgstr "ہیکاتھونز اَتے ایونٹس ڳولو"
+
+#: community/events.md:block 3 (header)
+msgid "Hackathons"
+msgstr "ہیکاتھونز"
+
+#: community/events.md:block 4 (paragraph)
+msgid "A hackathon brings together people with different skills to work together on a common technical goal."
+msgstr "ہیکاتھون مختلف ہنر آلے لوکاں کوں اکٹھا کریندا ہے تاکہ او ہک مشترکہ تکنیکی مقصد تے رل مل کے کم کرن۔"
+
+#: community/events.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Hackathons)"
+
+#: community/events.md:block 6 (header)
+msgid "Wikidata events"
+msgstr "ویکی ݙیٹا ایونٹس"
+
+#: community/events.md:block 7 (paragraph)
+msgid "Browse meetups for Wikidata editors, data reusers, and developers."
+msgstr "ویکی ݙیٹا ایڈیٹرز، ݙیٹا دوبارہ ورتوݨ آلیاں اَتے ݙیویلپرز کیتے ملاقاتاں ڳولو۔"
+
+#: community/events.md:block 8 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+msgstr "[ویکی ݙیٹا تے ٻیا پڑھو](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Events)"
+
+#: community/events.md:block 9 (header)
+msgid "Research events"
+msgstr "تحقیقی ایونٹس"
+
+#: community/events.md:block 10 (paragraph)
+msgid "Join forums and meetups for scientists, engineers, and scholars who are exploring all aspects of Wikimedia projects."
+msgstr "سائنسداناں، انجینئرز، اَتے اسکالرز کیتے فورمز اَتے ملاقاتاں وچ شامل تھیوو جو وکیمیݙیا منصوبیاں دے ہر پہلو کوں ڳول رہے ہن۔"
+
+#: community/events.md:block 11 (unordered list)
+msgid "[Read more](https://research.wikimedia.org/events.html)"
+msgstr "[ٻیا پڑھو](https://research.wikimedia.org/events.html)"
+
+#: community/events.md:block 12 (header)
+msgid "MediaWiki developer events"
+msgstr "MediaWiki ݙیویلپر ایونٹس"
+
+#: community/events.md:block 13 (paragraph)
+msgid "Join meetings, conferences, and coding sessions related to MediaWiki and Wikimedia code."
+msgstr "MediaWiki اَتے وکیمیݙیا کوڈ نال متعلق ملاقاتاں، کانفرنساں، اَتے کوڈنگ سیشنز وچ شامل تھیوو۔"
+
+#: community/events.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Events)"
+
+#: community/events.md:block 15 (header)
+msgid "Coolest Tool Award"
+msgstr "سبھ توں ودھیا ٹول ایوارڈ"
+
+#: community/events.md:block 16 (paragraph)
+msgid "This annual award event celebrates volunteer developer contributions."
+msgstr "ایہ سالانہ ایوارڈ ایونٹ رضاکار ݙیویلپرز دیاں شراکتاں دا جشن منیندا ہے۔"
+
+#: community/events.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Coolest_Tool_Award)"
+
+#: community/events.md:block 18 (header)
+msgid "Language community meetings"
+msgstr "زبان کمیونٹی ملاقاتاں"
+
+#: community/events.md:block 19 (paragraph)
+msgid "Discuss language-related technical updates and challenges with Wikimedians from various language communities."
+msgstr "مختلف زبان کمیونٹیاں دے وکیمیڈیئنز نال زبان نال متعلق تکنیکی اپݙیٹس اَتے چیلنجز تے گل بات کرو۔"
+
+#: community/events.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Language_engineering/Community_meetings)"
+
+#: community/grow.md:meta.title community/grow.md:title
+#: community/grow.md:block 1 (header)
+msgid "Learn and share technical skills"
+msgstr "تکنیکی ہنر سکھو اَتے شیئر کرو"
+
+#: community/grow.md:block 3 (header)
+msgid "Outreach and mentoring programs"
+msgstr "آؤٹ ریچ اَتے مینٹرنگ پروگرامز"
+
+#: community/grow.md:block 4 (paragraph)
+msgid "Grow your skills through internships and mentoring programs like Outreachy and Google Summer of Code."
+msgstr "آؤٹ ریچی اَتے Google Summer of Code وانگی انٹرنشپس اَتے مینٹرنگ پروگرامز دے ذریعے تہاݙے ہنر وڌاؤ۔"
+
+#: community/grow.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Outreach_programs)"
+
+#: community/grow.md:block 6 (header) get-started/wikimedia-tech.md:block 6
+#: (header)
+msgid "Videos and tech talks"
+msgstr "ویڈیوز اَتے ٹیک ٹاکس"
+
+#: community/grow.md:block 7 (paragraph) get-started/wikimedia-tech.md:block 7
+#: (paragraph)
+msgid "Learn about Wikimedia technology through recorded presentations from the community."
+msgstr "کمیونٹی دیاں ریکارڈ شدہ پیشکشاں توں وکیمیݙیا ٹیکنالوجی بارے سکھو۔"
+
+#: community/grow.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 8 (unordered list)
+msgid "[Visit the YouTube channel](https://www.youtube.com/user/watchmediawiki/videos)"
+msgstr "[یوٹیوب چینل ݙیکھو](https://www.youtube.com/user/watchmediawiki/videos)"
+
+#: community/grow.md:block 9 (header)
+msgid "Tech ambassadors"
+msgstr "ٹیک ایمبیسیڈرز"
+
+#: community/grow.md:block 10 (paragraph)
+msgid "Volunteer your skills to help Wikimedians resolve technical issues and connect developers with local wikis."
+msgstr "تہاݙے ہنر رضاکارانہ طور تے ݙیو تاکہ وکیمیڈیئنز تکنیکی مسائل حل کر سڳن اَتے ݙیویلپرز کوں مقامی وکیز نال جوڑا جا سڳے۔"
+
+#: community/grow.md:block 11 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Ambassadors)"
+
+#: community/tech-ops.md:meta.title community/tech-ops.md:title
+msgid "Learn about Wikimedia technical operations"
+msgstr "وکیمیݙیا تکنیکی کارروائیاں بارے سکھو۔"
+
+#: community/tech-ops.md:block 1 (header)
+msgid "Wikimedia technical operations"
+msgstr "وکیمیݙیا تکنیکی کارروائیاں"
+
+#: community/tech-ops.md:block 3 (header) get-started/wikimedia-tech.md:block
+#: 9 (header)
+msgid "Cloud tools and services"
+msgstr "کلاؤڈ ٹولز اَتے سروسز"
+
+#: community/tech-ops.md:block 4 (paragraph)
+#: get-started/wikimedia-tech.md:block 10 (paragraph)
+msgid "Learn about shared hosting, data services, and other infrastructure support for technical contributions to Wikimedia projects."
+msgstr "وکیمیݙیا منصوبیاں وچ تکنیکی شراکتاں کیتے مشترکہ ہوسٹنگ، ݙیٹا سروسز، اَتے ٻئی بنیادی ڈھانچے دی مدد بارے سکھو۔"
+
+#: community/tech-ops.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 11 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction)"
+
+#: community/tech-ops.md:block 6 (header)
+msgid "Performance monitoring"
+msgstr "کارکردگی دی نگرانی"
+
+#: community/tech-ops.md:block 7 (paragraph)
+msgid "Monitor the current and past performance of Wikimedia sites."
+msgstr "وکیمیݙیا سائٹس دی موجودہ اَتے پچھلی کارکردگی دی نگرانی کرو۔"
+
+#: community/tech-ops.md:block 8 (unordered list)
+msgid "[Read more](https://performance.wikimedia.org/)"
+msgstr "[ٻیا پڑھو](https://performance.wikimedia.org/)"
+
+#: community/tech-ops.md:block 9 (header)
+msgid "Security policies"
+msgstr "سیکیورٹی پالیسیاں"
+
+#: community/tech-ops.md:block 10 (paragraph)
+msgid "Read security policies for the MediaWiki platform and the Wikimedia Foundation."
+msgstr "MediaWiki پلیٹ فارم اَتے وکیمیݙیا فاؤنڈیشن کیتے سیکیورٹی پالیسیاں پڑھو۔"
+
+#: community/tech-ops.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Security)"
+
+#: community/tech-ops.md:block 12 (header)
+msgid "Software deployments"
+msgstr "سافٹ ویئر ڈیپلائمنٹس"
+
+#: community/tech-ops.md:block 13 (paragraph)
+msgid "Track software deployments to Wikimedia Foundation servers."
+msgstr "وکیمیݙیا فاؤنڈیشن دے سرورز تے سافٹ ویئر ڈیپلائمنٹس دی نگرانی کرو۔"
+
+#: community/tech-ops.md:block 14 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Deployments)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/Deployments)"
+
+#: community/tech-ops.md:block 15 (header)
+msgid "Structured data infrastructure"
+msgstr "ساختیاݙ ݙیٹا بنیادی ڈھانچہ"
+
+#: community/tech-ops.md:block 16 (paragraph)
+msgid "Wikibase is open source software for collaborative knowledge bases and linked open data. Learn about the system architecture of the software behind Wikidata."
+msgstr "Wikibase باہمی تعاون آلیاں نالج بیسز اَتے منسلک اوپن ݙیٹا کیتے اوپن سورس سافٹ ویئر ہے۔ ویکی ݙیٹا دے پِچھوں سافٹ ویئر دے سسٹم آرکیٹیکچر بارے سکھو۔"
+
+#: community/tech-ops.md:block 17 (unordered list)
+msgid "[Read the docs](https://wmde.github.io/wikidata-wikibase-architecture/)"
+msgstr "[دستاویزات پڑھو](https://wmde.github.io/wikidata-wikibase-architecture/)"
+
+#: community/tech-ops.md:block 18 (header)
+msgid "Technical infrastructure"
+msgstr "تکنیکی بنیادی ڈھانچہ"
+
+#: community/tech-ops.md:block 19 (paragraph)
+msgid "Learn about essential Wikimedia infrastructure like networks, data centers, and logging, and browse architecture diagrams."
+msgstr "نیٹ ورکس، ݙیٹا سینٹرز، اَتے لاگنگ وانگی ضروری وکیمیݙیا بنیادی ڈھانچے بارے سکھو، اَتے آرکیٹیکچر ڈایاگرامز ݙیکھو۔"
+
+#: community/tech-ops.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/Wikimedia_infrastructure)"
+
+#: community/tech-ops.md:block 21 (header)
+msgid "Product and Technology Advisory Council"
+msgstr "پروڈکٹ اَتے ٹیکنالوجی ایڈوائزری کونسل"
+
+#: community/tech-ops.md:block 22 (paragraph)
+msgid "Learn about the Technology Council that advises on technical priorities for the Wikimedia movement."
+msgstr "او ٹیکنالوجی کونسل بارے سکھو جو وکیمیݙیا تحریک کیتے تکنیکی ترجیحات تے مشورہ ݙیندی ہے۔"
+
+#: community/tech-ops.md:block 23 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Product_and_Technology_Advisory_Council)"
+
+#: community/updates.md:meta.title community/updates.md:title
+#: community/updates.md:block 1 (header)
+msgid "Get tech project updates"
+msgstr "ٹیک پروجیکٹ اپڈیٹس ڳھنو"
+
+#: community/updates.md:block 3 (header)
+msgid "Tech blog"
+msgstr "ٹیک بلاگ"
+
+#: community/updates.md:block 4 (paragraph)
+msgid "Read blog posts from the Wikimedia technical community."
+msgstr "وکیمیݙیا تکنیکی کمیونٹی دیاں بلاگ پوسٹس پڑھو۔"
+
+#: community/updates.md:block 5 (unordered list)
+msgid "[Visit the tech blog](https://diff.wikimedia.org/category/technology/)"
+msgstr "[ٹیک بلاگ ݙیکھو](https://diff.wikimedia.org/category/technology/)"
+
+#: community/updates.md:block 6 (header)
+msgid "Tech news"
+msgstr "ٹیک خبراں"
+
+#: community/updates.md:block 7 (paragraph)
+msgid "Get weekly summaries of technical topics for Wikimedians."
+msgstr "وکیمیڈینز کیتے تکنیکی موضوعات دے ہفتہ وار خلاصے ڳھنو۔"
+
+#: community/updates.md:block 8 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Latest)"
+
+#: contribute/index.md:meta.title contribute/index.md:title
+msgid "Contribute to Wikimedia open source"
+msgstr "وکیمیݙیا اوپن سورس وچ شراکت کرو"
+
+#: contribute/index.md:block 2 (header)
+msgid "[Learn how contributing works](overview.md)"
+msgstr "[سکھو کہ شراکت کیویں کم کریندی ہے](overview.md)"
+
+#: contribute/index.md:block 3 (paragraph) contribute/overview.md:block 2
+#: (paragraph)
+msgid "Get the basics of how to contribute to MediaWiki and other Wikimedia open source projects."
+msgstr "MediaWiki اَتے ٻئے وکیمیݙیا اوپن سورس منصوبیاں وچ شراکت کرݨ دیاں بنیادی ڳالھیں سکھو۔"
+
+#: contribute/index.md:block 4 (header)
+msgid "[Contribute by topic](by-topic.md)"
+msgstr "[موضوع دے حساب نال شراکت کرو](by-topic.md)"
+
+#: contribute/index.md:block 5 (paragraph) contribute/by-topic.md:block 2
+#: (paragraph)
+msgid "Find ways to contribute, and connect with others with shared interests."
+msgstr "شراکت کرݨ دے طریقے ڳولو، اَتے سانجھیاں دلچسپیاں آلیاں ٻیاں لوکاں نال رابطہ کرو۔"
+
+#: contribute/index.md:block 6 (header)
+msgid "[Contribute by programming language](by-language.md)"
+msgstr "[پروگرامنگ زبان دے حساب نال شراکت کرو](by-language.md)"
+
+#: contribute/index.md:block 7 (paragraph) contribute/by-language.md:block 1
+#: (paragraph)
+msgid "Choose a project to contribute to based on programming language."
+msgstr "پروگرامنگ زبان دی بنیاد تے شراکت کرݨ کیتے ہک منصوبہ چُݨو۔"
+
+#: contribute/index.md:block 8 (header)
+msgid "[Search all projects](search.md)"
+msgstr "[سارے منصوبے ڳولو](search.md)"
+
+#: contribute/index.md:block 9 (paragraph) contribute/search.md:block 2
+#: (paragraph)
+msgid "Search all Wikimedia open source software projects."
+msgstr "وکیمیݙیا دے سارے اوپن سورس سافٹ ویئر منصوبے ڳولو۔"
+
+#: contribute/by-language.md:meta.title contribute/by-language.md:title
+msgid "Contribute by programming language"
+msgstr "پروگرامنگ زبان دے حساب نال شراکت کرو"
+
+#: contribute/by-language.md:block 2 (header)
+#, optional
+msgid "Python"
+msgstr "پیتھوں"
+
+#: contribute/by-language.md:block 6 (header)
+#, optional
+msgid "Scribe-Data"
+msgstr ""
+
+#: contribute/by-language.md:block 7 (paragraph)
+msgid "Scribe-Data is a command-line interface for extracting and formatting language data from Wikidata."
+msgstr "Scribe-Data ویکی ݙیٹا توں زبان دے ݙیٹے ڳھنݨ اَتے اونکوں فارمیٹ کرݨ کیتے کمانڈ لائن انٹرفیس ہے۔"
+
+#: contribute/by-language.md:block 8 (unordered list)
+msgid "[Contribute](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
+msgstr "[شراکت کرو](https://github.com/scribe-org/Scribe-Data/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 8 (unordered list)
+msgid "[Get the source code](https://github.com/scribe-org/Scribe-Data)"
+msgstr "[سورس کوڈ ڳھنو](https://github.com/scribe-org/Scribe-Data)"
+
+#: contribute/by-language.md:block 9 (header)
+#, optional
+msgid "JavaScript"
+msgstr "جاوا  سکرپٹ"
+
+#: contribute/by-language.md:block 10 (header)
+#, optional
+msgid "Codex"
+msgstr "کوڈیکس"
+
+#: contribute/by-language.md:block 11 (paragraph)
+msgid "Codex is a toolkit for building user interfaces within the Wikimedia Design System using Vue."
+msgstr "Codex ہک ٹول کٹ ہے جو Vue ورت تے Wikimedia Design System وچ یوزر انٹرفیس بݨاوݨ کیتے ہے۔"
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Read the docs](https://doc.wikimedia.org/codex/latest)"
+msgstr "[دستاویزات پڑھو](https://doc.wikimedia.org/codex/latest)"
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Contribute](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+msgstr "[شراکت کرو](https://doc.wikimedia.org/codex/latest/contributing/overview.html)"
+
+#: contribute/by-language.md:block 12 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/g/design/codex/)"
+msgstr "[سورس کوڈ ڳھنو](https://gerrit.wikimedia.org/g/design/codex/)"
+
+#: contribute/by-language.md:block 13 (header)
+msgid "SignIt Firefox Extension"
+msgstr "SignIt Firefox Extension"
+
+#: contribute/by-language.md:block 14 (paragraph)
+msgid "A web-browser extension that translates words into sign language videos, so you can learn sign language while reading online."
+msgstr "ہک ویب براؤزر ایکسٹینشن جو الفاظ کوں اشاری زبان دے ویڈیوز وچ تبدیل کریندی ہے، تاں جو تساں آن لائن پڑھدے ہوئے اشاری زبان سکھ سڳو۔"
+
+#: contribute/by-language.md:block 15 (unordered list)
+msgid "[Read the docs](https://meta.wikimedia.org/wiki/SignIt)"
+msgstr "[دستاویزات پڑھو](https://meta.wikimedia.org/wiki/SignIt)"
+
+#: contribute/by-language.md:block 15 (unordered list)
+msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
+msgstr "[شراکت کرو](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
+
+#: contribute/by-language.md:block 15 (unordered list)
+msgid "[Get the source code](https://github.com/lingua-libre/SignIt)"
+msgstr "[سورس کوڈ ڳھنو](https://github.com/lingua-libre/SignIt)"
+
+#: contribute/by-language.md:block 16 (header)
+#, optional
+msgid "VideoCutTool"
+msgstr ""
+
+#: contribute/by-language.md:block 17 (paragraph)
+msgid "A tool to edit videos on Wikimedia Commons, built with React JS and Node JS."
+msgstr "وکیمیݙیا کامنز تے ویڈیوز ایڈٹ کرݨ کیتے ہک ٹول، React JS اَتے Node JS نال بݨایا ڳیا۔"
+
+#: contribute/by-language.md:block 18 (unordered list)
+msgid "[Read the docs](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+msgstr "[دستاویزات پڑھو](https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:VideoCutTool)"
+
+#: contribute/by-language.md:block 18 (unordered list)
+msgid "[Contribute](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
+msgstr "[شراکت کرو](https://wikitech.wikimedia.org/wiki/Nova_Resource:Videocuttool/Installation)"
+
+#: contribute/by-language.md:block 18 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
+msgstr "[سورس کوڈ ڳھنو](https://gitlab.wikimedia.org/cloudvps-repos/videocuttool/VideoCutTool)"
+
+#: contribute/by-language.md:block 19 (header)
+#, optional
+msgid "Java"
+msgstr "جاوا"
+
+#: contribute/by-language.md:block 20 (header)
+msgid "Wikimedia Commons Android app"
+msgstr "وکیمیݙیا کامنز اینڈرائیڈ ایپ"
+
+#: contribute/by-language.md:block 21 (paragraph)
+msgid "The Wikimedia Commons Android app allows users to upload pictures from their device to Wikimedia Commons."
+msgstr "وکیمیݙیا کامنز اینڈرائیڈ ایپ صارفین کوں انہاں دے آلے توں وکیمیݙیا کامنز تے تصویراں اپ لوڈ کرݨ دی اجازت ݙیندی ہے۔"
+
+#: contribute/by-language.md:block 22 (unordered list)
+msgid "[Read the docs](https://commons-app.github.io/)"
+msgstr "[دستاویزات پڑھو](https://commons-app.github.io/)"
+
+#: contribute/by-language.md:block 22 (unordered list)
+msgid "[Contribute](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+msgstr "[شراکت کرو](https://github.com/commons-app/commons-app-documentation/blob/master/android/Volunteers-welcome!.md)"
+
+#: contribute/by-language.md:block 22 (unordered list)
+msgid "[Get the source code](https://github.com/commons-app/apps-android-commons)"
+msgstr "[سورس کوڈ ڳھنو](https://github.com/commons-app/apps-android-commons)"
+
+#: contribute/by-language.md:block 23 (header)
+#, optional
+msgid "Kotlin"
+msgstr "کوٹلِن"
+
+#: contribute/by-language.md:block 24 (header)
+msgid "Kiwix"
+msgstr "کیویکس"
+
+#: contribute/by-language.md:block 25 (paragraph)
+msgid "An offline reader for people without internet access."
+msgstr "انہاں لوکاں کیتے ہک آف لائن ریڈر جنہاں کوں انٹرنیٹ تک رسائی کائنی۔"
+
+#: contribute/by-language.md:block 26 (unordered list)
+msgid "[Read the docs](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
+msgstr "[دستاویزات پڑھو](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
+
+#: contribute/by-language.md:block 26 (unordered list)
+msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
+msgstr "[شراکت کرو](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 26 (unordered list)
+msgid "[Get the source code](https://github.com/kiwix/)"
+msgstr "[سورس کوڈ ڳھنو](https://github.com/kiwix/)"
+
+#: contribute/by-language.md:block 27 (header)
+#, optional
+msgid "Scribe"
+msgstr ""
+
+#: contribute/by-language.md:block 28 (paragraph)
+msgid "Wikidata-based keyboards for second language learners, including translation, verb conjugation and noun-gender annotation."
+msgstr "ویکی ݙیٹا تے مبنی کی بورڈز ݙوجھی زبان سکھݨ آلیاں کیتے، جنہاں وچ ترجمہ، فعل دی گردان اَتے اسم دی جنس دی تشریح شامل ہے۔"
+
+#: contribute/by-language.md:block 29 (unordered list)
+msgid "[Get the source code](https://github.com/scribe-org)"
+msgstr "[سورس کوڈ ڳھنو](https://github.com/scribe-org)"
+
+#: contribute/by-language.md:block 29 (unordered list)
+msgid "[Contribute (Android)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
+msgstr "[شراکت کرو (اینڈرائیڈ)](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 29 (unordered list)
+msgid "[Contribute (iOS)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
+msgstr "[شراکت کرو (آئی او ایس)](https://github.com/scribe-org/Scribe-iOS/blob/main/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 30 (header)
+#, optional
+msgid "Go"
+msgstr ""
+
+#: contribute/by-language.md:block 31 (header)
+#, optional
+msgid "Blubber"
+msgstr ""
+
+#: contribute/by-language.md:block 32 (paragraph)
+msgid "Blubber is an infrastructure tool that configures Docker containers and tests code as part of Wikimedia's continuous integration pipeline."
+msgstr "بلبر ہک بنیادی ڈھانچے دا ٹول ہے جو وکیمیݙیا دے مسلسل انضمام پائپ لائن دے حصے دے طور تے Docker کنٹینرز کوں ترتیب ݙیندا ہے اَتے کوڈ دی جانچ کریندا ہے۔"
+
+#: contribute/by-language.md:block 33 (unordered list)
+msgid "[Read the docs](https://doc.wikimedia.org/releng/blubber/)"
+msgstr "[دستاویزات پڑھو](https://doc.wikimedia.org/releng/blubber/)"
+
+#: contribute/by-language.md:block 33 (unordered list)
+msgid "[Contribute](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
+msgstr "[شراکت کرو](https://doc.wikimedia.org/releng/blubber/CONTRIBUTING.html)"
+
+#: contribute/by-language.md:block 33 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/releng/blubber/)"
+msgstr "[ماخذ کوڈ گھنو](https://gitlab.wikimedia.org/repos/releng/blubber/)"
+
+#: contribute/by-language.md:block 34 (header)
+#, optional
+msgid "PHP"
+msgstr ""
+
+#: contribute/by-language.md:block 35 (header) contribute/by-topic.md:block 3
+#: (header) get-started/wikimedia-tech.md:block 12 (header)
+#, optional
+msgid "MediaWiki"
+msgstr "میڈیا وکی"
+
+#: contribute/by-language.md:block 36 (paragraph) contribute/by-topic.md:block
+#: 4 (paragraph) get-started/wikimedia-tech.md:block 13 (paragraph)
+msgid "MediaWiki is the software that powers Wikipedia, its sister projects, and thousands of wikis all over the world."
+msgstr "MediaWiki او سافٹ ویئر ہے جو ویکیپیڈیا، انہاں دے بھینڑ منصوبیاں، اَتے ساری دنیا وچ ہزاراں ویکیاں کوں چلیندا ہے۔"
+
+#: contribute/by-language.md:block 37 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Visit mediawiki.org](https://www.mediawiki.org/)"
+msgstr "[mediawiki.org ݙیکھو](https://www.mediawiki.org/)"
+
+#: contribute/by-language.md:block 37 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+msgstr "[شراکت کرو](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_become_a_MediaWiki_hacker)"
+
+#: contribute/by-language.md:block 37 (unordered list)
+#: contribute/by-topic.md:block 5 (unordered list)
+#: get-started/wikimedia-tech.md:block 14 (unordered list)
+msgid "[Get the source code](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+msgstr "[سورس کوڈ ڳھنو](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/core)"
+
+#: contribute/by-language.md:block 38 (header)
+#, optional
+msgid "Ruby"
+msgstr ""
+
+#: contribute/by-language.md:block 39 (header)
+msgid "Wiki Education Dashboard"
+msgstr "ویکی ایجوکیشن ڈیش بورڈ"
+
+#: contribute/by-language.md:block 40 (paragraph)
+msgid "The Wiki Education Dashboard is a web application that supports Wikipedia education assignments, edit-a-thons, and other editing projects, built with Ruby on Rails and React."
+msgstr "ویکی ایجوکیشن ڈیش بورڈ ہک ویب ایپلیکیشن ہے جو ویکیپیڈیا تعلیمی اسائنمنٹس، ایڈٹ-اے-تھونز، اَتے ٻئے ایڈٹنگ منصوبیاں دی حمایت کریندا ہے، جو Ruby on Rails اَتے React نال بݨایا ڳیا ہے۔"
+
+#: contribute/by-language.md:block 41 (unordered list)
+msgid "[Visit the dashboard](https://dashboard.wikiedu.org)"
+msgstr "[ڈیش بورڈ ݙیکھو](https://dashboard.wikiedu.org)"
+
+#: contribute/by-language.md:block 41 (unordered list)
+msgid "[Contribute](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+msgstr "[شراکت کرو](https://github.com/WikiEducationFoundation/WikiEduDashboard/blob/master/CONTRIBUTING.md)"
+
+#: contribute/by-language.md:block 41 (unordered list)
+msgid "[Get the source code](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+msgstr "[سورس کوڈ ڳھنو](https://github.com/WikiEducationFoundation/WikiEduDashboard)"
+
+#: contribute/by-language.md:block 42 (header)
+#, optional
+msgid "Rust"
+msgstr ""
+
+#: contribute/by-language.md:block 43 (header)
+#, optional
+msgid "mwbot"
+msgstr ""
+
+#: contribute/by-language.md:block 44 (paragraph)
+msgid "A framework for writing bots and tools in Rust."
+msgstr "Rust وچ بوٹس اَتے ٹولز لکھݨ کیتے ہک فریم ورک۔"
+
+#: contribute/by-language.md:block 45 (unordered list)
+msgid "[Read the docs](https://docs.rs/mwbot/latest/mwbot/)"
+msgstr "[دستاویزات پڑھو](https://docs.rs/mwbot/latest/mwbot/)"
+
+#: contribute/by-language.md:block 45 (unordered list)
+msgid "[Contribute](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+msgstr "[شراکت کرو](https://www.mediawiki.org/wiki/Mwbot-rs#Contributing)"
+
+#: contribute/by-language.md:block 45 (unordered list)
+msgid "[Get the source code](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+msgstr "[سورس کوڈ ڳھنو](https://gitlab.wikimedia.org/repos/mwbot-rs/mwbot)"
+
+#: contribute/by-language.md:block 46 (header)
+#, optional
+msgid "Swift"
+msgstr ""
+
+#: contribute/by-topic.md:meta.title contribute/by-topic.md:title
+#: contribute/by-topic.md:block 1 (header)
+msgid "Contribute by topic"
+msgstr "موضوع دے مطابق شراکت کرو"
+
+#: contribute/by-topic.md:block 6 (header) get-started/wikimedia-tech.md:block
+#: 15 (header)
+msgid "Localization and internationalization"
+msgstr "مقامیت اَتے بین الاقوامیت"
+
+#: contribute/by-topic.md:block 7 (paragraph)
+#: get-started/wikimedia-tech.md:block 16 (paragraph)
+msgid "Write code that can be localized, get your code translated, and contribute to making Wikimedia technology multilingual."
+msgstr "ایسا کوڈ لکھو جیکوں مقامی بݨایا ونڄ سڳے، اپݨے کوڈ دا ترجمہ کراؤ، اَتے وکیمیݙیا ٹیکنالوجی کوں کثیر لسانی بݨاوݨ وچ شراکت کرو۔"
+
+#: contribute/by-topic.md:block 8 (unordered list)
+#: get-started/wikimedia-tech.md:block 17 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation)"
+
+#: contribute/by-topic.md:block 9 (header) get-started/wikimedia-tech.md:block
+#: 18 (header)
+msgid "Mobile apps"
+msgstr "موبائل ایپاں"
+
+#: contribute/by-topic.md:block 10 (paragraph)
+#: get-started/wikimedia-tech.md:block 19 (paragraph)
+msgid "Expand the reach of Wikimedia content by contributing to mobile apps for Wikipedia, Wikimedia Commons, and other projects."
+msgstr "ویکیپیڈیا، وکیمیݙیا کامنز، اَتے ٻئے منصوبیاں کیتے موبائل ایپس وچ شراکت کر تے وکیمیݙیا مواد دی رسائی ودھاؤ۔"
+
+#: contribute/by-topic.md:block 11 (unordered list)
+#: get-started/wikimedia-tech.md:block 20 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Apps)"
+
+#: contribute/by-topic.md:block 12 (header)
+msgid "Documentation"
+msgstr "دستاویزات"
+
+#: contribute/by-topic.md:block 13 (paragraph)
+msgid "Read the documentation style guide, and find good first tasks for improving documentation."
+msgstr "دستاویزات دے اسٹائل گائیڈ کوں پڑھو، اَتے دستاویزات کوں بہتر بݨاوݨ کیتے پہلے چنڳے کم ڳولو۔"
+
+#: contribute/by-topic.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Documentation/Contribute)"
+
+#: contribute/by-topic.md:block 15 (header)
+msgid "Offline reading"
+msgstr "آف لائن پڑھݨ"
+
+#: contribute/by-topic.md:block 16 (paragraph)
+msgid "Expand the reach of the free knowledge by helping people use Wikipedia without internet access."
+msgstr "لوکاں کوں بغیر انٹرنیٹ رسائی دے ویکیپیڈیا ورتݨ وچ مدد کر تے مفت علم دی رسائی ودھاؤ۔"
+
+#: contribute/by-topic.md:block 17 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Offline_Projects)"
+
+#: contribute/by-topic.md:block 18 (header)
+msgid "Infrastructure"
+msgstr "بنیادی ڈھانچہ"
+
+#: contribute/by-topic.md:block 19 (paragraph)
+msgid "Contribute to the infrastructure that powers Wikimedia projects. Help improve the performance and efficiency of Wikimedia servers and software."
+msgstr "وکیمیݙیا منصوبیاں کوں چلاوݨ آلے بنیادی ڈھانچے وچ شراکت کرو۔ وکیمیݙیا سرورز اَتے سافٹ ویئر دی کارکردگی اَتے کارآمدی کوں بہتر بݨاوݨ وچ مدد کرو۔"
+
+#: contribute/by-topic.md:block 20 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Get_involved)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/Get_involved)"
+
+#: contribute/overview.md:meta.title contribute/overview.md:title
+#: contribute/overview.md:block 1 (header)
+msgid "Learn how contributing works"
+msgstr "سکھو کہ شراکت کیویں کم کریندی ہے۔"
+
+#: contribute/overview.md:block 6 (header) get-started/new-dev.md:block 6
+#: (header)
+msgid "Create a developer account"
+msgstr "ہک ݙیویلپر اکاؤنٹ بݨاؤ۔"
+
+#: contribute/overview.md:block 7 (paragraph) get-started/new-dev.md:block 7
+#: (paragraph)
+msgid "Most Wikimedia technical spaces use a developer account to identify and authorize users. Create a free account to get started as a technical contributor."
+msgstr "زیادہ تر وکیمیݙیا تکنیکی جہائیں صارفاں دی شناخت اَتے اختیار ݙیوݨ کیتے ہک ݙیویلپر اکاؤنٹ ورتیندیاں ہن۔ ہک تکنیکی شراکت دار دے طور تے شروعات کرݨ کیتے مفت اکاؤنٹ بݨاؤ۔"
+
+#: contribute/overview.md:block 8 (unordered list)
+#: get-started/new-dev.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Developer_account)"
+
+#: contribute/overview.md:block 9 (header) get-started/new-dev.md:block 3
+#: (header)
+msgid "Find projects and tasks for new contributors"
+msgstr "نویاں شراکت داراں کیتے منصوبے اَتے کم ڳولو"
+
+#: contribute/overview.md:block 10 (paragraph) get-started/new-dev.md:block 4
+#: (paragraph)
+msgid "Choose from open source projects that offer mentoring for new contributors, and find good first tasks."
+msgstr "او اوپن سورس منصوبیاں وچوں چُݨو جو نویاں شراکت داراں کوں مینٹرنگ ݙیندے ہن، اَتے چنڳے پہلے کم ڳولو۔"
+
+#: contribute/overview.md:block 11 (unordered list)
+#: get-started/new-dev.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers)"
+
+#: contribute/overview.md:block 12 (header)
+msgid "Review guidelines and code conventions"
+msgstr "رہنما اصولاں اَتے کوڈ کنونشنز دا جائزہ ڳھنو"
+
+#: contribute/overview.md:block 13 (paragraph)
+msgid "Understand development policies, best practices, and code conventions for Wikimedia software."
+msgstr "وکیمیݙیا سافٹ ویئر کیتے ڈیویلپمنٹ پالیسیاں، چنڳے طریقاں، اَتے کوڈ کنونشنز کوں سمجھو۔"
+
+#: contribute/overview.md:block 14 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Development_guidelines)"
+
+#: contribute/overview.md:block 15 (header)
+msgid "See your contributions"
+msgstr "تہاݙیاں شراکتاں ݙیکھو"
+
+#: contribute/overview.md:block 16 (paragraph)
+msgid "Visualize your contributions across Wikimedia's code review and task tracking tools."
+msgstr "وکیمیݙیا دے کوڈ جائزے اَتے کم ٹریکنگ ٹولز وچ تہاݙیاں شراکتاں کوں بصری طور تے ݙیکھو۔"
+
+#: contribute/overview.md:block 17 (unordered list)
+msgid "[Visit Tech Contribs](https://techcontribs.toolforge.org/)"
+msgstr "[Tech Contribs ݙیکھو](https://techcontribs.toolforge.org/)"
+
+#: contribute/search.md:meta.title contribute/search.md:title
+#: contribute/search.md:block 1 (header)
+msgid "Search all projects"
+msgstr "سارے منصوبے ڳولو"
+
+#: contribute/search.md:block 3 (header) get-help/index.md:block 6 (header)
+msgid "Search codebases"
+msgstr "کوڈ بیسز ڳولو"
+
+#: contribute/search.md:block 4 (paragraph) get-help/index.md:block 7
+#: (paragraph)
+msgid "Search all Wikimedia codebases using the code search tool."
+msgstr "کوڈ سرچ ٹول ورت تے سارے وکیمیݙیا کوڈ بیسز ڳولو۔"
+
+#: contribute/search.md:block 5 (unordered list) get-help/index.md:block 8
+#: (unordered list)
+msgid "[Visit code search](https://codesearch.wmcloud.org/search)"
+msgstr "[کوڈ سرچ ݙیکھو](https://codesearch.wmcloud.org/search)"
+
+#: contribute/search.md:block 6 (header)
+msgid "Browse Wikimedia open source docs"
+msgstr "وکیمیݙیا اوپن سورس دستاویزات ڳولو"
+
+#: contribute/search.md:block 7 (paragraph)
+msgid "Browse auto-generated and related documentation hosted on doc.wikimedia.org."
+msgstr "doc.wikimedia.org تے ہوسٹ کیتیاں ڳئیاں خودکار پیدا شدہ اَتے متعلقہ دستاویزات ڳولو۔"
+
+#: contribute/search.md:block 8 (unordered list)
+msgid "[Browse docs](https://doc.wikimedia.org)"
+msgstr "[دستاویزات ڳولو](https://doc.wikimedia.org)"
+
+#: contribute/search.md:block 9 (header) get-started/browse-languages.md:block
+#: 7 (header)
+msgid "Browse repositories"
+msgstr "ریپوزٹریز ڳولو"
+
+#: contribute/search.md:block 10 (paragraph)
+#: get-started/browse-languages.md:block 8 (paragraph)
+msgid "Explore Wikimedia codebases."
+msgstr "وکیمیݙیا کوڈ بیسز ڳولو۔"
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on Gerrit](https://gerrit.wikimedia.org/g/)"
+msgstr "[Gerrit تے ریپوزٹریز ڳولو](https://gerrit.wikimedia.org/g/)"
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on GitHub](https://github.com/wikimedia)"
+msgstr "[GitHub تے ریپوزٹریز ڳولو](https://github.com/wikimedia)"
+
+#: contribute/search.md:block 11 (unordered list)
+#: get-started/browse-languages.md:block 9 (unordered list)
+msgid "[Browse repositories on GitLab](https://gitlab.wikimedia.org/explore)"
+msgstr "[GitLab تے ریپوزٹریز ڳولو](https://gitlab.wikimedia.org/explore)"
+
+#: contribute/search.md:block 12 (header)
+msgid "Search tools and bots"
+msgstr "ٹولز اَتے بوٹس ڳولو"
+
+#: get-help/index.md:block 2 (paragraph)
+msgid "Because the Wikimedia technical ecosystem is complex and distributed, you can find help and support in many different locations and formats."
+msgstr "دستاویزات ڳولو"
+
+#: get-help/index.md:block 3 (header)
+msgid "Search the docs"
+msgstr "وکیمیݙیا منصوبیاں کیتے تکنیکی معلومات ڳولو۔"
+
+#: get-help/index.md:block 4 (paragraph)
+msgid "Find technical information for Wikimedia projects."
+msgstr "[ویکیاں وچ ڳولو](https://global-search.toolforge.org/)"
+
+#: get-help/index.md:block 5 (unordered list)
+msgid "[Search across wikis](https://global-search.toolforge.org/)"
+msgstr "[ویکیاں وچ ڳولو](https://global-search.toolforge.org/)"
+
+#: get-help/index.md:block 5 (unordered list)
+msgid "[Browse Wikimedia open source docs](https://doc.wikimedia.org/)"
+msgstr "[وکیمیݙیا اوپن سورس دستاویزات ڳولو](https://doc.wikimedia.org/)"
+
+#: get-help/index.md:block 12 (header)
+msgid "Check system status"
+msgstr "سسٹم دی حیثیت چیک کرو"
+
+#: get-help/index.md:block 13 (paragraph)
+msgid "Verify the overall health and performance of the wiki environment, and find out about major outages."
+msgstr "ویکی ماحول دی مجموعی صحت اَتے کارکردگی دی تصدیق کرو، اَتے وݙیاں بندشاں بارے ڄاݨو۔"
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[Visit wikimediastatus.net](https://www.wikimediastatus.net/)"
+msgstr "[wikimediastatus.net ݙیکھو](https://www.wikimediastatus.net/)"
+
+#: get-help/index.md:block 14 (unordered list)
+msgid "[See MediaWiki versions used by Wikimedia wikis](https://versions.toolforge.org/)"
+msgstr "[وکیمیݙیا وکیاں تے ورتے ونڄݨ آلے MediaWiki ورژن ݙیکھو](https://versions.toolforge.org/)"
+
+#: get-help/index.md:block 15 (header)
+msgid "Bugs and feature requests"
+msgstr "بگز اَتے فیچر دیاں درخواستاں"
+
+#: get-help/index.md:block 16 (paragraph)
+msgid "Report bugs and request new features in Wikimedia software."
+msgstr "وکیمیݙیا سافٹ ویئر وچ بگز رپورٹ کرو اَتے نویاں فیچرز دیاں درخواستاں کرو۔"
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Learn how to report a bug](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+msgstr "[بگ رپورٹ کرݨ دا طریقہ سکھو](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_report_a_bug)"
+
+#: get-help/index.md:block 17 (unordered list)
+msgid "[Visit Wikimedia's task tracker](https://phabricator.wikimedia.org)"
+msgstr "[وکیمیݙیا دا ٹاسک ٹریکر ݙیکھو](https://phabricator.wikimedia.org)"
+
+#: get-started/index.md:block 1 (header)
+msgid "[Learn about Wikimedia technology](wikimedia-tech.md)"
+msgstr "[وکیمیݙیا ٹیکنالوجی بارے ڄاݨو](wikimedia-tech.md)"
+
+#: get-started/index.md:block 2 (paragraph)
+msgid "Explore the open source software and technical components behind Wikimedia projects."
+msgstr "وکیمیݙیا منصوبیاں دے پِچھوں اوپن سورس سافٹ ویئر اَتے تکنیکی اجزا ڳولو۔"
+
+#: get-started/index.md:block 3 (header)
+msgid "[Understand the development process](new-dev.md)"
+msgstr "[ترقی دے عمل کوں سمجھو](new-dev.md)"
+
+#: get-started/index.md:block 4 (paragraph)
+msgid "Learn how Wikimedia software projects work and how to make technical contributions."
+msgstr "سکھو کہ وکیمیݙیا سافٹ ویئر منصوبے کیویں کم کریندے ہن اَتے تکنیکی شراکت کیویں کرو۔"
+
+#: get-started/index.md:block 6 (paragraph) get-started/tutorials.md:block 1
+#: (paragraph)
+msgid "Follow coding exercises with step-by-step guidance."
+msgstr "قدم بہ قدم رہنمائی نال کوڈنگ مشقاں دی پیروی کرو۔"
+
+#: get-started/index.md:block 7 (header)
+msgid "[Browse by programming language](browse-languages.md)"
+msgstr "[پروگرامنگ زبان دے حساب نال ڳولو](browse-languages.md)"
+
+#: get-started/index.md:block 8 (paragraph)
+msgid "Find client libraries, example apps, and open source projects in your preferred coding languages."
+msgstr "تہاݙیاں پسندیدہ کوڈنگ زباناں وچ کلائنٹ لائبریریز، مثال ایپس، اَتے اوپن سورس منصوبے ڳولو۔"
+
+#: get-started/browse-languages.md:meta.title
+#: get-started/browse-languages.md:title
+msgid "Browse by programming language"
+msgstr "پروگرامنگ زبان دے حساب نال ڳولو"
+
+#: get-started/browse-languages.md:block 1 (header)
+msgid "API client libraries by language"
+msgstr "زبان دے حساب نال API کلائنٹ لائبریریز"
+
+#: get-started/browse-languages.md:block 4 (header)
+msgid "Open source projects by language"
+msgstr "زبان دے حساب نال اوپن سورس منصوبے"
+
+#: get-started/browse-languages.md:block 5 (paragraph)
+msgid "Find Wikimedia open source projects by programming language, and start contributing code."
+msgstr "وکیمیݙیا دے اوپن سورس منصوبے پروگرامنگ زبان دے حساب نال ڳولو، اَتے کوڈ دی شراکت شروع کرو۔"
+
+#: get-started/browse-languages.md:block 6 (paragraph)
+msgid "[Browse projects](../contribute/by-language.md){ .md-button }"
+msgstr "[منصوبے ڳولو](../contribute/by-language.md){ .md-button }"
+
+#: get-started/new-dev.md:meta.title get-started/new-dev.md:title
+#: get-started/new-dev.md:block 1 (header)
+msgid "Understand the development process"
+msgstr "ترقی دے عمل کوں سمجھو"
+
+#: get-started/new-dev.md:block 2 (paragraph)
+msgid "Learn how to make technical contributions to Wikimedia projects."
+msgstr "سکھو کہ وکیمیݙیا منصوبیاں وچ تکنیکی شراکت کیویں کرو۔"
+
+#: get-started/new-dev.md:block 9 (header)
+msgid "Find tickets, and track projects"
+msgstr "ٹکٹس ڳولو، اَتے منصوبیاں دی نگرانی کرو۔"
+
+#: get-started/new-dev.md:block 10 (paragraph)
+msgid "Wikimedia uses Phabricator for task management and bug reporting. To interact with tasks, create a Phabricator account."
+msgstr "وکیمیݙیا ٹاسک مینجمنٹ اَتے بگ رپورٹنگ کیتے Phabricator ورتیندی ہے۔ ٹاسکس نال گل بات کرݨ کیتے، ہک Phabricator اکاؤنٹ بݨاؤ۔"
+
+#: get-started/new-dev.md:block 11 (unordered list)
+msgid "[Visit Phabricator](https://phabricator.wikimedia.org/)"
+msgstr "[Phabricator ݙیکھو](https://phabricator.wikimedia.org/)"
+
+#: get-started/new-dev.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator/Help)"
+
+#: get-started/new-dev.md:block 15 (header)
+msgid "Learn how to submit code"
+msgstr "کوڈ جمع کرݨ دا طریقہ سکھو"
+
+#: get-started/new-dev.md:block 16 (paragraph)
+msgid "Wikimedia uses Gerrit and GitLab for code review. Before you submit code, get familiar with the tools, processes, and best practices."
+msgstr "وکیمیݙیا کوڈ ریویو کیتے Gerrit اَتے GitLab ورتیندی ہے۔ کوڈ جمع کرݨ توں پہلے، ٹولز، عملاں، اَتے بہترین طریقیاں توں واقف تھیوو۔"
+
+#: get-started/new-dev.md:block 17 (unordered list)
+msgid "[Read more about Gerrit](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+msgstr "[Gerrit بارے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit/Tutorial)"
+
+#: get-started/new-dev.md:block 17 (unordered list)
+msgid "[Read more about GitLab](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
+msgstr "[GitLab بارے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/GitLab)"
+
+#: get-started/tutorials.md:block 2 (header)
+msgid "Tutorials for using content and data"
+msgstr "مواد اَتے ݙیٹا ورتݨ کیتے ٹیوٹوریلز"
+
+#: get-started/tutorials.md:block 3 (paragraph)
+msgid "Learn the basics of using Wikimedia content and data in your project."
+msgstr "تہاݙے منصوبے وچ وکیمیݙیا مواد اَتے ݙیٹا ورتݨ دیاں بنیادی ڳالھیں سکھو۔"
+
+#: get-started/tutorials.md:block 4 (paragraph)
+msgid "[Browse tutorials](../use-content/tutorials.md){ .md-button }"
+msgstr "[ٹیوٹوریلز ڳولو](../use-content/tutorials.md){ .md-button }"
+
+#: get-started/tutorials.md:block 5 (header)
+msgid "Tutorials for building tools and bots"
+msgstr "ٹولز اَتے بوٹس بݨاوݨ کیتے ٹیوٹوریلز"
+
+#: get-started/tutorials.md:block 6 (paragraph)
+msgid "Learn the basics of writing code that interacts with Wikimedia projects."
+msgstr "وکیمیݙیا منصوبیاں نال گل بات کرݨ آلا کوڈ لکھݨ دیاں بنیادی ڳالھیں سکھو۔"
+
+#: get-started/tutorials.md:block 7 (paragraph)
+msgid "[Browse tutorials](../build-tools/tutorials.md){ .md-button }"
+msgstr "[ٹیوٹوریلز ڳولو](../build-tools/tutorials.md){ .md-button }"
+
+#: get-started/wikimedia-tech.md:meta.title
+#: get-started/wikimedia-tech.md:title get-started/wikimedia-tech.md:block 1
+#: (header)
+msgid "Learn about Wikimedia technology"
+msgstr "وکیمیݙیا ٹیکنالوجی بارے سکھو"
+
+#: get-started/wikimedia-tech.md:block 2 (paragraph)
+msgid "Explore core Wikimedia technology and open source projects."
+msgstr "بنیادی وکیمیݙیا ٹیکنالوجی اَتے اوپن سورس منصوبیاں کوں ڳولو۔"
+
+#: get-started/wikimedia-tech.md:block 3 (header)
+msgid "Introduction to Wikimedia technology"
+msgstr "وکیمیݙیا ٹیکنالوجی دا تعارف"
+
+#: get-started/wikimedia-tech.md:block 4 (paragraph)
+msgid "Learn about the main technical areas where developers can contribute."
+msgstr "انہاں مرکزی تکنیکی شعبیاں بارے سکھو جتھے ݙیویلپرز شراکت کر سڳدے ہن۔"
+
+#: get-started/wikimedia-tech.md:block 5 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/New_Developers/Introduction_to_the_Wikimedia_Technical_Ecosystem)"
+
+#: get-started/wikimedia-tech.md:block 21 (header)
+msgid "Wikibase and Wikidata"
+msgstr "Wikibase اَتے ویکی ݙیٹا"
+
+#: get-started/wikimedia-tech.md:block 22 (paragraph)
+msgid "Wikibase is a MediaWiki extension for working with structured data, and it's the software that powers Wikidata."
+msgstr "Wikibase ہک MediaWiki ایکسٹینشن ہے جو سٹرکچرݙ ݙیٹا نال کم کرݨ کیتے ہے، اَتے ایہ او سافٹ ویئر ہے جو ویکی ݙیٹا کوں چلیندے۔"
+
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
+msgid "[Visit wikidata.org](https://www.wikidata.org/)"
+msgstr "[wikidata.org ݙیکھو](https://www.wikidata.org/)"
+
+#: get-started/wikimedia-tech.md:block 23 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikibase)"
+
+#: use-content/index.md:block 2 (header)
+msgid "[Explore featured apps](featured-apps.md)"
+msgstr "[نمایاں ایپس ڳولو](featured-apps.md)"
+
+#: use-content/index.md:block 3 (paragraph) use-content/featured-apps.md:block
+#: 2 (paragraph)
+msgid "See examples of open source apps and data visualizations built with Wikimedia content and data."
+msgstr "وکیمیݙیا مواد اَتے ݙیٹا نال بݨایاں ڳئیاں اوپن سورس ایپس اَتے ݙیٹا ویژولائزیشنز دیاں مثالاں ݙیکھو۔"
+
+#: use-content/index.md:block 5 (paragraph) use-content/tutorials.md:block 2
+#: (paragraph)
+msgid "Follow step-by-step guides to learn the basics of using Wikimedia content and data."
+msgstr "وکیمیݙیا مواد اَتے ݙیٹا ورتݨ دیاں بنیادی ڳالھیں سکھݨ کیتے قدم بہ قدم گائیڈز دی پیروی کرو۔"
+
+#: use-content/index.md:block 6 (header)
+msgid "[Use wiki content](content.md)"
+msgstr "[ویکی مواد ورتو](content.md)"
+
+#: use-content/index.md:block 7 (paragraph) use-content/content.md:block 2
+#: (paragraph)
+msgid "Find open source libraries, get started using the API, or download content in bulk."
+msgstr "اوپن سورس لائبریریز ڳولو، API ورتݨ دی شروعات کرو، یا مواد وݙی مقدار وچ ڈاؤنلوڈ کرو۔"
+
+#: use-content/index.md:block 8 (header)
+msgid "[Access open data](data.md)"
+msgstr "[اوپن ݙیٹا تک رسائی](data.md)"
+
+#: use-content/index.md:block 9 (paragraph) use-content/data.md:block 2
+#: (paragraph)
+msgid "Explore public data that you can use in research and machine learning."
+msgstr "او عوامی ݙیٹا ڳولو جیڑھا تساں تحقیق اَتے مشین لرننگ وچ ورت سگھدے ہو۔"
+
+#: use-content/index.md:block 10 (header)
+msgid "[High-volume and commercial access](bot-traffic.md)"
+msgstr "[زیادہ مقدار اَتے تجارتی رسائی](bot-traffic.md)"
+
+#: use-content/index.md:block 11 (paragraph)
+msgid "Review policies and options for sustainable access to Wikimedia infrastructure."
+msgstr "وکیمیݙیا بنیادی ڈھانچے تک پائیدار رسائی کیتے پالیسیاں اَتے اختیارات دا جائزہ گھنو۔"
+
+#: use-content/bot-traffic.md:meta.title use-content/bot-traffic.md:title
+#: use-content/bot-traffic.md:block 1 (header)
+msgid "High-volume and commercial access"
+msgstr "زیادہ مقدار اَتے تجارتی رسائی"
+
+#: use-content/bot-traffic.md:block 2 (paragraph)
+msgid "High-volume, commercial, and bot access to Wikimedia infrastructure must comply with the following policies to avoid harming Wikipedia and other Wikimedia projects. To prevent your access from being restricted, ensure that you follow these policies."
+msgstr "وکیمیݙیا بنیادی ڈھانچے تک زیادہ مقدار، تجارتی، اَتے بوٹ رسائی کوں ہیٹھ ݙتیاں پالیسیاں دی پابندی کرݨی پوسے تاکہ ویکیپیڈیا اَتے ٻئے وکیمیݙیا منصوبیاں کوں نقصان نہ پہنچے۔ تہاݙی رسائی محدود تھیوݨ توں بچاوݨ کیتے، یقینی بݨاؤ جو تساں انہاں پالیسیاں دی پیروی کریندے ہو۔"
+
+#: use-content/bot-traffic.md:block 3 (header)
+msgid "Review the terms of use"
+msgstr "استعمال دیاں شرائط دا جائزہ گھنو۔"
+
+#: use-content/bot-traffic.md:block 4 (paragraph)
+msgid "Learn about the services that the Wikimedia Foundation provides and how you can comply with the terms of use."
+msgstr "او خدمات دے بارے وچ ڄاݨو جو وکیمیݙیا فاؤنڈیشن فراہم کریندی ہے اَتے تساں استعمال دیاں شرائط دی پابندی کِویں کر سگھدے ہو۔"
+
+#: use-content/bot-traffic.md:block 5 (unordered list)
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
+msgstr "[وکیمیݙیا فاؤنڈیشن گورننس ویکی تے ٻیا پڑھو](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use)"
+
+#: use-content/bot-traffic.md:block 6 (header)
+msgid "Review the API policy"
+msgstr "API پالیسی دا جائزہ گھنو۔"
+
+#: use-content/bot-traffic.md:block 7 (paragraph)
+msgid "Learn how to use Wikimedia APIs responsibly and prevent access restrictions."
+msgstr "وکیمیݙیا APIs کوں ذمہ داری نال ورتݨ سکھو اَتے رسائی دیاں پابندیاں توں بچو۔"
+
+#: use-content/bot-traffic.md:block 8 (unordered list)
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
+msgstr "[وکیمیݙیا فاؤنڈیشن گورننس ویکی تے ٻیا پڑھو](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Foundation_API_Usage_Guidelines)"
+
+#: use-content/bot-traffic.md:block 9 (header) use-content/content.md:block 18
+#: (header)
+msgid "Get services for enterprise"
+msgstr "انٹرپرائز کیتے خدمات ڳھنو"
+
+#: use-content/bot-traffic.md:block 10 (paragraph)
+#: use-content/content.md:block 19 (paragraph)
+msgid "Wikimedia Enterprise provides a suite of APIs and services designed for high-volume, commercial access to Wikimedia content and data."
+msgstr "وکیمیݙیا انٹرپرائز APIs اَتے خدمات دا ہک مجموعہ فراہم کریندا ہے جو وکیمیݙیا مواد اَتے ݙیٹا تک زیادہ مقدار، تجارتی رسائی کیتے تیار کیتا ڳیا ہے۔"
+
+#: use-content/bot-traffic.md:block 11 (unordered list)
+#: use-content/content.md:block 20 (unordered list)
+msgid "[Read more on Wikimedia Enterprise](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
+msgstr "[وکیمیݙیا انٹرپرائز تے ٻیا پڑھو](https://enterprise.wikimedia.com/?utm_source=wmfdev)"
+
+#: use-content/bot-traffic.md:block 12 (header)
+msgid "Partner with us"
+msgstr "ساݙے نال شراکت کرو"
+
+#: use-content/bot-traffic.md:block 13 (paragraph)
+msgid "Contact the Wikimedia Foundation to explore options for technical partnerships."
+msgstr "تکنیکی شراکتاں کیتے اختیارات ڳولݨ کیتے وکیمیݙیا فاؤنڈیشن نال رابطہ کرو۔"
+
+#: use-content/bot-traffic.md:block 14 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/Technical_partnerships)"
+
+#: use-content/bot-traffic.md:block 16 (paragraph)
+msgid "Ask questions about bot traffic and high-volume access."
+msgstr "بوٹ ٹریفک اَتے زیادہ مقدار رسائی دے بارے وچ سوال پچھو۔"
+
+#: use-content/bot-traffic.md:block 17 (unordered list)
+msgid "[Read more on Wikitech](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
+msgstr "[ویکی ٹیک تے ٻیا پڑھو](https://wikitech.wikimedia.org/wiki/Bot_traffic)"
+
+#: use-content/content.md:meta.title use-content/content.md:title
+#: use-content/content.md:block 1 (header)
+msgid "Use wiki content"
+msgstr "ویکی مواد ورتو"
+
+#: use-content/content.md:block 3 (header)
+msgid "Introduction to Wikimedia projects"
+msgstr "وکیمیݙیا منصوبیاں دا تعارف"
+
+#: use-content/content.md:block 4 (paragraph)
+msgid "Wikimedia content is organized by project and language. Each project hosts a different type of free content, like encyclopedia articles on Wikipedia, media files on Wikimedia Commons, and structured data on Wikidata."
+msgstr "وکیمیݙیا مواد منصوبے اَتے زبان دے حساب نال منظم ہے۔ ہر منصوبہ وکھری قسم دا مفت مواد رکھدا ہے، جیویں ویکیپیڈیا تے انسائیکلوپیڈیا مضامین، وکیمیݙیا کامنز تے میڈیا فائلاں، اَتے ویکی ݙیٹا تے سٹرکچرݙ ݙیٹا۔"
+
+#: use-content/content.md:block 5 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects)"
+
+#: use-content/content.md:block 6 (header)
+msgid "Review the terms and conditions"
+msgstr "شرائط اَتے ضوابط دا جائزہ ڳھنو"
+
+#: use-content/content.md:block 7 (paragraph)
+msgid "Most Wikimedia content is licensed under a Creative Commons license that allows free reuse with attribution. You can check the bottom of any wiki page to find the applicable license."
+msgstr "وکیمیݙیا دے زیادہ تر مواد کوں ہک Creative Commons لائسنس دے تحت لائسنس ݙتا ڳیا ہے جو انتساب نال مفت دوبارہ ورتݨ دی اجازت ݙیندا ہے۔ تساں کہیں وی ویکی صفحے دے تھلے ݙیکھ تے لاڳو لائسنس لبھ سڳدے ہو۔"
+
+#: use-content/content.md:block 8 (unordered list)
+msgid "[Read more on the Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
+msgstr "[وکیمیݙیا فاؤنڈیشن گورننس ویکی تے ٻیا پڑھو](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Developer_app_guidelines)"
+
+#: use-content/data.md:meta.title use-content/data.md:title
+#: use-content/data.md:block 1 (header)
+msgid "Access open data"
+msgstr "اوپن ݙیٹا تک رسائی حاصل کرو"
+
+#: use-content/data.md:block 3 (header)
+msgid "Use Wikimedia open data"
+msgstr "وکیمیݙیا اوپن ݙیٹا ورتو"
+
+#: use-content/data.md:block 4 (paragraph)
+msgid "Access publicly-available, open-licensed data about Wikimedia projects, including bulk downloads, streams of recent changes, and page statistics."
+msgstr "وکیمیݙیا منصوبیاں دے بارے وچ عوامی طور تے دستیاب، اوپن لائسنس آلے ݙیٹا تک رسائی حاصل کرو، جنہاں وچ بلک ڈاؤن لوڈز، حالیہ تبدیلیاں دے سٹریمز، اَتے صفحہ اعداد و شمار شامل ہن۔"
+
+#: use-content/data.md:block 5 (unordered list)
+msgid "[Read more on Meta-Wiki](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+msgstr "[میٹا ویکی تے ٻیا پڑھو](https://meta.wikimedia.org/wiki/Special:MyLanguage/Research:Data)"
+
+#: use-content/data.md:block 6 (header)
+msgid "Explore structured data with Wikidata"
+msgstr "ویکی ݙیٹا نال سٹرکچرݙ ݙیٹا ڳولو"
+
+#: use-content/data.md:block 7 (paragraph)
+msgid "Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Learn how to access data from Wikidata, and follow best practices for reusing it."
+msgstr "ویکی ݙیٹا ہک مفت اَتے کھلا علمی اݙا ہے جیکوں انسان اَتے مشیناں ݙوہیں پڑھ سڳدن اَتے ایڈٹ کر سڳدن۔"
+
+#: use-content/data.md:block 8 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
+msgstr "[ویکی ݙیٹا تے ٻیا پڑھو](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
+
+#: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
+#: use-content/featured-apps.md:block 1 (header)
+msgid "Explore featured apps"
+msgstr "نمایاں ایپس ڳولو"
+
+#: use-content/featured-apps.md:block 3 (header)
+msgid "App gallery"
+msgstr "ایپ گیلری"
+
+#: use-content/featured-apps.md:block 4 (paragraph)
+msgid "Browse example apps that demonstrate best practices for using Wikimedia APIs, including fetching wiki content, logging in, and editing pages."
+msgstr "نمونہ ایپس ݙیکھو جو وکیمیݙیا APIs ورتݨ کیتے بہترین طریقے ݙکھیندیاں ہن، جنہاں وچ ویکی مواد ڳھنݨ، لاگ اِن کرݨ، اَتے صفحے ایڈٹ کرݨ شامل ہن۔"
+
+#: use-content/featured-apps.md:block 5 (unordered list)
+msgid "[Visit the gallery](https://apps-gallery.toolforge.org)"
+msgstr "[گیلری ݙیکھو](https://apps-gallery.toolforge.org)"
+
+#: use-content/featured-apps.md:block 6 (header)
+msgid "Wikipedia visualizations"
+msgstr "ویکیپیڈیا ویژوئلائزیشنز"
+
+#: use-content/featured-apps.md:block 7 (paragraph)
+msgid "“See, also” is a gallery of apps that visualize data from Wikipedia. Check out the gallery to get inspired and learn about available data and APIs."
+msgstr "\"See, also\" ایپس دی ہک گیلری ہے جو ویکیپیڈیا توں ݙیٹا کوں وژوئلائز کریندیاں ہن۔ متاثر تھیوݨ اَتے دستیاب ݙیٹا اَتے APIs دے بارے وچ سکھݨ کیتے گیلری ݙیکھو۔"
+
+#: use-content/featured-apps.md:block 8 (unordered list)
+msgid "[Visit the gallery](https://seealso.org/)"
+msgstr "[گیلری ݙیکھو](https://seealso.org/)"
+
+#: use-content/featured-apps.md:block 9 (header)
+msgid "Wikidata visualizations"
+msgstr "ویکی ݙیٹا ویژوئلائزیشنز"
+
+#: use-content/featured-apps.md:block 10 (paragraph)
+msgid "Wikidata is a machine-readable knowledge base with millions of items. Browse this list of visualizations to get inspired and see open source examples of how to reuse Wikidata."
+msgstr "ویکی ݙیٹا ہک مشین ولوں پڑھی ونڄݨ آلا علمی اݙا ہے جس وچ لکھاں آئٹمز ہن۔ متاثر تھیوݨ اَتے ویکی ݙیٹا کوں دوبارہ ورتݨ دیاں اوپن سورس مثالاں ݙیکھݨ کیتے ویژوئلائزیشنز دی ایہ فہرست ݙیکھو۔"
+
+#: use-content/featured-apps.md:block 11 (unordered list)
+msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+msgstr "[ویکی ݙیٹا تے ٻیا پڑھو](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Tools/Visualize_data)"
+
+#: use-content/tutorials.md:block 6 (header)
+msgid "Display information from Wikidata"
+msgstr "ویکی ݙیٹا توں معلومات ݙکھاؤ"
+
+#: use-content/tutorials.md:block 7 (paragraph)
+msgid "Use the MediaWiki API to fetch and display information from Wikidata. Learn how Wikipedia articles are associated with Wikidata and how to parse Wikidata structures."
+msgstr "ویکی ݙیٹا توں معلومات ڳھنݨ اَتے ݙکھاوݨ کیتے MediaWiki API ورتو۔ سکھو جو ویکیپیڈیا مضامین ویکی ݙیٹا نال کیویں جڑے ہن اَتے ویکی ݙیٹا دے سٹرکچرز کوں کیویں پارز کرو۔"
+
+#: use-content/tutorials.md:block 8 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Presenting_Wikidata_knowledge)"
+
+#: use-content/tutorials.md:block 9 (header)
+msgid "Display the picture of the day"
+msgstr "ݙینہ دی تصویر ݙکھاؤ"
+
+#: use-content/tutorials.md:block 10 (paragraph)
+msgid "Learn how to use the MediaWiki API to fetch the daily featured picture from Wikipedia. This tutorial uses Python and the Flask framework."
+msgstr "ویکیپیڈیا توں روزانہ نمایاں تصویر ڳھنݨ کیتے MediaWiki API ورتݨ سکھو۔ ایہ ٹیوٹوریل Python اَتے Flask فریم ورک ورتیندے۔"
+
+#: use-content/tutorials.md:block 11 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Picture_of_the_day_viewer)"
+
+#: use-content/tutorials.md:block 15 (header)
+msgid "Get started querying Wikidata"
+msgstr "ویکی ݙیٹا تے کوئری کرݨا شروع کرو"
+
+#: use-content/tutorials.md:block 16 (paragraph)
+msgid "Learn how to query Wikidata with SPARQL. This tutorial covers the basics of Wikidata and how to use the Wikidata Query Service."
+msgstr "ویکی ݙیٹا کوں SPARQL نال کوئری کرݨ سکھو۔ ایہ ٹیوٹوریل ویکی ݙیٹا دیاں بنیادی ڳالھیں اَتے ویکی ݙیٹا کوئری سروس ورتݨ دا طریقہ ݙسیندے۔"
+
+#: use-content/tutorials.md:block 17 (unordered list)
+msgid "[Read more](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
+msgstr "[ٻیا پڑھو](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
+
+#: use-content/tutorials.md:block 18 (header)
+msgid "Search articles by location"
+msgstr "مقام دے حساب نال مضامین ڳولو"
+
+#: use-content/tutorials.md:block 19 (paragraph)
+msgid "Learn how to use the MediaWiki API to search for Wikipedia articles near a specific location. This tutorial uses JavaScript, Python, and the Flask framework."
+msgstr "ہک خاص مقام دے نیڑے ویکیپیڈیا مضامین ڳولݨ کیتے MediaWiki API ورتݨ سکھو۔ ایہ ٹیوٹوریل JavaScript، Python، اَتے Flask فریم ورک ورتیندے۔"
+
+#: use-content/tutorials.md:block 20 (unordered list)
+msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+msgstr "[mediawiki.org تے ٻیا پڑھو](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Nearby_places_viewer)"
+
