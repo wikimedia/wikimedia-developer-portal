@@ -25,7 +25,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2026-10-15 12:05:12+0000\n"
+"PO-Revision-Date: 2026-10-22 12:05:21+0000\n"
 "X-POT-Import-Date: 2026-09-18 16:05:18+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -570,7 +570,7 @@ msgstr "Prehliadajte zoznam vývojárov a tímov, ktorí spravujú základné ko
 
 #: community/communicate.md:block 11 (unordered list)
 msgid "[Read more on mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Production/Service_Catalog)"
-msgstr ""
+msgstr "[Prečítajte si viac na mediawiki.org](https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Production/Service_Catalog)"
 
 #: community/events.md:meta.title community/events.md:title
 #: community/events.md:block 1 (header)
@@ -803,7 +803,7 @@ msgstr "Čítajte blogové príspevky z technickej komunity Wikimedia."
 
 #: community/updates.md:block 5 (unordered list)
 msgid "[Visit the tech blog](https://diff.wikimedia.org/category/technology/)"
-msgstr ""
+msgstr "[Navštívte technický blog](https://diff.wikimedia.org/category/technology/)"
 
 #: community/updates.md:block 6 (header)
 msgid "Tech news"
@@ -919,7 +919,7 @@ msgstr "Rozšírenie webového prehliadača, ktoré prekladá slová na videá v
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Read the docs](https://meta.wikimedia.org/wiki/SignIt)"
-msgstr ""
+msgstr "[Prečítajte si dokumentáciu](https://meta.wikimedia.org/wiki/SignIt)"
 
 #: contribute/by-language.md:block 15 (unordered list)
 msgid "[Contribute](https://github.com/lingua-libre/SignIt/blob/master/README.md)"
@@ -990,7 +990,7 @@ msgstr "Offline čítačka pre ľudí bez prístupu na internet."
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Read the docs](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
-msgstr ""
+msgstr "[Prečítajte si dokumentáciu](https://get.kiwix.org/en/solutions/applications/kiwix-reader/)"
 
 #: contribute/by-language.md:block 26 (unordered list)
 msgid "[Contribute](https://github.com/kiwix/overview/blob/main/CONTRIBUTING.md)"
@@ -1696,7 +1696,7 @@ msgstr "Wikidáta sú slobodná a otvorená databáza poznatkov, ktorú môžu �
 
 #: use-content/data.md:block 8 (unordered list)
 msgid "[Read more on Wikidata](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
-msgstr ""
+msgstr "[Prečítajte si viac na Wikidátach](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:For_developers)"
 
 #: use-content/featured-apps.md:meta.title use-content/featured-apps.md:title
 #: use-content/featured-apps.md:block 1 (header)
@@ -1773,7 +1773,7 @@ msgstr "Naučte sa dotazovať Wikidáta pomocou jazyka SPARQL. Tento návod sa v
 
 #: use-content/tutorials.md:block 17 (unordered list)
 msgid "[Read more](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
-msgstr ""
+msgstr "[Prečítajte si viac](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service)"
 
 #: use-content/tutorials.md:block 18 (header)
 msgid "Search articles by location"
